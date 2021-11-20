@@ -1,6 +1,5 @@
 _OakText6::
-	text "Now, what did you"
-	line "say your name was?"
+	text "Name?"
 	prompt
 
 _OakText7::
@@ -34,15 +33,14 @@ _ClockTimeMayBeWrongText::
 	prompt
 
 _ClockSetWithControlPadText::
-	text "Set with the"
-	line "Control Pad."
+	text "What is the time?"
 
 	para "Confirm: A Button"
 	line "Cancel:  B Button"
 	done
 
 _ClockIsThisOKText::
-	text "Is this OK?"
+	text "Is that the time?"
 	done
 
 _ClockHasResetText::

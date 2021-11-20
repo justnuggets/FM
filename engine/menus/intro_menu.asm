@@ -30,11 +30,11 @@ PrintDayOfWeek:
 .Days:
 	db "SUN@"
 	db "MON@"
-	db "TUE@"
-	db "WED@"
-	db "THU@"
+	db "TUES@"
+	db "WEDNES@"
+	db "THURS@"
 	db "FRI@"
-	db "SAT@"
+	db "SATUR@"
 
 .Day:
 	db "DAY@"
@@ -633,18 +633,24 @@ Continue_DisplayGameTime:
 	jp PrintNum
 
 OakSpeech:
-	farcall InitClock
-	call RotateFourPalettesLeft
-	call ClearTilemap
+	farcall RestartClock
 
 	ld de, MUSIC_ROUTE_30
 	call PlayMusic
-
-	call RotateFourPalettesRight
+	
 	call RotateThreePalettesRight
-
 	call ClearTilemap
+	
+	xor a
+	ld [wCurPartySpecies], a
+	farcall DrawIntroPlayerPic
 
+	;name player
+	ld b, SCGB_TRAINER_OR_MON_FRONTPIC_PALS
+	call GetSGBLayout	
+	call Intro_RotatePalettesLeftFrontpic
+	ld hl, OakText6
+	call PrintText
 	call NamePlayer
 
 	ret
