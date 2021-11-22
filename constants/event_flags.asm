@@ -1043,7 +1043,9 @@
 	const EVENT_BEAT_SAGE_MASA
 	const EVENT_BEAT_SAGE_KOJI
 ; Unused: next 116 events
-
+	const EVENT_SUBJECT_POKEBALL
+	const EVENT_SUBTEST_ITEM1
+	const EVENT_SUBTEST_ITEM2
 	const_next 1600
 ; Sprite visibility flags
 ; When these events are cleared, the sprite becomes visible; when set, the sprite is hidden.

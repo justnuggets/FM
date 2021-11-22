@@ -1,7 +1,7 @@
 	object_const_def
-;	const SUBTEST_POKE_BALL
-;	const SUBTEST_ITEM_BALL1
-;	const SUBTEST_ITEM_BALL2
+	const SUBTEST_POKE_BALL
+	const SUBTEST_ITEM_BALL1
+	const SUBTEST_ITEM_BALL2
 	
 SubTest_MapScripts:
 	def_scene_scripts
@@ -19,7 +19,7 @@ SubTestItem2Script:
 	itemball TM_DIG ;RARE_CANDY, 99
 	
 SubPokeBallScript:
-;	disappear SUBTEST_POKE_BALL
+	disappear SUBTEST_POKE_BALL
 	opentext
 	writetext ReceivedText
 	playsound SFX_CAUGHT_MON
@@ -50,6 +50,6 @@ SubTest_MapEvents:
 	def_bg_events
 	
 	def_object_events
-;	object_event  4,  6, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, SubPokeBallScript, EVENT_SUBJECT_POKEBALL
-;   object_event  4,  5, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, SubTestItem1Script, EVENT_SUBTEST_ITEM1
-;    object_event  4,  4, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, SubTestItem2Script, EVENT_SUBTEST_ITEM2
+	object_event  4,  6, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, SubPokeBallScript, EVENT_SUBJECT_POKEBALL
+	object_event  4,  5, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, SubTestItem1Script, EVENT_SUBTEST_ITEM1
+    object_event  4,  4, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, SubTestItem2Script, EVENT_SUBTEST_ITEM2
