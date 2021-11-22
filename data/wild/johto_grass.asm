@@ -1709,5 +1709,33 @@ JohtoGrassWildMons:
 	db 44, GOLBAT
 	db 44, GOLBAT
 	end_grass_wildmons
+	
+	def_grass_wildmons SUBTEST
+	db 50 percent, 100 percent, 50 percent ; encounter rates: morn/day/nite
+	; morn
+	db 3, OMASTAR
+	db 4, OMASTAR
+	db 5, OMASTAR
+	db 3, OMASTAR
+	db 6, OMASTAR
+	db 5, OMASTAR
+	db 5, OMASTAR
+	; day
+	db 7, OMASTAR
+	db 7, OMASTAR
+    db 7, OMASTAR
+    db 7, MEW
+	db 7, MEW
+	db 7, MEW
+	db 7, CHANSEY
+	; nite
+	db 3, OMASTAR
+	db 4, OMASTAR
+	db 5, OMASTAR
+	db 3, OMASTAR
+	db 6, OMASTAR
+	db 5, OMASTAR
+	db 5, OMASTAR
+	end_grass_wildmons
 
 	db -1 ; end

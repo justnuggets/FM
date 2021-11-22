@@ -1045,3 +1045,6 @@ BetaBlank_Blocks: ; unreferenced
 
 GoldenrodDeptStoreRoof_Blocks:
 	INCBIN "maps/GoldenrodDeptStoreRoof.blk"
+
+SubTest_Blocks:
+	INCBIN "maps/SubTest.blk"
