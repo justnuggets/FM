@@ -799,7 +799,7 @@ NUM_ANIM_BGS EQU const_value - 1
 	const ANIM_GFX_REFLECT
 	const ANIM_GFX_STATUS
 	const ANIM_GFX_SAND
-	const ANIM_GFX_WEB
+	const ANIM_GFX_WEB ; replace with dice
 	const ANIM_GFX_HAZE
 	const ANIM_GFX_HORN
 	const ANIM_GFX_FLOWER
