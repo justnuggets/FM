@@ -1042,7 +1042,7 @@
 	const EVENT_BEAT_SAGE_GAKU
 	const EVENT_BEAT_SAGE_MASA
 	const EVENT_BEAT_SAGE_KOJI
-; Unused: next 116 events
+; Unused: next 116 events ;113 remain
 	const EVENT_SUBJECT_POKEBALL
 	const EVENT_SUBTEST_ITEM1
 	const EVENT_SUBTEST_ITEM2

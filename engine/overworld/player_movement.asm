@@ -275,6 +275,8 @@ DoPlayerMovement::
 	jr nc, .ice
 
 ; Downhill riding is slower when not moving down.
+	call .RunCheck   ;running shoes
+	jr z, .fast
 	call .BikeCheck
 	jr nz, .walk
 
@@ -333,6 +335,8 @@ DoPlayerMovement::
 	and a
 	jr nz, .ExitWater
 
+	call .SkimCheck  ; fast skim surf
+	jr z, .fast
 	ld a, STEP_WALK
 	call .DoStep
 	scf
@@ -730,12 +734,32 @@ ENDM
 	scf
 	ret
 
+.RunCheck:
+;running shoes addition
+	ld a, [wPlayerState]
+	cp PLAYER_NORMAL
+	ret nz
+	ldh a, [hJoypadDown]
+	and B_BUTTON
+	cp B_BUTTON
+	ret
+
 .BikeCheck:
 	ld a, [wPlayerState]
 	cp PLAYER_BIKE
 	ret z
 	cp PLAYER_SKATE
 	ret
+
+;fast skim surf addition
+.SkimCheck:
+	ld a, [wPlayerState]
+	cp PLAYER_SURF
+	ret nz
+	ldh a, [hJoypadDown]
+	and B_BUTTON
+	cp B_BUTTON
+	ret	
 
 .CheckWalkable:
 ; Return 0 if tile a is land. Otherwise, return carry.

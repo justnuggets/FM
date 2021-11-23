@@ -1898,10 +1898,10 @@ OmastarEvosAttacks:
 KabutoEvosAttacks:
 	db EVOLVE_LEVEL, 40, KABUTOPS
 	db 0 ; no more evolutions
-	db 1, SCRATCH
-	db 1, HARDEN
-	db 10, ABSORB
-	db 19, LEER
+	db 1, ROCK_SMASH
+	db 1, POISON_STING
+	db 10, SURF
+	db 10, METAL_CLAW
 	db 28, SAND_ATTACK
 	db 37, ENDURE
 	db 46, MEGA_DRAIN
