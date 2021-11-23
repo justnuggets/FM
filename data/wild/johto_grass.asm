@@ -1729,13 +1729,13 @@ JohtoGrassWildMons:
 	db 7, MACHAMP
 	db 7, CHANSEY
 	; nite
-	db 3, PILOSWINE
-	db 3, PILOSWINE
-	db 3, PILOSWINE
-	db 3, PILOSWINE
-	db 3, PILOSWINE
-	db 3, PILOSWINE
-	db 3, PILOSWINE
+	db 5, PORYGON2
+	db 5, PORYGON2
+	db 5, PORYGON2
+	db 5, PORYGON2
+	db 5, PORYGON2
+	db 5, PORYGON2
+	db 5, PORYGON2
 	end_grass_wildmons
 
 	db -1 ; end

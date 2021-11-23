@@ -33,6 +33,7 @@ SPECIAL EQU const_value
 	const DRAGON
 	const GHOST
 	const FAIRY
+	const CYBER
 TYPES_END EQU const_value
 
 NUM_TYPES EQU TYPES_END + UNUSED_TYPES - UNUSED_TYPES_END - 1 ; discount BIRD

@@ -1898,10 +1898,10 @@ OmastarEvosAttacks:
 KabutoEvosAttacks:
 	db EVOLVE_LEVEL, 40, KABUTOPS
 	db 0 ; no more evolutions
-	db 1, EARTHQUAKE
-	db 1, DRILL_PECK	
-	db 10, WATERFALL
-	db 10, ICE_BEAM
+	db 1, VICEGRIP
+	db 1, SHADOW_BALL	
+	db 10, DIZZY_PUNCH
+	db 10, METAL_CLAW
 	db 28, SAND_ATTACK
 	db 37, ENDURE
 	db 46, MEGA_DRAIN
