@@ -1723,19 +1723,19 @@ JohtoGrassWildMons:
 	; day
 	db 7, GRANBULL
 	db 7, GRANBULL
-    db 7, GRANBULL
-    db 7, MEW
-	db 7, MEW
-	db 7, MEW
+    db 7, ARBOK
+    db 7, ARBOK
+	db 7, MACHAMP
+	db 7, MACHAMP
 	db 7, CHANSEY
 	; nite
-	db 3, GRANBULL
-	db 4, GRANBULL
-	db 5, GRANBULL
-	db 3, GRANBULL
-	db 6, GRANBULL
-	db 5, GRANBULL
-	db 5, GRANBULL
+	db 3, PILOSWINE
+	db 3, PILOSWINE
+	db 3, PILOSWINE
+	db 3, PILOSWINE
+	db 3, PILOSWINE
+	db 3, PILOSWINE
+	db 3, PILOSWINE
 	end_grass_wildmons
 
 	db -1 ; end
