@@ -201,9 +201,9 @@ Sfx_Unknown60:
 	channel_count 1
 	channel 8, Sfx_Unknown60_Ch8
 
-Sfx_Unknown61:
+Sfx_Footstep:							;was Sfx_Unknown61
 	channel_count 1
-	channel 8, Sfx_Unknown61_Ch8
+	channel 8, Sfx_Footstep_Ch8
 
 Sfx_SwitchPockets:
 	channel_count 1
@@ -4901,8 +4901,15 @@ Sfx_IntroWhoosh_Ch8:
 	noise_note 15, 9, 4, 34
 	sound_ret
 
-Sfx_Unknown61_Ch8:
-	noise_note 4, 13, 1, 65
+Sfx_Footstep_Ch8:
+	;noise_note 8, 4, 1, 51 ;running last note
+	noise_note 2, 8, 1, 108
+	;noise_note 2, 4, 1, 108
+	;noise_note 2, 4, -4, 50
+	;noise_note 2, 4, -1, 70
+	;          __, vol,vol,pitch
+	;noise_note 2, 10, 1, 18 peck
+	;noise_note 4, 13, 1, 65 UNKNOWN_61
 	sound_ret
 
 Sfx_SwitchPockets_Ch8:

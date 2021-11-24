@@ -43,7 +43,7 @@ SubTest_MapEvents:
 	db 0, 0 ; filler
 	
 	def_warp_events
-	warp_event 2, 1, PLAYERS_HOUSE_2F, 1
+	warp_event  4,  1, PLAYERS_HOUSE_2F, 1
 	
 	def_coord_events
 	
@@ -52,4 +52,4 @@ SubTest_MapEvents:
 	def_object_events
 	object_event  4,  6, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, SubPokeBallScript, EVENT_SUBJECT_POKEBALL
 	object_event  4,  5, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, SubTestItem1Script, EVENT_SUBTEST_ITEM1
-    object_event  4,  4, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, SubTestItem2Script, EVENT_SUBTEST_ITEM2
+	object_event  4,  4, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, SubTestItem2Script, EVENT_SUBTEST_ITEM2

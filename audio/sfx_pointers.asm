@@ -98,7 +98,7 @@ SFX:
 	dba Sfx_Shine
 	dba Sfx_Unknown5F
 	dba Sfx_Unknown60
-	dba Sfx_Unknown61
+	dba Sfx_Footstep ;Sfx_Unknown61
 	dba Sfx_SwitchPockets
 	dba Sfx_Unknown63
 	dba Sfx_Burn

@@ -1898,7 +1898,7 @@ OmastarEvosAttacks:
 KabutoEvosAttacks:
 	db EVOLVE_LEVEL, 40, KABUTOPS
 	db 0 ; no more evolutions
-	db 1, VICEGRIP
+	db 1, SURF
 	db 1, SHADOW_BALL	
 	db 10, DIZZY_PUNCH
 	db 10, METAL_CLAW

@@ -274,6 +274,7 @@ DoPlayerMovement::
 	call CheckIceTile
 	jr nc, .ice
 
+
 ; Downhill riding is slower when not moving down.
 	call .RunCheck   ;running shoes
 	jr z, .fast
@@ -294,16 +295,43 @@ DoPlayerMovement::
 	ret
 
 .fast
+	;if not standing while holding b, make run sound
+	ld a, [wWalkingDirection]
+	cp STANDING
+	jr nz, .run_sound
+
 	ld a, STEP_BIKE
 	call .DoStep
 	scf
 	ret
+	
+.run_sound
+	ld de, SFX_FOOTSTEP;RUN;INTRO_WHOOSH;RUN;
+	call PlaySFX
+	
+	ld a, STEP_BIKE
+	call .DoStep
+	scf
+	ret	
 
 .walk
-	ld a, STEP_WALK
+	ld a, [wWalkingDirection]
+	cp STANDING
+	jr nz, .walk_sound
+
+	ld a, STEP_BIKE
 	call .DoStep
 	scf
 	ret
+	
+.walk_sound
+	ld de, SFX_FOOTSTEP;
+	call PlaySFX
+	
+	ld a, STEP_WALK
+	call .DoStep
+	scf
+	ret	
 
 .ice
 	ld a, STEP_ICE
