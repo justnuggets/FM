@@ -140,6 +140,9 @@ SECTION "Extra Songs 2", ROMX
 
 INCLUDE "audio/music/postcredits.asm"
 
+SECTION "New Songs", ROMX
+
+INCLUDE "audio/music/meeting_and_parting.asm"
 
 SECTION "Sound Effects", ROMX
 

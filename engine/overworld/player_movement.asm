@@ -306,7 +306,7 @@ DoPlayerMovement::
 	ret
 	
 .run_sound
-	ld de, SFX_FOOTSTEP;RUN;INTRO_WHOOSH;RUN;
+	ld de, SFX_FOOTSTEP;INTRO_WHOOSH FOR WATER?
 	call PlaySFX
 	
 	ld a, STEP_BIKE
@@ -315,23 +315,23 @@ DoPlayerMovement::
 	ret	
 
 .walk
-	ld a, [wWalkingDirection]
-	cp STANDING
-	jr nz, .walk_sound
+;	ld a, [wWalkingDirection]
+;	cp STANDING
+;	jr nz, .walk_sound
 
-	ld a, STEP_BIKE
+	ld a, STEP_WALK
 	call .DoStep
 	scf
 	ret
 	
-.walk_sound
-	ld de, SFX_FOOTSTEP;
-	call PlaySFX
+;.walk_sound
+;	ld de, SFX_FOOTSTEP;
+;	call PlaySFX
 	
-	ld a, STEP_WALK
-	call .DoStep
-	scf
-	ret	
+;	ld a, STEP_WALK
+;	call .DoStep
+;	scf
+;	ret	
 
 .ice
 	ld a, STEP_ICE
@@ -848,7 +848,9 @@ CheckStandingOnIce::
 	jr z, .not_ice
 	ld a, [wPlayerStandingTile]
 	call CheckIceTile
+	
 	jr nc, .yep
+
 	ld a, [wPlayerState]
 	cp PLAYER_SKATE
 	jr nz, .not_ice

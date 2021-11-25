@@ -4903,7 +4903,7 @@ Sfx_IntroWhoosh_Ch8:
 
 Sfx_Footstep_Ch8:
 	;noise_note 8, 4, 1, 51 ;running last note
-	noise_note 2, 8, 1, 108
+	noise_note 2, 6, 1, 108
 	;noise_note 2, 4, 1, 108
 	;noise_note 2, 4, -4, 50
 	;noise_note 2, 4, -1, 70
