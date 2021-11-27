@@ -1729,13 +1729,13 @@ JohtoGrassWildMons:
 	db 7, MACHAMP
 	db 7, CHANSEY
 	; nite
-	db 5, PORYGON2
-	db 5, PORYGON2
-	db 5, PORYGON2
-	db 5, PORYGON2
-	db 5, PORYGON2
-	db 5, PORYGON2
-	db 5, PORYGON2
+	db 100, BLISSEY
+	db 100, BLISSEY
+	db 100, BLISSEY
+	db 100, BLISSEY
+	db 100, BLISSEY
+	db 100, BLISSEY
+	db 100, BLISSEY
 	end_grass_wildmons
 
 	db -1 ; end

@@ -1898,14 +1898,10 @@ OmastarEvosAttacks:
 KabutoEvosAttacks:
 	db EVOLVE_LEVEL, 40, KABUTOPS
 	db 0 ; no more evolutions
-	db 1, SURF
-	db 1, SHADOW_BALL	
+	db 1, LOCK_ON
+	db 1, FISSURE	
 	db 10, DIZZY_PUNCH
 	db 10, METAL_CLAW
-	db 28, SAND_ATTACK
-	db 37, ENDURE
-	db 46, MEGA_DRAIN
-	db 55, ANCIENTPOWER
 	db 0 ; no more level-up moves
 
 KabutopsEvosAttacks:
