@@ -9,7 +9,7 @@ SubTest_MapScripts:
 	def_callbacks
 	
 ReceivedText:
-	text "Got KABUTO!"
+	text "Got SUBMINO!" ; Change based on Pokemon given
 	done
 	
 SubTestItem1Script:
@@ -35,7 +35,7 @@ SubPokeBallScript:
 	setflag ENGINE_GLACIERBADGE
 	setflag ENGINE_RISINGBADGE
 	buttonsound
-	givepoke KABUTO, 100, POLKADOT_BOW
+	givepoke SUBMINO, 100, POLKADOT_BOW
 	closetext
 	end
 	

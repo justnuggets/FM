@@ -54,17 +54,17 @@ NUM_GROWTH_RATES EQU const_value
 ; wBaseEggGroups values
 	const_def 1
 	const EGG_MONSTER       ; 1
-	const EGG_WATER_1       ; 2 (Amphibian)
+	const EGG_WATER_1       ; 2 (Amphibian) EGG_AMPHIBIAN
 	const EGG_BUG           ; 3
 	const EGG_FLYING        ; 4
-	const EGG_GROUND        ; 5 (Field)
+	const EGG_GROUND        ; 5 (Field) EGG_FIELD
 	const EGG_FAIRY         ; 6
-	const EGG_PLANT         ; 7 (Grass)
+	const EGG_PLANT         ; 7 (Grass) 
 	const EGG_HUMANSHAPE    ; 8 (Human-Like)
-	const EGG_WATER_3       ; 9 (Invertebrate)
+	const EGG_WATER_3       ; 9 (Invertebrate) EGG_INVERTEBRATE
 	const EGG_MINERAL       ; a
-	const EGG_INDETERMINATE ; b (Amorphous)
-	const EGG_WATER_2       ; c (Fish)
+	const EGG_INDETERMINATE ; b (Amorphous) EGG_AMORPHOUS
+	const EGG_WATER_2       ; c (Fish)      EGG_FISH
 	const EGG_DITTO         ; d
 	const EGG_DRAGON        ; e
 	const EGG_NONE          ; f (Undiscovered)

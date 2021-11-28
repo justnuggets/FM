@@ -2,7 +2,7 @@
 
 NewPokedexOrder:
 	table_width 1, NewPokedexOrder
-	db CHIKORITA
+	db SUBMINO
 	db BAYLEEF
 	db MEGANIUM
 	db CYNDAQUIL
@@ -227,7 +227,7 @@ NewPokedexOrder:
 	db KABUTOPS
 	db AERODACTYL
 	db SNORLAX
-	db BULBASAUR
+	db CHIKORITA
 	db IVYSAUR
 	db VENUSAUR
 	db CHARMANDER

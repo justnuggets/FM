@@ -13,12 +13,11 @@ SECTION "Egg Moves", ROMX
 
 INCLUDE "data/pokemon/egg_move_pointers.asm"
 
-BulbasaurEggMoves:
-	db LIGHT_SCREEN
-	db SKULL_BASH
+SubminoEggMoves:
+	db OUTRAGE
+	;db PLAY_ROUGH
 	db SAFEGUARD
-	db RAZOR_WIND
-	db PETAL_DANCE
+	db BELLY_DRUM
 	db -1 ; end
 
 CharmanderEggMoves:

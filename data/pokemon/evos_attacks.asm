@@ -17,20 +17,11 @@ SECTION "Evolutions and Attacks", ROMX
 
 INCLUDE "data/pokemon/evos_attacks_pointers.asm"
 
-BulbasaurEvosAttacks:
-	db EVOLVE_LEVEL, 16, IVYSAUR
+SubminoEvosAttacks:
+	db EVOLVE_LEVEL, 20, IVYSAUR ;change SUBZILLA
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 4, GROWL
-	db 7, LEECH_SEED
-	db 10, VINE_WHIP
-	db 15, POISONPOWDER
-	db 15, SLEEP_POWDER
-	db 20, RAZOR_LEAF
-	db 25, SWEET_SCENT
-	db 32, GROWTH
-	db 39, SYNTHESIS
-	db 46, SOLARBEAM
+	db 1, SUBSTITUTE
+	db 4, METRONOME
 	db 0 ; no more level-up moves
 
 IvysaurEvosAttacks:

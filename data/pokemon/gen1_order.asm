@@ -1,5 +1,6 @@
 Pokered_MonIndices:
 	table_width 1, Pokered_MonIndices
+	db SUBMINO
 	db RHYDON
 	db KANGASKHAN
 	db NIDORAN_M
@@ -152,7 +153,6 @@ Pokered_MonIndices:
 	db PIDGEOTTO
 	db PIDGEOT
 	db STARMIE
-	db BULBASAUR
 	db VENUSAUR
 	db TENTACRUEL
 	db SMOOCHUM ; MISSINGNO.
