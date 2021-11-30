@@ -21,7 +21,7 @@
 	const_def 1
 	const SUBMINO    ; 01
 	const SUBZILLA   ; 02
-	const VENUSAUR   ; 03
+	const SUBZILANTE ; 03
 	const CHARMANDER ; 04
 	const CHARMELEON ; 05
 	const CHARIZARD  ; 06

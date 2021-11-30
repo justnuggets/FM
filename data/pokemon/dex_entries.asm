@@ -5,7 +5,7 @@ SECTION "Pokedex Entries 001-064", ROMX
 
 SubminoPokedexEntry::    INCLUDE "data/pokemon/dex_entries/submino.asm"
 SubzillaPokedexEntry::    INCLUDE "data/pokemon/dex_entries/subzilla.asm"
-VenusaurPokedexEntry::   INCLUDE "data/pokemon/dex_entries/venusaur.asm"
+SubzilantePokedexEntry::   INCLUDE "data/pokemon/dex_entries/subzilante.asm"
 CharmanderPokedexEntry:: INCLUDE "data/pokemon/dex_entries/charmander.asm"
 CharmeleonPokedexEntry:: INCLUDE "data/pokemon/dex_entries/charmeleon.asm"
 CharizardPokedexEntry::  INCLUDE "data/pokemon/dex_entries/charizard.asm"

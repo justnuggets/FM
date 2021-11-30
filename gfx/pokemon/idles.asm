@@ -1,6 +1,6 @@
 SubminoAnimationIdle:    INCLUDE "gfx/pokemon/submino/anim_idle.asm"
 SubzillaAnimationIdle:   INCLUDE "gfx/pokemon/subzilla/anim_idle.asm"
-VenusaurAnimationIdle:   INCLUDE "gfx/pokemon/venusaur/anim_idle.asm"
+SubzilanteAnimationIdle:   INCLUDE "gfx/pokemon/subzilante/anim_idle.asm"
 CharmanderAnimationIdle: INCLUDE "gfx/pokemon/charmander/anim_idle.asm"
 CharmeleonAnimationIdle: INCLUDE "gfx/pokemon/charmeleon/anim_idle.asm"
 CharizardAnimationIdle:  INCLUDE "gfx/pokemon/charizard/anim_idle.asm"

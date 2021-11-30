@@ -1,6 +1,6 @@
 SubminoAnimation:    INCLUDE "gfx/pokemon/submino/anim.asm"
 SubzillaAnimation:   INCLUDE "gfx/pokemon/subzilla/anim.asm"
-VenusaurAnimation:   INCLUDE "gfx/pokemon/venusaur/anim.asm"
+SubzilanteAnimation:   INCLUDE "gfx/pokemon/subzilante/anim.asm"
 CharmanderAnimation: INCLUDE "gfx/pokemon/charmander/anim.asm"
 CharmeleonAnimation: INCLUDE "gfx/pokemon/charmeleon/anim.asm"
 CharizardAnimation:  INCLUDE "gfx/pokemon/charizard/anim.asm"

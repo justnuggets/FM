@@ -7,8 +7,8 @@ PokemonPicPointers::
 	dba_pic SubminoBackpic
 	dba_pic SubzillaFrontpic
 	dba_pic SubzillaBackpic
-	dba_pic VenusaurFrontpic
-	dba_pic VenusaurBackpic
+	dba_pic SubzilanteFrontpic
+	dba_pic SubzilanteBackpic
 	dba_pic CharmanderFrontpic
 	dba_pic CharmanderBackpic
 	dba_pic CharmeleonFrontpic

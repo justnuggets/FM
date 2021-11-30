@@ -1703,11 +1703,11 @@ DebugMobileTrade: ; unreferenced
 	ret
 
 .DebugTradeData:
-	db VENUSAUR
+	db SUBZILANTE
 	db "ゲーフり@@"
 	dw $0123
 	db "かびーん@@"
-	db CHARIZARD
+	db SUBMINO
 	db "クりーチャ@"
 	dw $0456
 	db "マツミヤ@@"

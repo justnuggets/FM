@@ -237,7 +237,7 @@ AlphabeticalPokedexOrder:
 	db VAPOREON
 	db VENOMOTH
 	db VENONAT
-	db VENUSAUR
+	db SUBZILANTE
 	db VICTREEBEL
 	db VILEPLUME
 	db VOLTORB

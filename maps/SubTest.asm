@@ -35,7 +35,7 @@ SubPokeBallScript:
 	setflag ENGINE_GLACIERBADGE
 	setflag ENGINE_RISINGBADGE
 	buttonsound
-	givepoke SUBZILLA, 100, POLKADOT_BOW
+	givepoke SUBZILANTE, 100, POLKADOT_BOW
 	closetext
 	end
 	

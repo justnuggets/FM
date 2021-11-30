@@ -2,7 +2,7 @@ AnimationIdlePointers:
 	table_width 2, AnimationIdlePointers
 	dw SubminoAnimationIdle
 	dw SubzillaAnimationIdle
-	dw VenusaurAnimationIdle
+	dw SubzilanteAnimationIdle
 	dw CharmanderAnimationIdle
 	dw CharmeleonAnimationIdle
 	dw CharizardAnimationIdle

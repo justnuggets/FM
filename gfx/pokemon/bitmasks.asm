@@ -1,6 +1,6 @@
 SubminoBitmasks:    INCLUDE "gfx/pokemon/submino/bitmask.asm"
 SubzillaBitmasks:   INCLUDE "gfx/pokemon/subzilla/bitmask.asm"
-VenusaurBitmasks:   INCLUDE "gfx/pokemon/venusaur/bitmask.asm"
+SubzilanteBitmasks:   INCLUDE "gfx/pokemon/subzilante/bitmask.asm"
 CharmanderBitmasks: INCLUDE "gfx/pokemon/charmander/bitmask.asm"
 CharmeleonBitmasks: INCLUDE "gfx/pokemon/charmeleon/bitmask.asm"
 CharizardBitmasks:  INCLUDE "gfx/pokemon/charizard/bitmask.asm"

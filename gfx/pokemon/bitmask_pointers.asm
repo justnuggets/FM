@@ -2,7 +2,7 @@ BitmasksPointers:
 	table_width 2, BitmasksPointers
 	dw SubminoBitmasks
 	dw SubzillaBitmasks
-	dw VenusaurBitmasks
+	dw SubzilanteBitmasks
 	dw CharmanderBitmasks
 	dw CharmeleonBitmasks
 	dw CharizardBitmasks

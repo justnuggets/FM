@@ -3,7 +3,7 @@ PokedexDataPointerTable:
 	table_width 2, PokedexDataPointerTable
 	dw SubminoPokedexEntry
 	dw SubzillaPokedexEntry
-	dw VenusaurPokedexEntry
+	dw SubzilantePokedexEntry
 	dw CharmanderPokedexEntry
 	dw CharmeleonPokedexEntry
 	dw CharizardPokedexEntry

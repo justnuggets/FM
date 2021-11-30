@@ -25,7 +25,7 @@ BaseData::
 	table_width BASE_DATA_SIZE, BaseData
 INCLUDE "data/pokemon/base_stats/submino.asm"
 INCLUDE "data/pokemon/base_stats/subzilla.asm"
-INCLUDE "data/pokemon/base_stats/venusaur.asm"
+INCLUDE "data/pokemon/base_stats/subzilante.asm"
 INCLUDE "data/pokemon/base_stats/charmander.asm"
 INCLUDE "data/pokemon/base_stats/charmeleon.asm"
 INCLUDE "data/pokemon/base_stats/charizard.asm"
