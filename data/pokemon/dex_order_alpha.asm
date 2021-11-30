@@ -19,7 +19,7 @@ AlphabeticalPokedexOrder:
 	db BLASTOISE
 	db BLISSEY
 	db SUBMINO
-	db BUTTERFREE
+	db SUBZILLA
 	db CATERPIE
 	db CELEBI
 	db CHANSEY
@@ -94,7 +94,7 @@ AlphabeticalPokedexOrder:
 	db HOUNDOUR
 	db HYPNO
 	db IGGLYBUFF
-	db IVYSAUR
+	db SUBZILLA
 	db JIGGLYPUFF
 	db JOLTEON
 	db JUMPLUFF

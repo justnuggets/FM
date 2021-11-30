@@ -9,14 +9,14 @@ SubTest_MapScripts:
 	def_callbacks
 	
 ReceivedText:
-	text "Got SUBMINO!" ; Change based on Pokemon given
+	text "Got a #mon!" ; Change based on Pokemon given
 	done
 	
 SubTestItem1Script:
 	itemball MASTER_BALL, 5
 
 SubTestItem2Script:
-	itemball TM_DIG ;RARE_CANDY, 99
+	itemball RARE_CANDY, 99; TM_DIG ;
 	
 SubPokeBallScript:
 	disappear SUBTEST_POKE_BALL
@@ -35,7 +35,7 @@ SubPokeBallScript:
 	setflag ENGINE_GLACIERBADGE
 	setflag ENGINE_RISINGBADGE
 	buttonsound
-	givepoke SUBMINO, 100, POLKADOT_BOW
+	givepoke SUBZILLA, 100, POLKADOT_BOW
 	closetext
 	end
 	

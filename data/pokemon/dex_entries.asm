@@ -4,7 +4,7 @@ INCLUDE "constants.asm"
 SECTION "Pokedex Entries 001-064", ROMX
 
 SubminoPokedexEntry::    INCLUDE "data/pokemon/dex_entries/submino.asm"
-IvysaurPokedexEntry::    INCLUDE "data/pokemon/dex_entries/ivysaur.asm"
+SubzillaPokedexEntry::    INCLUDE "data/pokemon/dex_entries/subzilla.asm"
 VenusaurPokedexEntry::   INCLUDE "data/pokemon/dex_entries/venusaur.asm"
 CharmanderPokedexEntry:: INCLUDE "data/pokemon/dex_entries/charmander.asm"
 CharmeleonPokedexEntry:: INCLUDE "data/pokemon/dex_entries/charmeleon.asm"

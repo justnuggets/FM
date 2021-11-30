@@ -3,7 +3,7 @@
 NewPokedexOrder:
 	table_width 1, NewPokedexOrder
 	db SUBMINO
-	db BAYLEEF
+	db SUBZILLA
 	db MEGANIUM
 	db CYNDAQUIL
 	db QUILAVA
@@ -228,7 +228,7 @@ NewPokedexOrder:
 	db AERODACTYL
 	db SNORLAX
 	db CHIKORITA
-	db IVYSAUR
+	db SUBZILLA
 	db VENUSAUR
 	db CHARMANDER
 	db CHARMELEON

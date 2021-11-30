@@ -2,7 +2,7 @@ PokedexDataPointerTable:
 ; entries correspond to constants/pokemon_constants.asm
 	table_width 2, PokedexDataPointerTable
 	dw SubminoPokedexEntry
-	dw IvysaurPokedexEntry
+	dw SubzillaPokedexEntry
 	dw VenusaurPokedexEntry
 	dw CharmanderPokedexEntry
 	dw CharmeleonPokedexEntry

@@ -1,5 +1,5 @@
-SubminoAnimation:  INCLUDE "gfx/pokemon/submino/anim.asm"
-IvysaurAnimation:    INCLUDE "gfx/pokemon/ivysaur/anim.asm"
+SubminoAnimation:    INCLUDE "gfx/pokemon/submino/anim.asm"
+SubzillaAnimation:   INCLUDE "gfx/pokemon/subzilla/anim.asm"
 VenusaurAnimation:   INCLUDE "gfx/pokemon/venusaur/anim.asm"
 CharmanderAnimation: INCLUDE "gfx/pokemon/charmander/anim.asm"
 CharmeleonAnimation: INCLUDE "gfx/pokemon/charmeleon/anim.asm"

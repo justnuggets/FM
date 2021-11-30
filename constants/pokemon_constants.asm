@@ -19,8 +19,8 @@
 ; - FramesPointers (see gfx/pokemon/frame_pointers.asm)
 ; - EZChat_SortedPokemon (see data/pokemon/ezchat_order.asm)
 	const_def 1
-	const SUBMINO  ; 01
-	const IVYSAUR    ; 02
+	const SUBMINO    ; 01
+	const SUBZILLA   ; 02
 	const VENUSAUR   ; 03
 	const CHARMANDER ; 04
 	const CHARMELEON ; 05

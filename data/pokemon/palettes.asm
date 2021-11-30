@@ -17,8 +17,8 @@ PokemonPalettes:
 
 INCBIN "gfx/pokemon/submino/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/submino/shiny.pal"
-INCBIN "gfx/pokemon/ivysaur/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/ivysaur/shiny.pal"
+INCBIN "gfx/pokemon/subzilla/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/subzilla/shiny.pal"
 INCBIN "gfx/pokemon/venusaur/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/venusaur/shiny.pal"
 INCBIN "gfx/pokemon/charmander/front.gbcpal", middle_colors

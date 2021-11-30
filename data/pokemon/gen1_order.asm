@@ -1,7 +1,7 @@
 Pokered_MonIndices:
 	table_width 1, Pokered_MonIndices
 	db SUBMINO
-	db RHYDON
+	db SUBZILLA
 	db KANGASKHAN
 	db NIDORAN_M
 	db CLEFAIRY
@@ -9,7 +9,7 @@ Pokered_MonIndices:
 	db VOLTORB
 	db NIDOKING
 	db SLOWBRO
-	db IVYSAUR
+	db SUBZILLA
 	db EXEGGUTOR
 	db LICKITUNG
 	db EXEGGCUTE
