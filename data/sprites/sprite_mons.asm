@@ -12,7 +12,7 @@ SpriteMons:
 	db MAGIKARP
 	db CUBBURN
 	db TOGEPI
-	db BUTTERFREE
+	db HIPTORRENT
 	db DIGLETT
 	db POLIWAG
 	db PIKACHU

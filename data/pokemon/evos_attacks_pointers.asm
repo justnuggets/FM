@@ -9,11 +9,11 @@ EvosAttacksPointers::
 	dw LopsoilEvosAttacks
 	dw HaerazorEvosAttacks
 	dw CubburnEvosAttacks
-	dw WartortleEvosAttacks
-	dw BlastoiseEvosAttacks
-	dw CaterpieEvosAttacks
-	dw MetapodEvosAttacks
-	dw ButterfreeEvosAttacks
+	dw CoaldiakEvosAttacks
+	dw GrillzlyEvosAttacks
+	dw HippourEvosAttacks
+	dw DrippourEvosAttacks
+	dw HiptorrentEvosAttacks
 	dw WeedleEvosAttacks
 	dw KakunaEvosAttacks
 	dw BeedrillEvosAttacks

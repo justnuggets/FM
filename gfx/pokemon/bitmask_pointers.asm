@@ -7,11 +7,11 @@ BitmasksPointers:
 	dw LopsoilBitmasks
 	dw HaerazorBitmasks
 	dw CubburnBitmasks
-	dw WartortleBitmasks
-	dw BlastoiseBitmasks
-	dw CaterpieBitmasks
-	dw MetapodBitmasks
-	dw ButterfreeBitmasks
+	dw CoaldiakBitmasks
+	dw GrillzlyBitmasks
+	dw HippourBitmasks
+	dw DrippourBitmasks
+	dw HiptorrentBitmasks
 	dw WeedleBitmasks
 	dw KakunaBitmasks
 	dw BeedrillBitmasks

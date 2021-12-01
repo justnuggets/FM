@@ -17,16 +17,16 @@ PokemonPicPointers::
 	dba_pic HaerazorBackpic
 	dba_pic CubburnFrontpic
 	dba_pic CubburnBackpic
-	dba_pic WartortleFrontpic
-	dba_pic WartortleBackpic
-	dba_pic BlastoiseFrontpic
-	dba_pic BlastoiseBackpic
-	dba_pic CaterpieFrontpic
-	dba_pic CaterpieBackpic
-	dba_pic MetapodFrontpic
-	dba_pic MetapodBackpic
-	dba_pic ButterfreeFrontpic
-	dba_pic ButterfreeBackpic
+	dba_pic CoaldiakFrontpic
+	dba_pic CoaldiakBackpic
+	dba_pic GrillzlyFrontpic
+	dba_pic GrillzlyBackpic
+	dba_pic HippourFrontpic
+	dba_pic HippourBackpic
+	dba_pic DrippourFrontpic
+	dba_pic DrippourBackpic
+	dba_pic HiptorrentFrontpic
+	dba_pic HiptorrentBackpic
 	dba_pic WeedleFrontpic
 	dba_pic WeedleBackpic
 	dba_pic KakunaFrontpic

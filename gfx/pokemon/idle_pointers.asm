@@ -7,11 +7,11 @@ AnimationIdlePointers:
 	dw LopsoilAnimationIdle
 	dw HaerazorAnimationIdle
 	dw CubburnAnimationIdle
-	dw WartortleAnimationIdle
-	dw BlastoiseAnimationIdle
-	dw CaterpieAnimationIdle
-	dw MetapodAnimationIdle
-	dw ButterfreeAnimationIdle
+	dw CoaldiakAnimationIdle
+	dw GrillzlyAnimationIdle
+	dw HippourAnimationIdle
+	dw DrippourAnimationIdle
+	dw HiptorrentAnimationIdle
 	dw WeedleAnimationIdle
 	dw KakunaAnimationIdle
 	dw BeedrillAnimationIdle

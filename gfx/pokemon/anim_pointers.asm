@@ -7,11 +7,11 @@ AnimationPointers:
 	dw LopsoilAnimation
 	dw HaerazorAnimation
 	dw CubburnAnimation
-	dw WartortleAnimation
-	dw BlastoiseAnimation
-	dw CaterpieAnimation
-	dw MetapodAnimation
-	dw ButterfreeAnimation
+	dw CoaldiakAnimation
+	dw GrillzlyAnimation
+	dw HippourAnimation
+	dw DrippourAnimation
+	dw HiptorrentAnimation
 	dw WeedleAnimation
 	dw KakunaAnimation
 	dw BeedrillAnimation

@@ -1,4 +1,4 @@
-	db "TINYTURTLE@" ; species name
+	db "BURN BEAR@" ; species name
 	dw 104, 140 ; height, weight
 
 	db   "CUBBURN hiber-"

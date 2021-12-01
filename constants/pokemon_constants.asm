@@ -26,11 +26,11 @@
 	const LOPSOIL    ; 05
 	const HAERAZOR   ; 06
 	const CUBBURN    ; 07
-	const WARTORTLE  ; 08
-	const BLASTOISE  ; 09
-	const CATERPIE   ; 0a
-	const METAPOD    ; 0b
-	const BUTTERFREE ; 0c
+	const COALDIAK   ; 08
+	const GRILLZLY   ; 09
+	const HIPPOUR    ; 0a
+	const DRIPPOUR    ; 0b
+	const HIPTORRENT ; 0c
 	const WEEDLE     ; 0d
 	const KAKUNA     ; 0e
 	const BEEDRILL   ; 0f

@@ -70,7 +70,7 @@ HaerazorEvosAttacks:
 	db 0 ; no more level-up moves
 
 CubburnEvosAttacks:
-	db EVOLVE_LEVEL, 16, WARTORTLE
+	db EVOLVE_LEVEL, 16, COALDIAK
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, EMBER
@@ -78,8 +78,8 @@ CubburnEvosAttacks:
 	db 1, SMOKESCREEN
 	db 0 ; no more level-up moves
 
-WartortleEvosAttacks:
-	db EVOLVE_LEVEL, 36, BLASTOISE
+CoaldiakEvosAttacks:
+	db EVOLVE_LEVEL, 36, GRILLZLY
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, EMBER
@@ -87,7 +87,7 @@ WartortleEvosAttacks:
 	db 1, SMOKESCREEN
 	db 0 ; no more level-up moves
 
-BlastoiseEvosAttacks:
+GrillzlyEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, EMBER
@@ -95,32 +95,30 @@ BlastoiseEvosAttacks:
 	db 1, SMOKESCREEN
 	db 0 ; no more level-up moves
 
-CaterpieEvosAttacks:
-	db EVOLVE_LEVEL, 7, METAPOD
+HippourEvosAttacks:
+	db EVOLVE_LEVEL, 17, DRIPPOUR
 	db 0 ; no more evolutions
 	db 1, TACKLE
-	db 1, STRING_SHOT
+	db 1, WATER_GUN
+	db 1, ICY_WIND
+	db 1, GROWL
 	db 0 ; no more level-up moves
 
-MetapodEvosAttacks:
-	db EVOLVE_LEVEL, 10, BUTTERFREE
+DrippourEvosAttacks:
+	db EVOLVE_LEVEL, 34, HIPTORRENT
 	db 0 ; no more evolutions
-	db 1, HARDEN
-	db 7, HARDEN
+	db 1, TACKLE
+	db 1, WATER_GUN
+	db 1, ICY_WIND
+	db 1, GROWL
 	db 0 ; no more level-up moves
 
-ButterfreeEvosAttacks:
+HiptorrentEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, CONFUSION
-	db 10, CONFUSION
-	db 13, POISONPOWDER
-	db 14, STUN_SPORE
-	db 15, SLEEP_POWDER
-	db 18, SUPERSONIC
-	db 23, WHIRLWIND
-	db 28, GUST
-	db 34, PSYBEAM
-	db 40, SAFEGUARD
+	db 1, TACKLE
+	db 1, WATER_GUN
+	db 1, ICY_WIND
+	db 1, GROWL
 	db 0 ; no more level-up moves
 
 WeedleEvosAttacks:

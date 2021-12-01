@@ -16,11 +16,11 @@ AlphabeticalPokedexOrder:
 	db BEEDRILL
 	db BELLOSSOM
 	db BELLSPROUT
-	db BLASTOISE
+	db GRILLZLY
 	db BLISSEY
 	db SUBMINO
 	db SUBZILLA
-	db CATERPIE
+	db HIPPOUR
 	db CELEBI
 	db CHANSEY
 	db HAERAZOR
@@ -131,7 +131,7 @@ AlphabeticalPokedexOrder:
 	db MAROWAK
 	db MEGANIUM
 	db MEOWTH
-	db METAPOD
+	db DRIPPOUR
 	db MEW
 	db MEWTWO
 	db MILTANK
@@ -242,7 +242,7 @@ AlphabeticalPokedexOrder:
 	db VILEPLUME
 	db VOLTORB
 	db VULPIX
-	db WARTORTLE
+	db COALDIAK
 	db WEEDLE
 	db WEEPINBELL
 	db WEEZING

@@ -36,7 +36,15 @@ CubburnEggMoves:
 	db PSYCHIC_M
 	db FORESIGHT
 	db -1 ; end
-
+	
+HippourEggMoves:
+	db CRUNCH
+	db HAZE
+	db MIST
+	db PSYCHIC_M
+	db FORESIGHT
+	db -1 ; end
+	
 PidgeyEggMoves:
 	db PURSUIT
 	db FAINT_ATTACK

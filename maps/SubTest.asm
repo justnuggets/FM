@@ -35,7 +35,9 @@ SubPokeBallScript:
 	setflag ENGINE_GLACIERBADGE
 	setflag ENGINE_RISINGBADGE
 	buttonsound
-	givepoke CUBBURN, 20, LEFTOVERS
+	givepoke DRIPPOUR, 20, LEFTOVERS
+	givepoke HIPPOUR, 20, LEFTOVERS
+	givepoke HIPTORRENT, 20, LEFTOVERS
 	closetext
 	end
 	

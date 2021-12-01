@@ -7,11 +7,11 @@ FramesPointers:
 	dw LopsoilFrames
 	dw HaerazorFrames
 	dw CubburnFrames
-	dw WartortleFrames
-	dw BlastoiseFrames
-	dw CaterpieFrames
-	dw MetapodFrames
-	dw ButterfreeFrames
+	dw CoaldiakFrames
+	dw GrillzlyFrames
+	dw HippourFrames
+	dw DrippourFrames
+	dw HiptorrentFrames
 	dw WeedleFrames
 	dw KakunaFrames
 	dw BeedrillFrames

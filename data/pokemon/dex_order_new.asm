@@ -9,6 +9,11 @@ NewPokedexOrder:
 	db LOPSOIL
 	db HAERAZOR
 	db CUBBURN
+	db COALDIAK
+	db GRILLZLY
+	db HIPPOUR
+	db DRIPPOUR
+	db HIPTORRENT
 	db MEGANIUM
 	db CYNDAQUIL
 	db QUILAVA
@@ -30,9 +35,6 @@ NewPokedexOrder:
 	db PICHU
 	db PIKACHU
 	db RAICHU
-	db CATERPIE
-	db METAPOD
-	db BUTTERFREE
 	db WEEDLE
 	db KAKUNA
 	db BEEDRILL
@@ -234,8 +236,6 @@ NewPokedexOrder:
 	db SNORLAX
 	db CHIKORITA
 	db BAYLEEF
-	db WARTORTLE
-	db BLASTOISE
 	db ARTICUNO
 	db ZAPDOS
 	db MOLTRES

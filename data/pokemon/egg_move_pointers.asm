@@ -9,7 +9,7 @@ EggMovePointers::
 	dw CubburnEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw NoEggMoves
+	dw HippourEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

@@ -8,11 +8,11 @@ PokedexDataPointerTable:
 	dw LopsoilPokedexEntry
 	dw HaerazorPokedexEntry
 	dw CubburnPokedexEntry
-	dw WartortlePokedexEntry
-	dw BlastoisePokedexEntry
-	dw CaterpiePokedexEntry
-	dw MetapodPokedexEntry
-	dw ButterfreePokedexEntry
+	dw CoaldiakPokedexEntry
+	dw GrillzlyPokedexEntry
+	dw HippourPokedexEntry
+	dw DrippourPokedexEntry
+	dw HiptorrentPokedexEntry
 	dw WeedlePokedexEntry
 	dw KakunaPokedexEntry
 	dw BeedrillPokedexEntry
