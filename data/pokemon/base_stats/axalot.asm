@@ -11,7 +11,7 @@
 	db 100 ; unknown 1
 	db 15 ; step cycles to hatch
 	db 5 ; unknown 2
-	INCBIN "gfx/pokemon/axalitl/front.dimensions"
+	INCBIN "gfx/pokemon/axalot/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_WATER_1, EGG_MONSTER ; egg groups
