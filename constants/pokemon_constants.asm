@@ -29,14 +29,14 @@
 	const COALDIAK   ; 08
 	const GRILLZLY   ; 09
 	const HIPPOUR    ; 0a
-	const DRIPPOUR    ; 0b
+	const DRIPPOUR   ; 0b
 	const HIPTORRENT ; 0c
-	const WEEDLE     ; 0d
-	const KAKUNA     ; 0e
-	const BEEDRILL   ; 0f
-	const PIDGEY     ; 10
-	const PIDGEOTTO  ; 11
-	const PIDGEOT    ; 12
+	const HAMSEL     ; 0d
+	const GUINAPI    ; 0e
+	const OPOSSTER   ; 0f
+	const POSSUMUS   ; 10
+	const AXALITL    ; 11
+	const AXALOT     ; 12
 	const RATTATA    ; 13
 	const RATICATE   ; 14
 	const SPEAROW    ; 15

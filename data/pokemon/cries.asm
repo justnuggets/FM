@@ -18,12 +18,12 @@ PokemonCries::
 	mon_cry CRY_TOTODILE,   1132,  256 ; HIPPOUR
 	mon_cry CRY_TOTODILE,   900,  272 ;  DRIPPOUR
 	mon_cry CRY_TOTODILE,   700,  384 ; HIPTORRENT 
-	mon_cry CRY_WEEDLE,      238,  129 ; WEEDLE
-	mon_cry CRY_BLASTOISE,   255,  129 ; KAKUNA
-	mon_cry CRY_BLASTOISE,    96,  256 ; BEEDRILL
-	mon_cry CRY_PIDGEY,      223,  132 ; PIDGEY
-	mon_cry CRY_PIDGEOTTO,    40,  320 ; PIDGEOTTO
-	mon_cry CRY_PIDGEOTTO,    17,  383 ; PIDGEOT
+	mon_cry CRY_CYNDAQUIL,   900,  256 ; HAMSEL
+	mon_cry CRY_MAGCARGO,   -265,  232 ; GUINAPI
+	mon_cry CRY_RATTATA,       0,  256 ; OPOSSTER
+	mon_cry CRY_RATTATA,      -90, 383 ; POSSUMUS
+	mon_cry CRY_WOOPER,      147,  240 ; AXALITL
+	mon_cry CRY_WOOPER,     -250,  320 ; AXALOT
 	mon_cry CRY_RATTATA,       0,  256 ; RATTATA
 	mon_cry CRY_RATTATA,      32,  383 ; RATICATE
 	mon_cry CRY_SPEAROW,       0,  256 ; SPEAROW

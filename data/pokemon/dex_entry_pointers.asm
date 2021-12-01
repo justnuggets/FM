@@ -13,12 +13,12 @@ PokedexDataPointerTable:
 	dw HippourPokedexEntry
 	dw DrippourPokedexEntry
 	dw HiptorrentPokedexEntry
-	dw WeedlePokedexEntry
-	dw KakunaPokedexEntry
-	dw BeedrillPokedexEntry
-	dw PidgeyPokedexEntry
-	dw PidgeottoPokedexEntry
-	dw PidgeotPokedexEntry
+	dw HamselPokedexEntry
+	dw GuinapiPokedexEntry
+	dw OpossterPokedexEntry
+	dw PossumusPokedexEntry
+	dw AxalitlPokedexEntry
+	dw AxalotPokedexEntry
 	dw RattataPokedexEntry
 	dw RaticatePokedexEntry
 	dw SpearowPokedexEntry

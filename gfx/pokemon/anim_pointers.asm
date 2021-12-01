@@ -12,12 +12,12 @@ AnimationPointers:
 	dw HippourAnimation
 	dw DrippourAnimation
 	dw HiptorrentAnimation
-	dw WeedleAnimation
-	dw KakunaAnimation
-	dw BeedrillAnimation
-	dw PidgeyAnimation
-	dw PidgeottoAnimation
-	dw PidgeotAnimation
+	dw HamselAnimation
+	dw GuinapiAnimation
+	dw OpossterAnimation
+	dw PossumusAnimation
+	dw AxalitlAnimation
+	dw AxalotAnimation
 	dw RattataAnimation
 	dw RaticateAnimation
 	dw SpearowAnimation

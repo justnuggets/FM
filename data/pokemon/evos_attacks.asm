@@ -121,73 +121,55 @@ HiptorrentEvosAttacks:
 	db 1, GROWL
 	db 0 ; no more level-up moves
 
-WeedleEvosAttacks:
-	db EVOLVE_LEVEL, 7, KAKUNA
+HamselEvosAttacks:
+	db EVOLVE_LEVEL, 19, GUINAPI
 	db 0 ; no more evolutions
-	db 1, POISON_STING
-	db 1, STRING_SHOT
-	db 0 ; no more level-up moves
-
-KakunaEvosAttacks:
-	db EVOLVE_LEVEL, 10, BEEDRILL
-	db 0 ; no more evolutions
-	db 1, HARDEN
-	db 7, HARDEN
-	db 0 ; no more level-up moves
-
-BeedrillEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, FURY_ATTACK
-	db 10, FURY_ATTACK
-	db 15, FOCUS_ENERGY
-	db 20, TWINEEDLE
-	db 25, RAGE
-	db 30, PURSUIT
-	db 35, PIN_MISSILE
-	db 40, AGILITY
-	db 0 ; no more level-up moves
-
-PidgeyEvosAttacks:
-	db EVOLVE_LEVEL, 18, PIDGEOTTO
-	db 0 ; no more evolutions
+	db 1, BELLY_DRUM
 	db 1, TACKLE
-	db 5, SAND_ATTACK
-	db 9, GUST
-	db 15, QUICK_ATTACK
-	db 21, WHIRLWIND
-	db 29, WING_ATTACK
-	db 37, AGILITY
-	db 47, MIRROR_MOVE
+	db 1, REST
+	db 1, REVERSAL
 	db 0 ; no more level-up moves
 
-PidgeottoEvosAttacks:
-	db EVOLVE_LEVEL, 36, PIDGEOT
+GuinapiEvosAttacks:
 	db 0 ; no more evolutions
+	db 1, BELLY_DRUM
 	db 1, TACKLE
-	db 1, SAND_ATTACK
-	db 1, GUST
-	db 5, SAND_ATTACK
-	db 9, GUST
-	db 15, QUICK_ATTACK
-	db 23, WHIRLWIND
-	db 33, WING_ATTACK
-	db 43, AGILITY
-	db 55, MIRROR_MOVE
+	db 1, REST
+	db 1, REVERSAL
 	db 0 ; no more level-up moves
 
-PidgeotEvosAttacks:
+OpossterEvosAttacks:
+	db EVOLVE_LEVEL, 19, POSSUMUS
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 1, SAND_ATTACK
-	db 1, GUST
+	db 1, SWAGGER
+	db 1, BITE
+	db 1, SCRATCH
 	db 1, QUICK_ATTACK
-	db 5, SAND_ATTACK
-	db 9, GUST
-	db 15, QUICK_ATTACK
-	db 23, WHIRLWIND
-	db 33, WING_ATTACK
-	db 46, AGILITY
-	db 61, MIRROR_MOVE
+	db 0 ; no more level-up moves
+
+PossumusEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, SWAGGER
+	db 1, BITE
+	db 1, SCRATCH
+	db 1, QUICK_ATTACK
+	db 0 ; no more level-up moves
+
+AxalitlEvosAttacks:
+	db EVOLVE_LEVEL, 36, AXALOT
+	db 0 ; no more evolutions
+	db 1, POUND
+	db 1, ACID
+	db 1, MUD_SLAP
+	db 1, AMNESIA
+	db 0 ; no more level-up moves
+
+AxalotEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, POUND
+	db 1, ACID
+	db 1, MUD_SLAP
+	db 1, AMNESIA
 	db 0 ; no more level-up moves
 
 RattataEvosAttacks:

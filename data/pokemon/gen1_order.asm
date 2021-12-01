@@ -36,7 +36,7 @@ Pokered_MonIndices:
 	db GROWLITHE
 	db ONIX
 	db FEAROW
-	db PIDGEY
+	db POSSUMUS
 	db SLOWPOKE
 	db KADABRA
 	db GRAVELER
@@ -112,9 +112,9 @@ Pokered_MonIndices:
 	db PARAS
 	db POLIWHIRL
 	db POLIWRATH
-	db WEEDLE
-	db KAKUNA
-	db BEEDRILL
+	db HAMSEL
+	db GUINAPI
+	db OPOSSTER
 	db HOUNDOOM ; MISSINGNO.
 	db DODRIO
 	db PRIMEAPE
@@ -150,8 +150,8 @@ Pokered_MonIndices:
 	db HAUNTER
 	db ABRA
 	db ALAKAZAM
-	db PIDGEOTTO
-	db PIDGEOT
+	db AXALITL
+	db AXALOT
 	db STARMIE
 	db SUBZILANTE
 	db TENTACRUEL

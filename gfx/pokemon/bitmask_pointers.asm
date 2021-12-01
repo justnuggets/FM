@@ -12,12 +12,12 @@ BitmasksPointers:
 	dw HippourBitmasks
 	dw DrippourBitmasks
 	dw HiptorrentBitmasks
-	dw WeedleBitmasks
-	dw KakunaBitmasks
-	dw BeedrillBitmasks
-	dw PidgeyBitmasks
-	dw PidgeottoBitmasks
-	dw PidgeotBitmasks
+	dw HamselBitmasks
+	dw GuinapiBitmasks
+	dw OpossterBitmasks
+	dw PossumusBitmasks
+	dw AxalitlBitmasks
+	dw AxalotBitmasks
 	dw RattataBitmasks
 	dw RaticateBitmasks
 	dw SpearowBitmasks

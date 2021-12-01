@@ -27,18 +27,18 @@ PokemonPicPointers::
 	dba_pic DrippourBackpic
 	dba_pic HiptorrentFrontpic
 	dba_pic HiptorrentBackpic
-	dba_pic WeedleFrontpic
-	dba_pic WeedleBackpic
-	dba_pic KakunaFrontpic
-	dba_pic KakunaBackpic
-	dba_pic BeedrillFrontpic
-	dba_pic BeedrillBackpic
-	dba_pic PidgeyFrontpic
-	dba_pic PidgeyBackpic
-	dba_pic PidgeottoFrontpic
-	dba_pic PidgeottoBackpic
-	dba_pic PidgeotFrontpic
-	dba_pic PidgeotBackpic
+	dba_pic HamselFrontpic
+	dba_pic HamselBackpic
+	dba_pic GuinapiFrontpic
+	dba_pic GuinapiBackpic
+	dba_pic OpossterFrontpic
+	dba_pic OpossterBackpic
+	dba_pic PossumusFrontpic
+	dba_pic PossumusBackpic
+	dba_pic AxalitlFrontpic
+	dba_pic AxalitlBackpic
+	dba_pic AxalotFrontpic
+	dba_pic AxalotBackpic
 	dba_pic RattataFrontpic
 	dba_pic RattataBackpic
 	dba_pic RaticateFrontpic

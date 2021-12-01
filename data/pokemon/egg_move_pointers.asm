@@ -12,11 +12,11 @@ EggMovePointers::
 	dw HippourEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
+	dw HamselEggMoves
 	dw NoEggMoves
+	dw OpossterEggMoves
 	dw NoEggMoves
-	dw NoEggMoves
-	dw PidgeyEggMoves
-	dw NoEggMoves
+	dw AxalitlEggMoves
 	dw NoEggMoves
 	dw RattataEggMoves
 	dw NoEggMoves

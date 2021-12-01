@@ -14,6 +14,12 @@ NewPokedexOrder:
 	db HIPPOUR
 	db DRIPPOUR
 	db HIPTORRENT
+	db HAMSEL
+	db GUINAPI
+	db OPOSSTER
+	db POSSUMUS
+	db AXALITL
+	db AXALOT
 	db MEGANIUM
 	db CYNDAQUIL
 	db QUILAVA
@@ -21,9 +27,6 @@ NewPokedexOrder:
 	db TOTODILE
 	db CROCONAW
 	db FERALIGATR
-	db PIDGEY
-	db PIDGEOTTO
-	db PIDGEOT
 	db SPEAROW
 	db FEAROW
 	db HOOTHOOT
@@ -35,9 +38,6 @@ NewPokedexOrder:
 	db PICHU
 	db PIKACHU
 	db RAICHU
-	db WEEDLE
-	db KAKUNA
-	db BEEDRILL
 	db LEDYBA
 	db LEDIAN
 	db SPINARAK

@@ -45,10 +45,25 @@ HippourEggMoves:
 	db FORESIGHT
 	db -1 ; end
 	
-PidgeyEggMoves:
-	db PURSUIT
-	db FAINT_ATTACK
-	db FORESIGHT
+HamselEggMoves:
+	db CRUNCH
+	db DOUBLE_EDGE
+	db DOUBLE_KICK
+	db BELLY_DRUM
+	db HEADBUTT
+	db -1 ; end
+
+OpossterEggMoves:
+	db THUNDERPUNCH
+	db ICE_PUNCH
+	db FIRE_PUNCH
+	db BELLY_DRUM
+	db HEADBUTT
+	db -1 ; end
+	
+AxalitlEggMoves:
+	db OUTRAGE
+	db CURSE
 	db -1 ; end
 
 RattataEggMoves:

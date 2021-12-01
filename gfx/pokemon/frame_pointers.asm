@@ -12,12 +12,12 @@ FramesPointers:
 	dw HippourFrames
 	dw DrippourFrames
 	dw HiptorrentFrames
-	dw WeedleFrames
-	dw KakunaFrames
-	dw BeedrillFrames
-	dw PidgeyFrames
-	dw PidgeottoFrames
-	dw PidgeotFrames
+	dw HamselFrames
+	dw GuinapiFrames
+	dw OpossterFrames
+	dw PossumusFrames
+	dw AxalitlFrames
+	dw AxalotFrames
 	dw RattataFrames
 	dw RaticateFrames
 	dw SpearowFrames

@@ -19,7 +19,7 @@ MrFujisHouseLassScript:
 MrFujisPsyduck:
 	opentext
 	writetext MrFujisPsyduckText
-	cry PSYDUCK
+	cry SUBMINO
 	waitbutton
 	closetext
 	end
@@ -27,7 +27,7 @@ MrFujisPsyduck:
 MrFujisNidorino:
 	opentext
 	writetext MrFujisNidorinoText
-	cry NIDORINO
+	cry SUBMINO
 	waitbutton
 	closetext
 	end
@@ -35,7 +35,7 @@ MrFujisNidorino:
 MrFujisPidgey:
 	opentext
 	writetext MrFujisPidgeyText
-	cry PIDGEY
+	cry SUBMINO
 	waitbutton
 	closetext
 	end

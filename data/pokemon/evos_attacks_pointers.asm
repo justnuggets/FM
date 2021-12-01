@@ -14,12 +14,12 @@ EvosAttacksPointers::
 	dw HippourEvosAttacks
 	dw DrippourEvosAttacks
 	dw HiptorrentEvosAttacks
-	dw WeedleEvosAttacks
-	dw KakunaEvosAttacks
-	dw BeedrillEvosAttacks
-	dw PidgeyEvosAttacks
-	dw PidgeottoEvosAttacks
-	dw PidgeotEvosAttacks
+	dw HamselEvosAttacks
+	dw GuinapiEvosAttacks
+	dw OpossterEvosAttacks
+	dw PossumusEvosAttacks
+	dw AxalitlEvosAttacks
+	dw AxalotEvosAttacks
 	dw RattataEvosAttacks
 	dw RaticateEvosAttacks
 	dw SpearowEvosAttacks

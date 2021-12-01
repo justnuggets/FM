@@ -4,9 +4,9 @@ AsleepTreeMonsNite:
 	db HIPPOUR
 	db DRIPPOUR
 	db HIPTORRENT
-	db WEEDLE
-	db KAKUNA
-	db BEEDRILL
+	db HAMSEL
+	db GUINAPI
+	db OPOSSTER
 	db SPEAROW
 	db EKANS
 	db EXEGGCUTE
