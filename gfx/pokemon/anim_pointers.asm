@@ -3,8 +3,8 @@ AnimationPointers:
 	dw SubminoAnimation
 	dw SubzillaAnimation
 	dw SubzilanteAnimation
-	dw CharmanderAnimation
-	dw CharmeleonAnimation
+	dw GrassnipAnimation
+	dw LopsoilAnimation
 	dw CharizardAnimation
 	dw SquirtleAnimation
 	dw WartortleAnimation

@@ -3,8 +3,8 @@ BitmasksPointers:
 	dw SubminoBitmasks
 	dw SubzillaBitmasks
 	dw SubzilanteBitmasks
-	dw CharmanderBitmasks
-	dw CharmeleonBitmasks
+	dw GrassnipBitmasks
+	dw LopsoilBitmasks
 	dw CharizardBitmasks
 	dw SquirtleBitmasks
 	dw WartortleBitmasks

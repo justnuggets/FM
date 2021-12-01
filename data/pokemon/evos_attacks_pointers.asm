@@ -5,8 +5,8 @@ EvosAttacksPointers::
 	dw SubminoEvosAttacks
 	dw SubzillaEvosAttacks
 	dw SubzilanteEvosAttacks
-	dw CharmanderEvosAttacks
-	dw CharmeleonEvosAttacks
+	dw GrassnipEvosAttacks
+	dw LopsoilEvosAttacks
 	dw CharizardEvosAttacks
 	dw SquirtleEvosAttacks
 	dw WartortleEvosAttacks

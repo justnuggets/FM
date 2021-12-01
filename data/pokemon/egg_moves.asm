@@ -20,13 +20,13 @@ SubminoEggMoves:
 	db BELLY_DRUM
 	db -1 ; end
 
-CharmanderEggMoves:
-	db BELLY_DRUM
+GrassnipEggMoves:
+	db LOW_KICK
 	db ANCIENTPOWER
 	db ROCK_SLIDE
-	db BITE
-	db OUTRAGE
-	db BEAT_UP
+	db CRUNCH
+	db MUD_SLAP
+	db FLAIL
 	db -1 ; end
 
 SquirtleEggMoves:

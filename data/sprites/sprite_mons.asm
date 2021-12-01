@@ -17,7 +17,7 @@ SpriteMons:
 	db POLIWAG
 	db PIKACHU
 	db CLEFAIRY
-	db CHARMANDER
+	db GRASSNIP
 	db JYNX
 	db STARMIE
 	db SUBMINO

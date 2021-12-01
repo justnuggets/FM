@@ -4,8 +4,8 @@ PokedexDataPointerTable:
 	dw SubminoPokedexEntry
 	dw SubzillaPokedexEntry
 	dw SubzilantePokedexEntry
-	dw CharmanderPokedexEntry
-	dw CharmeleonPokedexEntry
+	dw GrassnipPokedexEntry
+	dw LopsoilPokedexEntry
 	dw CharizardPokedexEntry
 	dw SquirtlePokedexEntry
 	dw WartortlePokedexEntry

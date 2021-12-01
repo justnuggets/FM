@@ -22,8 +22,8 @@
 	const SUBMINO    ; 01
 	const SUBZILLA   ; 02
 	const SUBZILANTE ; 03
-	const CHARMANDER ; 04
-	const CHARMELEON ; 05
+	const GRASSNIP   ; 04
+	const LOPSOIL    ; 05
 	const CHARIZARD  ; 06
 	const SQUIRTLE   ; 07
 	const WARTORTLE  ; 08

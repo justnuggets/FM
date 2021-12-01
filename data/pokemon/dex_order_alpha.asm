@@ -24,8 +24,8 @@ AlphabeticalPokedexOrder:
 	db CELEBI
 	db CHANSEY
 	db CHARIZARD
-	db CHARMANDER
-	db CHARMELEON
+	db GRASSNIP
+	db LOPSOIL
 	db CHIKORITA
 	db CHINCHOU
 	db CLEFABLE

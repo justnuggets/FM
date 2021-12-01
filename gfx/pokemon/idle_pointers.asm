@@ -3,8 +3,8 @@ AnimationIdlePointers:
 	dw SubminoAnimationIdle
 	dw SubzillaAnimationIdle
 	dw SubzilanteAnimationIdle
-	dw CharmanderAnimationIdle
-	dw CharmeleonAnimationIdle
+	dw GrassnipAnimationIdle
+	dw LopsoilAnimationIdle
 	dw CharizardAnimationIdle
 	dw SquirtleAnimationIdle
 	dw WartortleAnimationIdle

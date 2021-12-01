@@ -15,8 +15,8 @@ Footprints:
 INCBIN "gfx/footprints/egg_dex_none.1bpp",  footprint_top
 INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp",    footprint_top
 INCBIN "gfx/footprints/egg_dex_fairy_monster.1bpp",   footprint_top
-INCBIN "gfx/footprints/charmander.1bpp", footprint_top
-INCBIN "gfx/footprints/charmeleon.1bpp", footprint_top
+INCBIN "gfx/footprints/egg_dex_field_plant.1bpp", footprint_top
+INCBIN "gfx/footprints/egg_dex_field_plant.1bpp", footprint_top
 INCBIN "gfx/footprints/charizard.1bpp",  footprint_top
 INCBIN "gfx/footprints/squirtle.1bpp",   footprint_top
 INCBIN "gfx/footprints/wartortle.1bpp",  footprint_top
@@ -24,8 +24,8 @@ INCBIN "gfx/footprints/wartortle.1bpp",  footprint_top
 INCBIN "gfx/footprints/egg_dex_none.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/egg_dex_fairy_monster.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/charmander.1bpp", footprint_bottom
-INCBIN "gfx/footprints/charmeleon.1bpp", footprint_bottom
+INCBIN "gfx/footprints/egg_dex_field_plant.1bpp", footprint_bottom
+INCBIN "gfx/footprints/egg_dex_field_plant.1bpp", footprint_bottom
 INCBIN "gfx/footprints/charizard.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/squirtle.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/wartortle.1bpp",  footprint_bottom

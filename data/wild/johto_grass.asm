@@ -1729,13 +1729,13 @@ JohtoGrassWildMons:
 	db 7, MACHAMP
 	db 7, CHANSEY
 	; nite
-	db 100, SUBZILLA
-	db 100, SUBZILLA
-	db 100, SUBZILLA
-	db 100, SUBZILLA
-	db 100, SUBZILLA
-	db 100, SUBZILLA
-	db 100, SUBZILLA
+	db 10, GRASSNIP
+	db 10, GRASSNIP
+	db 10, SUBZILLA
+	db 10, SUBZILLA
+	db 10, SUBZILLA
+	db 10, SUBZILLA
+	db 10, SUBZILLA
 	end_grass_wildmons
 
 	db -1 ; end

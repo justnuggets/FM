@@ -43,8 +43,8 @@ SubzilanteEvosAttacks:
 	db 14, PAIN_SPLIT
 	db 0 ; no more level-up moves
 
-CharmanderEvosAttacks:
-	db EVOLVE_LEVEL, 16, CHARMELEON
+GrassnipEvosAttacks:
+	db EVOLVE_LEVEL, 16, LOPSOIL
 	db 0 ; no more evolutions
 	db 1, SCRATCH
 	db 1, GROWL
@@ -58,7 +58,7 @@ CharmanderEvosAttacks:
 	db 49, FIRE_SPIN
 	db 0 ; no more level-up moves
 
-CharmeleonEvosAttacks:
+LopsoilEvosAttacks:
 	db EVOLVE_LEVEL, 36, CHARIZARD
 	db 0 ; no more evolutions
 	db 1, SCRATCH

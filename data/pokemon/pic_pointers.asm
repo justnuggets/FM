@@ -9,10 +9,10 @@ PokemonPicPointers::
 	dba_pic SubzillaBackpic
 	dba_pic SubzilanteFrontpic
 	dba_pic SubzilanteBackpic
-	dba_pic CharmanderFrontpic
-	dba_pic CharmanderBackpic
-	dba_pic CharmeleonFrontpic
-	dba_pic CharmeleonBackpic
+	dba_pic GrassnipFrontpic
+	dba_pic GrassnipBackpic
+	dba_pic LopsoilFrontpic
+	dba_pic LopsoilBackpic
 	dba_pic CharizardFrontpic
 	dba_pic CharizardBackpic
 	dba_pic SquirtleFrontpic

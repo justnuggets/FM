@@ -3,8 +3,8 @@ FramesPointers:
 	dw SubminoFrames
 	dw SubzillaFrames
 	dw SubzilanteFrames
-	dw CharmanderFrames
-	dw CharmeleonFrames
+	dw GrassnipFrames
+	dw LopsoilFrames
 	dw CharizardFrames
 	dw SquirtleFrames
 	dw WartortleFrames
