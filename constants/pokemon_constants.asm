@@ -24,8 +24,8 @@
 	const SUBZILANTE ; 03
 	const GRASSNIP   ; 04
 	const LOPSOIL    ; 05
-	const CHARIZARD  ; 06
-	const SQUIRTLE   ; 07
+	const HAERAZOR   ; 06
+	const CUBBURN    ; 07
 	const WARTORTLE  ; 08
 	const BLASTOISE  ; 09
 	const CATERPIE   ; 0a

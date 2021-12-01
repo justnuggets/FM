@@ -5,8 +5,8 @@ AnimationIdlePointers:
 	dw SubzilanteAnimationIdle
 	dw GrassnipAnimationIdle
 	dw LopsoilAnimationIdle
-	dw CharizardAnimationIdle
-	dw SquirtleAnimationIdle
+	dw HaerazorAnimationIdle
+	dw CubburnAnimationIdle
 	dw WartortleAnimationIdle
 	dw BlastoiseAnimationIdle
 	dw CaterpieAnimationIdle

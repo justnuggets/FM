@@ -5,8 +5,8 @@ AnimationPointers:
 	dw SubzilanteAnimation
 	dw GrassnipAnimation
 	dw LopsoilAnimation
-	dw CharizardAnimation
-	dw SquirtleAnimation
+	dw HaerazorAnimation
+	dw CubburnAnimation
 	dw WartortleAnimation
 	dw BlastoiseAnimation
 	dw CaterpieAnimation

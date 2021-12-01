@@ -1731,10 +1731,10 @@ JohtoGrassWildMons:
 	; nite
 	db 10, GRASSNIP
 	db 10, GRASSNIP
-	db 10, SUBZILLA
-	db 10, SUBZILLA
-	db 10, SUBZILLA
-	db 10, SUBZILLA
+	db 10, LOPSOIL
+	db 10, LOPSOIL
+	db 10, HAERAZOR
+	db 10, HAERAZOR
 	db 10, SUBZILLA
 	end_grass_wildmons
 

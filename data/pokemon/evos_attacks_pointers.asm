@@ -7,8 +7,8 @@ EvosAttacksPointers::
 	dw SubzilanteEvosAttacks
 	dw GrassnipEvosAttacks
 	dw LopsoilEvosAttacks
-	dw CharizardEvosAttacks
-	dw SquirtleEvosAttacks
+	dw HaerazorEvosAttacks
+	dw CubburnEvosAttacks
 	dw WartortleEvosAttacks
 	dw BlastoiseEvosAttacks
 	dw CaterpieEvosAttacks

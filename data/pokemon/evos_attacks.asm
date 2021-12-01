@@ -35,10 +35,10 @@ SubzillaEvosAttacks:
 
 SubzilanteEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, SUBSTITUTE
-	db 1, METRONOME
-	db 1, TACKLE
-	db 4, MINIMIZE
+	db 1,  SUBSTITUTE
+	db 1,  METRONOME
+	db 1,  TACKLE
+	db 4,  MINIMIZE
 	db 10, BODY_SLAM
 	db 14, PAIN_SPLIT
 	db 0 ; no more level-up moves
@@ -46,101 +46,53 @@ SubzilanteEvosAttacks:
 GrassnipEvosAttacks:
 	db EVOLVE_LEVEL, 16, LOPSOIL
 	db 0 ; no more evolutions
-	db 1, SCRATCH
-	db 1, GROWL
-	db 7, EMBER
-	db 13, SMOKESCREEN
-	db 19, RAGE
-	db 25, SCARY_FACE
-	db 31, FLAMETHROWER
-	db 37, SLASH
-	db 43, DRAGON_RAGE
-	db 49, FIRE_SPIN
+	db 1, TACKLE
+	db 1, TAIL_WHIP
+	db 1, RAZOR_LEAF
+	db 1, LOW_KICK
 	db 0 ; no more level-up moves
 
 LopsoilEvosAttacks:
-	db EVOLVE_LEVEL, 36, CHARIZARD
-	db 0 ; no more evolutions
-	db 1, SCRATCH
-	db 1, GROWL
-	db 1, EMBER
-	db 7, EMBER
-	db 13, SMOKESCREEN
-	db 20, RAGE
-	db 27, SCARY_FACE
-	db 34, FLAMETHROWER
-	db 41, SLASH
-	db 48, DRAGON_RAGE
-	db 55, FIRE_SPIN
-	db 0 ; no more level-up moves
-
-CharizardEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, SCRATCH
-	db 1, GROWL
-	db 1, EMBER
-	db 1, SMOKESCREEN
-	db 7, EMBER
-	db 13, SMOKESCREEN
-	db 20, RAGE
-	db 27, SCARY_FACE
-	db 34, FLAMETHROWER
-	db 36, WING_ATTACK
-	db 44, SLASH
-	db 54, DRAGON_RAGE
-	db 64, FIRE_SPIN
-	db 0 ; no more level-up moves
-
-SquirtleEvosAttacks:
-	db EVOLVE_LEVEL, 16, WARTORTLE
+	db EVOLVE_LEVEL, 36, HAERAZOR
 	db 0 ; no more evolutions
 	db 1, TACKLE
-	db 4, TAIL_WHIP
-	db 7, BUBBLE
-	db 10, WITHDRAW
-	db 13, WATER_GUN
-	db 18, BITE
-	db 23, RAPID_SPIN
-	db 28, PROTECT
-	db 33, RAIN_DANCE
-	db 40, SKULL_BASH
-	db 47, HYDRO_PUMP
+	db 1, TAIL_WHIP
+	db 1, RAZOR_LEAF
+	db 1, LOW_KICK
+	db 0 ; no more level-up moves
+
+HaerazorEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 1, TAIL_WHIP
+	db 1, RAZOR_LEAF
+	db 1, LOW_KICK
+	db 0 ; no more level-up moves
+
+CubburnEvosAttacks:
+	db EVOLVE_LEVEL, 16, WARTORTLE
+	db 0 ; no more evolutions
+	db 1, SCRATCH
+	db 1, EMBER
+	db 1, SPARK	
+	db 1, SMOKESCREEN
 	db 0 ; no more level-up moves
 
 WartortleEvosAttacks:
 	db EVOLVE_LEVEL, 36, BLASTOISE
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 1, TAIL_WHIP
-	db 1, BUBBLE
-	db 4, TAIL_WHIP
-	db 7, BUBBLE
-	db 10, WITHDRAW
-	db 13, WATER_GUN
-	db 19, BITE
-	db 25, RAPID_SPIN
-	db 31, PROTECT
-	db 37, RAIN_DANCE
-	db 45, SKULL_BASH
-	db 53, HYDRO_PUMP
+	db 1, SCRATCH
+	db 1, EMBER
+	db 1, SPARK	
+	db 1, SMOKESCREEN
 	db 0 ; no more level-up moves
 
 BlastoiseEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 1, TAIL_WHIP
-	db 1, BUBBLE
-	db 1, WITHDRAW
-	db 4, TAIL_WHIP
-	db 7, BUBBLE
-	db 10, WITHDRAW
-	db 13, WATER_GUN
-	db 19, BITE
-	db 25, RAPID_SPIN
-	db 31, PROTECT
-	db 42, RAIN_DANCE
-	db 55, SKULL_BASH
-	db 68, HYDRO_PUMP
+	db 1, SCRATCH
+	db 1, EMBER
+	db 1, SPARK	
+	db 1, SMOKESCREEN
 	db 0 ; no more level-up moves
 
 CaterpieEvosAttacks:

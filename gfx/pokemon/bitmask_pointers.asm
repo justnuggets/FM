@@ -5,8 +5,8 @@ BitmasksPointers:
 	dw SubzilanteBitmasks
 	dw GrassnipBitmasks
 	dw LopsoilBitmasks
-	dw CharizardBitmasks
-	dw SquirtleBitmasks
+	dw HaerazorBitmasks
+	dw CubburnBitmasks
 	dw WartortleBitmasks
 	dw BlastoiseBitmasks
 	dw CaterpieBitmasks

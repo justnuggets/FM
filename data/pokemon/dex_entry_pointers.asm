@@ -6,8 +6,8 @@ PokedexDataPointerTable:
 	dw SubzilantePokedexEntry
 	dw GrassnipPokedexEntry
 	dw LopsoilPokedexEntry
-	dw CharizardPokedexEntry
-	dw SquirtlePokedexEntry
+	dw HaerazorPokedexEntry
+	dw CubburnPokedexEntry
 	dw WartortlePokedexEntry
 	dw BlastoisePokedexEntry
 	dw CaterpiePokedexEntry

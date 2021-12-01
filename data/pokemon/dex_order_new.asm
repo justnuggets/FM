@@ -7,6 +7,8 @@ NewPokedexOrder:
 	db SUBZILANTE
 	db GRASSNIP
 	db LOPSOIL
+	db HAERAZOR
+	db CUBBURN
 	db MEGANIUM
 	db CYNDAQUIL
 	db QUILAVA
@@ -232,8 +234,6 @@ NewPokedexOrder:
 	db SNORLAX
 	db CHIKORITA
 	db BAYLEEF
-	db CHARIZARD
-	db SQUIRTLE
 	db WARTORTLE
 	db BLASTOISE
 	db ARTICUNO

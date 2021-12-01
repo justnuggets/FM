@@ -13,10 +13,10 @@ PokemonPicPointers::
 	dba_pic GrassnipBackpic
 	dba_pic LopsoilFrontpic
 	dba_pic LopsoilBackpic
-	dba_pic CharizardFrontpic
-	dba_pic CharizardBackpic
-	dba_pic SquirtleFrontpic
-	dba_pic SquirtleBackpic
+	dba_pic HaerazorFrontpic
+	dba_pic HaerazorBackpic
+	dba_pic CubburnFrontpic
+	dba_pic CubburnBackpic
 	dba_pic WartortleFrontpic
 	dba_pic WartortleBackpic
 	dba_pic BlastoiseFrontpic

@@ -23,7 +23,7 @@ AlphabeticalPokedexOrder:
 	db CATERPIE
 	db CELEBI
 	db CHANSEY
-	db CHARIZARD
+	db HAERAZOR
 	db GRASSNIP
 	db LOPSOIL
 	db CHIKORITA
@@ -210,7 +210,7 @@ AlphabeticalPokedexOrder:
 	db SNUBBULL
 	db SPEAROW
 	db SPINARAK
-	db SQUIRTLE
+	db CUBBURN
 	db STANTLER
 	db STARMIE
 	db STARYU

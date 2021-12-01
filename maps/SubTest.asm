@@ -35,7 +35,7 @@ SubPokeBallScript:
 	setflag ENGINE_GLACIERBADGE
 	setflag ENGINE_RISINGBADGE
 	buttonsound
-	givepoke LOPSOIL, 10, POLKADOT_BOW
+	givepoke CUBBURN, 20, LEFTOVERS
 	closetext
 	end
 	

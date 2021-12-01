@@ -29,13 +29,12 @@ GrassnipEggMoves:
 	db FLAIL
 	db -1 ; end
 
-SquirtleEggMoves:
-	db MIRROR_COAT
+CubburnEggMoves:
+	db CRUNCH
 	db HAZE
 	db MIST
-	db CONFUSION
+	db PSYCHIC_M
 	db FORESIGHT
-	db FLAIL
 	db -1 ; end
 
 PidgeyEggMoves:

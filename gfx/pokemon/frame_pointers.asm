@@ -5,8 +5,8 @@ FramesPointers:
 	dw SubzilanteFrames
 	dw GrassnipFrames
 	dw LopsoilFrames
-	dw CharizardFrames
-	dw SquirtleFrames
+	dw HaerazorFrames
+	dw CubburnFrames
 	dw WartortleFrames
 	dw BlastoiseFrames
 	dw CaterpieFrames

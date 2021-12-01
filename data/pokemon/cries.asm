@@ -11,8 +11,8 @@ PokemonCries::
 	mon_cry CRY_CHARMANDER,  255,  156 ; SUBZILANTE
 	mon_cry CRY_ENTEI,       330,  273 ; GRASSNIP
 	mon_cry CRY_ENTEI,       230,  273 ; LOPSOIL
-	mon_cry CRY_CHARMANDER,    0,  256 ; CHARIZARD
-	mon_cry CRY_SQUIRTLE,     96,  192 ; SQUIRTLE
+	mon_cry CRY_ENTEI,       182,  256 ; HAERAZOR
+	mon_cry CRY_CHARMANDER,   96,  192 ; CUBBURN
 	mon_cry CRY_SQUIRTLE,     32,  192 ; WARTORTLE
 	mon_cry CRY_BLASTOISE,     0,  256 ; BLASTOISE
 	mon_cry CRY_CATERPIE,    128,  160 ; CATERPIE
