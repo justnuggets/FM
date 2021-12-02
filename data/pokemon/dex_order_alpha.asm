@@ -57,7 +57,7 @@ AlphabeticalPokedexOrder:
 	db ELEKID
 	db ENTEI
 	db ESPEON
-	db EXEGGCUTE
+	db QARTRIDGE
 	db EXEGGUTOR
 	db FARFETCH_D
 	db SNOLIPOLI
@@ -187,8 +187,8 @@ AlphabeticalPokedexOrder:
 	db REMORAID
 	db RHYDON
 	db RHYHORN
-	db SANDSHREW
-	db SANDSLASH
+	db FOWLLET
+	db FLOCKSHOT
 	db SCIZOR
 	db SCYTHER
 	db SEADRA

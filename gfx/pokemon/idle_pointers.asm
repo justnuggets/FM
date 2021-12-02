@@ -26,12 +26,12 @@ AnimationIdlePointers:
 	dw HailothAnimationIdle
 	dw TeakbeakAnimationIdle
 	dw WoodrillAnimationIdle
-	dw SandshrewAnimationIdle
-	dw SandslashAnimationIdle
-	dw NidoranFAnimationIdle
+	dw FowlletAnimationIdle
+	dw FlockshotAnimationIdle
+	dw QartridgeAnimationIdle
 	dw NidorinaAnimationIdle
 	dw NidoqueenAnimationIdle
-	dw NidoranMAnimationIdle
+	dw CuboneAnimationIdle
 	dw NidorinoAnimationIdle
 	dw NidokingAnimationIdle
 	dw ClefairyAnimationIdle
@@ -101,9 +101,9 @@ AnimationIdlePointers:
 	dw KinglerAnimationIdle
 	dw VoltorbAnimationIdle
 	dw ElectrodeAnimationIdle
-	dw ExeggcuteAnimationIdle
+	dw NidoranFAnimationIdle
 	dw ExeggutorAnimationIdle
-	dw CuboneAnimationIdle
+	dw NidoranMAnimationIdle
 	dw MarowakAnimationIdle
 	dw HitmonleeAnimationIdle
 	dw HitmonchanAnimationIdle

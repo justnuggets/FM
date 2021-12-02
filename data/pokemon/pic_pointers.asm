@@ -55,18 +55,18 @@ PokemonPicPointers::
 	dba_pic TeakbeakBackpic
 	dba_pic WoodrillFrontpic
 	dba_pic WoodrillBackpic
-	dba_pic SandshrewFrontpic
-	dba_pic SandshrewBackpic
-	dba_pic SandslashFrontpic
-	dba_pic SandslashBackpic
-	dba_pic NidoranFFrontpic
-	dba_pic NidoranFBackpic
+	dba_pic FowlletFrontpic
+	dba_pic FowlletBackpic
+	dba_pic FlockshotFrontpic
+	dba_pic FlockshotBackpic
+	dba_pic QartridgeFrontpic
+	dba_pic QartridgeBackpic
 	dba_pic NidorinaFrontpic
 	dba_pic NidorinaBackpic
 	dba_pic NidoqueenFrontpic
 	dba_pic NidoqueenBackpic
-	dba_pic NidoranMFrontpic
-	dba_pic NidoranMBackpic
+	dba_pic CuboneFrontpic
+	dba_pic CuboneBackpic
 	dba_pic NidorinoFrontpic
 	dba_pic NidorinoBackpic
 	dba_pic NidokingFrontpic
@@ -205,12 +205,12 @@ PokemonPicPointers::
 	dba_pic VoltorbBackpic
 	dba_pic ElectrodeFrontpic
 	dba_pic ElectrodeBackpic
-	dba_pic ExeggcuteFrontpic
-	dba_pic ExeggcuteBackpic
+	dba_pic NidoranFFrontpic
+	dba_pic NidoranFBackpic
 	dba_pic ExeggutorFrontpic
 	dba_pic ExeggutorBackpic
-	dba_pic CuboneFrontpic
-	dba_pic CuboneBackpic
+	dba_pic NidoranMFrontpic
+	dba_pic NidoranMBackpic
 	dba_pic MarowakFrontpic
 	dba_pic MarowakBackpic
 	dba_pic HitmonleeFrontpic

@@ -24,7 +24,7 @@ SubPokeBallScript:
 	writetext ReceivedText
 	playsound SFX_CAUGHT_MON
 	waitsfx
-	;PRE-REQUISITES FOR TM HM POKEMON
+	;PRE-REQUISITES FOR TM HM FIELD MOVE
 	setflag ENGINE_POKEDEX
 	setflag ENGINE_ZEPHYRBADGE
 	setflag ENGINE_HIVEBADGE
@@ -35,9 +35,10 @@ SubPokeBallScript:
 	setflag ENGINE_GLACIERBADGE
 	setflag ENGINE_RISINGBADGE
 	buttonsound
-	givepoke TEAKBEAK, 20
-	givepoke WOODRILL, 20
-	givepoke SANDSHREW, 20
+	;TEST POKEMON
+	givepoke FOWLLET, 20
+	givepoke FLOCKSHOT, 20
+	givepoke QARTRIDGE, 20
 	closetext
 	end
 	

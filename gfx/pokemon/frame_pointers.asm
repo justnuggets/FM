@@ -26,12 +26,12 @@ FramesPointers:
 	dw HailothFrames
 	dw TeakbeakFrames
 	dw WoodrillFrames
-	dw SandshrewFrames
-	dw SandslashFrames
-	dw NidoranFFrames
+	dw FowlletFrames
+	dw FlockshotFrames
+	dw QartridgeFrames
 	dw NidorinaFrames
 	dw NidoqueenFrames
-	dw NidoranMFrames
+	dw CuboneFrames
 	dw NidorinoFrames
 	dw NidokingFrames
 	dw ClefairyFrames
@@ -101,9 +101,9 @@ FramesPointers:
 	dw KinglerFrames
 	dw VoltorbFrames
 	dw ElectrodeFrames
-	dw ExeggcuteFrames
+	dw NidoranFFrames
 	dw ExeggutorFrames
-	dw CuboneFrames
+	dw NidoranMFrames
 	dw MarowakFrames
 	dw HitmonleeFrames
 	dw HitmonchanFrames

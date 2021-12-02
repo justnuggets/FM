@@ -28,6 +28,9 @@ NewPokedexOrder:
 	db HAILOTH
 	db TEAKBEAK
 	db WOODRILL
+	db FOWLLET
+	db FLOCKSHOT
+	db QARTRIDGE
 	db MEGANIUM
 	db CYNDAQUIL
 	db QUILAVA
@@ -58,8 +61,6 @@ NewPokedexOrder:
 	db WIGGLYTUFF
 	db TOGEPI
 	db TOGETIC
-	db SANDSHREW
-	db SANDSLASH
 	db DUNSPARCE
 	db MAREEP
 	db FLAAFFY
@@ -112,7 +113,6 @@ NewPokedexOrder:
 	db YANMA
 	db SUNKERN
 	db SUNFLORA
-	db EXEGGCUTE
 	db EXEGGUTOR
 	db SUDOWOODO
 	db WOBBUFFET

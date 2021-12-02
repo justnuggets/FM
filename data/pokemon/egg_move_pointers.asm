@@ -26,12 +26,12 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves ;teakbeak
 	dw NoEggMoves
-	dw SandshrewEggMoves
-	dw NoEggMoves
-	dw NidoranFEggMoves
+	dw FowlletEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw NidoranMEggMoves
+	dw NoEggMoves ;louspout
+	dw NoEggMoves
+	dw CuboneEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
@@ -101,9 +101,9 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw ExeggcuteEggMoves
+	dw NidoranFEggMoves
 	dw NoEggMoves
-	dw CuboneEggMoves
+	dw NidoranMEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

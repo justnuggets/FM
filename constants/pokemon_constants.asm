@@ -41,16 +41,16 @@
 	const LOCUTS     ; 14
 	const CHAWPPER   ; 15
 	const SNOLIPOLI  ; 16
-	const CRYSTALIS      ; 17
-	const HAILOTH      ; 18
-	const TEAKBEAK    ; 19
-	const WOODRILL     ; 1a
-	const SANDSHREW  ; 1b
-	const SANDSLASH  ; 1c
-	const NIDORAN_F  ; 1d
+	const CRYSTALIS  ; 17
+	const HAILOTH    ; 18
+	const TEAKBEAK   ; 19
+	const WOODRILL   ; 1a
+	const FOWLLET  	 ; 1b
+	const FLOCKSHOT  ; 1c
+	const QARTRIDGE  ; 1d 
 	const NIDORINA   ; 1e
 	const NIDOQUEEN  ; 1f
-	const NIDORAN_M  ; 20
+	const CUBONE	 ; 20 NIDORAN_M
 	const NIDORINO   ; 21
 	const NIDOKING   ; 22
 	const CLEFAIRY   ; 23
@@ -120,9 +120,9 @@
 	const KINGLER    ; 63
 	const VOLTORB    ; 64
 	const ELECTRODE  ; 65
-	const EXEGGCUTE  ; 66
+	const NIDORAN_F  ; 66
 	const EXEGGUTOR  ; 67
-	const CUBONE     ; 68
+	const NIDORAN_M     ; 68
 	const MAROWAK    ; 69
 	const HITMONLEE  ; 6a
 	const HITMONCHAN ; 6b

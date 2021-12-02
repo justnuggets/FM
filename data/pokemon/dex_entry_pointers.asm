@@ -27,12 +27,12 @@ PokedexDataPointerTable:
 	dw HailothPokedexEntry
 	dw TeakbeakPokedexEntry
 	dw WoodrillPokedexEntry
-	dw SandshrewPokedexEntry
-	dw SandslashPokedexEntry
-	dw NidoranFPokedexEntry
+	dw FowlletPokedexEntry
+	dw FlockshotPokedexEntry
+	dw QartridgePokedexEntry
 	dw NidorinaPokedexEntry
 	dw NidoqueenPokedexEntry
-	dw NidoranMPokedexEntry
+	dw CubonePokedexEntry
 	dw NidorinoPokedexEntry
 	dw NidokingPokedexEntry
 	dw ClefairyPokedexEntry
@@ -102,9 +102,9 @@ PokedexDataPointerTable:
 	dw KinglerPokedexEntry
 	dw VoltorbPokedexEntry
 	dw ElectrodePokedexEntry
-	dw ExeggcutePokedexEntry
+	dw NidoranFPokedexEntry
 	dw ExeggutorPokedexEntry
-	dw CubonePokedexEntry
+	dw NidoranMPokedexEntry
 	dw MarowakPokedexEntry
 	dw HitmonleePokedexEntry
 	dw HitmonchanPokedexEntry

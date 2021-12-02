@@ -28,12 +28,12 @@ EvosAttacksPointers::
 	dw HailothEvosAttacks
 	dw TeakbeakEvosAttacks
 	dw WoodrillEvosAttacks
-	dw SandshrewEvosAttacks
-	dw SandslashEvosAttacks
-	dw NidoranFEvosAttacks
+	dw FowlletEvosAttacks
+	dw FlockshotEvosAttacks
+	dw QartridgeEvosAttacks
 	dw NidorinaEvosAttacks
 	dw NidoqueenEvosAttacks
-	dw NidoranMEvosAttacks
+	dw CuboneEvosAttacks
 	dw NidorinoEvosAttacks
 	dw NidokingEvosAttacks
 	dw ClefairyEvosAttacks
@@ -103,9 +103,9 @@ EvosAttacksPointers::
 	dw KinglerEvosAttacks
 	dw VoltorbEvosAttacks
 	dw ElectrodeEvosAttacks
-	dw ExeggcuteEvosAttacks
+	dw NidoranFEvosAttacks
 	dw ExeggutorEvosAttacks
-	dw CuboneEvosAttacks
+	dw NidoranMEvosAttacks
 	dw MarowakEvosAttacks
 	dw HitmonleeEvosAttacks
 	dw HitmonchanEvosAttacks

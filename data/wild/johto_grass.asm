@@ -426,7 +426,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 6, GEODUDE
-	db 6, SANDSHREW
+	db 6, FOWLLET
 	db 5, ZUBAT
 	db 4, HOPSTOT
 	db 7, ZUBAT
@@ -434,7 +434,7 @@ JohtoGrassWildMons:
 	db 6, ONIX
 	; day
 	db 6, GEODUDE
-	db 6, SANDSHREW
+	db 6, FOWLLET
 	db 5, ZUBAT
 	db 4, HOPSTOT
 	db 7, ZUBAT
@@ -1733,8 +1733,8 @@ JohtoGrassWildMons:
 	db 10, GUINAPI
 	db 10, AXALOT
 	db 10, AXALOT
-	db 10, SUBZILANTE
-	db 10, SUBZILANTE
+	db 10, TEAKBEAK
+	db 10, TEAKBEAK
 	db 10, SUBZILLA
 	end_grass_wildmons
 

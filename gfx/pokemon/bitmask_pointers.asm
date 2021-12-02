@@ -26,12 +26,12 @@ BitmasksPointers:
 	dw HailothBitmasks
 	dw TeakbeakBitmasks
 	dw WoodrillBitmasks
-	dw SandshrewBitmasks
-	dw SandslashBitmasks
-	dw NidoranFBitmasks
+	dw FowlletBitmasks
+	dw FlockshotBitmasks
+	dw QartridgeBitmasks
 	dw NidorinaBitmasks
 	dw NidoqueenBitmasks
-	dw NidoranMBitmasks
+	dw CuboneBitmasks
 	dw NidorinoBitmasks
 	dw NidokingBitmasks
 	dw ClefairyBitmasks
@@ -101,9 +101,9 @@ BitmasksPointers:
 	dw KinglerBitmasks
 	dw VoltorbBitmasks
 	dw ElectrodeBitmasks
-	dw ExeggcuteBitmasks
-	dw ExeggutorBitmasks
-	dw CuboneBitmasks
+	dw NidoranFBitmasks
+	dw ExeggutorBitmasks	
+	dw NidoranMBitmasks
 	dw MarowakBitmasks
 	dw HitmonleeBitmasks
 	dw HitmonchanBitmasks

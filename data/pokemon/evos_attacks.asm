@@ -241,44 +241,30 @@ WoodrillEvosAttacks:
 	db 8, QUICK_ATTACK
 	db 0 ; no more level-up moves
 
-SandshrewEvosAttacks:
-	db EVOLVE_LEVEL, 22, SANDSLASH
+FowlletEvosAttacks:
+	db EVOLVE_LEVEL, 18, FLOCKSHOT
 	db 0 ; no more evolutions
-	db 1, SCRATCH
-	db 6, DEFENSE_CURL
-	db 11, SAND_ATTACK
-	db 17, POISON_STING
-	db 23, SLASH
-	db 30, SWIFT
-	db 37, FURY_SWIPES
-	db 45, SANDSTORM
-	db 0 ; no more level-up moves
-
-SandslashEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, SCRATCH
-	db 1, DEFENSE_CURL
-	db 1, SAND_ATTACK
-	db 6, DEFENSE_CURL
-	db 11, SAND_ATTACK
-	db 17, POISON_STING
-	db 24, SLASH
-	db 33, SWIFT
-	db 42, FURY_SWIPES
-	db 52, SANDSTORM
-	db 0 ; no more level-up moves
-
-NidoranFEvosAttacks:
-	db EVOLVE_LEVEL, 16, NIDORINA
-	db 0 ; no more evolutions
-	db 1, GROWL
 	db 1, TACKLE
-	db 8, SCRATCH
-	db 12, DOUBLE_KICK
-	db 17, POISON_STING
-	db 23, TAIL_WHIP
-	db 30, BITE
-	db 38, FURY_SWIPES
+	db 1, GROWL
+	db 6, GUST
+	db 8, QUICK_ATTACK
+	db 0 ; no more level-up moves
+
+FlockshotEvosAttacks:
+	db EVOLVE_LEVEL, 34, QARTRIDGE
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 1, GROWL
+	db 6, GUST
+	db 8, QUICK_ATTACK
+	db 0 ; no more level-up moves
+
+QartridgeEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 1, GROWL
+	db 6, GUST
+	db 8, QUICK_ATTACK
 	db 0 ; no more level-up moves
 
 NidorinaEvosAttacks:
@@ -303,7 +289,7 @@ NidoqueenEvosAttacks:
 	db 23, BODY_SLAM
 	db 0 ; no more level-up moves
 
-NidoranMEvosAttacks:
+CuboneEvosAttacks:
 	db EVOLVE_LEVEL, 16, NIDORINO
 	db 0 ; no more evolutions
 	db 1, LEER
@@ -1251,7 +1237,7 @@ ElectrodeEvosAttacks:
 	db 48, MIRROR_COAT
 	db 0 ; no more level-up moves
 
-ExeggcuteEvosAttacks:
+NidoranFEvosAttacks:
 	db EVOLVE_ITEM, LEAF_STONE, EXEGGUTOR
 	db 0 ; no more evolutions
 	db 1, BARRAGE
@@ -1274,7 +1260,7 @@ ExeggutorEvosAttacks:
 	db 31, EGG_BOMB
 	db 0 ; no more level-up moves
 
-CuboneEvosAttacks:
+NidoranMEvosAttacks:
 	db EVOLVE_LEVEL, 28, MAROWAK
 	db 0 ; no more evolutions
 	db 1, GROWL

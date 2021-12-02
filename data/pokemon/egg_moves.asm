@@ -75,7 +75,7 @@ SnolipoliEggMoves:
 	db PSYBEAM
 	db -1 ; end
 
-SandshrewEggMoves:
+FowlletEggMoves:
 	db FLAIL
 	db SAFEGUARD
 	db COUNTER
@@ -83,17 +83,7 @@ SandshrewEggMoves:
 	db METAL_CLAW
 	db -1 ; end
 
-NidoranFEggMoves:
-	db SUPERSONIC
-	db DISABLE
-	db TAKE_DOWN
-	db FOCUS_ENERGY
-	db CHARM
-	db COUNTER
-	db BEAT_UP
-	db -1 ; end
-
-NidoranMEggMoves:
+CuboneEggMoves:
 	db SUPERSONIC
 	db DISABLE
 	db TAKE_DOWN
@@ -306,7 +296,7 @@ KrabbyEggMoves:
 	db SLAM
 	db -1 ; end
 
-ExeggcuteEggMoves:
+NidoranFEggMoves:
 	db SYNTHESIS
 	db MOONLIGHT
 	db REFLECT
@@ -314,7 +304,7 @@ ExeggcuteEggMoves:
 	db ANCIENTPOWER
 	db -1 ; end
 
-CuboneEggMoves:
+NidoranMEggMoves:
 	db ROCK_SLIDE
 	db ANCIENTPOWER
 	db BELLY_DRUM

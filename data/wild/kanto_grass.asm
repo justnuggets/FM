@@ -35,7 +35,7 @@ KantoGrassWildMons:
 	; morn
 	db 6, ZUBAT
 	db 8, GEODUDE
-	db 8, SANDSHREW
+	db 8, FOWLLET
 	db 12, PARAS
 	db 10, GEODUDE
 	db 8, CLEFAIRY
@@ -43,7 +43,7 @@ KantoGrassWildMons:
 	; day
 	db 6, ZUBAT
 	db 8, GEODUDE
-	db 8, SANDSHREW
+	db 8, FOWLLET
 	db 12, PARAS
 	db 10, GEODUDE
 	db 8, CLEFAIRY
@@ -121,7 +121,7 @@ KantoGrassWildMons:
 	db 32, RHYHORN
 	db 33, ONIX
 	db 34, GOLBAT
-	db 35, SANDSLASH
+	db 35, FLOCKSHOT
 	db 35, RHYDON
 	db 35, RHYDON
 	; day
@@ -129,7 +129,7 @@ KantoGrassWildMons:
 	db 32, RHYHORN
 	db 33, ONIX
 	db 34, GOLBAT
-	db 35, SANDSLASH
+	db 35, FLOCKSHOT
 	db 35, RHYDON
 	db 35, RHYDON
 	; nite
@@ -234,16 +234,16 @@ KantoGrassWildMons:
 	db 8, CRYSTALIS
 	db 10, LOCUTS
 	db 10, HAILOTH
-	db 10, SANDSHREW
-	db 10, SANDSHREW
+	db 10, FOWLLET
+	db 10, FOWLLET
 	; day
 	db 5, CHAWPPER
 	db 5, HOPSTOT
 	db 8, CRYSTALIS
 	db 10, LOCUTS
 	db 10, HAILOTH
-	db 10, SANDSHREW
-	db 10, SANDSHREW
+	db 10, FOWLLET
+	db 10, FOWLLET
 	; nite
 	db 5, HOPSTOT
 	db 10, HOPSTOT
@@ -262,16 +262,16 @@ KantoGrassWildMons:
 	db 8, CRYSTALIS
 	db 10, LOCUTS
 	db 10, HAILOTH
-	db 10, SANDSHREW
-	db 10, SANDSHREW
+	db 10, FOWLLET
+	db 10, FOWLLET
 	; day
 	db 5, CHAWPPER
 	db 5, HOPSTOT
 	db 8, CRYSTALIS
 	db 10, LOCUTS
 	db 10, HAILOTH
-	db 10, SANDSHREW
-	db 10, SANDSHREW
+	db 10, FOWLLET
+	db 10, FOWLLET
 	; nite
 	db 5, HOPSTOT
 	db 10, HOPSTOT
@@ -762,7 +762,7 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 28, DODUO
-	db 28, SANDSLASH
+	db 28, FLOCKSHOT
 	db 32, PONYTA
 	db 30, LOCUTS
 	db 30, DODUO
@@ -770,7 +770,7 @@ KantoGrassWildMons:
 	db 30, HAILOTH
 	; day
 	db 28, DODUO
-	db 28, SANDSLASH
+	db 28, FLOCKSHOT
 	db 32, PONYTA
 	db 30, LOCUTS
 	db 30, DODUO

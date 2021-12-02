@@ -68,21 +68,21 @@ INCBIN "gfx/footprints/egg_dex_bug_mineral.1bpp",      footprint_bottom
 ; 025-032 top halves
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",    footprint_top
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",     footprint_top
-INCBIN "gfx/footprints/sandshrew.1bpp",  footprint_top
-INCBIN "gfx/footprints/sandslash.1bpp",  footprint_top
-INCBIN "gfx/footprints/nidoran_f.1bpp",  footprint_top
+INCBIN "gfx/footprints/egg_dex_flying.1bpp",  footprint_top
+INCBIN "gfx/footprints/egg_dex_flying.1bpp",  footprint_top
+INCBIN "gfx/footprints/egg_dex_flying.1bpp",  footprint_top
 INCBIN "gfx/footprints/nidorina.1bpp",   footprint_top
 INCBIN "gfx/footprints/nidoqueen.1bpp",  footprint_top
-INCBIN "gfx/footprints/nidoran_m.1bpp",  footprint_top
+INCBIN "gfx/footprints/cubone.1bpp",  footprint_top
 ; 025-032 bottom halves
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/sandshrew.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/sandslash.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/nidoran_f.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/egg_dex_flying.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/egg_dex_flying.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/egg_dex_flying.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/nidorina.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/nidoqueen.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/nidoran_m.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/cubone.1bpp",  footprint_bottom
 ; 033-040 top halves
 INCBIN "gfx/footprints/nidorino.1bpp",   footprint_top
 INCBIN "gfx/footprints/nidoking.1bpp",   footprint_top
@@ -233,18 +233,18 @@ INCBIN "gfx/footprints/krabby.1bpp",     footprint_top
 INCBIN "gfx/footprints/kingler.1bpp",    footprint_top
 INCBIN "gfx/footprints/voltorb.1bpp",    footprint_top
 INCBIN "gfx/footprints/electrode.1bpp",  footprint_top
-INCBIN "gfx/footprints/exeggcute.1bpp",  footprint_top
+INCBIN "gfx/footprints/nidoran_f.1bpp",  footprint_top
 INCBIN "gfx/footprints/exeggutor.1bpp",  footprint_top
-INCBIN "gfx/footprints/cubone.1bpp",     footprint_top
+INCBIN "gfx/footprints/nidoran_m.1bpp",     footprint_top
 ; 097-104 bottom halves
 INCBIN "gfx/footprints/hypno.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/krabby.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/kingler.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/voltorb.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/electrode.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/exeggcute.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/nidoran_f.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/exeggutor.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/cubone.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/nidoran_m.1bpp",     footprint_bottom
 ; 105-112 top halves
 INCBIN "gfx/footprints/marowak.1bpp",    footprint_top
 INCBIN "gfx/footprints/hitmonlee.1bpp",  footprint_top

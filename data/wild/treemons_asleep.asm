@@ -9,7 +9,7 @@ AsleepTreeMonsNite:
 	db OPOSSTER
 	db CHAWPPER
 	db CRYSTALIS
-	db EXEGGCUTE
+	db QARTRIDGE
 	db LEDYBA
 	db AIPOM
 	db -1 ; end
