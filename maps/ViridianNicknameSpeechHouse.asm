@@ -18,7 +18,7 @@ ViridianNicknameSpeechHouseLassScript:
 Speary:
 	opentext
 	writetext SpearyText
-	cry SPEAROW
+	cry SUBMINO
 	waitbutton
 	closetext
 	end
@@ -26,7 +26,7 @@ Speary:
 Rattey:
 	opentext
 	writetext RatteyText
-	cry RATTATA
+	cry SUBMINO
 	waitbutton
 	closetext
 	end

@@ -20,6 +20,12 @@ NewPokedexOrder:
 	db POSSUMUS
 	db AXALITL
 	db AXALOT
+	db HOPSTOT
+	db LOCUTS
+	db CHAWPPER
+	db SNOLIPOLI
+	db CRYSTALIS
+	db HAILOTH
 	db MEGANIUM
 	db CYNDAQUIL
 	db QUILAVA
@@ -27,12 +33,8 @@ NewPokedexOrder:
 	db TOTODILE
 	db CROCONAW
 	db FERALIGATR
-	db SPEAROW
-	db FEAROW
 	db HOOTHOOT
 	db NOCTOWL
-	db RATTATA
-	db RATICATE
 	db SENTRET
 	db FURRET
 	db PICHU
@@ -58,8 +60,6 @@ NewPokedexOrder:
 	db TOGETIC
 	db SANDSHREW
 	db SANDSLASH
-	db EKANS
-	db ARBOK
 	db DUNSPARCE
 	db MAREEP
 	db FLAAFFY

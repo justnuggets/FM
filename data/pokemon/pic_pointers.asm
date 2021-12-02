@@ -39,18 +39,18 @@ PokemonPicPointers::
 	dba_pic AxalitlBackpic
 	dba_pic AxalotFrontpic
 	dba_pic AxalotBackpic
-	dba_pic RattataFrontpic
-	dba_pic RattataBackpic
-	dba_pic RaticateFrontpic
-	dba_pic RaticateBackpic
-	dba_pic SpearowFrontpic
-	dba_pic SpearowBackpic
-	dba_pic FearowFrontpic
-	dba_pic FearowBackpic
-	dba_pic EkansFrontpic
-	dba_pic EkansBackpic
-	dba_pic ArbokFrontpic
-	dba_pic ArbokBackpic
+	dba_pic HopstotFrontpic
+	dba_pic HopstotBackpic
+	dba_pic LocutsFrontpic
+	dba_pic LocutsBackpic
+	dba_pic ChawpperFrontpic
+	dba_pic ChawpperBackpic
+	dba_pic SnolipoliFrontpic
+	dba_pic SnolipoliBackpic
+	dba_pic CrystalisFrontpic
+	dba_pic CrystalisBackpic
+	dba_pic HailothFrontpic
+	dba_pic HailothBackpic
 	dba_pic PikachuFrontpic
 	dba_pic PikachuBackpic
 	dba_pic RaichuFrontpic

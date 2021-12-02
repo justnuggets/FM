@@ -18,12 +18,12 @@ AnimationPointers:
 	dw PossumusAnimation
 	dw AxalitlAnimation
 	dw AxalotAnimation
-	dw RattataAnimation
-	dw RaticateAnimation
-	dw SpearowAnimation
-	dw FearowAnimation
-	dw EkansAnimation
-	dw ArbokAnimation
+	dw HopstotAnimation
+	dw LocutsAnimation
+	dw ChawpperAnimation
+	dw SnolipoliAnimation
+	dw CrystalisAnimation
+	dw HailothAnimation
 	dw PikachuAnimation
 	dw RaichuAnimation
 	dw SandshrewAnimation

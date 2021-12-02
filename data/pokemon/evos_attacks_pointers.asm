@@ -20,12 +20,12 @@ EvosAttacksPointers::
 	dw PossumusEvosAttacks
 	dw AxalitlEvosAttacks
 	dw AxalotEvosAttacks
-	dw RattataEvosAttacks
-	dw RaticateEvosAttacks
-	dw SpearowEvosAttacks
-	dw FearowEvosAttacks
-	dw EkansEvosAttacks
-	dw ArbokEvosAttacks
+	dw HopstotEvosAttacks
+	dw LocutsEvosAttacks
+	dw ChawpperEvosAttacks
+	dw SnolipoliEvosAttacks
+	dw CrystalisEvosAttacks
+	dw HailothEvosAttacks
 	dw PikachuEvosAttacks
 	dw RaichuEvosAttacks
 	dw SandshrewEvosAttacks

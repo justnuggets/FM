@@ -7,7 +7,7 @@ AlphabeticalPokedexOrder:
 	db AIPOM
 	db ALAKAZAM
 	db AMPHAROS
-	db ARBOK
+	db HAILOTH
 	db ARCANINE
 	db ARIADOS
 	db ARTICUNO
@@ -51,7 +51,7 @@ AlphabeticalPokedexOrder:
 	db DUGTRIO
 	db DUNSPARCE
 	db EEVEE
-	db EKANS
+	db CRYSTALIS
 	db ELECTABUZZ
 	db ELECTRODE
 	db ELEKID
@@ -60,7 +60,7 @@ AlphabeticalPokedexOrder:
 	db EXEGGCUTE
 	db EXEGGUTOR
 	db FARFETCH_D
-	db FEAROW
+	db SNOLIPOLI
 	db FERALIGATR
 	db FLAAFFY
 	db FLAREON
@@ -182,8 +182,8 @@ AlphabeticalPokedexOrder:
 	db RAICHU
 	db RAIKOU
 	db RAPIDASH
-	db RATICATE
-	db RATTATA
+	db LOCUTS
+	db HOPSTOT
 	db REMORAID
 	db RHYDON
 	db RHYHORN
@@ -208,7 +208,7 @@ AlphabeticalPokedexOrder:
 	db SNEASEL
 	db SNORLAX
 	db SNUBBULL
-	db SPEAROW
+	db CHAWPPER
 	db SPINARAK
 	db CUBBURN
 	db STANTLER

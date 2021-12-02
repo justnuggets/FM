@@ -23,7 +23,7 @@ SpriteMons:
 	db SUBMINO
 	db JIGGLYPUFF
 	db GRIMER
-	db EKANS
+	db CRYSTALIS
 	db PARAS
 	db TENTACOOL
 	db TAUROS

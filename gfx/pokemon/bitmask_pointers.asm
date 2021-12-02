@@ -18,12 +18,12 @@ BitmasksPointers:
 	dw PossumusBitmasks
 	dw AxalitlBitmasks
 	dw AxalotBitmasks
-	dw RattataBitmasks
-	dw RaticateBitmasks
-	dw SpearowBitmasks
-	dw FearowBitmasks
-	dw EkansBitmasks
-	dw ArbokBitmasks
+	dw HopstotBitmasks
+	dw LocutsBitmasks
+	dw ChawpperBitmasks
+	dw SnolipoliBitmasks
+	dw CrystalisBitmasks
+	dw HailothBitmasks
 	dw PikachuBitmasks
 	dw RaichuBitmasks
 	dw SandshrewBitmasks

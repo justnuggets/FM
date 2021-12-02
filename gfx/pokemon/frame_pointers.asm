@@ -18,12 +18,12 @@ FramesPointers:
 	dw PossumusFrames
 	dw AxalitlFrames
 	dw AxalotFrames
-	dw RattataFrames
-	dw RaticateFrames
-	dw SpearowFrames
-	dw FearowFrames
-	dw EkansFrames
-	dw ArbokFrames
+	dw HopstotFrames
+	dw LocutsFrames
+	dw ChawpperFrames
+	dw SnolipoliFrames
+	dw CrystalisFrames
+	dw HailothFrames
 	dw PikachuFrames
 	dw RaichuFrames
 	dw SandshrewFrames

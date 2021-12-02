@@ -18,12 +18,12 @@ AnimationIdlePointers:
 	dw PossumusAnimationIdle
 	dw AxalitlAnimationIdle
 	dw AxalotAnimationIdle
-	dw RattataAnimationIdle
-	dw RaticateAnimationIdle
-	dw SpearowAnimationIdle
-	dw FearowAnimationIdle
-	dw EkansAnimationIdle
-	dw ArbokAnimationIdle
+	dw HopstotAnimationIdle
+	dw LocutsAnimationIdle
+	dw ChawpperAnimationIdle
+	dw SnolipoliAnimationIdle
+	dw CrystalisAnimationIdle
+	dw HailothAnimationIdle
 	dw PikachuAnimationIdle
 	dw RaichuAnimationIdle
 	dw SandshrewAnimationIdle

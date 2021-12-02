@@ -24,12 +24,12 @@ PokemonCries::
 	mon_cry CRY_RATTATA,      -90, 383 ; POSSUMUS
 	mon_cry CRY_WOOPER,      147,  240 ; AXALITL
 	mon_cry CRY_WOOPER,     -250,  320 ; AXALOT
-	mon_cry CRY_RATTATA,       0,  256 ; RATTATA
-	mon_cry CRY_RATTATA,      32,  383 ; RATICATE
-	mon_cry CRY_SPEAROW,       0,  256 ; SPEAROW
-	mon_cry CRY_FEAROW,       64,  288 ; FEAROW
-	mon_cry CRY_EKANS,        18,  192 ; EKANS
-	mon_cry CRY_EKANS,       224,  144 ; ARBOK
+	mon_cry CRY_CHIKORITA,   232,  232 ; HOPSTOT
+	mon_cry CRY_CHIKORITA,   -34,  288 ; LOCUTS
+	mon_cry CRY_CHIKORITA,  -283,  512 ; CHAWPPER
+	mon_cry CRY_CATERPIE,    128,  160 ; SNOLIPOLI
+	mon_cry CRY_CLEFAIRY,     60,  129 ; CRYSTALIS
+	mon_cry CRY_CATERPIE,    119,  360 ; HAILOTH
 	mon_cry CRY_BULBASAUR,   238,  129 ; PIKACHU
 	mon_cry CRY_RAICHU,      238,  136 ; RAICHU
 	mon_cry CRY_NIDORAN_M,    32,  192 ; SANDSHREW

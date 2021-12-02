@@ -7,8 +7,8 @@ AsleepTreeMonsNite:
 	db HAMSEL
 	db GUINAPI
 	db OPOSSTER
-	db SPEAROW
-	db EKANS
+	db CHAWPPER
+	db CRYSTALIS
 	db EXEGGCUTE
 	db LEDYBA
 	db AIPOM

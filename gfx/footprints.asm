@@ -50,21 +50,21 @@ INCBIN "gfx/footprints/egg_dex_field.1bpp",     footprint_bottom
 ; 017-024 top halves
 INCBIN "gfx/footprints/egg_dex_amphibian_monster.1bpp",  footprint_top
 INCBIN "gfx/footprints/egg_dex_amphibian_monster.1bpp",    footprint_top
-INCBIN "gfx/footprints/rattata.1bpp",    footprint_top
-INCBIN "gfx/footprints/raticate.1bpp",   footprint_top
-INCBIN "gfx/footprints/spearow.1bpp",    footprint_top
-INCBIN "gfx/footprints/fearow.1bpp",     footprint_top
-INCBIN "gfx/footprints/ekans.1bpp",      footprint_top
-INCBIN "gfx/footprints/arbok.1bpp",      footprint_top
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_bug_mineral.1bpp",     footprint_top
+INCBIN "gfx/footprints/egg_dex_bug_mineral.1bpp",      footprint_top
+INCBIN "gfx/footprints/egg_dex_bug_mineral.1bpp",      footprint_top
 ; 017-024 bottom halves
 INCBIN "gfx/footprints/egg_dex_amphibian_monster.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/egg_dex_amphibian_monster.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/rattata.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/raticate.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/spearow.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/fearow.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/ekans.1bpp",      footprint_bottom
-INCBIN "gfx/footprints/arbok.1bpp",      footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug_mineral.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug_mineral.1bpp",      footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug_mineral.1bpp",      footprint_bottom
 ; 025-032 top halves
 INCBIN "gfx/footprints/pikachu.1bpp",    footprint_top
 INCBIN "gfx/footprints/raichu.1bpp",     footprint_top

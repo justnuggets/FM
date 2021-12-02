@@ -37,12 +37,12 @@
 	const POSSUMUS   ; 10
 	const AXALITL    ; 11
 	const AXALOT     ; 12
-	const RATTATA    ; 13
-	const RATICATE   ; 14
-	const SPEAROW    ; 15
-	const FEAROW     ; 16
-	const EKANS      ; 17
-	const ARBOK      ; 18
+	const HOPSTOT    ; 13
+	const LOCUTS     ; 14
+	const CHAWPPER   ; 15
+	const SNOLIPOLI  ; 16
+	const CRYSTALIS      ; 17
+	const HAILOTH      ; 18
 	const PIKACHU    ; 19
 	const RAICHU     ; 1a
 	const SANDSHREW  ; 1b

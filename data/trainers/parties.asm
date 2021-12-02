@@ -338,18 +338,18 @@ ErikaGroup:
 YoungsterGroup:
 	; YOUNGSTER (1)
 	db "JOEY@", TRAINERTYPE_NORMAL
-	db  4, RATTATA
+	db  4, HOPSTOT
 	db -1 ; end
 
 	; YOUNGSTER (2)
 	db "MIKEY@", TRAINERTYPE_NORMAL
 	db  2, POSSUMUS
-	db  4, RATTATA
+	db  4, HOPSTOT
 	db -1 ; end
 
 	; YOUNGSTER (3)
 	db "ALBERT@", TRAINERTYPE_NORMAL
-	db  6, RATTATA
+	db  6, HOPSTOT
 	db  8, ZUBAT
 	db -1 ; end
 
@@ -360,10 +360,10 @@ YoungsterGroup:
 
 	; YOUNGSTER (5)
 	db "SAMUEL@", TRAINERTYPE_NORMAL
-	db  7, RATTATA
+	db  7, HOPSTOT
 	db 10, SANDSHREW
-	db  8, SPEAROW
-	db  8, SPEAROW
+	db  8, CHAWPPER
+	db  8, CHAWPPER
 	db -1 ; end
 
 	; YOUNGSTER (6)
@@ -374,23 +374,23 @@ YoungsterGroup:
 
 	; YOUNGSTER (7)
 	db "JOEY@", TRAINERTYPE_NORMAL
-	db 15, RATTATA
+	db 15, HOPSTOT
 	db -1 ; end
 
 	; YOUNGSTER (8)
 	db "JOEY@", TRAINERTYPE_MOVES
-	db 21, RATICATE,   TAIL_WHIP, QUICK_ATTACK, HYPER_FANG, SCARY_FACE
+	db 21, LOCUTS,   TAIL_WHIP, QUICK_ATTACK, HYPER_FANG, SCARY_FACE
 	db -1 ; end
 
 	; YOUNGSTER (9)
 	db "WARREN@", TRAINERTYPE_NORMAL
-	db 35, FEAROW
+	db 35, SNOLIPOLI
 	db -1 ; end
 
 	; YOUNGSTER (10)
 	db "JIMMY@", TRAINERTYPE_NORMAL
-	db 33, RATICATE
-	db 33, ARBOK
+	db 33, LOCUTS
+	db 33, HAILOTH
 	db -1 ; end
 
 	; YOUNGSTER (11)
@@ -406,12 +406,12 @@ YoungsterGroup:
 
 	; YOUNGSTER (13)
 	db "JOEY@", TRAINERTYPE_MOVES
-	db 30, RATICATE,   TAIL_WHIP, QUICK_ATTACK, HYPER_FANG, PURSUIT
+	db 30, LOCUTS,   TAIL_WHIP, QUICK_ATTACK, HYPER_FANG, PURSUIT
 	db -1 ; end
 
 	; YOUNGSTER (14)
 	db "JOEY@", TRAINERTYPE_MOVES
-	db 37, RATICATE,   HYPER_BEAM, QUICK_ATTACK, HYPER_FANG, PURSUIT
+	db 37, LOCUTS,   HYPER_BEAM, QUICK_ATTACK, HYPER_FANG, PURSUIT
 	db -1 ; end
 
 SchoolboyGroup:
@@ -579,7 +579,7 @@ BirdKeeperGroup:
 
 	; BIRD_KEEPER (2)
 	db "ABE@", TRAINERTYPE_NORMAL
-	db  9, SPEAROW
+	db  9, CHAWPPER
 	db -1 ; end
 
 	; BIRD_KEEPER (3)
@@ -606,9 +606,9 @@ BirdKeeperGroup:
 
 	; BIRD_KEEPER (6)
 	db "DENIS@", TRAINERTYPE_NORMAL
-	db 18, SPEAROW
-	db 20, FEAROW
-	db 18, SPEAROW
+	db 18, CHAWPPER
+	db 20, SNOLIPOLI
+	db 18, CHAWPPER
 	db -1 ; end
 
 	; BIRD_KEEPER (7)
@@ -625,8 +625,8 @@ BirdKeeperGroup:
 
 	; BIRD_KEEPER (9)
 	db "ROY@", TRAINERTYPE_NORMAL
-	db 29, FEAROW
-	db 35, FEAROW
+	db 29, SNOLIPOLI
+	db 35, SNOLIPOLI
 	db -1 ; end
 
 	; BIRD_KEEPER (10)
@@ -650,7 +650,7 @@ BirdKeeperGroup:
 	db "PETER@", TRAINERTYPE_NORMAL
 	db  6, POSSUMUS
 	db  6, POSSUMUS
-	db  8, SPEAROW
+	db  8, CHAWPPER
 	db -1 ; end
 
 	; BIRD_KEEPER (14)
@@ -666,7 +666,7 @@ BirdKeeperGroup:
 	; BIRD_KEEPER (16)
 	db "BRET@", TRAINERTYPE_NORMAL
 	db 32, AXALITL
-	db 32, FEAROW
+	db 32, SNOLIPOLI
 	db -1 ; end
 
 	; BIRD_KEEPER (17)
@@ -702,7 +702,7 @@ LassGroup:
 	; LASS (3)
 	db "ALICE@", TRAINERTYPE_NORMAL
 	db 30, GLOOM
-	db 34, ARBOK
+	db 34, HAILOTH
 	db 30, GLOOM
 	db -1 ; end
 
@@ -1246,15 +1246,15 @@ GruntMGroup:
 
 	; GRUNTM (2)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db  7, RATTATA
+	db  7, HOPSTOT
 	db  9, ZUBAT
 	db  9, ZUBAT
 	db -1 ; end
 
 	; GRUNTM (3)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 24, RATICATE
-	db 24, RATICATE
+	db 24, LOCUTS
+	db 24, LOCUTS
 	db -1 ; end
 
 	; GRUNTM (4)
@@ -1266,11 +1266,11 @@ GruntMGroup:
 
 	; GRUNTM (5)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 21, RATTATA
-	db 21, RATTATA
-	db 23, RATTATA
-	db 23, RATTATA
-	db 23, RATTATA
+	db 21, HOPSTOT
+	db 21, HOPSTOT
+	db 23, HOPSTOT
+	db 23, HOPSTOT
+	db 23, HOPSTOT
 	db -1 ; end
 
 	; GRUNTM (6)
@@ -1284,7 +1284,7 @@ GruntMGroup:
 	db 23, KOFFING
 	db 23, GRIMER
 	db 23, ZUBAT
-	db 23, RATTATA
+	db 23, HOPSTOT
 	db -1 ; end
 
 	; GRUNTM (8)
@@ -1294,7 +1294,7 @@ GruntMGroup:
 
 	; GRUNTM (9)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 24, RATICATE
+	db 24, LOCUTS
 	db 26, KOFFING
 	db -1 ; end
 
@@ -1309,7 +1309,7 @@ GruntMGroup:
 	db "GRUNT@", TRAINERTYPE_NORMAL
 	db 23, MUK
 	db 23, KOFFING
-	db 25, RATTATA
+	db 25, HOPSTOT
 	db -1 ; end
 
 	; GRUNTM (12)
@@ -1319,12 +1319,12 @@ GruntMGroup:
 
 	; GRUNTM (13)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 27, RATTATA
+	db 27, HOPSTOT
 	db -1 ; end
 
 	; GRUNTM (14)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 24, RATICATE
+	db 24, LOCUTS
 	db 24, GOLBAT
 	db -1 ; end
 
@@ -1336,10 +1336,10 @@ GruntMGroup:
 
 	; GRUNTM (16)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 16, RATTATA
-	db 16, RATTATA
-	db 16, RATTATA
-	db 16, RATTATA
+	db 16, HOPSTOT
+	db 16, HOPSTOT
+	db 16, HOPSTOT
+	db 16, HOPSTOT
 	db -1 ; end
 
 	; GRUNTM (17)
@@ -1349,9 +1349,9 @@ GruntMGroup:
 
 	; GRUNTM (18)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 17, RATTATA
+	db 17, HOPSTOT
 	db 17, ZUBAT
-	db 17, RATTATA
+	db 17, HOPSTOT
 	db -1 ; end
 
 	; GRUNTM (19)
@@ -1370,7 +1370,7 @@ GruntMGroup:
 	db "GRUNT@", TRAINERTYPE_NORMAL
 	db 16, ZUBAT
 	db 17, GRIMER
-	db 18, RATTATA
+	db 18, HOPSTOT
 	db -1 ; end
 
 	; GRUNTM (22)
@@ -1397,8 +1397,8 @@ GruntMGroup:
 
 	; GRUNTM (26)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 15, RATTATA
-	db 15, RATTATA
+	db 15, HOPSTOT
+	db 15, HOPSTOT
 	db -1 ; end
 
 	; GRUNTM (27)
@@ -1408,20 +1408,20 @@ GruntMGroup:
 
 	; GRUNTM (28)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 19, RATICATE
+	db 19, LOCUTS
 	db -1 ; end
 
 	; GRUNTM (29)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db  9, RATTATA
-	db  9, RATTATA
+	db  9, HOPSTOT
+	db  9, HOPSTOT
 	db -1 ; end
 
 	; GRUNTM (30)
 	db "GRUNT@", TRAINERTYPE_NORMAL
 	db 25, GOLBAT
 	db 25, GOLBAT
-	db 30, ARBOK
+	db 30, HAILOTH
 	db -1 ; end
 
 	; GRUNTM (31)
@@ -2030,7 +2030,7 @@ SailorGroup:
 	; SAILOR (1)
 	db "EUGENE@", TRAINERTYPE_NORMAL
 	db 17, POLIWHIRL
-	db 17, RATICATE
+	db 17, LOCUTS
 	db 19, KRABBY
 	db -1 ; end
 
@@ -2060,8 +2060,8 @@ SailorGroup:
 
 	; SAILOR (6)
 	db "JEFF@", TRAINERTYPE_NORMAL
-	db 32, RATICATE
-	db 32, RATICATE
+	db 32, LOCUTS
+	db 32, LOCUTS
 	db -1 ; end
 
 	; SAILOR (7)
@@ -2683,7 +2683,7 @@ ExecutiveMGroup:
 	; EXECUTIVEM (4)
 	db "EXECUTIVE@", TRAINERTYPE_NORMAL
 	db 22, ZUBAT
-	db 24, RATICATE
+	db 24, LOCUTS
 	db 22, KOFFING
 	db -1 ; end
 
@@ -3052,7 +3052,7 @@ CamperGroup:
 
 	; CAMPER (22)
 	db "QUENTIN@", TRAINERTYPE_NORMAL
-	db 30, FEAROW
+	db 30, SNOLIPOLI
 	db 30, PRIMEAPE
 	db 30, TAUROS
 	db -1 ; end
@@ -3060,14 +3060,14 @@ CamperGroup:
 ExecutiveFGroup:
 	; EXECUTIVEF (1)
 	db "EXECUTIVE@", TRAINERTYPE_MOVES
-	db 32, ARBOK,      WRAP, POISON_STING, BITE, GLARE
+	db 32, HAILOTH,      WRAP, POISON_STING, BITE, GLARE
 	db 32, VILEPLUME,  ABSORB, SWEET_SCENT, SLEEP_POWDER, ACID
 	db 32, MURKROW,    PECK, PURSUIT, HAZE, NIGHT_SHADE
 	db -1 ; end
 
 	; EXECUTIVEF (2)
 	db "EXECUTIVE@", TRAINERTYPE_MOVES
-	db 23, ARBOK,      WRAP, LEER, POISON_STING, BITE
+	db 23, HAILOTH,      WRAP, LEER, POISON_STING, BITE
 	db 23, GLOOM,      ABSORB, SWEET_SCENT, SLEEP_POWDER, ACID
 	db 25, MURKROW,    PECK, PURSUIT, HAZE, NO_MOVE
 	db -1 ; end
@@ -3460,12 +3460,12 @@ GruntFGroup:
 	; GRUNTF (1)
 	db "GRUNT@", TRAINERTYPE_NORMAL
 	db  9, ZUBAT
-	db 11, EKANS
+	db 11, CRYSTALIS
 	db -1 ; end
 
 	; GRUNTF (2)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 26, ARBOK
+	db 26, HAILOTH
 	db -1 ; end
 
 	; GRUNTF (3)
@@ -3476,15 +3476,15 @@ GruntFGroup:
 
 	; GRUNTF (4)
 	db "GRUNT@", TRAINERTYPE_NORMAL
-	db 21, EKANS
+	db 21, CRYSTALIS
 	db 23, ODDISH
-	db 21, EKANS
+	db 21, CRYSTALIS
 	db 24, GLOOM
 	db -1 ; end
 
 	; GRUNTF (5)
 	db "GRUNT@", TRAINERTYPE_MOVES
-	db 18, EKANS,      WRAP, LEER, POISON_STING, BITE
+	db 18, CRYSTALIS,      WRAP, LEER, POISON_STING, BITE
 	db 18, GLOOM,      ABSORB, SWEET_SCENT, STUN_SPORE, SLEEP_POWDER
 	db -1 ; end
 

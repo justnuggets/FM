@@ -18,11 +18,11 @@ EggMovePointers::
 	dw NoEggMoves
 	dw AxalitlEggMoves
 	dw NoEggMoves
-	dw RattataEggMoves
+	dw HopstotEggMoves
 	dw NoEggMoves
-	dw SpearowEggMoves
+	dw NoEggMoves	
+	dw SnolipoliEggMoves
 	dw NoEggMoves
-	dw EkansEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

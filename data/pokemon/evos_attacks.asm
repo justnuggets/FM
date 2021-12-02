@@ -25,7 +25,7 @@ SubminoEvosAttacks:
 	db 0 ; no more level-up moves
 
 SubzillaEvosAttacks:
-	db EVOLVE_LEVEL, 36, SUBZILANTE
+	db EVOLVE_LEVEL, 32, SUBZILANTE
 	db 0 ; no more evolutions
 	db 1, SUBSTITUTE
 	db 1, METRONOME
@@ -156,7 +156,7 @@ PossumusEvosAttacks:
 	db 0 ; no more level-up moves
 
 AxalitlEvosAttacks:
-	db EVOLVE_LEVEL, 36, AXALOT
+	db EVOLVE_LEVEL, 22, AXALOT
 	db 0 ; no more evolutions
 	db 1, POUND
 	db 1, ACID
@@ -172,82 +172,56 @@ AxalotEvosAttacks:
 	db 1, AMNESIA
 	db 0 ; no more level-up moves
 
-RattataEvosAttacks:
-	db EVOLVE_LEVEL, 20, RATICATE
+HopstotEvosAttacks:
+	db EVOLVE_LEVEL, 12, LOCUTS
 	db 0 ; no more evolutions
+	db 1, SPLASH
 	db 1, TACKLE
-	db 1, TAIL_WHIP
-	db 7, QUICK_ATTACK
-	db 13, HYPER_FANG
-	db 20, FOCUS_ENERGY
-	db 27, PURSUIT
-	db 34, SUPER_FANG
+	db 1, PIN_MISSILE
+	db 1, LEECH_LIFE
 	db 0 ; no more level-up moves
 
-RaticateEvosAttacks:
+LocutsEvosAttacks:
+	db EVOLVE_LEVEL, 28, CHAWPPER
 	db 0 ; no more evolutions
+	db 1, SPLASH
 	db 1, TACKLE
-	db 1, TAIL_WHIP
-	db 1, QUICK_ATTACK
-	db 7, QUICK_ATTACK
-	db 13, HYPER_FANG
-	db 20, SCARY_FACE
-	db 30, PURSUIT
-	db 40, SUPER_FANG
+	db 1, PIN_MISSILE
+	db 1, LEECH_LIFE
 	db 0 ; no more level-up moves
 
-SpearowEvosAttacks:
-	db EVOLVE_LEVEL, 20, FEAROW
+ChawpperEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, PECK
-	db 1, GROWL
-	db 7, LEER
-	db 13, FURY_ATTACK
-	db 25, PURSUIT
-	db 31, MIRROR_MOVE
-	db 37, DRILL_PECK
-	db 43, AGILITY
+	db 1, SPLASH
+	db 1, TACKLE
+	db 1, PIN_MISSILE
+	db 1, LEECH_LIFE
 	db 0 ; no more level-up moves
 
-FearowEvosAttacks:
+SnolipoliEvosAttacks:
+	db EVOLVE_LEVEL, 9, CRYSTALIS
 	db 0 ; no more evolutions
-	db 1, PECK
-	db 1, GROWL
-	db 1, LEER
-	db 1, FURY_ATTACK
-	db 7, LEER
-	db 13, FURY_ATTACK
-	db 26, PURSUIT
-	db 32, MIRROR_MOVE
-	db 40, DRILL_PECK
-	db 47, AGILITY
+	db 1, ICY_WIND
+	db 1, LEECH_LIFE
+	db 1, STRING_SHOT
+	db 1, HARDEN
 	db 0 ; no more level-up moves
 
-EkansEvosAttacks:
-	db EVOLVE_LEVEL, 22, ARBOK
+CrystalisEvosAttacks:
+	db EVOLVE_LEVEL, 12, HAILOTH
 	db 0 ; no more evolutions
-	db 1, WRAP
-	db 1, LEER
-	db 9, POISON_STING
-	db 15, BITE
-	db 23, GLARE
-	db 29, SCREECH
-	db 37, ACID
-	db 43, HAZE
+	db 1, ICY_WIND
+	db 1, LEECH_LIFE
+	db 1, STRING_SHOT
+	db 1, HARDEN
 	db 0 ; no more level-up moves
 
-ArbokEvosAttacks:
+HailothEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, WRAP
-	db 1, LEER
-	db 1, POISON_STING
-	db 1, BITE
-	db 9, POISON_STING
-	db 15, BITE
-	db 25, GLARE
-	db 33, SCREECH
-	db 43, ACID
-	db 51, HAZE
+	db 1, ICY_WIND
+	db 1, LEECH_LIFE
+	db 1, STRING_SHOT
+	db 1, HARDEN
 	db 0 ; no more level-up moves
 
 PikachuEvosAttacks:

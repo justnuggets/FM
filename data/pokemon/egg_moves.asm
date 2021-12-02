@@ -66,29 +66,13 @@ AxalitlEggMoves:
 	db CURSE
 	db -1 ; end
 
-RattataEggMoves:
+HopstotEggMoves:
 	db SCREECH
-	db FLAME_WHEEL
-	db FURY_SWIPES
-	db BITE
-	db COUNTER
-	db REVERSAL
+	db WING_ATTACK
 	db -1 ; end
 
-SpearowEggMoves:
-	db FAINT_ATTACK
-	db FALSE_SWIPE
-	db SCARY_FACE
-	db QUICK_ATTACK
-	db TRI_ATTACK
-	db -1 ; end
-
-EkansEggMoves:
-	db PURSUIT
-	db SLAM
-	db SPITE
-	db BEAT_UP
-	db CRUNCH
+SnolipoliEggMoves:
+	db PSYBEAM
 	db -1 ; end
 
 SandshrewEggMoves:

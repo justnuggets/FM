@@ -19,12 +19,12 @@ PokedexDataPointerTable:
 	dw PossumusPokedexEntry
 	dw AxalitlPokedexEntry
 	dw AxalotPokedexEntry
-	dw RattataPokedexEntry
-	dw RaticatePokedexEntry
-	dw SpearowPokedexEntry
-	dw FearowPokedexEntry
-	dw EkansPokedexEntry
-	dw ArbokPokedexEntry
+	dw HopstotPokedexEntry
+	dw LocutsPokedexEntry
+	dw ChawpperPokedexEntry
+	dw SnolipoliPokedexEntry
+	dw CrystalisPokedexEntry
+	dw HailothPokedexEntry
 	dw PikachuPokedexEntry
 	dw RaichuPokedexEntry
 	dw SandshrewPokedexEntry
