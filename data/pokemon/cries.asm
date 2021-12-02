@@ -30,8 +30,8 @@ PokemonCries::
 	mon_cry CRY_CATERPIE,    128,  160 ; SNOLIPOLI
 	mon_cry CRY_CLEFAIRY,     60,  129 ; CRYSTALIS
 	mon_cry CRY_CATERPIE,    119,  360 ; HAILOTH
-	mon_cry CRY_BULBASAUR,   238,  129 ; PIKACHU
-	mon_cry CRY_RAICHU,      238,  136 ; RAICHU
+	mon_cry CRY_SPEAROW,     264,  129 ; TEAKBEAK
+	mon_cry CRY_FEAROW,       64,  288 ; WOODRILL
 	mon_cry CRY_NIDORAN_M,    32,  192 ; SANDSHREW
 	mon_cry CRY_NIDORAN_M,   255,  383 ; SANDSLASH
 	mon_cry CRY_NIDORAN_F,     0,  256 ; NIDORAN_F

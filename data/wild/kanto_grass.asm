@@ -206,16 +206,16 @@ KantoGrassWildMons:
 	db 5, POSSUMUS
 	db 7, HIPTORRENT
 	db 7, LEDIAN
-	db 4, PIKACHU
-	db 4, PIKACHU
+	db 4, TEAKBEAK
+	db 4, TEAKBEAK
 	; day
 	db 3, HIPPOUR
 	db 3, POSSUMUS
 	db 5, POSSUMUS
 	db 7, HIPTORRENT
 	db 7, AXALITL
-	db 4, PIKACHU
-	db 4, PIKACHU
+	db 4, TEAKBEAK
+	db 4, TEAKBEAK
 	; nite
 	db 3, HOOTHOOT
 	db 3, SPINARAK

@@ -26,8 +26,8 @@ EvosAttacksPointers::
 	dw SnolipoliEvosAttacks
 	dw CrystalisEvosAttacks
 	dw HailothEvosAttacks
-	dw PikachuEvosAttacks
-	dw RaichuEvosAttacks
+	dw TeakbeakEvosAttacks
+	dw WoodrillEvosAttacks
 	dw SandshrewEvosAttacks
 	dw SandslashEvosAttacks
 	dw NidoranFEvosAttacks

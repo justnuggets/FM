@@ -43,8 +43,8 @@
 	const SNOLIPOLI  ; 16
 	const CRYSTALIS      ; 17
 	const HAILOTH      ; 18
-	const PIKACHU    ; 19
-	const RAICHU     ; 1a
+	const TEAKBEAK    ; 19
+	const WOODRILL     ; 1a
 	const SANDSHREW  ; 1b
 	const SANDSLASH  ; 1c
 	const NIDORAN_F  ; 1d

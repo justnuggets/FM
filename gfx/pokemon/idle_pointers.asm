@@ -24,8 +24,8 @@ AnimationIdlePointers:
 	dw SnolipoliAnimationIdle
 	dw CrystalisAnimationIdle
 	dw HailothAnimationIdle
-	dw PikachuAnimationIdle
-	dw RaichuAnimationIdle
+	dw TeakbeakAnimationIdle
+	dw WoodrillAnimationIdle
 	dw SandshrewAnimationIdle
 	dw SandslashAnimationIdle
 	dw NidoranFAnimationIdle

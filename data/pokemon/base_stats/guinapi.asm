@@ -3,7 +3,7 @@
 	db  100,  81,  69,  80,  55,  55
 	;   hp  atk  def  spd  sat  sdf
 
-	db BUG, POISON ; type
+	db NORMAL, GROUND ; type
 	db 90 ; catch rate
 	db 116 ; base exp
 	db BERRY, BERRY ; items

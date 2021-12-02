@@ -15,7 +15,7 @@ SpriteMons:
 	db HIPTORRENT
 	db DIGLETT
 	db POLIWAG
-	db PIKACHU
+	db TEAKBEAK
 	db CLEFAIRY
 	db GRASSNIP
 	db JYNX

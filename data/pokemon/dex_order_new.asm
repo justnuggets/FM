@@ -26,6 +26,8 @@ NewPokedexOrder:
 	db SNOLIPOLI
 	db CRYSTALIS
 	db HAILOTH
+	db TEAKBEAK
+	db WOODRILL
 	db MEGANIUM
 	db CYNDAQUIL
 	db QUILAVA
@@ -38,8 +40,6 @@ NewPokedexOrder:
 	db SENTRET
 	db FURRET
 	db PICHU
-	db PIKACHU
-	db RAICHU
 	db LEDYBA
 	db LEDIAN
 	db SPINARAK

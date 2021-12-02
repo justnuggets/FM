@@ -24,8 +24,8 @@ FramesPointers:
 	dw SnolipoliFrames
 	dw CrystalisFrames
 	dw HailothFrames
-	dw PikachuFrames
-	dw RaichuFrames
+	dw TeakbeakFrames
+	dw WoodrillFrames
 	dw SandshrewFrames
 	dw SandslashFrames
 	dw NidoranFFrames

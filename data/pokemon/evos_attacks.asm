@@ -224,28 +224,21 @@ HailothEvosAttacks:
 	db 1, HARDEN
 	db 0 ; no more level-up moves
 
-PikachuEvosAttacks:
-	db EVOLVE_ITEM, THUNDERSTONE, RAICHU
+TeakbeakEvosAttacks:
+	db EVOLVE_LEVEL, 21, WOODRILL
 	db 0 ; no more evolutions
-	db 1, THUNDERSHOCK
+	db 1, TACKLE
 	db 1, GROWL
-	db 6, TAIL_WHIP
-	db 8, THUNDER_WAVE
-	db 11, QUICK_ATTACK
-	db 15, DOUBLE_TEAM
-	db 20, SLAM
-	db 26, THUNDERBOLT
-	db 33, AGILITY
-	db 41, THUNDER
-	db 50, LIGHT_SCREEN
+	db 6, PECK
+	db 8, QUICK_ATTACK
 	db 0 ; no more level-up moves
 
-RaichuEvosAttacks:
+WoodrillEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, THUNDERSHOCK
-	db 1, TAIL_WHIP
-	db 1, QUICK_ATTACK
-	db 1, THUNDERBOLT
+	db 1, TACKLE
+	db 1, GROWL
+	db 6, PECK
+	db 8, QUICK_ATTACK
 	db 0 ; no more level-up moves
 
 SandshrewEvosAttacks:
@@ -2224,7 +2217,7 @@ LanturnEvosAttacks:
 	db 0 ; no more level-up moves
 
 PichuEvosAttacks:
-	db EVOLVE_HAPPINESS, TR_ANYTIME, PIKACHU
+	db EVOLVE_HAPPINESS, TR_ANYTIME, TEAKBEAK
 	db 0 ; no more evolutions
 	db 1, THUNDERSHOCK
 	db 1, CHARM

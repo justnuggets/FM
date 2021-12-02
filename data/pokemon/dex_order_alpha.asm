@@ -162,7 +162,7 @@ AlphabeticalPokedexOrder:
 	db AXALOT
 	db AXALITL
 	db POSSUMUS
-	db PIKACHU
+	db TEAKBEAK
 	db PILOSWINE
 	db PINECO
 	db PINSIR
@@ -179,7 +179,7 @@ AlphabeticalPokedexOrder:
 	db QUAGSIRE
 	db QUILAVA
 	db QWILFISH
-	db RAICHU
+	db WOODRILL
 	db RAIKOU
 	db RAPIDASH
 	db LOCUTS

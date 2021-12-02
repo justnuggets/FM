@@ -51,10 +51,10 @@ PokemonPicPointers::
 	dba_pic CrystalisBackpic
 	dba_pic HailothFrontpic
 	dba_pic HailothBackpic
-	dba_pic PikachuFrontpic
-	dba_pic PikachuBackpic
-	dba_pic RaichuFrontpic
-	dba_pic RaichuBackpic
+	dba_pic TeakbeakFrontpic
+	dba_pic TeakbeakBackpic
+	dba_pic WoodrillFrontpic
+	dba_pic WoodrillBackpic
 	dba_pic SandshrewFrontpic
 	dba_pic SandshrewBackpic
 	dba_pic SandslashFrontpic

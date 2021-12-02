@@ -24,8 +24,8 @@ BitmasksPointers:
 	dw SnolipoliBitmasks
 	dw CrystalisBitmasks
 	dw HailothBitmasks
-	dw PikachuBitmasks
-	dw RaichuBitmasks
+	dw TeakbeakBitmasks
+	dw WoodrillBitmasks
 	dw SandshrewBitmasks
 	dw SandslashBitmasks
 	dw NidoranFBitmasks

@@ -24,7 +24,7 @@ EggMovePointers::
 	dw SnolipoliEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw NoEggMoves
+	dw NoEggMoves ;teakbeak
 	dw NoEggMoves
 	dw SandshrewEggMoves
 	dw NoEggMoves

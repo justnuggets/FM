@@ -24,8 +24,8 @@ AnimationPointers:
 	dw SnolipoliAnimation
 	dw CrystalisAnimation
 	dw HailothAnimation
-	dw PikachuAnimation
-	dw RaichuAnimation
+	dw TeakbeakAnimation
+	dw WoodrillAnimation
 	dw SandshrewAnimation
 	dw SandslashAnimation
 	dw NidoranFAnimation

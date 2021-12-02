@@ -35,9 +35,9 @@ SubPokeBallScript:
 	setflag ENGINE_GLACIERBADGE
 	setflag ENGINE_RISINGBADGE
 	buttonsound
-	givepoke SNOLIPOLI, 20
-	givepoke CRYSTALIS, 20
-	givepoke HAILOTH, 20
+	givepoke TEAKBEAK, 20
+	givepoke WOODRILL, 20
+	givepoke SANDSHREW, 20
 	closetext
 	end
 	

@@ -2766,8 +2766,8 @@ LightBallBoost:
 ; holding a Light Ball, double it.
 	push bc
 	push de
-	ld b, PIKACHU
-	ld c, PIKACHU
+	ld b, SUBMINO ; PIKACHU
+	ld c, SUBMINO ; PIKACHU
 	ld d, LIGHT_BALL
 	call SpeciesItemBoost
 	pop de

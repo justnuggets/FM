@@ -25,8 +25,8 @@ PokedexDataPointerTable:
 	dw SnolipoliPokedexEntry
 	dw CrystalisPokedexEntry
 	dw HailothPokedexEntry
-	dw PikachuPokedexEntry
-	dw RaichuPokedexEntry
+	dw TeakbeakPokedexEntry
+	dw WoodrillPokedexEntry
 	dw SandshrewPokedexEntry
 	dw SandslashPokedexEntry
 	dw NidoranFPokedexEntry
