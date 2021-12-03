@@ -74,26 +74,33 @@ HopstotEggMoves:
 SnolipoliEggMoves:
 	db PSYBEAM
 	db -1 ; end
+	
+TeakbeakEggMoves:
+	db SPLASH
+	db -1 ; end
 
 FowlletEggMoves:
 	db FLAIL
 	db SAFEGUARD
-	db COUNTER
-	db RAPID_SPIN
+	db DISABLE
+	db DESTINY_BOND
+	db -1 ; end
+	
+LouspoutEggMoves:
+	db SPLASH
+	db -1 ; end
+
+SkardineEggMoves:
+	db STEEL_WING
+	db CRUNCH
 	db METAL_CLAW
 	db -1 ; end
 
-CuboneEggMoves:
-	db SUPERSONIC
-	db DISABLE
-	db TAKE_DOWN
-	db CONFUSION
-	db AMNESIA
-	db COUNTER
-	db BEAT_UP
+SpikidnaEggMoves:
+	db SPLASH
 	db -1 ; end
-
-VulpixEggMoves:
+	
+KitteryEggMoves:
 	db FAINT_ATTACK
 	db HYPNOSIS
 	db FLAIL
@@ -101,7 +108,7 @@ VulpixEggMoves:
 	db DISABLE
 	db -1 ; end
 
-ZubatEggMoves:
+RepvialEggMoves:
 	db QUICK_ATTACK
 	db PURSUIT
 	db FAINT_ATTACK

@@ -28,14 +28,14 @@ AlphabeticalPokedexOrder:
 	db LOPSOIL
 	db CHIKORITA
 	db CHINCHOU
-	db CLEFABLE
-	db CLEFAIRY
+	db ECHNEEDO
+	db ECHLIPSE
 	db CLEFFA
 	db CLOYSTER
 	db CORSOLA
 	db CROBAT
 	db CROCONAW
-	db CUBONE
+	db SKARDINE
 	db CYNDAQUIL
 	db DELIBIRD
 	db DEWGONG
@@ -72,7 +72,7 @@ AlphabeticalPokedexOrder:
 	db GIRAFARIG
 	db GLIGAR
 	db GLOOM
-	db GOLBAT
+	db KOMODOSE
 	db GOLDEEN
 	db GOLDUCK
 	db GOLEM
@@ -95,7 +95,7 @@ AlphabeticalPokedexOrder:
 	db HYPNO
 	db IGGLYBUFF
 	db SUBZILLA
-	db JIGGLYPUFF
+	db FELECTRIC
 	db JOLTEON
 	db JUMPLUFF
 	db JYNX
@@ -141,13 +141,13 @@ AlphabeticalPokedexOrder:
 	db MUK
 	db MURKROW
 	db NATU
-	db NIDOKING
-	db NIDOQUEEN
+	db SPIKIDNA
+	db CLINCHITON
 	db NIDORAN_F
 	db NIDORAN_M
-	db NIDORINA
-	db NIDORINO
-	db NINETALES
+	db LOUSPOUT
+	db SKARGAROS
+	db FELITE
 	db NOCTOWL
 	db OCTILLERY
 	db ODDISH
@@ -241,16 +241,16 @@ AlphabeticalPokedexOrder:
 	db VICTREEBEL
 	db VILEPLUME
 	db VOLTORB
-	db VULPIX
+	db KITTERY
 	db COALDIAK
 	db HAMSEL
 	db WEEPINBELL
 	db WEEZING
-	db WIGGLYTUFF
+	db HISZARD
 	db WOBBUFFET
 	db WOOPER
 	db XATU
 	db YANMA
 	db ZAPDOS
-	db ZUBAT
+	db REPVIAL
 	assert_table_length NUM_POKEMON

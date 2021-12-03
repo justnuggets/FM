@@ -22,7 +22,7 @@ MountMoonSquare_MapScripts:
 	disappear MOUNTMOONSQUARE_ROCK
 	endcallback
 
-ClefairyDance:
+EchlipseDance:
 	checkflag ENGINE_MT_MOON_SQUARE_CLEFAIRY
 	iftrue .NoDancing
 	readvar VAR_WEEKDAY
@@ -35,33 +35,33 @@ ClefairyDance:
 	pause 15
 	appear MOUNTMOONSQUARE_ROCK
 	turnobject MOUNTMOONSQUARE_FAIRY1, RIGHT
-	cry CLEFAIRY
+	cry SUBMINO
 	waitsfx
 	pause 30
 	follow MOUNTMOONSQUARE_FAIRY1, MOUNTMOONSQUARE_FAIRY2
-	cry CLEFAIRY
-	applymovement MOUNTMOONSQUARE_FAIRY1, ClefairyDanceStep1
-	cry CLEFAIRY
-	applymovement MOUNTMOONSQUARE_FAIRY1, ClefairyDanceStep2
-	cry CLEFAIRY
-	applymovement MOUNTMOONSQUARE_FAIRY1, ClefairyDanceStep3
-	cry CLEFAIRY
-	applymovement MOUNTMOONSQUARE_FAIRY1, ClefairyDanceStep4
-	cry CLEFAIRY
-	applymovement MOUNTMOONSQUARE_FAIRY1, ClefairyDanceStep5
+	cry SUBMINO
+	applymovement MOUNTMOONSQUARE_FAIRY1, EchlipseDanceStep1
+	cry SUBMINO
+	applymovement MOUNTMOONSQUARE_FAIRY1, EchlipseDanceStep2
+	cry SUBMINO
+	applymovement MOUNTMOONSQUARE_FAIRY1, EchlipseDanceStep3
+	cry SUBMINO
+	applymovement MOUNTMOONSQUARE_FAIRY1, EchlipseDanceStep4
+	cry SUBMINO
+	applymovement MOUNTMOONSQUARE_FAIRY1, EchlipseDanceStep5
 	stopfollow
-	applymovement MOUNTMOONSQUARE_FAIRY2, ClefairyDanceStep6
+	applymovement MOUNTMOONSQUARE_FAIRY2, EchlipseDanceStep6
 	follow MOUNTMOONSQUARE_FAIRY1, MOUNTMOONSQUARE_FAIRY2
-	applymovement MOUNTMOONSQUARE_FAIRY1, ClefairyDanceStep7
+	applymovement MOUNTMOONSQUARE_FAIRY1, EchlipseDanceStep7
 	stopfollow
 	turnobject MOUNTMOONSQUARE_FAIRY1, DOWN
 	pause 10
 	showemote EMOTE_SHOCK, MOUNTMOONSQUARE_FAIRY1, 15
 	turnobject MOUNTMOONSQUARE_FAIRY1, DOWN
-	cry CLEFAIRY
+	cry SUBMINO
 	pause 15
 	follow MOUNTMOONSQUARE_FAIRY1, MOUNTMOONSQUARE_FAIRY2
-	applymovement MOUNTMOONSQUARE_FAIRY1, ClefairyFleeMovement
+	applymovement MOUNTMOONSQUARE_FAIRY1, EchlipseFleeMovement
 	disappear MOUNTMOONSQUARE_FAIRY1
 	disappear MOUNTMOONSQUARE_FAIRY2
 	stopfollow
@@ -85,38 +85,38 @@ PlayerWalksUpToDancingClefairies:
 	step UP
 	step_end
 
-ClefairyDanceStep1:
+EchlipseDanceStep1:
 	slow_step DOWN
 	slow_jump_step DOWN
 	step_end
 
-ClefairyDanceStep2:
+EchlipseDanceStep2:
 	slow_jump_step RIGHT
 	step_end
 
-ClefairyDanceStep3:
+EchlipseDanceStep3:
 	slow_step UP
 	slow_jump_step UP
 	step_end
 
-ClefairyDanceStep4:
+EchlipseDanceStep4:
 	slow_jump_step LEFT
 	step_end
 
-ClefairyDanceStep5:
+EchlipseDanceStep5:
 	slow_step DOWN
 	slow_jump_step DOWN
 	step_end
 
-ClefairyDanceStep6:
+EchlipseDanceStep6:
 	slow_step DOWN
 	step_end
 
-ClefairyDanceStep7:
+EchlipseDanceStep7:
 	slow_step RIGHT
 	step_end
 
-ClefairyFleeMovement:
+EchlipseFleeMovement:
 	step RIGHT
 	step RIGHT
 	step RIGHT
@@ -139,7 +139,7 @@ MountMoonSquare_MapEvents:
 	warp_event 13,  7, MOUNT_MOON_GIFT_SHOP, 1
 
 	def_coord_events
-	coord_event  7, 11, SCENE_DEFAULT, ClefairyDance
+	coord_event  7, 11, SCENE_DEFAULT, EchlipseDance
 
 	def_bg_events
 	bg_event  7,  7, BGEVENT_ITEM, MountMoonSquareHiddenMoonStone

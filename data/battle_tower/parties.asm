@@ -995,7 +995,7 @@ BattleTowerMons:
 	bigdw 48 ; SDef
 	db "MIRUTANKU@@"
 
-	db WIGGLYTUFF
+	db HISZARD
 	db GOLD_BERRY
 	db HYPER_BEAM, BLIZZARD, FIRE_BLAST, ATTRACT
 	dw 0 ; OT ID
@@ -1021,7 +1021,7 @@ BattleTowerMons:
 	bigdw 40 ; SDef
 	db "PUKURIN@@@@"
 
-	db WIGGLYTUFF
+	db HISZARD
 	db PINK_BOW
 	db PSYCHIC_M, SWAGGER, PSYCH_UP, HEADBUTT
 	dw 0 ; OT ID
@@ -1047,7 +1047,7 @@ BattleTowerMons:
 	bigdw 36 ; SDef
 	db "PUKURIN@@@@"
 
-	db NIDOKING
+	db SPIKIDNA
 	db BERRY
 	db BLIZZARD, EARTHQUAKE, SURF, THUNDERPUNCH
 	dw 0 ; OT ID

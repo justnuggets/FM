@@ -18,7 +18,7 @@ CeruleanTradeSpeechHouseGrampsScript:
 CeruleanTradeSpeechHouseRhydonScript:
 	opentext
 	writetext CeruleanTradeSpeechHouseRhydonText
-	cry KANGASKHAN
+	cry SUBMINO
 	waitbutton
 	closetext
 	end
@@ -26,7 +26,7 @@ CeruleanTradeSpeechHouseRhydonScript:
 CeruleanTradeSpeechHouseZubatScript:
 	opentext
 	writetext CeruleanTradeSpeechHouseZubatText
-	cry ZUBAT
+	cry SUBMINO
 	waitbutton
 	closetext
 	end

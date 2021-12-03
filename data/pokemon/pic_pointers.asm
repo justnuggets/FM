@@ -61,32 +61,32 @@ PokemonPicPointers::
 	dba_pic FlockshotBackpic
 	dba_pic QartridgeFrontpic
 	dba_pic QartridgeBackpic
-	dba_pic NidorinaFrontpic
-	dba_pic NidorinaBackpic
-	dba_pic NidoqueenFrontpic
-	dba_pic NidoqueenBackpic
-	dba_pic CuboneFrontpic
-	dba_pic CuboneBackpic
-	dba_pic NidorinoFrontpic
-	dba_pic NidorinoBackpic
-	dba_pic NidokingFrontpic
-	dba_pic NidokingBackpic
-	dba_pic ClefairyFrontpic
-	dba_pic ClefairyBackpic
-	dba_pic ClefableFrontpic
-	dba_pic ClefableBackpic
-	dba_pic VulpixFrontpic
-	dba_pic VulpixBackpic
-	dba_pic NinetalesFrontpic
-	dba_pic NinetalesBackpic
-	dba_pic JigglypuffFrontpic
-	dba_pic JigglypuffBackpic
-	dba_pic WigglytuffFrontpic
-	dba_pic WigglytuffBackpic
-	dba_pic ZubatFrontpic
-	dba_pic ZubatBackpic
-	dba_pic GolbatFrontpic
-	dba_pic GolbatBackpic
+	dba_pic LouspoutFrontpic
+	dba_pic LouspoutBackpic
+	dba_pic ClinchitonFrontpic
+	dba_pic ClinchitonBackpic
+	dba_pic SkardineFrontpic
+	dba_pic SkardineBackpic
+	dba_pic SkargarosFrontpic
+	dba_pic SkargarosBackpic
+	dba_pic SpikidnaFrontpic
+	dba_pic SpikidnaBackpic
+	dba_pic EchlipseFrontpic
+	dba_pic EchlipseBackpic
+	dba_pic EchneedoFrontpic
+	dba_pic EchneedoBackpic
+	dba_pic KitteryFrontpic
+	dba_pic KitteryBackpic
+	dba_pic FeliteFrontpic
+	dba_pic FeliteBackpic
+	dba_pic FelectricFrontpic
+	dba_pic FelectricBackpic
+	dba_pic HiszardFrontpic
+	dba_pic HiszardBackpic
+	dba_pic RepvialFrontpic
+	dba_pic RepvialBackpic
+	dba_pic KomodoseFrontpic
+	dba_pic KomodoseBackpic
 	dba_pic OddishFrontpic
 	dba_pic OddishBackpic
 	dba_pic GloomFrontpic

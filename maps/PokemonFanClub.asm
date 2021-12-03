@@ -205,7 +205,7 @@ PokemonFanClubReceptionistText:
 
 PokemonFanClubClefairyGuyClefairyIsSoAdorableText:
 	text "I love the way"
-	line "CLEFAIRY waggles"
+	line "ECHLIPSE waggles"
 
 	para "its finger when"
 	line "it's trying to use"
@@ -215,7 +215,7 @@ PokemonFanClubClefairyGuyClefairyIsSoAdorableText:
 	done
 
 PokemonFanClubClefairyGuyMakingDoWithADollIFoundText:
-	text "I love CLEFAIRY,"
+	text "I love ECHLIPSE,"
 	line "but I could never"
 
 	para "catch one. So I'm"
@@ -238,7 +238,7 @@ PokemonFanClubClefairyGuyTakeThisDollBackToGirlText:
 	line "little girl?"
 
 	para "I'll befriend a"
-	line "real CLEFAIRY on"
+	line "real ECHLIPSE on"
 
 	para "my own one day."
 	line "No worries!"
@@ -253,7 +253,7 @@ PokemonFanClubClefairyGuyGoingToGetARealClefairyText:
 	text "You watch. I'm"
 	line "going to get a"
 
-	para "real CLEFAIRY as"
+	para "real ECHLIPSE as"
 	line "my friend."
 	done
 
@@ -271,11 +271,11 @@ PokemonFanClubTeacherText:
 	done
 
 PokemonFanClubClefairyDollText:
-	text "It's a CLEFAIRY!"
+	text "It's a ECHLIPSE!"
 	line "Huh?"
 
 	para "Oh, right. It's a"
-	line "CLEFAIRY #"
+	line "ECHLIPSE #"
 	cont "DOLL."
 	done
 

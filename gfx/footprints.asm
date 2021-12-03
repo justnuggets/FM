@@ -71,39 +71,39 @@ INCBIN "gfx/footprints/egg_dex_flying.1bpp",     footprint_top
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",  footprint_top
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",  footprint_top
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",  footprint_top
-INCBIN "gfx/footprints/nidorina.1bpp",   footprint_top
-INCBIN "gfx/footprints/nidoqueen.1bpp",  footprint_top
-INCBIN "gfx/footprints/cubone.1bpp",  footprint_top
+INCBIN "gfx/footprints/egg_dex_bug_invertebrate.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_bug_invertebrate.1bpp",  footprint_top
+INCBIN "gfx/footprints/egg_dex_fish.1bpp",  footprint_top
 ; 025-032 bottom halves
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",    footprint_bottom
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/nidorina.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/nidoqueen.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/cubone.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug_invertebrate.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug_invertebrate.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/egg_dex_fish.1bpp",  footprint_bottom
 ; 033-040 top halves
-INCBIN "gfx/footprints/nidorino.1bpp",   footprint_top
-INCBIN "gfx/footprints/nidoking.1bpp",   footprint_top
-INCBIN "gfx/footprints/clefairy.1bpp",   footprint_top
-INCBIN "gfx/footprints/clefable.1bpp",   footprint_top
-INCBIN "gfx/footprints/vulpix.1bpp",     footprint_top
-INCBIN "gfx/footprints/ninetales.1bpp",  footprint_top
-INCBIN "gfx/footprints/jigglypuff.1bpp", footprint_top
-INCBIN "gfx/footprints/wigglytuff.1bpp", footprint_top
+INCBIN "gfx/footprints/egg_dex_fish.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_none.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_field.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_field.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_none.1bpp",     footprint_top
+INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp",  footprint_top
+INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp", footprint_top
+INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp", footprint_top
 ; 033-040 bottom halves
-INCBIN "gfx/footprints/nidorino.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/nidoking.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/clefairy.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/clefable.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/vulpix.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/ninetales.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/jigglypuff.1bpp", footprint_bottom
-INCBIN "gfx/footprints/wigglytuff.1bpp", footprint_bottom
+INCBIN "gfx/footprints/egg_dex_fish.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_none.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_field.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_field.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_none.1bpp",     footprint_bottom ;kittery
+INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp", footprint_bottom
+INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp", footprint_bottom
 ; 041-048 top halves
-INCBIN "gfx/footprints/zubat.1bpp",      footprint_top
-INCBIN "gfx/footprints/golbat.1bpp",     footprint_top
+INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp",      footprint_top
+INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp",     footprint_top
 INCBIN "gfx/footprints/oddish.1bpp",     footprint_top
 INCBIN "gfx/footprints/gloom.1bpp",      footprint_top
 INCBIN "gfx/footprints/vileplume.1bpp",  footprint_top
@@ -111,8 +111,8 @@ INCBIN "gfx/footprints/paras.1bpp",      footprint_top
 INCBIN "gfx/footprints/parasect.1bpp",   footprint_top
 INCBIN "gfx/footprints/venonat.1bpp",    footprint_top
 ; 041-048 bottom halves
-INCBIN "gfx/footprints/zubat.1bpp",      footprint_bottom
-INCBIN "gfx/footprints/golbat.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp",      footprint_bottom
+INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/oddish.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/gloom.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/vileplume.1bpp",  footprint_bottom

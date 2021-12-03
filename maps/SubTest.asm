@@ -9,7 +9,7 @@ SubTest_MapScripts:
 	def_callbacks
 	
 ReceivedText:
-	text "Got a #mon!" ; Change based on Pokemon given
+	text "Got some #mon!" ; Change based on Pokemon given
 	done
 	
 SubTestItem1Script:
@@ -24,6 +24,7 @@ SubPokeBallScript:
 	writetext ReceivedText
 	playsound SFX_CAUGHT_MON
 	waitsfx
+	
 	;PRE-REQUISITES FOR TM HM FIELD MOVE
 	setflag ENGINE_POKEDEX
 	setflag ENGINE_ZEPHYRBADGE
@@ -35,10 +36,11 @@ SubPokeBallScript:
 	setflag ENGINE_GLACIERBADGE
 	setflag ENGINE_RISINGBADGE
 	buttonsound
+	
 	;TEST POKEMON
-	givepoke FOWLLET, 20
-	givepoke FLOCKSHOT, 20
-	givepoke QARTRIDGE, 20
+	givepoke ODDISH, 20
+	givepoke GLOOM, 20
+	givepoke VILEPLUME, 20
 	closetext
 	end
 	

@@ -8,7 +8,7 @@ SpriteMons:
 	db SHELLDER
 	db ODDISH
 	db GENGAR
-	db ZUBAT
+	db REPVIAL
 	db MAGIKARP
 	db CUBBURN
 	db TOGEPI
@@ -16,12 +16,12 @@ SpriteMons:
 	db DIGLETT
 	db POLIWAG
 	db TEAKBEAK
-	db CLEFAIRY
+	db ECHLIPSE
 	db GRASSNIP
 	db JYNX
 	db STARMIE
 	db SUBMINO
-	db JIGGLYPUFF
+	db FELECTRIC
 	db GRIMER
 	db CRYSTALIS
 	db PARAS

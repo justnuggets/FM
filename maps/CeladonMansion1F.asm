@@ -15,7 +15,7 @@ CeladonMansionManager:
 CeladonMansion1FMeowth:
 	opentext
 	writetext CeladonMansion1FMeowthText
-	cry MEOWTH
+	cry SUBMINO
 	waitbutton
 	closetext
 	end
@@ -23,7 +23,7 @@ CeladonMansion1FMeowth:
 CeladonMansion1FClefairy:
 	opentext
 	writetext CeladonMansion1FClefairyText
-	cry CLEFAIRY
+	cry SUBMINO
 	waitbutton
 	closetext
 	end
@@ -31,7 +31,7 @@ CeladonMansion1FClefairy:
 CeladonMansion1FNidoranF:
 	opentext
 	writetext CeladonMansion1FNidoranFText
-	cry NIDORAN_F
+	cry SUBMINO
 	waitbutton
 	closetext
 	end

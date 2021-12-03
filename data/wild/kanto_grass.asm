@@ -33,85 +33,85 @@ KantoGrassWildMons:
 	def_grass_wildmons MOUNT_MOON
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 6, ZUBAT
+	db 6, REPVIAL
 	db 8, GEODUDE
 	db 8, FOWLLET
 	db 12, PARAS
 	db 10, GEODUDE
-	db 8, CLEFAIRY
-	db 8, CLEFAIRY
+	db 8, ECHLIPSE
+	db 8, ECHLIPSE
 	; day
-	db 6, ZUBAT
+	db 6, REPVIAL
 	db 8, GEODUDE
 	db 8, FOWLLET
 	db 12, PARAS
 	db 10, GEODUDE
-	db 8, CLEFAIRY
-	db 8, CLEFAIRY
+	db 8, ECHLIPSE
+	db 8, ECHLIPSE
 	; nite
-	db 6, ZUBAT
+	db 6, REPVIAL
 	db 8, GEODUDE
-	db 8, CLEFAIRY
+	db 8, ECHLIPSE
 	db 12, PARAS
 	db 10, GEODUDE
-	db 12, CLEFAIRY
-	db 12, CLEFAIRY
+	db 12, ECHLIPSE
+	db 12, ECHLIPSE
 	end_grass_wildmons
 
 	def_grass_wildmons ROCK_TUNNEL_1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 10, CUBONE
+	db 10, SKARDINE
 	db 11, GEODUDE
 	db 12, MACHOP
-	db 12, ZUBAT
+	db 12, REPVIAL
 	db 15, MACHOKE
 	db 12, MAROWAK
 	db 12, MAROWAK
 	; day
-	db 10, CUBONE
+	db 10, SKARDINE
 	db 11, GEODUDE
 	db 12, MACHOP
-	db 12, ZUBAT
+	db 12, REPVIAL
 	db 15, MACHOKE
 	db 12, MAROWAK
 	db 12, MAROWAK
 	; nite
-	db 12, ZUBAT
+	db 12, REPVIAL
 	db 11, GEODUDE
 	db 12, GEODUDE
 	db 17, HAUNTER
-	db 15, ZUBAT
-	db 15, ZUBAT
-	db 15, ZUBAT
+	db 15, REPVIAL
+	db 15, REPVIAL
+	db 15, REPVIAL
 	end_grass_wildmons
 
 	def_grass_wildmons ROCK_TUNNEL_B1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 12, CUBONE
+	db 12, SKARDINE
 	db 14, GEODUDE
 	db 16, ONIX
-	db 12, ZUBAT
+	db 12, REPVIAL
 	db 15, MAROWAK
 	db 15, KANGASKHAN
 	db 15, KANGASKHAN
 	; day
-	db 12, CUBONE
+	db 12, SKARDINE
 	db 14, GEODUDE
 	db 16, ONIX
-	db 12, ZUBAT
+	db 12, REPVIAL
 	db 15, MAROWAK
 	db 15, KANGASKHAN
 	db 15, KANGASKHAN
 	; nite
-	db 12, ZUBAT
+	db 12, REPVIAL
 	db 14, GEODUDE
 	db 16, ONIX
-	db 15, ZUBAT
+	db 15, REPVIAL
 	db 15, HAUNTER
-	db 15, GOLBAT
-	db 15, GOLBAT
+	db 15, KOMODOSE
+	db 15, KOMODOSE
 	end_grass_wildmons
 
 	def_grass_wildmons VICTORY_ROAD
@@ -120,7 +120,7 @@ KantoGrassWildMons:
 	db 34, GRAVELER
 	db 32, RHYHORN
 	db 33, ONIX
-	db 34, GOLBAT
+	db 34, KOMODOSE
 	db 35, FLOCKSHOT
 	db 35, RHYDON
 	db 35, RHYDON
@@ -128,12 +128,12 @@ KantoGrassWildMons:
 	db 34, GRAVELER
 	db 32, RHYHORN
 	db 33, ONIX
-	db 34, GOLBAT
+	db 34, KOMODOSE
 	db 35, FLOCKSHOT
 	db 35, RHYDON
 	db 35, RHYDON
 	; nite
-	db 34, GOLBAT
+	db 34, KOMODOSE
 	db 34, GRAVELER
 	db 32, ONIX
 	db 36, GRAVELER
@@ -145,25 +145,25 @@ KantoGrassWildMons:
 	def_grass_wildmons TOHJO_FALLS
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 22, ZUBAT
+	db 22, REPVIAL
 	db 22, LOCUTS
-	db 24, GOLBAT
+	db 24, KOMODOSE
 	db 21, SLOWPOKE
 	db 20, HOPSTOT
 	db 23, SLOWPOKE
 	db 23, SLOWPOKE
 	; day
-	db 22, ZUBAT
+	db 22, REPVIAL
 	db 22, LOCUTS
-	db 24, GOLBAT
+	db 24, KOMODOSE
 	db 21, SLOWPOKE
 	db 20, HOPSTOT
 	db 23, SLOWPOKE
 	db 23, SLOWPOKE
 	; nite
-	db 22, ZUBAT
+	db 22, REPVIAL
 	db 22, LOCUTS
-	db 24, GOLBAT
+	db 24, KOMODOSE
 	db 21, SLOWPOKE
 	db 20, HOPSTOT
 	db 23, SLOWPOKE
@@ -248,10 +248,10 @@ KantoGrassWildMons:
 	db 5, HOPSTOT
 	db 10, HOPSTOT
 	db 10, LOCUTS
-	db 6, ZUBAT
+	db 6, REPVIAL
 	db 5, HOPSTOT
-	db 6, CLEFAIRY
-	db 6, CLEFAIRY
+	db 6, ECHLIPSE
+	db 6, ECHLIPSE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_4
@@ -276,10 +276,10 @@ KantoGrassWildMons:
 	db 5, HOPSTOT
 	db 10, HOPSTOT
 	db 10, LOCUTS
-	db 6, ZUBAT
+	db 6, REPVIAL
 	db 5, HOPSTOT
-	db 6, CLEFAIRY
-	db 6, CLEFAIRY
+	db 6, ECHLIPSE
+	db 6, ECHLIPSE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_5
@@ -289,7 +289,7 @@ KantoGrassWildMons:
 	db 13, SNUBBULL
 	db 15, AXALITL
 	db 12, ABRA
-	db 14, JIGGLYPUFF
+	db 14, FELECTRIC
 	db 14, ABRA
 	db 14, ABRA
 	; day
@@ -297,7 +297,7 @@ KantoGrassWildMons:
 	db 13, SNUBBULL
 	db 15, AXALITL
 	db 12, ABRA
-	db 14, JIGGLYPUFF
+	db 14, FELECTRIC
 	db 14, ABRA
 	db 14, ABRA
 	; nite
@@ -305,7 +305,7 @@ KantoGrassWildMons:
 	db 13, MEOWTH
 	db 15, NOCTOWL
 	db 12, ABRA
-	db 14, JIGGLYPUFF
+	db 14, FELECTRIC
 	db 14, ABRA
 	db 14, ABRA
 	end_grass_wildmons
@@ -317,7 +317,7 @@ KantoGrassWildMons:
 	db 13, SNUBBULL
 	db 14, MAGNEMITE
 	db 15, LOCUTS
-	db 12, JIGGLYPUFF
+	db 12, FELECTRIC
 	db 15, GRANBULL
 	db 15, GRANBULL
 	; day
@@ -325,7 +325,7 @@ KantoGrassWildMons:
 	db 13, SNUBBULL
 	db 14, MAGNEMITE
 	db 15, LOCUTS
-	db 12, JIGGLYPUFF
+	db 12, FELECTRIC
 	db 15, GRANBULL
 	db 15, GRANBULL
 	; nite
@@ -333,7 +333,7 @@ KantoGrassWildMons:
 	db 13, DROWZEE
 	db 14, MAGNEMITE
 	db 15, PSYDUCK
-	db 12, JIGGLYPUFF
+	db 12, FELECTRIC
 	db 15, LOCUTS
 	db 15, LOCUTS
 	end_grass_wildmons
@@ -345,7 +345,7 @@ KantoGrassWildMons:
 	db 17, CHAWPPER
 	db 18, SNUBBULL
 	db 18, LOCUTS
-	db 18, JIGGLYPUFF
+	db 18, FELECTRIC
 	db 16, ABRA
 	db 16, ABRA
 	; day
@@ -353,7 +353,7 @@ KantoGrassWildMons:
 	db 17, CHAWPPER
 	db 18, SNUBBULL
 	db 18, LOCUTS
-	db 18, JIGGLYPUFF
+	db 18, FELECTRIC
 	db 16, ABRA
 	db 16, ABRA
 	; nite
@@ -361,7 +361,7 @@ KantoGrassWildMons:
 	db 17, MURKROW
 	db 18, HOUNDOUR
 	db 18, PERSIAN
-	db 18, JIGGLYPUFF
+	db 18, FELECTRIC
 	db 16, ABRA
 	db 16, ABRA
 	end_grass_wildmons
@@ -373,7 +373,7 @@ KantoGrassWildMons:
 	db 19, AXALITL
 	db 16, ABRA
 	db 17, GROWLITHE
-	db 16, JIGGLYPUFF
+	db 16, FELECTRIC
 	db 18, KADABRA
 	db 18, KADABRA
 	; day
@@ -381,7 +381,7 @@ KantoGrassWildMons:
 	db 19, AXALITL
 	db 16, ABRA
 	db 17, GROWLITHE
-	db 16, JIGGLYPUFF
+	db 16, FELECTRIC
 	db 18, KADABRA
 	db 18, KADABRA
 	; nite
@@ -389,7 +389,7 @@ KantoGrassWildMons:
 	db 20, NOCTOWL
 	db 16, ABRA
 	db 17, HAUNTER
-	db 16, JIGGLYPUFF
+	db 16, FELECTRIC
 	db 18, KADABRA
 	db 18, KADABRA
 	end_grass_wildmons
@@ -417,7 +417,7 @@ KantoGrassWildMons:
 	db 15, VENONAT
 	db 15, LOCUTS
 	db 15, VENOMOTH
-	db 15, ZUBAT
+	db 15, REPVIAL
 	db 18, LOCUTS
 	db 18, LOCUTS
 	end_grass_wildmons
@@ -445,7 +445,7 @@ KantoGrassWildMons:
 	db 17, VOLTORB
 	db 15, LOCUTS
 	db 15, VENOMOTH
-	db 15, ZUBAT
+	db 15, REPVIAL
 	db 16, ELECTABUZZ
 	db 16, ELECTABUZZ
 	end_grass_wildmons
@@ -481,16 +481,16 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_13
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 23, NIDORINO
-	db 23, NIDORINA
+	db 23, SKARGAROS
+	db 23, LOUSPOUT
 	db 25, AXALITL
 	db 25, HOPPIP
 	db 27, HOPPIP
 	db 27, HOPPIP
 	db 25, CHANSEY
 	; day
-	db 23, NIDORINO
-	db 23, NIDORINA
+	db 23, SKARGAROS
+	db 23, LOUSPOUT
 	db 25, AXALITL
 	db 25, HOPPIP
 	db 27, HOPPIP
@@ -509,16 +509,16 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_14
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 26, NIDORINO
-	db 26, NIDORINA
+	db 26, SKARGAROS
+	db 26, LOUSPOUT
 	db 28, AXALITL
 	db 28, HOPPIP
 	db 30, SKIPLOOM
 	db 30, SKIPLOOM
 	db 28, CHANSEY
 	; day
-	db 26, NIDORINO
-	db 26, NIDORINA
+	db 26, SKARGAROS
+	db 26, LOUSPOUT
 	db 28, AXALITL
 	db 28, HOPPIP
 	db 30, SKIPLOOM
@@ -537,16 +537,16 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_15
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 23, NIDORINO
-	db 23, NIDORINA
+	db 23, SKARGAROS
+	db 23, LOUSPOUT
 	db 25, AXALITL
 	db 25, HOPPIP
 	db 27, HOPPIP
 	db 27, HOPPIP
 	db 25, CHANSEY
 	; day
-	db 23, NIDORINO
-	db 23, NIDORINA
+	db 23, SKARGAROS
+	db 23, LOUSPOUT
 	db 25, AXALITL
 	db 25, HOPPIP
 	db 27, HOPPIP
@@ -835,11 +835,11 @@ KantoGrassWildMons:
 	; nite
 	db 39, TANGELA
 	db 40, POLIWHIRL
-	db 40, GOLBAT
+	db 40, KOMODOSE
 	db 40, POLIWHIRL
-	db 42, GOLBAT
-	db 42, GOLBAT
-	db 42, GOLBAT
+	db 42, KOMODOSE
+	db 42, KOMODOSE
+	db 42, KOMODOSE
 	end_grass_wildmons
 
 	db -1 ; end

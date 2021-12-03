@@ -29,19 +29,19 @@ AnimationIdlePointers:
 	dw FowlletAnimationIdle
 	dw FlockshotAnimationIdle
 	dw QartridgeAnimationIdle
-	dw NidorinaAnimationIdle
-	dw NidoqueenAnimationIdle
-	dw CuboneAnimationIdle
-	dw NidorinoAnimationIdle
-	dw NidokingAnimationIdle
-	dw ClefairyAnimationIdle
-	dw ClefableAnimationIdle
-	dw VulpixAnimationIdle
-	dw NinetalesAnimationIdle
-	dw JigglypuffAnimationIdle
-	dw WigglytuffAnimationIdle
-	dw ZubatAnimationIdle
-	dw GolbatAnimationIdle
+	dw LouspoutAnimationIdle
+	dw ClinchitonAnimationIdle
+	dw SkardineAnimationIdle
+	dw SkargarosAnimationIdle
+	dw SpikidnaAnimationIdle
+	dw EchlipseAnimationIdle
+	dw EchneedoAnimationIdle
+	dw KitteryAnimationIdle
+	dw FeliteAnimationIdle
+	dw FelectricAnimationIdle
+	dw HiszardAnimationIdle
+	dw RepvialAnimationIdle
+	dw KomodoseAnimationIdle
 	dw OddishAnimationIdle
 	dw GloomAnimationIdle
 	dw VileplumeAnimationIdle

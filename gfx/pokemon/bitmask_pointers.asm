@@ -29,19 +29,19 @@ BitmasksPointers:
 	dw FowlletBitmasks
 	dw FlockshotBitmasks
 	dw QartridgeBitmasks
-	dw NidorinaBitmasks
-	dw NidoqueenBitmasks
-	dw CuboneBitmasks
-	dw NidorinoBitmasks
-	dw NidokingBitmasks
-	dw ClefairyBitmasks
-	dw ClefableBitmasks
-	dw VulpixBitmasks
-	dw NinetalesBitmasks
-	dw JigglypuffBitmasks
-	dw WigglytuffBitmasks
-	dw ZubatBitmasks
-	dw GolbatBitmasks
+	dw LouspoutBitmasks
+	dw ClinchitonBitmasks
+	dw SkardineBitmasks
+	dw SkargarosBitmasks
+	dw SpikidnaBitmasks
+	dw EchlipseBitmasks
+	dw EchneedoBitmasks
+	dw KitteryBitmasks
+	dw FeliteBitmasks
+	dw FelectricBitmasks
+	dw HiszardBitmasks
+	dw RepvialBitmasks
+	dw KomodoseBitmasks
 	dw OddishBitmasks
 	dw GloomBitmasks
 	dw VileplumeBitmasks

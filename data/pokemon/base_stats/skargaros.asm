@@ -1,0 +1,21 @@
+	db SKARGAROS ; 033
+
+	db  61,  72,  57,  65,  55,  55
+	;   hp  atk  def  spd  sat  sdf
+
+	db WATER, STEEL ; type
+	db 120 ; catch rate
+	db 118 ; base exp
+	db NO_ITEM, NO_ITEM ; items
+	db GENDER_F0 ; gender ratio
+	db 100 ; unknown 1
+	db 20 ; step cycles to hatch
+	db 5 ; unknown 2
+	INCBIN "gfx/pokemon/skargaros/front.dimensions"
+	dw NULL, NULL ; unused (beta front/back pics)
+	db GROWTH_MEDIUM_SLOW ; growth rate
+	dn EGG_WATER_2, EGG_WATER_2 ; egg groups
+
+	; tm/hm learnset
+	tmhm HEADBUTT, CURSE, TOXIC, ROCK_SMASH, HIDDEN_POWER, SUNNY_DAY, SNORE, BLIZZARD, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, IRON_TAIL, THUNDER, RETURN, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, DEFENSE_CURL, DETECT, REST, ATTRACT, THIEF, STRENGTH, THUNDERBOLT, ICE_BEAM
+	; end

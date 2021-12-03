@@ -2,8 +2,8 @@ FleeMons:
 ; referenced by TryEnemyFlee and FastBallMultiplier
 
 SometimesFleeMons:
-	db MAGNEMITE
-	db GRIMER
+	db MAGNEMITE ;polkapix
+	db GRIMER ;
 	db TANGELA
 	db MR__MIME
 	db EEVEE
@@ -18,7 +18,7 @@ SometimesFleeMons:
 	db -1
 
 OftenFleeMons:
-	db CUBONE
+	db SKARDINE
 	db ARTICUNO
 	db ZAPDOS
 	db MOLTRES

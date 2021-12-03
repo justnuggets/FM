@@ -31,19 +31,19 @@ EvosAttacksPointers::
 	dw FowlletEvosAttacks
 	dw FlockshotEvosAttacks
 	dw QartridgeEvosAttacks
-	dw NidorinaEvosAttacks
-	dw NidoqueenEvosAttacks
-	dw CuboneEvosAttacks
-	dw NidorinoEvosAttacks
-	dw NidokingEvosAttacks
-	dw ClefairyEvosAttacks
-	dw ClefableEvosAttacks
-	dw VulpixEvosAttacks
-	dw NinetalesEvosAttacks
-	dw JigglypuffEvosAttacks
-	dw WigglytuffEvosAttacks
-	dw ZubatEvosAttacks
-	dw GolbatEvosAttacks
+	dw LouspoutEvosAttacks
+	dw ClinchitonEvosAttacks
+	dw SkardineEvosAttacks
+	dw SkargarosEvosAttacks
+	dw SpikidnaEvosAttacks
+	dw EchlipseEvosAttacks
+	dw EchneedoEvosAttacks
+	dw KitteryEvosAttacks
+	dw FeliteEvosAttacks
+	dw FelectricEvosAttacks
+	dw HiszardEvosAttacks
+	dw RepvialEvosAttacks
+	dw KomodoseEvosAttacks
 	dw OddishEvosAttacks
 	dw GloomEvosAttacks
 	dw VileplumeEvosAttacks

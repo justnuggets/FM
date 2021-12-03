@@ -34,20 +34,20 @@ PokemonCries::
 	mon_cry CRY_FEAROW,       64,  288 ; WOODRILL
 	mon_cry CRY_NIDORAN_M,    32,  192 ; FOWLLET
 	mon_cry CRY_NIDORAN_M,   255,  383 ; FLOCKSHOT
-	mon_cry CRY_NIDORAN_F,     0,  256 ; NIDORAN_F
-	mon_cry CRY_NIDORAN_F,    44,  352 ; NIDORINA
-	mon_cry CRY_NIDOQUEEN,     0,  256 ; NIDOQUEEN
-	mon_cry CRY_NIDORAN_M,     0,  256 ; NIDORAN_M
-	mon_cry CRY_NIDORAN_M,    44,  320 ; NIDORINO
-	mon_cry CRY_RAICHU,        0,  256 ; NIDOKING
-	mon_cry CRY_CLEFAIRY,    204,  129 ; CLEFAIRY
-	mon_cry CRY_CLEFAIRY,    170,  160 ; CLEFABLE
-	mon_cry CRY_VULPIX,       79,  144 ; VULPIX
-	mon_cry CRY_VULPIX,      136,  224 ; NINETALES
-	mon_cry CRY_PIDGEY,      255,  181 ; JIGGLYPUFF
-	mon_cry CRY_PIDGEY,      104,  224 ; WIGGLYTUFF
-	mon_cry CRY_SQUIRTLE,    224,  256 ; ZUBAT
-	mon_cry CRY_SQUIRTLE,    250,  256 ; GOLBAT
+	mon_cry CRY_NIDORAN_F,     0,  256 ; QARTRIDGE
+	mon_cry CRY_NIDORAN_F,    44,  352 ; LOUSPOUT
+	mon_cry CRY_NIDOQUEEN,     0,  256 ; CLINCHITON
+	mon_cry CRY_NIDORAN_M,     0,  256 ; SKARDINE
+	mon_cry CRY_NIDORAN_M,    44,  320 ; SKARGAROS
+	mon_cry CRY_RAICHU,        0,  256 ; SPIKIDNA
+	mon_cry CRY_CLEFAIRY,    204,  129 ; ECHLIPSE
+	mon_cry CRY_CLEFAIRY,    170,  160 ; ECHNEEDO
+	mon_cry CRY_VULPIX,       79,  144 ; KITTERY
+	mon_cry CRY_VULPIX,      136,  224 ; FELITE
+	mon_cry CRY_PIDGEY,      255,  181 ; FELECTRIC
+	mon_cry CRY_PIDGEY,      104,  224 ; HISZARD
+	mon_cry CRY_SQUIRTLE,    224,  256 ; REPVIAL
+	mon_cry CRY_SQUIRTLE,    250,  256 ; KOMODOSE
 	mon_cry CRY_ODDISH,      221,  129 ; ODDISH
 	mon_cry CRY_ODDISH,      170,  192 ; GLOOM
 	mon_cry CRY_VILEPLUME,    34,  383 ; VILEPLUME
@@ -107,9 +107,9 @@ PokemonCries::
 	mon_cry CRY_KRABBY,      238,  352 ; KINGLER
 	mon_cry CRY_VOLTORB,     237,  256 ; VOLTORB
 	mon_cry CRY_VOLTORB,     168,  272 ; ELECTRODE
-	mon_cry CRY_DIGLETT,       0,  256 ; QARTRIDGE
+	mon_cry CRY_DIGLETT,       0,  256 ; PAMPOOCH-SILK
 	mon_cry CRY_DROWZEE,       0,  256 ; EXEGGUTOR
-	mon_cry CRY_CLEFAIRY,      0,  256 ; CUBONE
+	mon_cry CRY_CLEFAIRY,      0,  256 ; PAMPOOCH-PUFF
 	mon_cry CRY_ODDISH,       79,  224 ; MAROWAK
 	mon_cry CRY_GOLEM,       128,  320 ; HITMONLEE
 	mon_cry CRY_SEEL,        238,  320 ; HITMONCHAN

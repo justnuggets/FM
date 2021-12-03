@@ -30,19 +30,19 @@ PokedexDataPointerTable:
 	dw FowlletPokedexEntry
 	dw FlockshotPokedexEntry
 	dw QartridgePokedexEntry
-	dw NidorinaPokedexEntry
-	dw NidoqueenPokedexEntry
-	dw CubonePokedexEntry
-	dw NidorinoPokedexEntry
-	dw NidokingPokedexEntry
-	dw ClefairyPokedexEntry
-	dw ClefablePokedexEntry
-	dw VulpixPokedexEntry
-	dw NinetalesPokedexEntry
-	dw JigglypuffPokedexEntry
-	dw WigglytuffPokedexEntry
-	dw ZubatPokedexEntry
-	dw GolbatPokedexEntry
+	dw LouspoutPokedexEntry
+	dw ClinchitonPokedexEntry
+	dw SkardinePokedexEntry
+	dw SkargarosPokedexEntry
+	dw SpikidnaPokedexEntry
+	dw EchlipsePokedexEntry
+	dw EchneedoPokedexEntry
+	dw KitteryPokedexEntry
+	dw FelitePokedexEntry
+	dw FelectricPokedexEntry
+	dw HiszardPokedexEntry
+	dw RepvialPokedexEntry
+	dw KomodosePokedexEntry
 	dw OddishPokedexEntry
 	dw GloomPokedexEntry
 	dw VileplumePokedexEntry

@@ -24,23 +24,23 @@ EggMovePointers::
 	dw SnolipoliEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw NoEggMoves ;teakbeak
+	dw TeakbeakEggMoves
 	dw NoEggMoves
 	dw FowlletEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw NoEggMoves ;louspout
+	dw LouspoutEggMoves ;louspout
 	dw NoEggMoves
-	dw CuboneEggMoves
+	dw SkardineEggMoves
 	dw NoEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw VulpixEggMoves
+	dw SpikidnaEggMoves ; spikidna
 	dw NoEggMoves
 	dw NoEggMoves
+	dw KitteryEggMoves
 	dw NoEggMoves
-	dw ZubatEggMoves
+	dw NoEggMoves
+	dw NoEggMoves
+	dw RepvialEggMoves
 	dw NoEggMoves
 	dw OddishEggMoves
 	dw NoEggMoves

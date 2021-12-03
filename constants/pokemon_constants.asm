@@ -48,19 +48,19 @@
 	const FOWLLET  	 ; 1b
 	const FLOCKSHOT  ; 1c
 	const QARTRIDGE  ; 1d 
-	const NIDORINA   ; 1e
-	const NIDOQUEEN  ; 1f
-	const CUBONE	 ; 20 NIDORAN_M
-	const NIDORINO   ; 21
-	const NIDOKING   ; 22
-	const CLEFAIRY   ; 23
-	const CLEFABLE   ; 24
-	const VULPIX     ; 25
-	const NINETALES  ; 26
-	const JIGGLYPUFF ; 27
-	const WIGGLYTUFF ; 28
-	const ZUBAT      ; 29
-	const GOLBAT     ; 2a
+	const LOUSPOUT   ; 1e
+	const CLINCHITON  ; 1f
+	const SKARDINE	 ; 20 
+	const SKARGAROS   ; 21
+	const SPIKIDNA   ; 22
+	const ECHLIPSE   ; 23
+	const ECHNEEDO   ; 24
+	const KITTERY    ; 25
+	const FELITE     ; 26
+	const FELECTRIC  ; 27
+	const HISZARD    ; 28
+	const REPVIAL    ; 29
+	const KOMODOSE     ; 2a
 	const ODDISH     ; 2b
 	const GLOOM      ; 2c
 	const VILEPLUME  ; 2d
@@ -122,7 +122,7 @@
 	const ELECTRODE  ; 65
 	const NIDORAN_F  ; 66
 	const EXEGGUTOR  ; 67
-	const NIDORAN_M     ; 68
+	const NIDORAN_M  ; 68
 	const MAROWAK    ; 69
 	const HITMONLEE  ; 6a
 	const HITMONCHAN ; 6b

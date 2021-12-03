@@ -29,19 +29,19 @@ AnimationPointers:
 	dw FowlletAnimation
 	dw FlockshotAnimation
 	dw QartridgeAnimation
-	dw NidorinaAnimation
-	dw NidoqueenAnimation
-	dw CuboneAnimation
-	dw NidorinoAnimation
-	dw NidokingAnimation
-	dw ClefairyAnimation
-	dw ClefableAnimation
-	dw VulpixAnimation
-	dw NinetalesAnimation
-	dw JigglypuffAnimation
-	dw WigglytuffAnimation
-	dw ZubatAnimation
-	dw GolbatAnimation
+	dw LouspoutAnimation
+	dw ClinchitonAnimation
+	dw SkardineAnimation
+	dw SkargarosAnimation
+	dw SpikidnaAnimation
+	dw EchlipseAnimation
+	dw EchneedoAnimation
+	dw KitteryAnimation
+	dw FeliteAnimation
+	dw FelectricAnimation
+	dw HiszardAnimation
+	dw RepvialAnimation
+	dw KomodoseAnimation
 	dw OddishAnimation
 	dw GloomAnimation
 	dw VileplumeAnimation

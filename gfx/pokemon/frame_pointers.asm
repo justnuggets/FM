@@ -29,19 +29,19 @@ FramesPointers:
 	dw FowlletFrames
 	dw FlockshotFrames
 	dw QartridgeFrames
-	dw NidorinaFrames
-	dw NidoqueenFrames
-	dw CuboneFrames
-	dw NidorinoFrames
-	dw NidokingFrames
-	dw ClefairyFrames
-	dw ClefableFrames
-	dw VulpixFrames
-	dw NinetalesFrames
-	dw JigglypuffFrames
-	dw WigglytuffFrames
-	dw ZubatFrames
-	dw GolbatFrames
+	dw LouspoutFrames
+	dw ClinchitonFrames
+	dw SkardineFrames
+	dw SkargarosFrames
+	dw SpikidnaFrames
+	dw EchlipseFrames
+	dw EchneedoFrames
+	dw KitteryFrames
+	dw FeliteFrames
+	dw FelectricFrames
+	dw HiszardFrames
+	dw RepvialFrames
+	dw KomodoseFrames
 	dw OddishFrames
 	dw GloomFrames
 	dw VileplumeFrames
