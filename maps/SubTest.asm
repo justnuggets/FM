@@ -35,11 +35,15 @@ SubPokeBallScript:
 	setflag ENGINE_MINERALBADGE
 	setflag ENGINE_GLACIERBADGE
 	setflag ENGINE_RISINGBADGE
+	setflag ENGINE_UNLOCKED_UNOWNS_A_TO_K
+	setflag ENGINE_UNLOCKED_UNOWNS_L_TO_R
+	setflag ENGINE_UNLOCKED_UNOWNS_S_TO_W
+	setflag ENGINE_UNLOCKED_UNOWNS_X_TO_Z
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke OKAPSI, 20
-	givepoke TELEKAPI, 20
+	givepoke KOFFING, 20
+	givepoke DITTO, 20
 
 	closetext
 	end
@@ -48,8 +52,8 @@ SubTest_MapEvents:
 	db 0, 0 ; filler
 	
 	def_warp_events
-	warp_event  4,  1, PLAYERS_HOUSE_2F, 1
-	
+	;warp_event  4,  1, PLAYERS_HOUSE_2F, 1
+	warp_event  4,  1, RUINS_OF_ALPH_OUTSIDE, 2
 	def_coord_events
 	
 	def_bg_events

@@ -1729,13 +1729,13 @@ JohtoGrassWildMons:
 	db 7, MARBLOCK
 	db 7, CHANSEY
 	; nite
-	db 10, BARROCK
-	db 10, BARROCK
-	db 10, BAGROUND
-	db 10, BAGROUND
-	db 10, BINARS
-	db 10, BINARS
-	db 10, NAVITAR
+	db 10, UNOWN
+	db 10, UNOWN
+	db 10, UNOWN
+	db 10, UNOWN
+	db 10, UNOWN
+	db 10, UNOWN
+	db 10, UNOWN
 	end_grass_wildmons
 
 	db -1 ; end

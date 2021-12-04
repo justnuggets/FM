@@ -108,7 +108,7 @@ AnimationPointers:
 	dw HitmonleeAnimation
 	dw HitmonchanAnimation
 	dw LickitungAnimation
-	dw KoffingAnimation
+	dw DittoAnimation
 	dw WeezingAnimation
 	dw RhyhornAnimation
 	dw RhydonAnimation
@@ -131,7 +131,7 @@ AnimationPointers:
 	dw MagikarpAnimation
 	dw GyaradosAnimation
 	dw LaprasAnimation
-	dw DittoAnimation
+	dw KoffingAnimation
 	dw EeveeAnimation
 	dw VaporeonAnimation
 	dw JolteonAnimation

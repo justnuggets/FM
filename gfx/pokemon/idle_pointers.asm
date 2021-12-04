@@ -108,7 +108,7 @@ AnimationIdlePointers:
 	dw HitmonleeAnimationIdle
 	dw HitmonchanAnimationIdle
 	dw LickitungAnimationIdle
-	dw KoffingAnimationIdle
+	dw DittoAnimationIdle
 	dw WeezingAnimationIdle
 	dw RhyhornAnimationIdle
 	dw RhydonAnimationIdle
@@ -131,7 +131,7 @@ AnimationIdlePointers:
 	dw MagikarpAnimationIdle
 	dw GyaradosAnimationIdle
 	dw LaprasAnimationIdle
-	dw DittoAnimationIdle
+	dw KoffingAnimationIdle
 	dw EeveeAnimationIdle
 	dw VaporeonAnimationIdle
 	dw JolteonAnimationIdle

@@ -327,14 +327,6 @@ LickitungEggMoves:
 	db BODY_SLAM
 	db -1 ; end
 
-KoffingEggMoves:
-	db SCREECH
-	db PSYWAVE
-	db PSYBEAM
-	db DESTINY_BOND
-	db PAIN_SPLIT
-	db -1 ; end
-
 RhyhornEggMoves:
 	db CRUNCH
 	db REVERSAL
@@ -407,6 +399,14 @@ LaprasEggMoves:
 	db FORESIGHT
 	db -1 ; end
 
+KoffingEggMoves:
+	db SCREECH
+	db PSYWAVE
+	db PSYBEAM
+	db DESTINY_BOND
+	db PAIN_SPLIT
+	db -1 ; end
+	
 EeveeEggMoves:
 	db FLAIL
 	db CHARM

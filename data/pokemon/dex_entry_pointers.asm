@@ -109,7 +109,7 @@ PokedexDataPointerTable:
 	dw HitmonleePokedexEntry
 	dw HitmonchanPokedexEntry
 	dw LickitungPokedexEntry
-	dw KoffingPokedexEntry
+	dw DittoPokedexEntry
 	dw WeezingPokedexEntry
 	dw RhyhornPokedexEntry
 	dw RhydonPokedexEntry
@@ -132,7 +132,7 @@ PokedexDataPointerTable:
 	dw MagikarpPokedexEntry
 	dw GyaradosPokedexEntry
 	dw LaprasPokedexEntry
-	dw DittoPokedexEntry
+	dw KoffingPokedexEntry
 	dw EeveePokedexEntry
 	dw VaporeonPokedexEntry
 	dw JolteonPokedexEntry

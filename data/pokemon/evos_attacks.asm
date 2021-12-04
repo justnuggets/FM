@@ -1080,18 +1080,10 @@ LickitungEvosAttacks:
 	db 43, SCREECH
 	db 0 ; no more level-up moves
 
-KoffingEvosAttacks:
-	db EVOLVE_LEVEL, 35, WEEZING
+DittoEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, POISON_GAS
-	db 1, TACKLE
-	db 9, SMOG
-	db 17, SELFDESTRUCT
-	db 21, SLUDGE
-	db 25, SMOKESCREEN
-	db 33, HAZE
-	db 41, EXPLOSION
-	db 45, DESTINY_BOND
+	db 1, TRANSFORM
+	db 1, TRANSFORM
 	db 0 ; no more level-up moves
 
 WeezingEvosAttacks:
@@ -1393,7 +1385,7 @@ LaprasEvosAttacks:
 	db 57, HYDRO_PUMP
 	db 0 ; no more level-up moves
 
-DittoEvosAttacks:
+KoffingEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TRANSFORM
 	db 0 ; no more level-up moves

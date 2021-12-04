@@ -219,8 +219,8 @@ PokemonPicPointers::
 	dba_pic HitmonchanBackpic
 	dba_pic LickitungFrontpic
 	dba_pic LickitungBackpic
-	dba_pic KoffingFrontpic
-	dba_pic KoffingBackpic
+	dba_pic DittoFrontpic
+	dba_pic DittoBackpic
 	dba_pic WeezingFrontpic
 	dba_pic WeezingBackpic
 	dba_pic RhyhornFrontpic
@@ -265,8 +265,8 @@ PokemonPicPointers::
 	dba_pic GyaradosBackpic
 	dba_pic LaprasFrontpic
 	dba_pic LaprasBackpic
-	dba_pic DittoFrontpic
-	dba_pic DittoBackpic
+	dba_pic KoffingFrontpic
+	dba_pic KoffingBackpic
 	dba_pic EeveeFrontpic
 	dba_pic EeveeBackpic
 	dba_pic VaporeonFrontpic

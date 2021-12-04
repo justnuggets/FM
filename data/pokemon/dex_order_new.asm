@@ -84,34 +84,34 @@ NewPokedexOrder:
 	db SLOWBRO
 	db MAGNEMITE
 	db MAGNETON
-	db FARFETCH_D ; 53
-	db DODUO      ; 54
-	db DODRIO     ; 55
-	db SEEL       ; 56
-	db DEWGONG    ; 57
-	db GRIMER     ; 58
-	db MUK        ; 59
-	db SHELLDER   ; 5a
-	db CLOYSTER   ; 5b
-	db GASTLY     ; 5c
-	db HAUNTER    ; 5d
-	db GENGAR     ; 5e
-	db ONIX       ; 5f
-	db DROWZEE    ; 60
+	db FARFETCH_D
+	db DODUO  
+	db DODRIO  
+	db SEEL     
+	db DEWGONG  
+	db GRIMER    
+	db MUK       
+	db SHELLDER  
+	db CLOYSTER  
+	db GASTLY     
+	db HAUNTER    
+	db GENGAR    
+	db ONIX      
+	db DROWZEE    
 	db HYPNO      ; 61
-	db KRABBY     ; 62
-	db KINGLER    ; 63
-	db VOLTORB    ; 64
+	db KRABBY    
+	db KINGLER   
+	db VOLTORB    
 	db ELECTRODE  ; 65
 	db NIDORAN_F  ; 66
-	db EXEGGUTOR  ; 67
+	db EXEGGUTOR  
 	db NIDORAN_M  ; 68
-	db MAROWAK    ; 69
-	db HITMONLEE  ; 6a
-	db HITMONCHAN ; 6b
-	db LICKITUNG  ; 6c
-	db KOFFING    ; 6d
-	db WEEZING    ; 6e
+	db MAROWAK    
+	db HITMONLEE  
+	db HITMONCHAN 
+	db LICKITUNG  
+	db DITTO    ; 6d
+	db WEEZING    
 	db RHYHORN    ; 6f
 	db RHYDON     ; 70
 	db CHANSEY    ; 71
@@ -133,7 +133,7 @@ NewPokedexOrder:
 	db MAGIKARP   ; 81
 	db GYARADOS   ; 82
 	db LAPRAS     ; 83
-	db DITTO      ; 84
+	db KOFFING    ; 84
 	db EEVEE      ; 85
 	db VAPOREON   ; 86
 	db JOLTEON    ; 87

@@ -108,7 +108,7 @@ FramesPointers:
 	dw HitmonleeFrames
 	dw HitmonchanFrames
 	dw LickitungFrames
-	dw KoffingFrames
+	dw DittoFrames
 	dw WeezingFrames
 	dw RhyhornFrames
 	dw RhydonFrames
@@ -131,7 +131,7 @@ FramesPointers:
 	dw MagikarpFrames
 	dw GyaradosFrames
 	dw LaprasFrames
-	dw DittoFrames
+	dw KoffingFrames
 	dw EeveeFrames
 	dw VaporeonFrames
 	dw JolteonFrames

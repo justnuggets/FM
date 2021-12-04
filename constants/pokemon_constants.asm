@@ -127,7 +127,7 @@
 	const HITMONLEE  ; 6a
 	const HITMONCHAN ; 6b
 	const LICKITUNG  ; 6c
-	const KOFFING    ; 6d
+	const DITTO     ; 6d
 	const WEEZING    ; 6e
 	const RHYHORN    ; 6f
 	const RHYDON     ; 70
@@ -150,7 +150,7 @@
 	const MAGIKARP   ; 81
 	const GYARADOS   ; 82
 	const LAPRAS     ; 83
-	const DITTO      ; 84
+	const KOFFING     ; 84
 	const EEVEE      ; 85
 	const VAPOREON   ; 86
 	const JOLTEON    ; 87

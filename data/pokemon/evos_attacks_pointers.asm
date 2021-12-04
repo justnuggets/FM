@@ -110,7 +110,7 @@ EvosAttacksPointers::
 	dw HitmonleeEvosAttacks
 	dw HitmonchanEvosAttacks
 	dw LickitungEvosAttacks
-	dw KoffingEvosAttacks
+	dw DittoEvosAttacks
 	dw WeezingEvosAttacks
 	dw RhyhornEvosAttacks
 	dw RhydonEvosAttacks
@@ -133,7 +133,7 @@ EvosAttacksPointers::
 	dw MagikarpEvosAttacks
 	dw GyaradosEvosAttacks
 	dw LaprasEvosAttacks
-	dw DittoEvosAttacks
+	dw KoffingEvosAttacks
 	dw EeveeEvosAttacks
 	dw VaporeonEvosAttacks
 	dw JolteonEvosAttacks

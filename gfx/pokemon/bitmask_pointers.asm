@@ -108,7 +108,7 @@ BitmasksPointers:
 	dw HitmonleeBitmasks
 	dw HitmonchanBitmasks
 	dw LickitungBitmasks
-	dw KoffingBitmasks
+	dw DittoBitmasks
 	dw WeezingBitmasks
 	dw RhyhornBitmasks
 	dw RhydonBitmasks
@@ -131,7 +131,7 @@ BitmasksPointers:
 	dw MagikarpBitmasks
 	dw GyaradosBitmasks
 	dw LaprasBitmasks
-	dw DittoBitmasks
+	dw KoffingBitmasks
 	dw EeveeBitmasks
 	dw VaporeonBitmasks
 	dw JolteonBitmasks

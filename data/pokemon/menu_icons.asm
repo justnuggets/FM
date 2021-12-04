@@ -110,7 +110,7 @@ MonMenuIcons:
 	db ICON_FIGHTER     ; HITMONLEE
 	db ICON_FIGHTER     ; HITMONCHAN
 	db ICON_MONSTER     ; LICKITUNG
-	db ICON_BLOB        ; KOFFING
+	db ICON_BLOB        ; DITTO
 	db ICON_BLOB        ; WEEZING
 	db ICON_EQUINE      ; RHYHORN
 	db ICON_MONSTER     ; RHYDON
@@ -133,7 +133,7 @@ MonMenuIcons:
 	db ICON_FISH        ; MAGIKARP
 	db ICON_GYARADOS    ; GYARADOS
 	db ICON_LAPRAS      ; LAPRAS
-	db ICON_BLOB        ; DITTO
+	db ICON_BLOB        ; KOFFING
 	db ICON_FOX         ; EEVEE
 	db ICON_FOX         ; VAPOREON
 	db ICON_FOX         ; JOLTEON
