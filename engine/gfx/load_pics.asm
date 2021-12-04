@@ -103,9 +103,9 @@ _GetFrontpic:
 	ret
 
 GetFrontpicPointer:
-	ld a, [wCurPartySpecies]
-	cp UNOWN
-	jr z, .unown
+	;ld a, [wCurPartySpecies]
+	;cp UNOWN
+	;jr z, .unown
 	ld a, [wCurPartySpecies]
 	ld d, BANK(PokemonPicPointers)
 	jr .ok

@@ -42,8 +42,8 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke KOFFING, 20
-	givepoke DITTO, 20
+	givepoke SUBMINO, 20
+	givepoke MISDREAVUS, 20
 
 	closetext
 	end

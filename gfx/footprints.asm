@@ -559,7 +559,7 @@ INCBIN "gfx/footprints/entei.1bpp",      					footprint_top ;pandemicro
 INCBIN "gfx/footprints/suicune.1bpp",    					footprint_top ;haerazor-ult
 INCBIN "gfx/footprints/larvitar.1bpp",   					footprint_top ;grillzly-ult
 INCBIN "gfx/footprints/pupitar.1bpp",    					footprint_top ;hiptorrent-ult
-INCBIN "gfx/footprints/tyranitar.1bpp",  					footprint_top ;hpraezly
+INCBIN "gfx/footprints/tyranitar.1bpp",  					footprint_top ;hypraezly
 ; 241-248 bottom halves
 INCBIN "gfx/footprints/egg_dex_none.1bpp", footprint_bottom
 INCBIN "gfx/footprints/egg_dex_none.1bpp", footprint_bottom
@@ -574,7 +574,7 @@ INCBIN "gfx/footprints/lugia.1bpp",      					footprint_top ;missigno
 INCBIN "gfx/footprints/ho_oh.1bpp",      					footprint_top ;m
 INCBIN "gfx/footprints/celebi.1bpp",     					footprint_top ;subcybr
 INCBIN "gfx/footprints/252.1bpp",        					footprint_top ;velocerace
-INCBIN "gfx/footprints/253.1bpp",       					footprint_top
+INCBIN "gfx/footprints/253.1bpp",       					footprint_top ;EGG
 INCBIN "gfx/footprints/254.1bpp",       					footprint_top
 INCBIN "gfx/footprints/255.1bpp",       					footprint_top
 INCBIN "gfx/footprints/256.1bpp",        					footprint_top
