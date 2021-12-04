@@ -42,38 +42,38 @@ EggMovePointers::
 	dw NoEggMoves
 	dw RepvialEggMoves
 	dw NoEggMoves
-	dw OddishEggMoves
+	dw CursiorEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw ParasEggMoves
+	dw SlickreteEggMoves
 	dw NoEggMoves
-	dw VenonatEggMoves
+	dw IngrovertEggMoves
 	dw NoEggMoves
-	dw DiglettEggMoves
+	dw BugglarEggMoves
 	dw NoEggMoves
-	dw MeowthEggMoves
+	dw PorcelionEggMoves
 	dw NoEggMoves
-	dw PsyduckEggMoves
+	dw WallopyEggMoves
 	dw NoEggMoves
-	dw MankeyEggMoves
+	dw OrizuruEggMoves
 	dw NoEggMoves
-	dw GrowlitheEggMoves
+	dw BinarsEggMoves
 	dw NoEggMoves
-	dw PoliwagEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw AbraEggMoves
+	dw SinistarEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw MachopEggMoves
+	dw BagroundEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw BellsproutEggMoves
+	dw RockadeEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw TentacoolEggMoves
+	dw SliverfishEggMoves
 	dw NoEggMoves
-	dw GeodudeEggMoves
+	dw NoEggMoves
+	dw ImpanEggMoves
+	dw NoEggMoves
+	dw DaemoonEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw PonytaEggMoves

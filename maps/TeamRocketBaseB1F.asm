@@ -447,31 +447,31 @@ ExplodingTrap22:
 
 VoltorbExplodingTrap:
 	special FadeOutPalettes
-	cry VOLTORB
+	cry MARBLOCK
 	special FadeInPalettes
 	setlasttalked -1
 	loadvar VAR_BATTLETYPE, BATTLETYPE_TRAP
-	loadwildmon VOLTORB, 23
+	loadwildmon MARBLOCK, 23
 	startbattle
 	end
 
 GeodudeExplodingTrap:
 	special FadeOutPalettes
-	cry GEODUDE
+	cry MARBLOCK
 	special FadeInPalettes
 	setlasttalked -1
 	loadvar VAR_BATTLETYPE, BATTLETYPE_TRAP
-	loadwildmon GEODUDE, 21
+	loadwildmon MARBLOCK, 21
 	startbattle
 	end
 
 KoffingExplodingTrap:
 	special FadeOutPalettes
-	cry KOFFING
+	cry MARBLOCK
 	special FadeInPalettes
 	setlasttalked -1
 	loadvar VAR_BATTLETYPE, BATTLETYPE_TRAP
-	loadwildmon KOFFING, 21
+	loadwildmon MARBLOCK, 21
 	startbattle
 	end
 

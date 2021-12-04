@@ -2,19 +2,19 @@ SpriteMons:
 ; entries correspond to SPRITE_* constants past SPRITE_POKEMON
 	table_width 1, SpriteMons
 	db UNOWN
-	db GEODUDE
-	db GROWLITHE
+	db DAEMOON
+	db BINARS
 	db HAMSEL
 	db SHELLDER
-	db ODDISH
+	db CURSIOR
 	db GENGAR
 	db REPVIAL
 	db MAGIKARP
 	db CUBBURN
 	db TOGEPI
 	db HIPTORRENT
-	db DIGLETT
-	db POLIWAG
+	db BUGGLAR
+	db SINISTAR
 	db TEAKBEAK
 	db ECHLIPSE
 	db GRASSNIP
@@ -24,10 +24,10 @@ SpriteMons:
 	db FELECTRIC
 	db GRIMER
 	db CRYSTALIS
-	db PARAS
-	db TENTACOOL
+	db SLICKRETE
+	db IMPAN
 	db TAUROS
-	db MACHOP
+	db ROCKADE
 	db VOLTORB
 	db LAPRAS
 	db RHYDON

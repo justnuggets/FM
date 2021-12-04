@@ -22,11 +22,11 @@ BillsGrandpa:
 	checkevent EVENT_SHOWED_PICHU_TO_BILLS_GRANDPA
 	iftrue .ShowedPichu
 	checkevent EVENT_SHOWED_GROWLITHE_VULPIX_TO_BILLS_GRANDPA
-	iftrue .ShowedGrowlitheVulpix
+	iftrue .ShowedBinarsVulpix
 	checkevent EVENT_SHOWED_STARYU_TO_BILLS_GRANDPA
 	iftrue .ShowedStaryu
 	checkevent EVENT_SHOWED_ODDISH_TO_BILLS_GRANDPA
-	iftrue .ShowedOddish
+	iftrue .ShowedCursior
 	checkevent EVENT_SHOWED_LICKITUNG_TO_BILLS_GRANDPA
 	iftrue .ShowedLickitung
 	writetext BillsGrandpaLickitungText
@@ -43,7 +43,7 @@ BillsGrandpa:
 	sjump .ShowedLickitung
 
 .GotEverstone:
-	writetext BillsGrandpaOddishText
+	writetext BillsGrandpaCursiorText
 	promptbutton
 	writetext BillsGrandpaAskToSeeMonText
 	yesorno
@@ -54,7 +54,7 @@ BillsGrandpa:
 	ifnotequal SUBMINO, .WrongPokemon
 	scall .CorrectPokemon
 	setevent EVENT_SHOWED_ODDISH_TO_BILLS_GRANDPA
-	sjump .ShowedOddish
+	sjump .ShowedCursior
 
 .GotLeafStone:
 	writetext BillsGrandpaStaryuText
@@ -73,7 +73,7 @@ BillsGrandpa:
 .GotWaterStone:
 	checkver
 	iftrue .AskVulpix
-	writetext BillsGrandpaGrowlitheText
+	writetext BillsGrandpaBinarsText
 	promptbutton
 	writetext BillsGrandpaAskToSeeMonText
 	yesorno
@@ -84,7 +84,7 @@ BillsGrandpa:
 	ifnotequal SUBMINO, .WrongPokemon
 	scall .CorrectPokemon
 	setevent EVENT_SHOWED_GROWLITHE_VULPIX_TO_BILLS_GRANDPA
-	sjump .ShowedGrowlitheVulpix
+	sjump .ShowedBinarsVulpix
 
 .AskVulpix:
 	writetext BillsGrandpaVulpixText
@@ -98,7 +98,7 @@ BillsGrandpa:
 	ifnotequal SUBMINO, .WrongPokemon
 	scall .CorrectPokemon
 	setevent EVENT_SHOWED_GROWLITHE_VULPIX_TO_BILLS_GRANDPA
-	sjump .ShowedGrowlitheVulpix
+	sjump .ShowedBinarsVulpix
 
 .GotFireStone:
 	writetext BillsGrandpaPichuText
@@ -125,7 +125,7 @@ BillsGrandpa:
 	closetext
 	end
 
-.ShowedOddish:
+.ShowedCursior:
 	checkevent EVENT_GOT_LEAF_STONE_FROM_BILLS_GRANDPA
 	iftrue .GotLeafStone
 	scall .ReceiveItem
@@ -147,7 +147,7 @@ BillsGrandpa:
 	closetext
 	end
 
-.ShowedGrowlitheVulpix:
+.ShowedBinarsVulpix:
 	checkevent EVENT_GOT_FIRE_STONE_FROM_BILLS_GRANDPA
 	iftrue .GotFireStone
 	scall .ReceiveItem
@@ -287,7 +287,7 @@ BillsGrandpaLickitungText:
 	line "long tongue."
 	done
 
-BillsGrandpaOddishText:
+BillsGrandpaCursiorText:
 	text "Ah, my grandson"
 	line "mentioned a round,"
 
@@ -314,7 +314,7 @@ BillsGrandpaStaryuText:
 	line "like to see it."
 	done
 
-BillsGrandpaGrowlitheText:
+BillsGrandpaBinarsText:
 	text "BILL told me about"
 	line "a #MON that is"
 

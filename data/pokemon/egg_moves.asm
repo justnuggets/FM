@@ -116,14 +116,14 @@ RepvialEggMoves:
 	db WHIRLWIND
 	db -1 ; end
 
-OddishEggMoves:
+CursiorEggMoves:
 	db SWORDS_DANCE
 	db RAZOR_LEAF
 	db FLAIL
 	db SYNTHESIS
 	db -1 ; end
 
-ParasEggMoves:
+SlickreteEggMoves:
 	db FALSE_SWIPE
 	db SCREECH
 	db COUNTER
@@ -133,13 +133,13 @@ ParasEggMoves:
 	db PURSUIT
 	db -1 ; end
 
-VenonatEggMoves:
+IngrovertEggMoves:
 	db BATON_PASS
 	db SCREECH
 	db GIGA_DRAIN
 	db -1 ; end
 
-DiglettEggMoves:
+BugglarEggMoves:
 	db FAINT_ATTACK
 	db SCREECH
 	db ANCIENTPOWER
@@ -147,14 +147,14 @@ DiglettEggMoves:
 	db BEAT_UP
 	db -1 ; end
 
-MeowthEggMoves:
+PorcelionEggMoves:
 	db SPITE
 	db CHARM
 	db HYPNOSIS
 	db AMNESIA
 	db -1 ; end
 
-PsyduckEggMoves:
+WallopyEggMoves:
 	db ICE_BEAM
 	db HYPNOSIS
 	db PSYBEAM
@@ -165,7 +165,7 @@ PsyduckEggMoves:
 	db CROSS_CHOP
 	db -1 ; end
 
-MankeyEggMoves:
+OrizuruEggMoves:
 	db ROCK_SLIDE
 	db FORESIGHT
 	db MEDITATE
@@ -174,7 +174,7 @@ MankeyEggMoves:
 	db BEAT_UP
 	db -1 ; end
 
-GrowlitheEggMoves:
+BinarsEggMoves:
 	db BODY_SLAM
 	db SAFEGUARD
 	db CRUNCH
@@ -182,7 +182,7 @@ GrowlitheEggMoves:
 	db FIRE_SPIN
 	db -1 ; end
 
-PoliwagEggMoves:
+SinistarEggMoves:
 	db MIST
 	db SPLASH
 	db BUBBLEBEAM
@@ -190,20 +190,20 @@ PoliwagEggMoves:
 	db MIND_READER
 	db -1 ; end
 
-AbraEggMoves:
+BagroundEggMoves:
 	db LIGHT_SCREEN
 	db ENCORE
 	db BARRIER
 	db -1 ; end
 
-MachopEggMoves:
+RockadeEggMoves:
 	db LIGHT_SCREEN
 	db MEDITATE
 	db ROLLING_KICK
 	db ENCORE
 	db -1 ; end
 
-BellsproutEggMoves:
+SliverfishEggMoves:
 	db SWORDS_DANCE
 	db ENCORE
 	db REFLECT
@@ -211,7 +211,7 @@ BellsproutEggMoves:
 	db LEECH_LIFE
 	db -1 ; end
 
-TentacoolEggMoves:
+ImpanEggMoves:
 	db AURORA_BEAM
 	db MIRROR_COAT
 	db RAPID_SPIN
@@ -219,7 +219,7 @@ TentacoolEggMoves:
 	db SAFEGUARD
 	db -1 ; end
 
-GeodudeEggMoves:
+DaemoonEggMoves:
 	db MEGA_PUNCH
 	db ROCK_SLIDE
 	db -1 ; end

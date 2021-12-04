@@ -11,9 +11,9 @@ KantoWaterWildMons:
 
 	def_water_wildmons VERMILION_PORT
 	db 2 percent ; encounter rate
-	db 35, TENTACOOL
-	db 30, TENTACOOL
-	db 35, TENTACRUEL
+	db 35, IMPAN
+	db 30, IMPAN
+	db 35, DAETYR
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_4
@@ -25,9 +25,9 @@ KantoWaterWildMons:
 
 	def_water_wildmons ROUTE_6
 	db 2 percent ; encounter rate
-	db 10, PSYDUCK
-	db 5, PSYDUCK
-	db 10, GOLDUCK
+	db 10, WALLOPY
+	db 5, WALLOPY
+	db 10, JABAROO
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_9
@@ -46,44 +46,44 @@ KantoWaterWildMons:
 
 	def_water_wildmons ROUTE_12
 	db 6 percent ; encounter rate
-	db 25, TENTACOOL
+	db 25, IMPAN
 	db 25, QUAGSIRE
-	db 25, TENTACRUEL
+	db 25, DAETYR
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_13
 	db 6 percent ; encounter rate
-	db 25, TENTACOOL
+	db 25, IMPAN
 	db 25, QUAGSIRE
-	db 25, TENTACRUEL
+	db 25, DAETYR
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_19
 	db 6 percent ; encounter rate
-	db 35, TENTACOOL
-	db 30, TENTACOOL
-	db 35, TENTACRUEL
+	db 35, IMPAN
+	db 30, IMPAN
+	db 35, DAETYR
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_20
 	db 6 percent ; encounter rate
-	db 35, TENTACOOL
-	db 30, TENTACOOL
-	db 35, TENTACRUEL
+	db 35, IMPAN
+	db 30, IMPAN
+	db 35, DAETYR
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_21
 	db 6 percent ; encounter rate
-	db 35, TENTACOOL
-	db 30, TENTACOOL
-	db 35, TENTACRUEL
+	db 35, IMPAN
+	db 30, IMPAN
+	db 35, DAETYR
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_22
 	db 2 percent ; encounter rate
-	db 10, POLIWAG
-	db 5, POLIWAG
-	db 10, POLIWHIRL
+	db 10, SINISTAR
+	db 5, SINISTAR
+	db 10, DRONNEL
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_24
@@ -102,37 +102,37 @@ KantoWaterWildMons:
 
 	def_water_wildmons ROUTE_26
 	db 6 percent ; encounter rate
-	db 30, TENTACOOL
-	db 25, TENTACOOL
-	db 30, TENTACRUEL
+	db 30, IMPAN
+	db 25, IMPAN
+	db 30, DAETYR
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_27
 	db 6 percent ; encounter rate
-	db 20, TENTACOOL
-	db 15, TENTACOOL
-	db 20, TENTACRUEL
+	db 20, IMPAN
+	db 15, IMPAN
+	db 20, DAETYR
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_28
 	db 2 percent ; encounter rate
-	db 40, POLIWAG
-	db 35, POLIWAG
-	db 40, POLIWHIRL
+	db 40, SINISTAR
+	db 35, SINISTAR
+	db 40, DRONNEL
 	end_water_wildmons
 
 	def_water_wildmons PALLET_TOWN
 	db 6 percent ; encounter rate
-	db 35, TENTACOOL
-	db 30, TENTACOOL
-	db 35, TENTACRUEL
+	db 35, IMPAN
+	db 30, IMPAN
+	db 35, DAETYR
 	end_water_wildmons
 
 	def_water_wildmons VIRIDIAN_CITY
 	db 2 percent ; encounter rate
-	db 10, POLIWAG
-	db 5, POLIWAG
-	db 10, POLIWHIRL
+	db 10, SINISTAR
+	db 5, SINISTAR
+	db 10, DRONNEL
 	end_water_wildmons
 
 	def_water_wildmons CERULEAN_CITY
@@ -144,9 +144,9 @@ KantoWaterWildMons:
 
 	def_water_wildmons VERMILION_CITY
 	db 6 percent ; encounter rate
-	db 35, TENTACOOL
-	db 30, TENTACOOL
-	db 35, TENTACRUEL
+	db 35, IMPAN
+	db 30, IMPAN
+	db 35, DAETYR
 	end_water_wildmons
 
 	def_water_wildmons CELADON_CITY
@@ -165,9 +165,9 @@ KantoWaterWildMons:
 
 	def_water_wildmons CINNABAR_ISLAND
 	db 6 percent ; encounter rate
-	db 35, TENTACOOL
-	db 30, TENTACOOL
-	db 35, TENTACRUEL
+	db 35, IMPAN
+	db 30, IMPAN
+	db 35, DAETYR
 	end_water_wildmons
 
 	db -1 ; end

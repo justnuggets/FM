@@ -2,20 +2,20 @@
 
 AlphabeticalPokedexOrder:
 	table_width 1, AlphabeticalPokedexOrder
-	db ABRA
+	db BAGROUND
 	db AERODACTYL
 	db AIPOM
-	db ALAKAZAM
+	db CAULDEGAR
 	db AMPHAROS
 	db HAILOTH
-	db ARCANINE
+	db BUSHIDUDE
 	db ARIADOS
 	db ARTICUNO
 	db AZUMARILL
 	db BAYLEEF
 	db OPOSSTER
 	db BELLOSSOM
-	db BELLSPROUT
+	db SLIVERFISH
 	db GRILLZLY
 	db BLISSEY
 	db SUBMINO
@@ -39,7 +39,7 @@ AlphabeticalPokedexOrder:
 	db CYNDAQUIL
 	db DELIBIRD
 	db DEWGONG
-	db DIGLETT
+	db BUGGLAR
 	db DITTO
 	db DODRIO
 	db DODUO
@@ -48,7 +48,7 @@ AlphabeticalPokedexOrder:
 	db DRAGONITE
 	db DRATINI
 	db DROWZEE
-	db DUGTRIO
+	db SPYDAR
 	db DUNSPARCE
 	db EEVEE
 	db CRYSTALIS
@@ -68,18 +68,18 @@ AlphabeticalPokedexOrder:
 	db FURRET
 	db GASTLY
 	db GENGAR
-	db GEODUDE
+	db DAEMOON
 	db GIRAFARIG
 	db GLIGAR
-	db GLOOM
+	db ENVOIL
 	db KOMODOSE
 	db GOLDEEN
-	db GOLDUCK
+	db JABAROO
 	db GOLEM
 	db GRANBULL
-	db GRAVELER
+	db SABARINTH
 	db GRIMER
-	db GROWLITHE
+	db BINARS
 	db GYARADOS
 	db HAUNTER
 	db HERACROSS
@@ -101,7 +101,7 @@ AlphabeticalPokedexOrder:
 	db JYNX
 	db KABUTO
 	db KABUTOPS
-	db KADABRA
+	db TERRAGER
 	db GUINAPI
 	db KANGASKHAN
 	db KINGDRA
@@ -115,22 +115,22 @@ AlphabeticalPokedexOrder:
 	db LEDYBA
 	db LICKITUNG
 	db LUGIA
-	db MACHAMP
-	db MACHOKE
-	db MACHOP
+	db MARBLOCK
+	db BARROCK
+	db ROCKADE
 	db MAGBY
 	db MAGCARGO
 	db MAGIKARP
 	db MAGMAR
 	db MAGNEMITE
 	db MAGNETON
-	db MANKEY
+	db ORIZURU
 	db MANTINE
 	db MAREEP
 	db MARILL
 	db MAROWAK
 	db MEGANIUM
-	db MEOWTH
+	db PORCELION
 	db DRIPPOUR
 	db MEW
 	db MEWTWO
@@ -150,13 +150,13 @@ AlphabeticalPokedexOrder:
 	db FELITE
 	db NOCTOWL
 	db OCTILLERY
-	db ODDISH
+	db CURSIOR
 	db OMANYTE
 	db OMASTAR
 	db ONIX
-	db PARAS
-	db PARASECT
-	db PERSIAN
+	db SLICKRETE
+	db GASPHALT
+	db FUUMA
 	db PHANPY
 	db PICHU
 	db AXALOT
@@ -167,14 +167,14 @@ AlphabeticalPokedexOrder:
 	db PINECO
 	db PINSIR
 	db POLITOED
-	db POLIWAG
-	db POLIWHIRL
-	db POLIWRATH
+	db SINISTAR
+	db DRONNEL
+	db RUMBLEBEE
 	db PONYTA
 	db PORYGON
 	db PORYGON2
-	db PRIMEAPE
-	db PSYDUCK
+	db ORIGERON
+	db WALLOPY
 	db PUPITAR
 	db QUAGSIRE
 	db QUILAVA
@@ -223,8 +223,8 @@ AlphabeticalPokedexOrder:
 	db TANGELA
 	db TAUROS
 	db TEDDIURSA
-	db TENTACOOL
-	db TENTACRUEL
+	db IMPAN
+	db DAETYR
 	db TOGEPI
 	db TOGETIC
 	db TOTODILE
@@ -235,16 +235,16 @@ AlphabeticalPokedexOrder:
 	db UNOWN
 	db URSARING
 	db VAPOREON
-	db VENOMOTH
-	db VENONAT
+	db FRITESHADE
+	db INGROVERT
 	db SUBZILANTE
-	db VICTREEBEL
-	db VILEPLUME
+	db POLKAPIX
+	db NAVITAR
 	db VOLTORB
 	db KITTERY
 	db COALDIAK
 	db HAMSEL
-	db WEEPINBELL
+	db REDDOT
 	db WEEZING
 	db HISZARD
 	db WOBBUFFET

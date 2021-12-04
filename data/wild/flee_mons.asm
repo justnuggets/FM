@@ -18,7 +18,7 @@ SometimesFleeMons:
 	db -1
 
 OftenFleeMons:
-	db SKARDINE
+	db CURSIOR
 	db ARTICUNO
 	db ZAPDOS
 	db MOLTRES

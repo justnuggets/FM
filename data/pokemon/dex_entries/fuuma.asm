@@ -1,0 +1,10 @@
+	db "GUARDIAN@" ; species name
+	dw 603, 13417 ; height, weight
+
+	db   "Inctinctually,"
+	next "these beasts guard"
+	next "sacred grounds."
+
+	page "Be it temple or"
+	next "tower, the entra-"
+	next "nces are safe.@"

@@ -42,39 +42,39 @@ AnimationIdlePointers:
 	dw HiszardAnimationIdle
 	dw RepvialAnimationIdle
 	dw KomodoseAnimationIdle
-	dw OddishAnimationIdle
-	dw GloomAnimationIdle
-	dw VileplumeAnimationIdle
-	dw ParasAnimationIdle
-	dw ParasectAnimationIdle
-	dw VenonatAnimationIdle
-	dw VenomothAnimationIdle
-	dw DiglettAnimationIdle
-	dw DugtrioAnimationIdle
-	dw MeowthAnimationIdle
-	dw PersianAnimationIdle
-	dw PsyduckAnimationIdle
-	dw GolduckAnimationIdle
-	dw MankeyAnimationIdle
-	dw PrimeapeAnimationIdle
-	dw GrowlitheAnimationIdle
-	dw ArcanineAnimationIdle
-	dw PoliwagAnimationIdle
-	dw PoliwhirlAnimationIdle
-	dw PoliwrathAnimationIdle
-	dw AbraAnimationIdle
-	dw KadabraAnimationIdle
-	dw AlakazamAnimationIdle
-	dw MachopAnimationIdle
-	dw MachokeAnimationIdle
-	dw MachampAnimationIdle
-	dw BellsproutAnimationIdle
-	dw WeepinbellAnimationIdle
-	dw VictreebelAnimationIdle
-	dw TentacoolAnimationIdle
-	dw TentacruelAnimationIdle
-	dw GeodudeAnimationIdle
-	dw GravelerAnimationIdle
+	dw CursiorAnimationIdle
+	dw EnvoilAnimationIdle
+	dw NavitarAnimationIdle
+	dw SlickreteAnimationIdle
+	dw GasphaltAnimationIdle
+	dw IngrovertAnimationIdle
+	dw FriteshadeAnimationIdle
+	dw BugglarAnimationIdle
+	dw SpydarAnimationIdle
+	dw PorcelionAnimationIdle
+	dw FuumaAnimationIdle
+	dw WallopyAnimationIdle
+	dw JabarooAnimationIdle
+	dw OrizuruAnimationIdle
+	dw OrigeronAnimationIdle
+	dw BinarsAnimationIdle
+	dw BushidudeAnimationIdle
+	dw SinistarAnimationIdle
+	dw DronnelAnimationIdle
+	dw RumblebeeAnimationIdle
+	dw BagroundAnimationIdle
+	dw TerragerAnimationIdle
+	dw CauldegarAnimationIdle
+	dw RockadeAnimationIdle
+	dw BarrockAnimationIdle
+	dw MarblockAnimationIdle
+	dw SliverfishAnimationIdle
+	dw ReddotAnimationIdle
+	dw PolkapixAnimationIdle
+	dw ImpanAnimationIdle
+	dw DaetyrAnimationIdle
+	dw DaemoonAnimationIdle
+	dw SabarinthAnimationIdle
 	dw GolemAnimationIdle
 	dw PonytaAnimationIdle
 	dw RapidashAnimationIdle

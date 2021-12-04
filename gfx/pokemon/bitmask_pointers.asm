@@ -42,39 +42,39 @@ BitmasksPointers:
 	dw HiszardBitmasks
 	dw RepvialBitmasks
 	dw KomodoseBitmasks
-	dw OddishBitmasks
-	dw GloomBitmasks
-	dw VileplumeBitmasks
-	dw ParasBitmasks
-	dw ParasectBitmasks
-	dw VenonatBitmasks
-	dw VenomothBitmasks
-	dw DiglettBitmasks
-	dw DugtrioBitmasks
-	dw MeowthBitmasks
-	dw PersianBitmasks
-	dw PsyduckBitmasks
-	dw GolduckBitmasks
-	dw MankeyBitmasks
-	dw PrimeapeBitmasks
-	dw GrowlitheBitmasks
-	dw ArcanineBitmasks
-	dw PoliwagBitmasks
-	dw PoliwhirlBitmasks
-	dw PoliwrathBitmasks
-	dw AbraBitmasks
-	dw KadabraBitmasks
-	dw AlakazamBitmasks
-	dw MachopBitmasks
-	dw MachokeBitmasks
-	dw MachampBitmasks
-	dw BellsproutBitmasks
-	dw WeepinbellBitmasks
-	dw VictreebelBitmasks
-	dw TentacoolBitmasks
-	dw TentacruelBitmasks
-	dw GeodudeBitmasks
-	dw GravelerBitmasks
+	dw CursiorBitmasks
+	dw EnvoilBitmasks
+	dw NavitarBitmasks
+	dw SlickreteBitmasks
+	dw GasphaltBitmasks
+	dw IngrovertBitmasks
+	dw FriteshadeBitmasks
+	dw BugglarBitmasks
+	dw SpydarBitmasks
+	dw PorcelionBitmasks
+	dw FuumaBitmasks
+	dw WallopyBitmasks
+	dw JabarooBitmasks
+	dw OrizuruBitmasks
+	dw OrigeronBitmasks
+	dw BinarsBitmasks
+	dw BushidudeBitmasks
+	dw SinistarBitmasks
+	dw DronnelBitmasks
+	dw RumblebeeBitmasks
+	dw BagroundBitmasks
+	dw TerragerBitmasks
+	dw CauldegarBitmasks
+	dw RockadeBitmasks
+	dw BarrockBitmasks
+	dw MarblockBitmasks
+	dw SliverfishBitmasks
+	dw ReddotBitmasks
+	dw PolkapixBitmasks
+	dw ImpanBitmasks
+	dw DaetyrBitmasks
+	dw DaemoonBitmasks
+	dw SabarinthBitmasks
 	dw GolemBitmasks
 	dw PonytaBitmasks
 	dw RapidashBitmasks

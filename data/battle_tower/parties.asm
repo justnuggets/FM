@@ -657,7 +657,7 @@ BattleTowerMons:
 	bigdw 48 ; SDef
 	db "HAGANE-RU@@"
 
-	db ALAKAZAM
+	db CAULDEGAR
 	db BERRY_JUICE
 	db PSYCHIC_M, PSYCH_UP, TOXIC, THUNDERPUNCH
 	dw 0 ; OT ID
@@ -683,7 +683,7 @@ BattleTowerMons:
 	bigdw 55 ; SDef
 	db "HU-DEiN@@@@"
 
-	db ARCANINE
+	db BUSHIDUDE
 	db BRIGHTPOWDER
 	db FLAMETHROWER, ROAR, HYPER_BEAM, IRON_TAIL
 	dw 0 ; OT ID
@@ -1128,7 +1128,7 @@ BattleTowerMons:
 	bigdw 87 ; SDef
 	db "SANDA-SU@@@"
 
-	db POLIWRATH
+	db RUMBLEBEE
 	db BRIGHTPOWDER
 	db DOUBLE_TEAM, SURF, FISSURE, SUBMISSION
 	dw 0 ; OT ID
@@ -1206,7 +1206,7 @@ BattleTowerMons:
 	bigdw 86 ; SDef
 	db "RU-ZIyuRA@@"
 
-	db DUGTRIO
+	db SPYDAR
 	db KINGS_ROCK
 	db EARTHQUAKE, SLUDGE_BOMB, SLASH, MUD_SLAP
 	dw 0 ; OT ID
@@ -1310,7 +1310,7 @@ BattleTowerMons:
 	bigdw 76 ; SDef
 	db "HERUGA-@@@@"
 
-	db MACHAMP
+	db MARBLOCK
 	db MIRACLEBERRY
 	db CROSS_CHOP, ICE_PUNCH, EARTHQUAKE, FIRE_BLAST
 	dw 0 ; OT ID
@@ -1518,7 +1518,7 @@ BattleTowerMons:
 	bigdw 82 ; SDef
 	db "E-HUi@@@@@@"
 
-	db TENTACRUEL
+	db DAETYR
 	db KINGS_ROCK
 	db WRAP, TOXIC, SLUDGE_BOMB, BUBBLEBEAM
 	dw 0 ; OT ID
@@ -1622,7 +1622,7 @@ BattleTowerMons:
 	bigdw 58 ; SDef
 	db "ONIDORIRU@@"
 
-	db PRIMEAPE
+	db ORIGERON
 	db MIRACLEBERRY
 	db LOW_KICK, KARATE_CHOP, REVERSAL, FOCUS_ENERGY
 	dw 0 ; OT ID
@@ -1781,7 +1781,7 @@ BattleTowerMons:
 	bigdw 87 ; SDef
 	db "HAGANE-RU@@"
 
-	db ALAKAZAM
+	db CAULDEGAR
 	db KINGS_ROCK
 	db PSYCHIC_M, THUNDERPUNCH, RECOVER, FIRE_PUNCH
 	dw 0 ; OT ID
@@ -1911,7 +1911,7 @@ BattleTowerMons:
 	bigdw 102 ; SDef
 	db "HAtuSAMU@@@"
 
-	db DUGTRIO
+	db SPYDAR
 	db KINGS_ROCK
 	db EARTHQUAKE, HYPER_BEAM, SLUDGE_BOMB, MUD_SLAP
 	dw 0 ; OT ID
@@ -1989,7 +1989,7 @@ BattleTowerMons:
 	bigdw 115 ; SDef
 	db "PORIGON2@@@"
 
-	db ARCANINE
+	db BUSHIDUDE
 	db CHARCOAL
 	db FLAME_WHEEL, LEER, BODY_SLAM, ROAR
 	dw 0 ; OT ID
@@ -2408,7 +2408,7 @@ BattleTowerMons:
 	bigdw 156 ; SDef
 	db "YADOKINGU@@"
 
-	db MACHAMP
+	db MARBLOCK
 	db GOLD_BERRY
 	db CROSS_CHOP, EARTHQUAKE, FIRE_BLAST, THUNDERPUNCH
 	dw 0 ; OT ID
@@ -2460,7 +2460,7 @@ BattleTowerMons:
 	bigdw 130 ; SDef
 	db "SUTA-MI-@@@"
 
-	db DUGTRIO
+	db SPYDAR
 	db KINGS_ROCK
 	db EARTHQUAKE, SLASH, HYPER_BEAM, SLUDGE_BOMB
 	dw 0 ; OT ID
@@ -2853,7 +2853,7 @@ BattleTowerMons:
 	bigdw 170 ; SDef
 	db "PORIGON2@@@"
 
-	db MACHAMP
+	db MARBLOCK
 	db QUICK_CLAW
 	db FIRE_PUNCH, CROSS_CHOP, THUNDERPUNCH, EARTHQUAKE
 	dw 0 ; OT ID
@@ -3009,7 +3009,7 @@ BattleTowerMons:
 	bigdw 212 ; SDef
 	db "BURAtuKI-@@"
 
-	db ARCANINE
+	db BUSHIDUDE
 	db CHARCOAL
 	db FLAMETHROWER, CRUNCH, EXTREMESPEED, IRON_TAIL
 	dw 0 ; OT ID
@@ -3243,7 +3243,7 @@ BattleTowerMons:
 	bigdw 105 ; SDef
 	db "SANDOPAN@@@"
 
-	db PARASECT
+	db GASPHALT
 	db GOLD_BERRY
 	db SPORE, GIGA_DRAIN, HYPER_BEAM, SLUDGE_BOMB
 	dw 0 ; OT ID
@@ -3662,7 +3662,7 @@ BattleTowerMons:
 	bigdw 226 ; SDef
 	db "BARIYA-DO@@"
 
-	db PRIMEAPE
+	db ORIGERON
 	db QUICK_CLAW
 	db CROSS_CHOP, ICE_PUNCH, THUNDERPUNCH, ROCK_SLIDE
 	dw 0 ; OT ID
@@ -4289,7 +4289,7 @@ BattleTowerMons:
 	bigdw 201 ; SDef
 	db "MARUMAIN@@@"
 
-	db DUGTRIO
+	db SPYDAR
 	db SCOPE_LENS
 	db SLASH, EARTHQUAKE, THIEF, MUD_SLAP
 	dw 0 ; OT ID
@@ -4315,7 +4315,7 @@ BattleTowerMons:
 	bigdw 177 ; SDef
 	db "DAGUTORIO@@"
 
-	db VICTREEBEL
+	db POLKAPIX
 	db QUICK_CLAW
 	db GIGA_DRAIN, SLUDGE_BOMB, HYPER_BEAM, TOXIC
 	dw 0 ; OT ID
@@ -4656,7 +4656,7 @@ BattleTowerMons:
 	bigdw 250 ; SDef
 	db "E-HUi@@@@@@"
 
-	db MACHAMP
+	db MARBLOCK
 	db QUICK_CLAW
 	db CROSS_CHOP, VITAL_THROW, FIRE_BLAST, EARTHQUAKE
 	dw 0 ; OT ID
@@ -4708,7 +4708,7 @@ BattleTowerMons:
 	bigdw 275 ; SDef
 	db "KABIGON@@@@"
 
-	db ARCANINE
+	db BUSHIDUDE
 	db MINT_BERRY
 	db SUNNY_DAY, FLAMETHROWER, EXTREMESPEED, REST
 	dw 0 ; OT ID
@@ -4971,7 +4971,7 @@ BattleTowerMons:
 	bigdw 252 ; SDef
 	db "HERUGA-@@@@"
 
-	db MACHAMP
+	db MARBLOCK
 	db QUICK_CLAW
 	db CROSS_CHOP, EARTHQUAKE, HYPER_BEAM, VITAL_THROW
 	dw 0 ; OT ID
@@ -5075,7 +5075,7 @@ BattleTowerMons:
 	bigdw 230 ; SDef
 	db "KENTAROSU@@"
 
-	db ARCANINE
+	db BUSHIDUDE
 	db LEFTOVERS
 	db FLAMETHROWER, EXTREMESPEED, IRON_TAIL, HYPER_BEAM
 	dw 0 ; OT ID

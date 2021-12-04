@@ -38,9 +38,11 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke ODDISH, 20
-	givepoke GLOOM, 20
-	givepoke VILEPLUME, 20
+	givepoke IMPAN, 20
+	givepoke DAETYR, 20
+	givepoke DAEMOON, 20
+	givepoke SABARINTH, 20
+
 	closetext
 	end
 	

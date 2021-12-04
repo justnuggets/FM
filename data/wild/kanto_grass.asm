@@ -5,55 +5,55 @@ KantoGrassWildMons:
 	def_grass_wildmons DIGLETTS_CAVE
 	db 4 percent, 2 percent, 8 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, DIGLETT
-	db 6, DIGLETT
-	db 12, DIGLETT
-	db 24, DIGLETT
-	db 24, DUGTRIO
-	db 24, DUGTRIO
-	db 24, DUGTRIO
+	db 3, BUGGLAR
+	db 6, BUGGLAR
+	db 12, BUGGLAR
+	db 24, BUGGLAR
+	db 24, SPYDAR
+	db 24, SPYDAR
+	db 24, SPYDAR
 	; day
-	db 2, DIGLETT
-	db 4, DIGLETT
-	db 8, DIGLETT
-	db 16, DIGLETT
-	db 16, DUGTRIO
-	db 16, DUGTRIO
-	db 16, DUGTRIO
+	db 2, BUGGLAR
+	db 4, BUGGLAR
+	db 8, BUGGLAR
+	db 16, BUGGLAR
+	db 16, SPYDAR
+	db 16, SPYDAR
+	db 16, SPYDAR
 	; nite
-	db 4, DIGLETT
-	db 8, DIGLETT
-	db 16, DIGLETT
-	db 32, DIGLETT
-	db 32, DUGTRIO
-	db 32, DUGTRIO
-	db 32, DUGTRIO
+	db 4, BUGGLAR
+	db 8, BUGGLAR
+	db 16, BUGGLAR
+	db 32, BUGGLAR
+	db 32, SPYDAR
+	db 32, SPYDAR
+	db 32, SPYDAR
 	end_grass_wildmons
 
 	def_grass_wildmons MOUNT_MOON
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 6, REPVIAL
-	db 8, GEODUDE
+	db 8, DAEMOON
 	db 8, FOWLLET
-	db 12, PARAS
-	db 10, GEODUDE
+	db 12, SLICKRETE
+	db 10, DAEMOON
 	db 8, ECHLIPSE
 	db 8, ECHLIPSE
 	; day
 	db 6, REPVIAL
-	db 8, GEODUDE
+	db 8, DAEMOON
 	db 8, FOWLLET
-	db 12, PARAS
-	db 10, GEODUDE
+	db 12, SLICKRETE
+	db 10, DAEMOON
 	db 8, ECHLIPSE
 	db 8, ECHLIPSE
 	; nite
 	db 6, REPVIAL
-	db 8, GEODUDE
+	db 8, DAEMOON
 	db 8, ECHLIPSE
-	db 12, PARAS
-	db 10, GEODUDE
+	db 12, SLICKRETE
+	db 10, DAEMOON
 	db 12, ECHLIPSE
 	db 12, ECHLIPSE
 	end_grass_wildmons
@@ -62,24 +62,24 @@ KantoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 10, SKARDINE
-	db 11, GEODUDE
-	db 12, MACHOP
+	db 11, DAEMOON
+	db 12, ROCKADE
 	db 12, REPVIAL
-	db 15, MACHOKE
+	db 15, BARROCK
 	db 12, MAROWAK
 	db 12, MAROWAK
 	; day
 	db 10, SKARDINE
-	db 11, GEODUDE
-	db 12, MACHOP
+	db 11, DAEMOON
+	db 12, ROCKADE
 	db 12, REPVIAL
-	db 15, MACHOKE
+	db 15, BARROCK
 	db 12, MAROWAK
 	db 12, MAROWAK
 	; nite
 	db 12, REPVIAL
-	db 11, GEODUDE
-	db 12, GEODUDE
+	db 11, DAEMOON
+	db 12, DAEMOON
 	db 17, HAUNTER
 	db 15, REPVIAL
 	db 15, REPVIAL
@@ -90,7 +90,7 @@ KantoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 12, SKARDINE
-	db 14, GEODUDE
+	db 14, DAEMOON
 	db 16, ONIX
 	db 12, REPVIAL
 	db 15, MAROWAK
@@ -98,7 +98,7 @@ KantoGrassWildMons:
 	db 15, KANGASKHAN
 	; day
 	db 12, SKARDINE
-	db 14, GEODUDE
+	db 14, DAEMOON
 	db 16, ONIX
 	db 12, REPVIAL
 	db 15, MAROWAK
@@ -106,7 +106,7 @@ KantoGrassWildMons:
 	db 15, KANGASKHAN
 	; nite
 	db 12, REPVIAL
-	db 14, GEODUDE
+	db 14, DAEMOON
 	db 16, ONIX
 	db 15, REPVIAL
 	db 15, HAUNTER
@@ -117,7 +117,7 @@ KantoGrassWildMons:
 	def_grass_wildmons VICTORY_ROAD
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 34, GRAVELER
+	db 34, SABARINTH
 	db 32, RHYHORN
 	db 33, ONIX
 	db 34, KOMODOSE
@@ -125,7 +125,7 @@ KantoGrassWildMons:
 	db 35, RHYDON
 	db 35, RHYDON
 	; day
-	db 34, GRAVELER
+	db 34, SABARINTH
 	db 32, RHYHORN
 	db 33, ONIX
 	db 34, KOMODOSE
@@ -134,12 +134,12 @@ KantoGrassWildMons:
 	db 35, RHYDON
 	; nite
 	db 34, KOMODOSE
-	db 34, GRAVELER
+	db 34, SABARINTH
 	db 32, ONIX
-	db 36, GRAVELER
-	db 38, GRAVELER
-	db 40, GRAVELER
-	db 40, GRAVELER
+	db 36, SABARINTH
+	db 38, SABARINTH
+	db 40, SABARINTH
+	db 40, SABARINTH
 	end_grass_wildmons
 
 	def_grass_wildmons TOHJO_FALLS
@@ -288,26 +288,26 @@ KantoGrassWildMons:
 	db 13, POSSUMUS
 	db 13, SNUBBULL
 	db 15, AXALITL
-	db 12, ABRA
+	db 12, BAGROUND
 	db 14, FELECTRIC
-	db 14, ABRA
-	db 14, ABRA
+	db 14, BAGROUND
+	db 14, BAGROUND
 	; day
 	db 13, POSSUMUS
 	db 13, SNUBBULL
 	db 15, AXALITL
-	db 12, ABRA
+	db 12, BAGROUND
 	db 14, FELECTRIC
-	db 14, ABRA
-	db 14, ABRA
+	db 14, BAGROUND
+	db 14, BAGROUND
 	; nite
 	db 13, HOOTHOOT
-	db 13, MEOWTH
+	db 13, PORCELION
 	db 15, NOCTOWL
-	db 12, ABRA
+	db 12, BAGROUND
 	db 14, FELECTRIC
-	db 14, ABRA
-	db 14, ABRA
+	db 14, BAGROUND
+	db 14, BAGROUND
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_6
@@ -329,10 +329,10 @@ KantoGrassWildMons:
 	db 15, GRANBULL
 	db 15, GRANBULL
 	; nite
-	db 13, MEOWTH
+	db 13, PORCELION
 	db 13, DROWZEE
 	db 14, MAGNEMITE
-	db 15, PSYDUCK
+	db 15, WALLOPY
 	db 12, FELECTRIC
 	db 15, LOCUTS
 	db 15, LOCUTS
@@ -346,24 +346,24 @@ KantoGrassWildMons:
 	db 18, SNUBBULL
 	db 18, LOCUTS
 	db 18, FELECTRIC
-	db 16, ABRA
-	db 16, ABRA
+	db 16, BAGROUND
+	db 16, BAGROUND
 	; day
 	db 17, HOPSTOT
 	db 17, CHAWPPER
 	db 18, SNUBBULL
 	db 18, LOCUTS
 	db 18, FELECTRIC
-	db 16, ABRA
-	db 16, ABRA
+	db 16, BAGROUND
+	db 16, BAGROUND
 	; nite
-	db 17, MEOWTH
+	db 17, PORCELION
 	db 17, MURKROW
 	db 18, HOUNDOUR
-	db 18, PERSIAN
+	db 18, FUUMA
 	db 18, FELECTRIC
-	db 16, ABRA
-	db 16, ABRA
+	db 16, BAGROUND
+	db 16, BAGROUND
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_8
@@ -371,27 +371,27 @@ KantoGrassWildMons:
 	; morn
 	db 17, SNUBBULL
 	db 19, AXALITL
-	db 16, ABRA
-	db 17, GROWLITHE
+	db 16, BAGROUND
+	db 17, BINARS
 	db 16, FELECTRIC
-	db 18, KADABRA
-	db 18, KADABRA
+	db 18, TERRAGER
+	db 18, TERRAGER
 	; day
 	db 17, SNUBBULL
 	db 19, AXALITL
-	db 16, ABRA
-	db 17, GROWLITHE
+	db 16, BAGROUND
+	db 17, BINARS
 	db 16, FELECTRIC
-	db 18, KADABRA
-	db 18, KADABRA
+	db 18, TERRAGER
+	db 18, TERRAGER
 	; nite
-	db 17, MEOWTH
+	db 17, PORCELION
 	db 20, NOCTOWL
-	db 16, ABRA
+	db 16, BAGROUND
 	db 17, HAUNTER
 	db 16, FELECTRIC
-	db 18, KADABRA
-	db 18, KADABRA
+	db 18, TERRAGER
+	db 18, TERRAGER
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_9
@@ -414,9 +414,9 @@ KantoGrassWildMons:
 	db 18, MAROWAK
 	; nite
 	db 15, HOPSTOT
-	db 15, VENONAT
+	db 15, INGROVERT
 	db 15, LOCUTS
-	db 15, VENOMOTH
+	db 15, FRITESHADE
 	db 15, REPVIAL
 	db 18, LOCUTS
 	db 18, LOCUTS
@@ -441,10 +441,10 @@ KantoGrassWildMons:
 	db 18, ELECTABUZZ
 	db 18, ELECTABUZZ
 	; nite
-	db 15, VENONAT
+	db 15, INGROVERT
 	db 17, VOLTORB
 	db 15, LOCUTS
-	db 15, VENOMOTH
+	db 15, FRITESHADE
 	db 15, REPVIAL
 	db 16, ELECTABUZZ
 	db 16, ELECTABUZZ
@@ -470,7 +470,7 @@ KantoGrassWildMons:
 	db 16, HOPPIP
 	; nite
 	db 14, DROWZEE
-	db 13, MEOWTH
+	db 13, PORCELION
 	db 15, MAGNEMITE
 	db 16, NOCTOWL
 	db 16, LOCUTS
@@ -497,10 +497,10 @@ KantoGrassWildMons:
 	db 27, HOPPIP
 	db 25, CHANSEY
 	; nite
-	db 23, VENONAT
+	db 23, INGROVERT
 	db 23, QUAGSIRE
 	db 25, NOCTOWL
-	db 25, VENOMOTH
+	db 25, FRITESHADE
 	db 25, QUAGSIRE
 	db 25, QUAGSIRE
 	db 25, CHANSEY
@@ -525,10 +525,10 @@ KantoGrassWildMons:
 	db 30, SKIPLOOM
 	db 28, CHANSEY
 	; nite
-	db 26, VENONAT
+	db 26, INGROVERT
 	db 26, QUAGSIRE
 	db 28, NOCTOWL
-	db 28, VENOMOTH
+	db 28, FRITESHADE
 	db 28, QUAGSIRE
 	db 28, QUAGSIRE
 	db 28, CHANSEY
@@ -553,10 +553,10 @@ KantoGrassWildMons:
 	db 27, HOPPIP
 	db 25, CHANSEY
 	; nite
-	db 23, VENONAT
+	db 23, INGROVERT
 	db 23, QUAGSIRE
 	db 25, NOCTOWL
-	db 25, VENOMOTH
+	db 25, FRITESHADE
 	db 25, QUAGSIRE
 	db 25, QUAGSIRE
 	db 25, CHANSEY
@@ -694,9 +694,9 @@ KantoGrassWildMons:
 	db 7, SNOLIPOLI
 	; nite
 	db 3, HOPSTOT
-	db 3, POLIWAG
+	db 3, SINISTAR
 	db 5, HOPSTOT
-	db 4, POLIWAG
+	db 4, SINISTAR
 	db 6, HOPSTOT
 	db 7, HOPSTOT
 	db 7, HOPSTOT
@@ -708,26 +708,26 @@ KantoGrassWildMons:
 	db 8, HIPPOUR
 	db 10, HIPPOUR
 	db 12, DRIPPOUR
-	db 12, ABRA
-	db 10, BELLSPROUT
+	db 12, BAGROUND
+	db 10, SLIVERFISH
 	db 14, HIPTORRENT
 	db 14, HIPTORRENT
 	; day
 	db 8, HIPPOUR
 	db 12, SUNKERN
 	db 10, HIPPOUR
-	db 12, ABRA
-	db 10, BELLSPROUT
+	db 12, BAGROUND
+	db 10, SLIVERFISH
 	db 14, HIPTORRENT
 	db 14, HIPTORRENT
 	; nite
-	db 10, VENONAT
-	db 10, ODDISH
-	db 12, ODDISH
-	db 12, ABRA
-	db 10, BELLSPROUT
-	db 14, GLOOM
-	db 14, GLOOM
+	db 10, INGROVERT
+	db 10, CURSIOR
+	db 12, CURSIOR
+	db 12, BAGROUND
+	db 10, SLIVERFISH
+	db 14, ENVOIL
+	db 14, ENVOIL
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_25
@@ -737,7 +737,7 @@ KantoGrassWildMons:
 	db 10, POSSUMUS
 	db 12, AXALITL
 	db 12, DRIPPOUR
-	db 10, BELLSPROUT
+	db 10, SLIVERFISH
 	db 14, HIPTORRENT
 	db 14, HIPTORRENT
 	; day
@@ -745,15 +745,15 @@ KantoGrassWildMons:
 	db 10, POSSUMUS
 	db 12, AXALITL
 	db 12, DRIPPOUR
-	db 10, BELLSPROUT
+	db 10, SLIVERFISH
 	db 14, HIPTORRENT
 	db 14, HIPTORRENT
 	; nite
-	db 10, ODDISH
+	db 10, CURSIOR
 	db 10, HOOTHOOT
-	db 10, VENONAT
+	db 10, INGROVERT
 	db 12, NOCTOWL
-	db 10, BELLSPROUT
+	db 10, SLIVERFISH
 	db 14, NOCTOWL
 	db 14, NOCTOWL
 	end_grass_wildmons
@@ -834,9 +834,9 @@ KantoGrassWildMons:
 	db 43, DODRIO
 	; nite
 	db 39, TANGELA
-	db 40, POLIWHIRL
+	db 40, DRONNEL
 	db 40, KOMODOSE
-	db 40, POLIWHIRL
+	db 40, DRONNEL
 	db 42, KOMODOSE
 	db 42, KOMODOSE
 	db 42, KOMODOSE

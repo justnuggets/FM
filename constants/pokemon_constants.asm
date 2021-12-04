@@ -49,9 +49,9 @@
 	const FLOCKSHOT  ; 1c
 	const QARTRIDGE  ; 1d 
 	const LOUSPOUT   ; 1e
-	const CLINCHITON  ; 1f
+	const CLINCHITON ; 1f
 	const SKARDINE	 ; 20 
-	const SKARGAROS   ; 21
+	const SKARGAROS  ; 21
 	const SPIKIDNA   ; 22
 	const ECHLIPSE   ; 23
 	const ECHNEEDO   ; 24
@@ -60,40 +60,40 @@
 	const FELECTRIC  ; 27
 	const HISZARD    ; 28
 	const REPVIAL    ; 29
-	const KOMODOSE     ; 2a
-	const ODDISH     ; 2b
-	const GLOOM      ; 2c
-	const VILEPLUME  ; 2d
-	const PARAS      ; 2e
-	const PARASECT   ; 2f
-	const VENONAT    ; 30
-	const VENOMOTH   ; 31
-	const DIGLETT    ; 32
-	const DUGTRIO    ; 33
-	const MEOWTH     ; 34
-	const PERSIAN    ; 35
-	const PSYDUCK    ; 36
-	const GOLDUCK    ; 37
-	const MANKEY     ; 38
-	const PRIMEAPE   ; 39
-	const GROWLITHE  ; 3a
-	const ARCANINE   ; 3b
-	const POLIWAG    ; 3c
-	const POLIWHIRL  ; 3d
-	const POLIWRATH  ; 3e
-	const ABRA       ; 3f
-	const KADABRA    ; 40
-	const ALAKAZAM   ; 41
-	const MACHOP     ; 42
-	const MACHOKE    ; 43
-	const MACHAMP    ; 44
-	const BELLSPROUT ; 45
-	const WEEPINBELL ; 46
-	const VICTREEBEL ; 47
-	const TENTACOOL  ; 48
-	const TENTACRUEL ; 49
-	const GEODUDE    ; 4a
-	const GRAVELER   ; 4b
+	const KOMODOSE   ; 2a
+	const CURSIOR    ; 2b
+	const ENVOIL     ; 2c
+	const NAVITAR    ; 2d
+	const SLICKRETE  ; 2e
+	const GASPHALT   ; 2f
+	const INGROVERT  ; 30
+	const FRITESHADE ; 31
+	const BUGGLAR    ; 32
+	const SPYDAR     ; 33
+	const PORCELION  ; 34
+	const FUUMA      ; 35
+	const WALLOPY    ; 36
+	const JABAROO    ; 37
+	const ORIZURU    ; 38
+	const ORIGERON   ; 39
+	const BINARS     ; 3a
+	const BUSHIDUDE  ; 3b
+	const SINISTAR   ; 3c
+	const DRONNEL    ; 3d
+	const RUMBLEBEE  ; 3e
+	const BAGROUND       ; 3f
+	const TERRAGER    ; 40
+	const CAULDEGAR   ; 41
+	const ROCKADE     ; 42
+	const BARROCK    ; 43
+	const MARBLOCK    ; 44
+	const SLIVERFISH ; 45
+	const REDDOT ; 46
+	const POLKAPIX ; 47
+	const IMPAN  ; 48
+	const DAETYR ; 49
+	const DAEMOON    ; 4a
+	const SABARINTH   ; 4b
 	const GOLEM      ; 4c
 	const PONYTA     ; 4d
 	const RAPIDASH   ; 4e

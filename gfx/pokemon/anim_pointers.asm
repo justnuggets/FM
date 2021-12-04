@@ -42,39 +42,39 @@ AnimationPointers:
 	dw HiszardAnimation
 	dw RepvialAnimation
 	dw KomodoseAnimation
-	dw OddishAnimation
-	dw GloomAnimation
-	dw VileplumeAnimation
-	dw ParasAnimation
-	dw ParasectAnimation
-	dw VenonatAnimation
-	dw VenomothAnimation
-	dw DiglettAnimation
-	dw DugtrioAnimation
-	dw MeowthAnimation
-	dw PersianAnimation
-	dw PsyduckAnimation
-	dw GolduckAnimation
-	dw MankeyAnimation
-	dw PrimeapeAnimation
-	dw GrowlitheAnimation
-	dw ArcanineAnimation
-	dw PoliwagAnimation
-	dw PoliwhirlAnimation
-	dw PoliwrathAnimation
-	dw AbraAnimation
-	dw KadabraAnimation
-	dw AlakazamAnimation
-	dw MachopAnimation
-	dw MachokeAnimation
-	dw MachampAnimation
-	dw BellsproutAnimation
-	dw WeepinbellAnimation
-	dw VictreebelAnimation
-	dw TentacoolAnimation
-	dw TentacruelAnimation
-	dw GeodudeAnimation
-	dw GravelerAnimation
+	dw CursiorAnimation
+	dw EnvoilAnimation
+	dw NavitarAnimation
+	dw SlickreteAnimation
+	dw GasphaltAnimation
+	dw IngrovertAnimation
+	dw FriteshadeAnimation
+	dw BugglarAnimation
+	dw SpydarAnimation
+	dw PorcelionAnimation
+	dw FuumaAnimation
+	dw WallopyAnimation
+	dw JabarooAnimation
+	dw OrizuruAnimation
+	dw OrigeronAnimation
+	dw BinarsAnimation
+	dw BushidudeAnimation
+	dw SinistarAnimation
+	dw DronnelAnimation
+	dw RumblebeeAnimation
+	dw BagroundAnimation
+	dw TerragerAnimation
+	dw CauldegarAnimation
+	dw RockadeAnimation
+	dw BarrockAnimation
+	dw MarblockAnimation
+	dw SliverfishAnimation
+	dw ReddotAnimation
+	dw PolkapixAnimation
+	dw ImpanAnimation
+	dw DaetyrAnimation
+	dw DaemoonAnimation
+	dw SabarinthAnimation
 	dw GolemAnimation
 	dw PonytaAnimation
 	dw RapidashAnimation

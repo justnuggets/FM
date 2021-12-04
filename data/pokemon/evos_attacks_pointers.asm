@@ -44,39 +44,39 @@ EvosAttacksPointers::
 	dw HiszardEvosAttacks
 	dw RepvialEvosAttacks
 	dw KomodoseEvosAttacks
-	dw OddishEvosAttacks
-	dw GloomEvosAttacks
-	dw VileplumeEvosAttacks
-	dw ParasEvosAttacks
-	dw ParasectEvosAttacks
-	dw VenonatEvosAttacks
-	dw VenomothEvosAttacks
-	dw DiglettEvosAttacks
-	dw DugtrioEvosAttacks
-	dw MeowthEvosAttacks
-	dw PersianEvosAttacks
-	dw PsyduckEvosAttacks
-	dw GolduckEvosAttacks
-	dw MankeyEvosAttacks
-	dw PrimeapeEvosAttacks
-	dw GrowlitheEvosAttacks
-	dw ArcanineEvosAttacks
-	dw PoliwagEvosAttacks
-	dw PoliwhirlEvosAttacks
-	dw PoliwrathEvosAttacks
-	dw AbraEvosAttacks
-	dw KadabraEvosAttacks
-	dw AlakazamEvosAttacks
-	dw MachopEvosAttacks
-	dw MachokeEvosAttacks
-	dw MachampEvosAttacks
-	dw BellsproutEvosAttacks
-	dw WeepinbellEvosAttacks
-	dw VictreebelEvosAttacks
-	dw TentacoolEvosAttacks
-	dw TentacruelEvosAttacks
-	dw GeodudeEvosAttacks
-	dw GravelerEvosAttacks
+	dw CursiorEvosAttacks
+	dw EnvoilEvosAttacks
+	dw NavitarEvosAttacks
+	dw SlickreteEvosAttacks
+	dw GasphaltEvosAttacks
+	dw IngrovertEvosAttacks
+	dw FriteshadeEvosAttacks
+	dw BugglarEvosAttacks
+	dw SpydarEvosAttacks
+	dw PorcelionEvosAttacks
+	dw FuumaEvosAttacks
+	dw WallopyEvosAttacks
+	dw JabarooEvosAttacks
+	dw OrizuruEvosAttacks
+	dw OrigeronEvosAttacks
+	dw BinarsEvosAttacks
+	dw BushidudeEvosAttacks
+	dw SinistarEvosAttacks
+	dw DronnelEvosAttacks
+	dw RumblebeeEvosAttacks
+	dw BagroundEvosAttacks
+	dw TerragerEvosAttacks
+	dw CauldegarEvosAttacks
+	dw RockadeEvosAttacks
+	dw BarrockEvosAttacks
+	dw MarblockEvosAttacks
+	dw SliverfishEvosAttacks
+	dw ReddotEvosAttacks
+	dw PolkapixEvosAttacks
+	dw ImpanEvosAttacks
+	dw DaetyrEvosAttacks
+	dw DaemoonEvosAttacks
+	dw SabarinthEvosAttacks
 	dw GolemEvosAttacks
 	dw PonytaEvosAttacks
 	dw RapidashEvosAttacks

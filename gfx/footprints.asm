@@ -85,107 +85,107 @@ INCBIN "gfx/footprints/egg_dex_bug_invertebrate.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/egg_dex_fish.1bpp",  footprint_bottom
 ; 033-040 top halves
 INCBIN "gfx/footprints/egg_dex_fish.1bpp",   footprint_top
-INCBIN "gfx/footprints/egg_dex_none.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_none.1bpp",   footprint_top;spikidna
 INCBIN "gfx/footprints/egg_dex_field.1bpp",   footprint_top
 INCBIN "gfx/footprints/egg_dex_field.1bpp",   footprint_top
-INCBIN "gfx/footprints/egg_dex_none.1bpp",     footprint_top
+INCBIN "gfx/footprints/egg_dex_none.1bpp",     footprint_top;kittery
 INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp",  footprint_top
 INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp", footprint_top
-INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp", footprint_top
+INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp", footprint_top;hiszard
 ; 033-040 bottom halves
 INCBIN "gfx/footprints/egg_dex_fish.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/egg_dex_none.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_none.1bpp",   footprint_bottom 
 INCBIN "gfx/footprints/egg_dex_field.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/egg_dex_field.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/egg_dex_none.1bpp",     footprint_bottom ;kittery
+INCBIN "gfx/footprints/egg_dex_none.1bpp",     footprint_bottom 
 INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp",  footprint_bottom
 INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp", footprint_bottom
-INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp", footprint_bottom
+INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp", footprint_bottom 
 ; 041-048 top halves
-INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp",      footprint_top
+INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp",      footprint_top 
 INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp",     footprint_top
-INCBIN "gfx/footprints/oddish.1bpp",     footprint_top
-INCBIN "gfx/footprints/gloom.1bpp",      footprint_top
-INCBIN "gfx/footprints/vileplume.1bpp",  footprint_top
-INCBIN "gfx/footprints/paras.1bpp",      footprint_top
-INCBIN "gfx/footprints/parasect.1bpp",   footprint_top
-INCBIN "gfx/footprints/venonat.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_amorphous_humanshape.1bpp",     footprint_top ;cursior
+INCBIN "gfx/footprints/egg_dex_amorphous_humanshape.1bpp",      footprint_top
+INCBIN "gfx/footprints/egg_dex_amorphous_humanshape.1bpp",  footprint_top
+INCBIN "gfx/footprints/egg_dex_amorphous_mineral.1bpp",      footprint_top ;slickrete
+INCBIN "gfx/footprints/egg_dex_amorphous_mineral.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_none.1bpp",    footprint_top ;ingrovert
 ; 041-048 bottom halves
 INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/oddish.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/gloom.1bpp",      footprint_bottom
-INCBIN "gfx/footprints/vileplume.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/paras.1bpp",      footprint_bottom
-INCBIN "gfx/footprints/parasect.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/venonat.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_amorphous_humanshape.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/egg_dex_amorphous_humanshape.1bpp",      footprint_bottom
+INCBIN "gfx/footprints/egg_dex_amorphous_humanshape.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/egg_dex_amorphous_mineral.1bpp",      footprint_bottom
+INCBIN "gfx/footprints/egg_dex_amorphous_mineral.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_none.1bpp",    footprint_bottom
 ; 049-056 top halves
-INCBIN "gfx/footprints/venomoth.1bpp",   footprint_top
-INCBIN "gfx/footprints/diglett.1bpp",    footprint_top
-INCBIN "gfx/footprints/dugtrio.1bpp",    footprint_top
-INCBIN "gfx/footprints/meowth.1bpp",     footprint_top
-INCBIN "gfx/footprints/persian.1bpp",    footprint_top
-INCBIN "gfx/footprints/psyduck.1bpp",    footprint_top
-INCBIN "gfx/footprints/golduck.1bpp",    footprint_top
-INCBIN "gfx/footprints/mankey.1bpp",     footprint_top
+INCBIN "gfx/footprints/egg_dex_amorphous_plant.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_field.1bpp",     footprint_top
+INCBIN "gfx/footprints/egg_dex_field.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_field_humanshape.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_field_humanshape.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_flying_humanshape.1bpp",     footprint_top ;orizuru
 ; 049-056 bottom halves
-INCBIN "gfx/footprints/venomoth.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/diglett.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/dugtrio.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/meowth.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/persian.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/psyduck.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/golduck.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/mankey.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/egg_dex_amorphous_plant.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_field.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/egg_dex_field.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_field_humanshape.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_field_humanshape.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_flying_humanshape.1bpp",     footprint_bottom
 ; 057-064 top halves
-INCBIN "gfx/footprints/primeape.1bpp",   footprint_top
-INCBIN "gfx/footprints/growlithe.1bpp",  footprint_top
-INCBIN "gfx/footprints/arcanine.1bpp",   footprint_top
-INCBIN "gfx/footprints/poliwag.1bpp",    footprint_top
-INCBIN "gfx/footprints/poliwhirl.1bpp",  footprint_top
-INCBIN "gfx/footprints/poliwrath.1bpp",  footprint_top
-INCBIN "gfx/footprints/abra.1bpp",       footprint_top
-INCBIN "gfx/footprints/kadabra.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_flying_humanshape.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_none.1bpp",  footprint_top ;binars
+INCBIN "gfx/footprints/egg_dex_humanshape_mineral.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_humanshape_mineral.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",  footprint_top ;dronnel
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",  footprint_top
+INCBIN "gfx/footprints/egg_dex_field_monster.1bpp",       footprint_top ; bagrond
+INCBIN "gfx/footprints/egg_dex_field_monster.1bpp",    footprint_top
 ; 057-064 bottom halves
-INCBIN "gfx/footprints/primeape.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/growlithe.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/arcanine.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/poliwag.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/poliwhirl.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/poliwrath.1bpp",  footprint_bottom
-INCBIN "gfx/footprints/abra.1bpp",       footprint_bottom
-INCBIN "gfx/footprints/kadabra.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_flying_humanshape.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_none.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/egg_dex_humanshape_mineral.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_humanshape_mineral.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/egg_dex_field_monster.1bpp",       footprint_bottom
+INCBIN "gfx/footprints/egg_dex_field_monster.1bpp",    footprint_bottom
 ; 065-072 top halves
-INCBIN "gfx/footprints/alakazam.1bpp",   footprint_top
-INCBIN "gfx/footprints/machop.1bpp",     footprint_top
-INCBIN "gfx/footprints/machoke.1bpp",    footprint_top
-INCBIN "gfx/footprints/machamp.1bpp",    footprint_top
-INCBIN "gfx/footprints/bellsprout.1bpp", footprint_top
-INCBIN "gfx/footprints/weepinbell.1bpp", footprint_top
-INCBIN "gfx/footprints/victreebel.1bpp", footprint_top
-INCBIN "gfx/footprints/tentacool.1bpp",  footprint_top
+INCBIN "gfx/footprints/egg_dex_field_monster.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_mineral.1bpp",     footprint_top ;rockade
+INCBIN "gfx/footprints/egg_dex_mineral.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_mineral.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_bug_mineral.1bpp", footprint_top ;sliverfish
+INCBIN "gfx/footprints/egg_dex_none.1bpp", footprint_top ;reddot
+INCBIN "gfx/footprints/egg_dex_fairy_mineral.1bpp", footprint_top
+INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp",  footprint_top ;impan
 ; 065-072 bottom halves
-INCBIN "gfx/footprints/alakazam.1bpp",   footprint_bottom
-INCBIN "gfx/footprints/machop.1bpp",     footprint_bottom
-INCBIN "gfx/footprints/machoke.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/machamp.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/bellsprout.1bpp", footprint_bottom
-INCBIN "gfx/footprints/weepinbell.1bpp", footprint_bottom
-INCBIN "gfx/footprints/victreebel.1bpp", footprint_bottom
-INCBIN "gfx/footprints/tentacool.1bpp",  footprint_bottom
+INCBIN "gfx/footprints/egg_dex_field_monster.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_mineral.1bpp",     footprint_bottom
+INCBIN "gfx/footprints/egg_dex_mineral.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_mineral.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_bug_mineral.1bpp", footprint_bottom
+INCBIN "gfx/footprints/egg_dex_none.1bpp", footprint_bottom
+INCBIN "gfx/footprints/egg_dex_fairy_mineral.1bpp", footprint_bottom
+INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp",  footprint_bottom
 ; 073-080 top halves
-INCBIN "gfx/footprints/tentacruel.1bpp", footprint_top
-INCBIN "gfx/footprints/geodude.1bpp",    footprint_top
-INCBIN "gfx/footprints/graveler.1bpp",   footprint_top
+INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp", footprint_top
+INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp",    footprint_top
+INCBIN "gfx/footprints/egg_dex_fairy_flying.1bpp",   footprint_top
 INCBIN "gfx/footprints/golem.1bpp",      footprint_top
 INCBIN "gfx/footprints/ponyta.1bpp",     footprint_top
 INCBIN "gfx/footprints/rapidash.1bpp",   footprint_top
 INCBIN "gfx/footprints/slowpoke.1bpp",   footprint_top
 INCBIN "gfx/footprints/slowbro.1bpp",    footprint_top
 ; 073-080 bottom halves
-INCBIN "gfx/footprints/tentacruel.1bpp", footprint_bottom
-INCBIN "gfx/footprints/geodude.1bpp",    footprint_bottom
-INCBIN "gfx/footprints/graveler.1bpp",   footprint_bottom
+INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp", footprint_bottom
+INCBIN "gfx/footprints/egg_dex_fairy_field.1bpp",    footprint_bottom
+INCBIN "gfx/footprints/egg_dex_fairy_flying.1bpp",   footprint_bottom
 INCBIN "gfx/footprints/golem.1bpp",      footprint_bottom
 INCBIN "gfx/footprints/ponyta.1bpp",     footprint_bottom
 INCBIN "gfx/footprints/rapidash.1bpp",   footprint_bottom

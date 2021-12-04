@@ -170,12 +170,12 @@ GoldenrodGameCornerPrizeMonVendorScript:
 	loadmenu .MenuHeader
 	verticalmenu
 	closewindow
-	ifequal 1, .Abra
+	ifequal 1, .Baground
 	ifequal 2, .Skardine
 	ifequal 3, .Wobbuffet
 	sjump GoldenrodGameCornerPrizeVendor_CancelPurchaseScript
 
-.Abra:
+.Baground:
 	checkcoins GOLDENRODGAMECORNER_ABRA_COINS
 	ifequal HAVE_LESS, GoldenrodGameCornerPrizeVendor_NotEnoughCoinsScript
 	readvar VAR_PARTYCOUNT

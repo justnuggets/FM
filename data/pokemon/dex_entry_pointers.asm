@@ -43,39 +43,39 @@ PokedexDataPointerTable:
 	dw HiszardPokedexEntry
 	dw RepvialPokedexEntry
 	dw KomodosePokedexEntry
-	dw OddishPokedexEntry
-	dw GloomPokedexEntry
-	dw VileplumePokedexEntry
-	dw ParasPokedexEntry
-	dw ParasectPokedexEntry
-	dw VenonatPokedexEntry
-	dw VenomothPokedexEntry
-	dw DiglettPokedexEntry
-	dw DugtrioPokedexEntry
-	dw MeowthPokedexEntry
-	dw PersianPokedexEntry
-	dw PsyduckPokedexEntry
-	dw GolduckPokedexEntry
-	dw MankeyPokedexEntry
-	dw PrimeapePokedexEntry
-	dw GrowlithePokedexEntry
-	dw ArcaninePokedexEntry
-	dw PoliwagPokedexEntry
-	dw PoliwhirlPokedexEntry
-	dw PoliwrathPokedexEntry
-	dw AbraPokedexEntry
-	dw KadabraPokedexEntry
-	dw AlakazamPokedexEntry
-	dw MachopPokedexEntry
-	dw MachokePokedexEntry
-	dw MachampPokedexEntry
-	dw BellsproutPokedexEntry
-	dw WeepinbellPokedexEntry
-	dw VictreebelPokedexEntry
-	dw TentacoolPokedexEntry
-	dw TentacruelPokedexEntry
-	dw GeodudePokedexEntry
-	dw GravelerPokedexEntry
+	dw CursiorPokedexEntry
+	dw EnvoilPokedexEntry
+	dw NavitarPokedexEntry
+	dw SlickretePokedexEntry
+	dw GasphaltPokedexEntry
+	dw IngrovertPokedexEntry
+	dw FriteshadePokedexEntry
+	dw BugglarPokedexEntry
+	dw SpydarPokedexEntry
+	dw PorcelionPokedexEntry
+	dw FuumaPokedexEntry
+	dw WallopyPokedexEntry
+	dw JabarooPokedexEntry
+	dw OrizuruPokedexEntry
+	dw OrigeronPokedexEntry
+	dw BinarsPokedexEntry
+	dw BushidudePokedexEntry
+	dw SinistarPokedexEntry
+	dw DronnelPokedexEntry
+	dw RumblebeePokedexEntry
+	dw BagroundPokedexEntry
+	dw TerragerPokedexEntry
+	dw CauldegarPokedexEntry
+	dw RockadePokedexEntry
+	dw BarrockPokedexEntry
+	dw MarblockPokedexEntry
+	dw SliverfishPokedexEntry
+	dw ReddotPokedexEntry
+	dw PolkapixPokedexEntry
+	dw ImpanPokedexEntry
+	dw DaetyrPokedexEntry
+	dw DaemoonPokedexEntry
+	dw SabarinthPokedexEntry
 	dw GolemPokedexEntry
 	dw PonytaPokedexEntry
 	dw RapidashPokedexEntry

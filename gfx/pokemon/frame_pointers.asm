@@ -42,39 +42,39 @@ FramesPointers:
 	dw HiszardFrames
 	dw RepvialFrames
 	dw KomodoseFrames
-	dw OddishFrames
-	dw GloomFrames
-	dw VileplumeFrames
-	dw ParasFrames
-	dw ParasectFrames
-	dw VenonatFrames
-	dw VenomothFrames
-	dw DiglettFrames
-	dw DugtrioFrames
-	dw MeowthFrames
-	dw PersianFrames
-	dw PsyduckFrames
-	dw GolduckFrames
-	dw MankeyFrames
-	dw PrimeapeFrames
-	dw GrowlitheFrames
-	dw ArcanineFrames
-	dw PoliwagFrames
-	dw PoliwhirlFrames
-	dw PoliwrathFrames
-	dw AbraFrames
-	dw KadabraFrames
-	dw AlakazamFrames
-	dw MachopFrames
-	dw MachokeFrames
-	dw MachampFrames
-	dw BellsproutFrames
-	dw WeepinbellFrames
-	dw VictreebelFrames
-	dw TentacoolFrames
-	dw TentacruelFrames
-	dw GeodudeFrames
-	dw GravelerFrames
+	dw CursiorFrames
+	dw EnvoilFrames
+	dw NavitarFrames
+	dw SlickreteFrames
+	dw GasphaltFrames
+	dw IngrovertFrames
+	dw FriteshadeFrames
+	dw BugglarFrames
+	dw SpydarFrames
+	dw PorcelionFrames
+	dw FuumaFrames
+	dw WallopyFrames
+	dw JabarooFrames
+	dw OrizuruFrames
+	dw OrigeronFrames
+	dw BinarsFrames
+	dw BushidudeFrames
+	dw SinistarFrames
+	dw DronnelFrames
+	dw RumblebeeFrames
+	dw BagroundFrames
+	dw TerragerFrames
+	dw CauldegarFrames
+	dw RockadeFrames
+	dw BarrockFrames
+	dw MarblockFrames
+	dw SliverfishFrames
+	dw ReddotFrames
+	dw PolkapixFrames
+	dw ImpanFrames
+	dw DaetyrFrames
+	dw DaemoonFrames
+	dw SabarinthFrames
 	dw GolemFrames
 	dw PonytaFrames
 	dw RapidashFrames
