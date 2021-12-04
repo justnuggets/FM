@@ -75,10 +75,10 @@ AnimationPointers:
 	dw DaetyrAnimation
 	dw DaemoonAnimation
 	dw SabarinthAnimation
-	dw GolemAnimation
-	dw PonytaAnimation
-	dw RapidashAnimation
-	dw SlowpokeAnimation
+	dw BombardleAnimation
+	dw AntennianAnimation
+	dw OkapsiAnimation
+	dw TelekapiAnimation
 	dw SlowbroAnimation
 	dw MagnemiteAnimation
 	dw MagnetonAnimation

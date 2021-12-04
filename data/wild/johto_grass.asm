@@ -512,26 +512,26 @@ JohtoGrassWildMons:
 	db 5, REPVIAL
 	db 6, REPVIAL
 	db 7, REPVIAL
-	db 6, SLOWPOKE
+	db 6, TELEKAPI
 	db 8, REPVIAL
-	db 8, SLOWPOKE
-	db 8, SLOWPOKE
+	db 8, TELEKAPI
+	db 8, TELEKAPI
 	; day
 	db 5, REPVIAL
 	db 6, REPVIAL
 	db 7, REPVIAL
-	db 6, SLOWPOKE
+	db 6, TELEKAPI
 	db 8, REPVIAL
-	db 8, SLOWPOKE
-	db 8, SLOWPOKE
+	db 8, TELEKAPI
+	db 8, TELEKAPI
 	; nite
 	db 5, REPVIAL
 	db 6, REPVIAL
 	db 7, REPVIAL
-	db 6, SLOWPOKE
+	db 6, TELEKAPI
 	db 8, REPVIAL
-	db 8, SLOWPOKE
-	db 8, SLOWPOKE
+	db 8, TELEKAPI
+	db 8, TELEKAPI
 	end_grass_wildmons
 
 	def_grass_wildmons SLOWPOKE_WELL_B2F
@@ -540,26 +540,26 @@ JohtoGrassWildMons:
 	db 21, REPVIAL
 	db 23, REPVIAL
 	db 19, REPVIAL
-	db 21, SLOWPOKE
+	db 21, TELEKAPI
 	db 23, KOMODOSE
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 23, TELEKAPI
+	db 23, TELEKAPI
 	; day
 	db 21, REPVIAL
 	db 23, REPVIAL
 	db 19, REPVIAL
-	db 21, SLOWPOKE
+	db 21, TELEKAPI
 	db 23, KOMODOSE
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 23, TELEKAPI
+	db 23, TELEKAPI
 	; nite
 	db 21, REPVIAL
 	db 23, REPVIAL
 	db 19, REPVIAL
-	db 21, SLOWPOKE
+	db 21, TELEKAPI
 	db 23, KOMODOSE
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 23, TELEKAPI
+	db 23, TELEKAPI
 	end_grass_wildmons
 
 	def_grass_wildmons ILEX_FOREST
@@ -1686,17 +1686,17 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 41, TANGELA
-	db 42, PONYTA
+	db 42, ANTENNIAN
 	db 42, HAILOTH
-	db 44, RAPIDASH
+	db 44, OKAPSI
 	db 41, DODUO
 	db 43, DODRIO
 	db 43, DODRIO
 	; day
 	db 41, TANGELA
-	db 42, PONYTA
+	db 42, ANTENNIAN
 	db 42, HAILOTH
-	db 44, RAPIDASH
+	db 44, OKAPSI
 	db 41, DODUO
 	db 43, DODRIO
 	db 43, DODRIO

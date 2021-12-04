@@ -165,14 +165,14 @@ INCBIN "gfx/pokemon/daemoon/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/daemoon/shiny.pal"
 INCBIN "gfx/pokemon/sabarinth/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/sabarinth/shiny.pal"
-INCBIN "gfx/pokemon/golem/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/golem/shiny.pal"
-INCBIN "gfx/pokemon/ponyta/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/ponyta/shiny.pal"
-INCBIN "gfx/pokemon/rapidash/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/rapidash/shiny.pal"
-INCBIN "gfx/pokemon/slowpoke/front.gbcpal", middle_colors
-INCLUDE "gfx/pokemon/slowpoke/shiny.pal"
+INCBIN "gfx/pokemon/bombardle/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/bombardle/shiny.pal"
+INCBIN "gfx/pokemon/antennian/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/antennian/shiny.pal"
+INCBIN "gfx/pokemon/okapsi/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/okapsi/shiny.pal"
+INCBIN "gfx/pokemon/telekapi/front.gbcpal", middle_colors
+INCLUDE "gfx/pokemon/telekapi/shiny.pal"
 INCBIN "gfx/pokemon/slowbro/front.gbcpal", middle_colors
 INCLUDE "gfx/pokemon/slowbro/shiny.pal"
 INCBIN "gfx/pokemon/magnemite/front.gbcpal", middle_colors

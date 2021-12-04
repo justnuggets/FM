@@ -76,10 +76,10 @@ PokedexDataPointerTable:
 	dw DaetyrPokedexEntry
 	dw DaemoonPokedexEntry
 	dw SabarinthPokedexEntry
-	dw GolemPokedexEntry
-	dw PonytaPokedexEntry
-	dw RapidashPokedexEntry
-	dw SlowpokePokedexEntry
+	dw BombardlePokedexEntry
+	dw AntennianPokedexEntry
+	dw OkapsiPokedexEntry
+	dw TelekapiPokedexEntry
 	dw SlowbroPokedexEntry
 	dw MagnemitePokedexEntry
 	dw MagnetonPokedexEntry

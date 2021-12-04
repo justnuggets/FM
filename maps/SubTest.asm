@@ -38,10 +38,8 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke IMPAN, 20
-	givepoke DAETYR, 20
-	givepoke DAEMOON, 20
-	givepoke SABARINTH, 20
+	givepoke OKAPSI, 20
+	givepoke TELEKAPI, 20
 
 	closetext
 	end

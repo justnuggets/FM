@@ -96,7 +96,7 @@ TrainerGruntF1:
 SlowpokeWellB1FSlowpokeWithMailScript:
 	faceplayer
 	opentext
-	cry SLOWPOKE
+	cry SUBMINO
 	writetext SlowpokeWellB1FSlowpokeWithMailText
 	yesorno
 	iftrue .ReadMail
@@ -113,7 +113,7 @@ SlowpokeWellB1FTaillessSlowpokeScript:
 	faceplayer
 	opentext
 	writetext SlowpokeWellB1FTaillessSlowpokeText
-	cry SLOWPOKE
+	cry SUBMINO
 	waitbutton
 	closetext
 	end
@@ -209,7 +209,7 @@ GruntM29AfterBattleText:
 	text "Sure, we've been"
 	line "hacking the tails"
 
-	para "off SLOWPOKE and"
+	para "off TELEKAPI and"
 	line "selling them."
 
 	para "Everything we do"
@@ -293,7 +293,7 @@ GruntF1AfterBattleText:
 	done
 
 SlowpokeWellB1FSlowpokeWithMailText:
-	text "A SLOWPOKE with"
+	text "A TELEKAPI with"
 	line "its TAIL cut off…"
 
 	para "Huh? It has MAIL."
@@ -308,13 +308,13 @@ SlowpokeWellB1FSlowpokeMailText:
 	line "after the house"
 
 	para "with Grandpa and"
-	line "SLOWPOKE."
+	line "TELEKAPI."
 
 	para "Love, Dad"
 	done
 
 SlowpokeWellB1FTaillessSlowpokeText:
-	text "A SLOWPOKE with"
+	text "A TELEKAPI with"
 	line "its TAIL cut off…"
 	done
 

@@ -148,26 +148,26 @@ KantoGrassWildMons:
 	db 22, REPVIAL
 	db 22, LOCUTS
 	db 24, KOMODOSE
-	db 21, SLOWPOKE
+	db 21, TELEKAPI
 	db 20, HOPSTOT
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 23, TELEKAPI
+	db 23, TELEKAPI
 	; day
 	db 22, REPVIAL
 	db 22, LOCUTS
 	db 24, KOMODOSE
-	db 21, SLOWPOKE
+	db 21, TELEKAPI
 	db 20, HOPSTOT
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 23, TELEKAPI
+	db 23, TELEKAPI
 	; nite
 	db 22, REPVIAL
 	db 22, LOCUTS
 	db 24, KOMODOSE
-	db 21, SLOWPOKE
+	db 21, TELEKAPI
 	db 20, HOPSTOT
-	db 23, SLOWPOKE
-	db 23, SLOWPOKE
+	db 23, TELEKAPI
+	db 23, TELEKAPI
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_1
@@ -681,7 +681,7 @@ KantoGrassWildMons:
 	db 3, CHAWPPER
 	db 5, CHAWPPER
 	db 4, DODUO
-	db 6, PONYTA
+	db 6, ANTENNIAN
 	db 7, SNOLIPOLI
 	db 7, SNOLIPOLI
 	; day
@@ -689,7 +689,7 @@ KantoGrassWildMons:
 	db 3, CHAWPPER
 	db 5, CHAWPPER
 	db 4, DODUO
-	db 6, PONYTA
+	db 6, ANTENNIAN
 	db 7, SNOLIPOLI
 	db 7, SNOLIPOLI
 	; nite
@@ -763,7 +763,7 @@ KantoGrassWildMons:
 	; morn
 	db 28, DODUO
 	db 28, FLOCKSHOT
-	db 32, PONYTA
+	db 32, ANTENNIAN
 	db 30, LOCUTS
 	db 30, DODUO
 	db 30, HAILOTH
@@ -771,7 +771,7 @@ KantoGrassWildMons:
 	; day
 	db 28, DODUO
 	db 28, FLOCKSHOT
-	db 32, PONYTA
+	db 32, ANTENNIAN
 	db 30, LOCUTS
 	db 30, DODUO
 	db 30, HAILOTH
@@ -793,7 +793,7 @@ KantoGrassWildMons:
 	db 28, HAILOTH
 	db 30, LOCUTS
 	db 30, DODUO
-	db 32, PONYTA
+	db 32, ANTENNIAN
 	db 30, DODRIO
 	db 30, DODRIO
 	; day
@@ -801,7 +801,7 @@ KantoGrassWildMons:
 	db 28, HAILOTH
 	db 30, LOCUTS
 	db 30, DODUO
-	db 32, PONYTA
+	db 32, ANTENNIAN
 	db 30, DODRIO
 	db 30, DODRIO
 	; nite
@@ -818,16 +818,16 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 39, TANGELA
-	db 40, PONYTA
-	db 40, RAPIDASH
+	db 40, ANTENNIAN
+	db 40, OKAPSI
 	db 42, HAILOTH
 	db 41, DODUO
 	db 43, DODRIO
 	db 43, DODRIO
 	; day
 	db 39, TANGELA
-	db 40, PONYTA
-	db 40, RAPIDASH
+	db 40, ANTENNIAN
+	db 40, OKAPSI
 	db 42, HAILOTH
 	db 41, DODUO
 	db 43, DODRIO

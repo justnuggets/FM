@@ -153,14 +153,14 @@ PokemonPicPointers::
 	dba_pic DaemoonBackpic
 	dba_pic SabarinthFrontpic
 	dba_pic SabarinthBackpic
-	dba_pic GolemFrontpic
-	dba_pic GolemBackpic
-	dba_pic PonytaFrontpic
-	dba_pic PonytaBackpic
-	dba_pic RapidashFrontpic
-	dba_pic RapidashBackpic
-	dba_pic SlowpokeFrontpic
-	dba_pic SlowpokeBackpic
+	dba_pic BombardleFrontpic
+	dba_pic BombardleBackpic
+	dba_pic AntennianFrontpic
+	dba_pic AntennianBackpic
+	dba_pic OkapsiFrontpic
+	dba_pic OkapsiBackpic
+	dba_pic TelekapiFrontpic
+	dba_pic TelekapiBackpic
 	dba_pic SlowbroFrontpic
 	dba_pic SlowbroBackpic
 	dba_pic MagnemiteFrontpic

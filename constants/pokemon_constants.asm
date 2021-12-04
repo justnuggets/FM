@@ -94,10 +94,10 @@
 	const DAETYR ; 49
 	const DAEMOON    ; 4a
 	const SABARINTH   ; 4b
-	const GOLEM      ; 4c
-	const PONYTA     ; 4d
-	const RAPIDASH   ; 4e
-	const SLOWPOKE   ; 4f
+	const BOMBARDLE      ; 4c
+	const ANTENNIAN     ; 4d
+	const OKAPSI   ; 4e
+	const TELEKAPI   ; 4f
 	const SLOWBRO    ; 50
 	const MAGNEMITE  ; 51
 	const MAGNETON   ; 52

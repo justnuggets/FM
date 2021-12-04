@@ -77,10 +77,10 @@ EvosAttacksPointers::
 	dw DaetyrEvosAttacks
 	dw DaemoonEvosAttacks
 	dw SabarinthEvosAttacks
-	dw GolemEvosAttacks
-	dw PonytaEvosAttacks
-	dw RapidashEvosAttacks
-	dw SlowpokeEvosAttacks
+	dw BombardleEvosAttacks
+	dw AntennianEvosAttacks
+	dw OkapsiEvosAttacks
+	dw TelekapiEvosAttacks
 	dw SlowbroEvosAttacks
 	dw MagnemiteEvosAttacks
 	dw MagnetonEvosAttacks

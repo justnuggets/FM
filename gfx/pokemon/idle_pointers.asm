@@ -75,10 +75,10 @@ AnimationIdlePointers:
 	dw DaetyrAnimationIdle
 	dw DaemoonAnimationIdle
 	dw SabarinthAnimationIdle
-	dw GolemAnimationIdle
-	dw PonytaAnimationIdle
-	dw RapidashAnimationIdle
-	dw SlowpokeAnimationIdle
+	dw BombardleAnimationIdle
+	dw AntennianAnimationIdle
+	dw OkapsiAnimationIdle
+	dw TelekapiAnimationIdle
 	dw SlowbroAnimationIdle
 	dw MagnemiteAnimationIdle
 	dw MagnetonAnimationIdle

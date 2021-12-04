@@ -224,7 +224,7 @@ DaemoonEggMoves:
 	db ROCK_SLIDE
 	db -1 ; end
 
-PonytaEggMoves:
+AntennianEggMoves:
 	db FLAME_WHEEL
 	db THRASH
 	db DOUBLE_KICK
@@ -233,7 +233,7 @@ PonytaEggMoves:
 	db QUICK_ATTACK
 	db -1 ; end
 
-SlowpokeEggMoves:
+TelekapiEggMoves:
 	db SAFEGUARD
 	db BELLY_DRUM
 	db FUTURE_SIGHT

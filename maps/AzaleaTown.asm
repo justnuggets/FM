@@ -138,7 +138,7 @@ AzaleaTownSlowpokeScript:
 	writetext AzaleaTownSlowpokeText1
 	pause 60
 	writetext AzaleaTownSlowpokeText2
-	cry SLOWPOKE
+	cry SUBMINO
 	waitbutton
 	closetext
 	end
@@ -147,7 +147,7 @@ UnusedWoosterScript: ; unreferenced
 	faceplayer
 	opentext
 	writetext WoosterText
-	cry QUAGSIRE
+	cry SUBMINO
 	waitbutton
 	closetext
 	end
@@ -325,7 +325,7 @@ AzaleaTownRocket2Text:
 	done
 
 AzaleaTownGrampsTextBefore:
-	text "The SLOWPOKE have"
+	text "The TELEKAPI have"
 	line "disappeared from"
 	cont "town…"
 
@@ -335,7 +335,7 @@ AzaleaTownGrampsTextBefore:
 	done
 
 AzaleaTownGrampsTextAfter:
-	text "The SLOWPOKE have"
+	text "The TELEKAPI have"
 	line "returned."
 
 	para "Knowing them, they"
@@ -371,7 +371,7 @@ AzaleaTownYoungsterText:
 	done
 
 AzaleaTownSlowpokeText1:
-	text "SLOWPOKE: …"
+	text "TELEKAPI: …"
 
 	para "<……> <……> <……>"
 	done
@@ -425,17 +425,17 @@ AzaleaGymSignText:
 	done
 
 SlowpokeWellSignText:
-	text "SLOWPOKE WELL"
+	text "TELEKAPI WELL"
 
 	para "Also known as the"
 	line "RAINMAKER WELL."
 
 	para "Locals believe"
-	line "that a SLOWPOKE's"
+	line "that a TELEKAPI's"
 	cont "yawn summons rain."
 
 	para "Records show that"
-	line "a SLOWPOKE's yawn"
+	line "a TELEKAPI's yawn"
 
 	para "ended a drought"
 	line "400 years ago."

@@ -32,15 +32,15 @@ JohtoWaterWildMons:
 
 	def_water_wildmons SLOWPOKE_WELL_B1F
 	db 2 percent ; encounter rate
-	db 15, SLOWPOKE
-	db 20, SLOWPOKE
-	db 10, SLOWPOKE
+	db 15, TELEKAPI
+	db 20, TELEKAPI
+	db 10, TELEKAPI
 	end_water_wildmons
 
 	def_water_wildmons SLOWPOKE_WELL_B2F
 	db 2 percent ; encounter rate
-	db 15, SLOWPOKE
-	db 20, SLOWPOKE
+	db 15, TELEKAPI
+	db 20, TELEKAPI
 	db 20, SLOWBRO
 	end_water_wildmons
 

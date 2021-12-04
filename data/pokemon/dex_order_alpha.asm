@@ -75,7 +75,7 @@ AlphabeticalPokedexOrder:
 	db KOMODOSE
 	db GOLDEEN
 	db JABAROO
-	db GOLEM
+	db BOMBARDLE
 	db GRANBULL
 	db SABARINTH
 	db GRIMER
@@ -170,7 +170,7 @@ AlphabeticalPokedexOrder:
 	db SINISTAR
 	db DRONNEL
 	db RUMBLEBEE
-	db PONYTA
+	db ANTENNIAN
 	db PORYGON
 	db PORYGON2
 	db ORIGERON
@@ -181,7 +181,7 @@ AlphabeticalPokedexOrder:
 	db QWILFISH
 	db WOODRILL
 	db RAIKOU
-	db RAPIDASH
+	db OKAPSI
 	db LOCUTS
 	db HOPSTOT
 	db REMORAID
@@ -201,7 +201,7 @@ AlphabeticalPokedexOrder:
 	db SKIPLOOM
 	db SLOWBRO
 	db SLOWKING
-	db SLOWPOKE
+	db TELEKAPI
 	db SLUGMA
 	db SMEARGLE
 	db SMOOCHUM

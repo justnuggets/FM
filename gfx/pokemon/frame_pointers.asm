@@ -75,10 +75,10 @@ FramesPointers:
 	dw DaetyrFrames
 	dw DaemoonFrames
 	dw SabarinthFrames
-	dw GolemFrames
-	dw PonytaFrames
-	dw RapidashFrames
-	dw SlowpokeFrames
+	dw BombardleFrames
+	dw AntennianFrames
+	dw OkapsiFrames
+	dw TelekapiFrames
 	dw SlowbroFrames
 	dw MagnemiteFrames
 	dw MagnetonFrames

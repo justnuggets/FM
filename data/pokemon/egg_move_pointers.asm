@@ -76,9 +76,9 @@ EggMovePointers::
 	dw DaemoonEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw PonytaEggMoves
+	dw AntennianEggMoves
 	dw NoEggMoves
-	dw SlowpokeEggMoves
+	dw TelekapiEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

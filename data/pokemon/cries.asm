@@ -81,10 +81,10 @@ PokemonCries::
 	mon_cry CRY_VENONAT,     238,  383 ; DAETYR
 	mon_cry CRY_VULPIX,      240,  144 ; DAEMOON
 	mon_cry CRY_VULPIX,        0,  256 ; SABARINTH
-	mon_cry CRY_GOLEM,       224,  192 ; GOLEM
-	mon_cry CRY_WEEPINBELL,    0,  256 ; PONYTA
-	mon_cry CRY_WEEPINBELL,   32,  320 ; RAPIDASH
-	mon_cry CRY_SLOWPOKE,      0,  256 ; SLOWPOKE
+	mon_cry CRY_GOLEM,       224,  192 ; BOMBARDLE
+	mon_cry CRY_WEEPINBELL,    0,  256 ; ANTENNIAN
+	mon_cry CRY_WEEPINBELL,   32,  320 ; OKAPSI
+	mon_cry CRY_SLOWPOKE,      0,  256 ; TELEKAPI
 	mon_cry CRY_GROWLITHE,     0,  256 ; SLOWBRO
 	mon_cry CRY_METAPOD,     128,  224 ; MAGNEMITE
 	mon_cry CRY_METAPOD,      32,  320 ; MAGNETON

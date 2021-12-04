@@ -75,10 +75,10 @@ BitmasksPointers:
 	dw DaetyrBitmasks
 	dw DaemoonBitmasks
 	dw SabarinthBitmasks
-	dw GolemBitmasks
-	dw PonytaBitmasks
-	dw RapidashBitmasks
-	dw SlowpokeBitmasks
+	dw BombardleBitmasks
+	dw AntennianBitmasks
+	dw OkapsiBitmasks
+	dw TelekapiBitmasks
 	dw SlowbroBitmasks
 	dw MagnemiteBitmasks
 	dw MagnetonBitmasks

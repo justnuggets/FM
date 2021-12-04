@@ -37,7 +37,7 @@ Pokered_MonIndices:
 	db ONIX
 	db SNOLIPOLI
 	db POSSUMUS
-	db SLOWPOKE
+	db TELEKAPI
 	db TERRAGER
 	db SABARINTH
 	db CHANSEY
@@ -49,7 +49,7 @@ Pokered_MonIndices:
 	db GASPHALT
 	db WALLOPY
 	db DROWZEE
-	db GOLEM
+	db BOMBARDLE
 	db HERACROSS ; MISSINGNO.
 	db MAGMAR
 	db HO_OH ; MISSINGNO.
@@ -162,8 +162,8 @@ Pokered_MonIndices:
 	db MAGBY ; MISSINGNO.
 	db MILTANK ; MISSINGNO.
 	db BLISSEY ; MISSINGNO.
-	db PONYTA
-	db RAPIDASH
+	db ANTENNIAN
+	db OKAPSI
 	db HOPSTOT
 	db LOCUTS
 	db SKARGAROS

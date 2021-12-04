@@ -646,66 +646,34 @@ SabarinthEvosAttacks:
 	db 1, WING_ATTACK
 	db 0 ; no more level-up moves
 
-GolemEvosAttacks:
+BombardleEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 1, DEFENSE_CURL
-	db 1, ROCK_THROW
-	db 1, MAGNITUDE
-	db 6, DEFENSE_CURL
-	db 11, ROCK_THROW
-	db 16, MAGNITUDE
-	db 21, SELFDESTRUCT
-	db 27, HARDEN
-	db 34, ROLLOUT
-	db 41, EARTHQUAKE
-	db 48, EXPLOSION
-	db 0 ; no more level-up moves
-
-PonytaEvosAttacks:
-	db EVOLVE_LEVEL, 40, RAPIDASH
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 4, GROWL
-	db 8, TAIL_WHIP
-	db 13, EMBER
-	db 19, STOMP
-	db 26, FIRE_SPIN
-	db 34, TAKE_DOWN
-	db 43, AGILITY
-	db 53, FIRE_BLAST
-	db 0 ; no more level-up moves
-
-RapidashEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 1, GROWL
-	db 1, TAIL_WHIP
 	db 1, EMBER
-	db 4, GROWL
-	db 8, TAIL_WHIP
-	db 13, EMBER
-	db 19, STOMP
-	db 26, FIRE_SPIN
-	db 34, TAKE_DOWN
-	db 40, FURY_ATTACK
-	db 47, AGILITY
-	db 61, FIRE_BLAST
+	db 1, GUST
 	db 0 ; no more level-up moves
 
-SlowpokeEvosAttacks:
-	db EVOLVE_LEVEL, 37, SLOWBRO
-	db EVOLVE_TRADE, KINGS_ROCK, SLOWKING
+AntennianEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, CURSE
+	db 1, THUNDERSHOCK
+	db 1, SLEEP_POWDER
+	db 1, STUN_SPORE
+	db 0 ; no more level-up moves
+
+OkapsiEvosAttacks:
+	db EVOLVE_LEVEL, 37, TELEKAPI
+	db 0 ; no more evolutions
 	db 1, TACKLE
-	db 6, GROWL
-	db 15, WATER_GUN
-	db 20, CONFUSION
-	db 29, DISABLE
-	db 34, HEADBUTT
-	db 43, AMNESIA
-	db 48, PSYCHIC_M
+	db 1, CONFUSION
+	db 1, SUPERSONIC
+	db 1, HYPNOSIS
+	db 0 ; no more level-up moves
+
+TelekapiEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 1, CONFUSION
+	db 1, SUPERSONIC
+	db 1, HYPNOSIS
 	db 0 ; no more level-up moves
 
 SlowbroEvosAttacks:
