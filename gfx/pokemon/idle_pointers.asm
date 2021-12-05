@@ -96,14 +96,14 @@ AnimationIdlePointers:
 	dw StrawrbleAnimationIdle
 	dw StrawmerriAnimationIdle
 	dw StrawmenadAnimationIdle
-	dw NidoranFAnimationIdle
-	dw KrabbyAnimationIdle
-	dw KinglerAnimationIdle
-	dw VoltorbAnimationIdle
-	dw ElectrodeAnimationIdle
-	dw HypnoAnimationIdle
+	dw PampoochSAnimationIdle
+	dw PampodourSAnimationIdle
+	dw PampoochPAnimationIdle
+	dw PampodourPAnimationIdle
+	dw PampoochTAnimationIdle
+	dw PampodourTAnimationIdle
 	dw ExeggutorAnimationIdle
-	dw NidoranMAnimationIdle
+	dw ElectrodeAnimationIdle
 	dw MarowakAnimationIdle
 	dw HitmonleeAnimationIdle
 	dw HitmonchanAnimationIdle

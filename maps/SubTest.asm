@@ -42,10 +42,12 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke HYPNO, 100
-	givepoke NIDORAN_F, 100
-	givepoke EXEGGUTOR, 100
-	givepoke SUBMINO, 100, LEFTOVERS
+	givepoke PAMPODOUR_S, 100
+	givepoke PAMPOOCH_P, 100
+	givepoke PAMPODOUR_P, 100
+	givepoke PAMPOOCH_T, 100
+	givepoke PAMPODOUR_T, 100
+	givepoke ELECTRODE, 100, LEFTOVERS
 
 	closetext
 	end
@@ -55,7 +57,7 @@ SubTest_MapEvents:
 	
 	def_warp_events
 	;warp_event  4,  1, PLAYERS_HOUSE_2F, 1
-	warp_event  4,  1, PEWTER_GYM, 1
+	warp_event  4,  1, DAY_CARE, 1
 	;warp_event  4,  1, RUINS_OF_ALPH_OUTSIDE, 2
 	def_coord_events
 	

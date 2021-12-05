@@ -97,13 +97,13 @@ EggMovePointers::
 	dw StrawmerriEggMoves
 	dw StrawmenadEggMoves
 	dw NoEggMoves
-	dw KrabbyEggMoves
+	dw PampodourSEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw NidoranFEggMoves
+	dw PampoochSEggMoves
 	dw NoEggMoves
-	dw NidoranMEggMoves
+	dw PampoochTEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

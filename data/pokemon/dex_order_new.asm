@@ -98,62 +98,62 @@ NewPokedexOrder:
 	db STRAWRBLE    
 	db STRAWMERRI      
 	db STRAWMENAD    
-	db NIDORAN_F
-	db KRABBY    
-	db KINGLER   
-	db VOLTORB    
-	db ELECTRODE  ; 65
-	db HYPNO
+	db PAMPOOCH_S
+	db PAMPODOUR_S    
+	db PAMPOOCH_P   
+	db PAMPODOUR_P    
+	db PAMPOOCH_T
+	db PAMPODOUR_T
 	db EXEGGUTOR  
-	db NIDORAN_M  ; 68
+	db ELECTRODE
 	db MAROWAK    
 	db HITMONLEE  
 	db HITMONCHAN 
 	db LICKITUNG  
 	db DITTO    ; 6d
 	db WEEZING    
-	db RHYHORN    ; 6f
-	db RHYDON     ; 70
-	db CHANSEY    ; 71
-	db TANGELA    ; 72
-	db KANGASKHAN ; 73
-	db HORSEA     ; 74
-	db SEADRA     ; 75
-	db GOLDEEN    ; 76
-	db SEAKING    ; 77
-	db STARYU     ; 78
-	db STARMIE    ; 79
-	db MR__MIME   ; 7a
-	db SCYTHER    ; 7b
-	db JYNX       ; 7c
-	db ELECTABUZZ ; 7d
-	db MAGMAR     ; 7e
-	db PINSIR     ; 7f
-	db TAUROS     ; 80
-	db MAGIKARP   ; 81
-	db GYARADOS   ; 82
-	db LAPRAS     ; 83
-	db KOFFING    ; 84
-	db EEVEE      ; 85
-	db VAPOREON   ; 86
-	db JOLTEON    ; 87
-	db FLAREON    ; 88
-	db PORYGON    ; 89
+	db RHYHORN    
+	db RHYDON     
+	db CHANSEY
+	db TANGELA 
+	db KANGASKHAN
+	db HORSEA 
+	db SEADRA
+	db GOLDEEN
+	db SEAKING
+	db STARYU
+	db STARMIE 
+	db MR__MIME
+	db SCYTHER 
+	db JYNX 
+	db ELECTABUZZ
+	db MAGMAR 
+	db PINSIR  
+	db TAUROS  
+	db MAGIKARP
+	db GYARADOS 
+	db LAPRAS   
+	db KOFFING  
+	db EEVEE    
+	db VAPOREON  
+	db JOLTEON    
+	db FLAREON    ;
+	db PORYGON    ;
 	db OMANYTE    ; 8a
 	db OMASTAR    ; 8b
 	db KABUTO     ; 8c
 	db KABUTOPS   ; 8d
-	db AERODACTYL ; 8e
-	db SNORLAX    ; 8f
-	db ARTICUNO   ; 90
-	db ZAPDOS     ; 91
-	db MOLTRES    ; 92
-	db DRATINI    ; 93
-	db DRAGONAIR  ; 94
-	db DRAGONITE  ; 95
-	db MEWTWO     ; 96
-	db MEW        ; 97
-	db CHIKORITA  ; 98
+	db AERODACTYL 
+	db SNORLAX   
+	db ARTICUNO  
+	db ZAPDOS    
+	db MOLTRES   
+	db DRATINI    
+	db DRAGONAIR  
+	db DRAGONITE 
+	db MEWTWO     
+	db MEW        
+	db CHIKORITA  
 	db BAYLEEF    ; 99
 	db MEGANIUM   ; 9a
 	db CYNDAQUIL  ; 9b

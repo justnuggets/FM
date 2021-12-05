@@ -92,7 +92,7 @@ AlphabeticalPokedexOrder:
 	db HORSEA
 	db HOUNDOOM
 	db HOUNDOUR
-	db HYPNO
+	db PAMPODOUR_T
 	db IGGLYBUFF
 	db SUBZILLA
 	db FELECTRIC
@@ -105,9 +105,9 @@ AlphabeticalPokedexOrder:
 	db GUINAPI
 	db KANGASKHAN
 	db KINGDRA
-	db KINGLER
+	db PAMPOOCH_P
 	db KOFFING
-	db KRABBY
+	db PAMPODOUR_S
 	db LANTURN
 	db LAPRAS
 	db LARVITAR
@@ -143,8 +143,8 @@ AlphabeticalPokedexOrder:
 	db NATU
 	db SPIKIDNA
 	db CLINCHITON
-	db NIDORAN_F
-	db NIDORAN_M
+	db PAMPOOCH_S
+	db PAMPOOCH_T
 	db LOUSPOUT
 	db SKARGAROS
 	db FELITE
@@ -240,7 +240,7 @@ AlphabeticalPokedexOrder:
 	db SUBZILANTE
 	db POLKAPIX
 	db NAVITAR
-	db VOLTORB
+	db PAMPODOUR_P
 	db KITTERY
 	db COALDIAK
 	db HAMSEL

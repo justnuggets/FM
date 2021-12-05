@@ -102,10 +102,10 @@ PokemonCries::
 	mon_cry CRY_MUK,           0,  383 ; STRAWRBLE
 	mon_cry CRY_EKANS,       255,  320 ; STRAWMERRI
 	mon_cry CRY_DROWZEE,     136,  160 ; STRAWMENAD
-	mon_cry CRY_DROWZEE,     238,  192 ; HYPNO
-	mon_cry CRY_KRABBY,       32,  352 ; KRABBY
-	mon_cry CRY_KRABBY,      238,  352 ; KINGLER
-	mon_cry CRY_VOLTORB,     237,  256 ; VOLTORB
+	mon_cry CRY_DROWZEE,     238,  192 ; PAMPODOUR_T
+	mon_cry CRY_KRABBY,       32,  352 ; PAMPODOUR_S
+	mon_cry CRY_KRABBY,      238,  352 ; PAMPOOCH_P
+	mon_cry CRY_VOLTORB,     237,  256 ; PAMPODOUR_P
 	mon_cry CRY_VOLTORB,     168,  272 ; ELECTRODE
 	mon_cry CRY_DIGLETT,       0,  256 ; PAMPOOCH-SILK
 	mon_cry CRY_DROWZEE,       0,  256 ; EXEGGUTOR

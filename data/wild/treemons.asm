@@ -126,6 +126,6 @@ TreeMonSet_Forest:
 	db -1
 
 TreeMonSet_Rock:
-	db 90, KRABBY,     15
+	db 90, SLIVERFISH, 15
 	db 10, SHUCKLE,    15
 	db -1

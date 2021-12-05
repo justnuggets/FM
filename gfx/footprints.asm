@@ -231,9 +231,9 @@ INCBIN "gfx/footprints/egg_dex_none.1bpp", footprint_bottom
 INCBIN "gfx/footprints/egg_dex_field.1bpp",   				footprint_top ;pampooch-silk
 INCBIN "gfx/footprints/egg_dex_field.1bpp",     			footprint_top ;pampodour-silk
 INCBIN "gfx/footprints/egg_dex_field.1bpp",    				footprint_top ;pampooch-poof
-INCBIN "gfx/footprints/egg_dex_field.1bpp",    				footprint_top ;pampoudour-poof
-INCBIN "gfx/footprints/egg_dex_field.1bpp",  				footprint_top ;pampooch-scruff
-INCBIN "gfx/footprints/egg_dex_field.1bpp",  				footprint_top ;pampoudour-scruff
+INCBIN "gfx/footprints/egg_dex_field.1bpp",    				footprint_top ;pampodour-poof
+INCBIN "gfx/footprints/egg_dex_field.1bpp",  				footprint_top ;pampooch-tuft
+INCBIN "gfx/footprints/egg_dex_field.1bpp",  				footprint_top ;pampodour-tuft
 INCBIN "gfx/footprints/egg_dex_fairy_humanshape.1bpp",  	footprint_top ;tutsweet
 INCBIN "gfx/footprints/egg_dex_fairy_humanshape.1bpp",   	footprint_top ;tutufrutti
 ; 097-104 bottom halves

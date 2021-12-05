@@ -426,7 +426,7 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 15, CHAWPPER
-	db 17, VOLTORB
+	db 17, PAMPODOUR_P
 	db 15, LOCUTS
 	db 15, SNOLIPOLI
 	db 15, MAROWAK
@@ -434,7 +434,7 @@ KantoGrassWildMons:
 	db 16, ELECTABUZZ
 	; day
 	db 15, CHAWPPER
-	db 17, VOLTORB
+	db 17, PAMPODOUR_P
 	db 15, LOCUTS
 	db 15, SNOLIPOLI
 	db 15, MAROWAK
@@ -442,7 +442,7 @@ KantoGrassWildMons:
 	db 18, ELECTABUZZ
 	; nite
 	db 15, INGROVERT
-	db 17, VOLTORB
+	db 17, PAMPODOUR_P
 	db 15, LOCUTS
 	db 15, FRITESHADE
 	db 15, REPVIAL
@@ -474,8 +474,8 @@ KantoGrassWildMons:
 	db 15, SURFALLO
 	db 16, NOCTOWL
 	db 16, LOCUTS
-	db 16, HYPNO
-	db 16, HYPNO
+	db 16, PAMPODOUR_T
+	db 16, PAMPODOUR_T
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_13

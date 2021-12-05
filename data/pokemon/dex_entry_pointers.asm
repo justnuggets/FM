@@ -97,14 +97,14 @@ PokedexDataPointerTable:
 	dw StrawrblePokedexEntry
 	dw StrawmerriPokedexEntry
 	dw StrawmenadPokedexEntry
-	dw NidoranFPokedexEntry
-	dw KrabbyPokedexEntry
-	dw KinglerPokedexEntry
-	dw VoltorbPokedexEntry
-	dw ElectrodePokedexEntry
-	dw HypnoPokedexEntry
+	dw PampoochSPokedexEntry
+	dw PampodourSPokedexEntry
+	dw PampoochPPokedexEntry
+	dw PampodourPPokedexEntry
+	dw PampoochTPokedexEntry
+	dw PampodourTPokedexEntry
 	dw ExeggutorPokedexEntry
-	dw NidoranMPokedexEntry
+	dw ElectrodePokedexEntry
 	dw MarowakPokedexEntry
 	dw HitmonleePokedexEntry
 	dw HitmonchanPokedexEntry

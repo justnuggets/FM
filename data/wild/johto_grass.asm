@@ -341,16 +341,16 @@ JohtoGrassWildMons:
 	def_grass_wildmons NATIONAL_PARK
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 12, NIDORAN_M
-	db 12, NIDORAN_F
+	db 12, PAMPOOCH_T
+	db 12, PAMPOOCH_S
 	db 14, LEDYBA
 	db 13, POSSUMUS
 	db 10, HIPPOUR
 	db 10, HAMSEL
 	db 10, HAMSEL
 	; day
-	db 12, NIDORAN_F
-	db 12, NIDORAN_M
+	db 12, PAMPOOCH_S
+	db 12, PAMPOOCH_T
 	db 14, SUNKERN
 	db 13, POSSUMUS
 	db 10, HIPPOUR
@@ -845,26 +845,26 @@ JohtoGrassWildMons:
 	def_grass_wildmons WHIRL_ISLAND_NW
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
 	db 22, FLARIBOU
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, FLARIBOU
 	db 24, FLARIBOU
 	; day
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
 	db 22, FLARIBOU
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, FLARIBOU
 	db 24, FLARIBOU
 	; nite
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
-	db 22, KRABBY
-	db 24, KRABBY
+	db 22, PAMPODOUR_S
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, KOMODOSE
 	db 24, KOMODOSE
@@ -873,26 +873,26 @@ JohtoGrassWildMons:
 	def_grass_wildmons WHIRL_ISLAND_NE
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
 	db 22, FLARIBOU
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, FLARIBOU
 	db 24, FLARIBOU
 	; day
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
 	db 22, FLARIBOU
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, FLARIBOU
 	db 24, FLARIBOU
 	; nite
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
-	db 22, KRABBY
-	db 24, KRABBY
+	db 22, PAMPODOUR_S
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, KOMODOSE
 	db 24, KOMODOSE
@@ -901,26 +901,26 @@ JohtoGrassWildMons:
 	def_grass_wildmons WHIRL_ISLAND_SW
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
 	db 22, FLARIBOU
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, FLARIBOU
 	db 24, FLARIBOU
 	; day
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
 	db 22, FLARIBOU
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, FLARIBOU
 	db 24, FLARIBOU
 	; nite
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
-	db 22, KRABBY
-	db 24, KRABBY
+	db 22, PAMPODOUR_S
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, KOMODOSE
 	db 24, KOMODOSE
@@ -929,26 +929,26 @@ JohtoGrassWildMons:
 	def_grass_wildmons WHIRL_ISLAND_CAVE
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
 	db 22, FLARIBOU
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, FLARIBOU
 	db 24, FLARIBOU
 	; day
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
 	db 22, FLARIBOU
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, FLARIBOU
 	db 24, FLARIBOU
 	; nite
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
-	db 22, KRABBY
-	db 24, KRABBY
+	db 22, PAMPODOUR_S
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, KOMODOSE
 	db 24, KOMODOSE
@@ -957,26 +957,26 @@ JohtoGrassWildMons:
 	def_grass_wildmons WHIRL_ISLAND_SE
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
 	db 22, FLARIBOU
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, FLARIBOU
 	db 24, FLARIBOU
 	; day
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
 	db 22, FLARIBOU
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, FLARIBOU
 	db 24, FLARIBOU
 	; nite
-	db 22, KRABBY
+	db 22, PAMPODOUR_S
 	db 23, REPVIAL
-	db 22, KRABBY
-	db 24, KRABBY
+	db 22, PAMPODOUR_S
+	db 24, PAMPODOUR_S
 	db 25, KOMODOSE
 	db 24, KOMODOSE
 	db 24, KOMODOSE
@@ -985,26 +985,26 @@ JohtoGrassWildMons:
 	def_grass_wildmons WHIRL_ISLAND_B1F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 23, KRABBY
+	db 23, PAMPODOUR_S
 	db 24, REPVIAL
 	db 23, FLARIBOU
-	db 25, KRABBY
+	db 25, PAMPODOUR_S
 	db 26, KOMODOSE
 	db 25, FLARIBOU
 	db 25, FLARIBOU
 	; day
-	db 23, KRABBY
+	db 23, PAMPODOUR_S
 	db 24, REPVIAL
 	db 23, FLARIBOU
-	db 25, KRABBY
+	db 25, PAMPODOUR_S
 	db 26, KOMODOSE
 	db 25, FLARIBOU
 	db 25, FLARIBOU
 	; nite
-	db 23, KRABBY
+	db 23, PAMPODOUR_S
 	db 24, REPVIAL
-	db 23, KRABBY
-	db 25, KRABBY
+	db 23, PAMPODOUR_S
+	db 25, PAMPODOUR_S
 	db 26, KOMODOSE
 	db 25, KOMODOSE
 	db 25, KOMODOSE
@@ -1013,26 +1013,26 @@ JohtoGrassWildMons:
 	def_grass_wildmons WHIRL_ISLAND_B2F
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, REPVIAL
 	db 24, FLARIBOU
-	db 26, KRABBY
+	db 26, PAMPODOUR_S
 	db 27, KOMODOSE
 	db 26, FLARIBOU
 	db 26, FLARIBOU
 	; day
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, REPVIAL
 	db 24, FLARIBOU
-	db 26, KRABBY
+	db 26, PAMPODOUR_S
 	db 27, KOMODOSE
 	db 26, FLARIBOU
 	db 26, FLARIBOU
 	; nite
-	db 24, KRABBY
+	db 24, PAMPODOUR_S
 	db 25, REPVIAL
-	db 24, KRABBY
-	db 26, KRABBY
+	db 24, PAMPODOUR_S
+	db 26, PAMPODOUR_S
 	db 27, KOMODOSE
 	db 26, KOMODOSE
 	db 26, KOMODOSE
@@ -1041,26 +1041,26 @@ JohtoGrassWildMons:
 	def_grass_wildmons WHIRL_ISLAND_LUGIA_CHAMBER
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 25, KRABBY
+	db 25, PAMPODOUR_S
 	db 26, REPVIAL
 	db 25, FLARIBOU
-	db 27, KRABBY
+	db 27, PAMPODOUR_S
 	db 28, KOMODOSE
 	db 27, FLARIBOU
 	db 27, FLARIBOU
 	; day
-	db 25, KRABBY
+	db 25, PAMPODOUR_S
 	db 26, REPVIAL
 	db 25, FLARIBOU
-	db 27, KRABBY
+	db 27, PAMPODOUR_S
 	db 28, KOMODOSE
 	db 27, FLARIBOU
 	db 27, FLARIBOU
 	; nite
-	db 25, KRABBY
+	db 25, PAMPODOUR_S
 	db 26, REPVIAL
-	db 25, KRABBY
-	db 27, KRABBY
+	db 25, PAMPODOUR_S
+	db 27, PAMPODOUR_S
 	db 28, KOMODOSE
 	db 27, KOMODOSE
 	db 27, KOMODOSE

@@ -781,7 +781,7 @@ PlumplingEvosAttacks:
 	db 0 ; no more level-up moves
 
 LeapearEvosAttacks:
-	db EVOLVE_LEVEL, 25, LEVIATHORN
+	db EVOLVE_ITEM, LEAF_STONE, CRESCALDO
 	db 0 ; no more evolutions
 	db 1, VINE_WHIP
 	db 1, BIND
@@ -803,7 +803,7 @@ StrawrbleEvosAttacks:
 	db 0 ; no more level-up moves
 
 StrawmerriEvosAttacks:
-	db EVOLVE_TRADE, METAL_COAT, STEELIX
+	db EVOLVE_ITEM, LEAF_STONE, STRAWMENAD
 	db 0 ; no more evolutions
 	db 1, MEGA_DRAIN
 	db 1, SYNTHESIS
@@ -817,42 +817,55 @@ StrawmenadEvosAttacks:
 	db 1, GIGA_DRAIN
 	db 0 ; no more level-up moves
 
-NidoranFEvosAttacks:
+PampoochSEvosAttacks:
+	db EVOLVE_LEVEL, 28, PAMPODOUR_S
 	db 0 ; no more evolutions
 	db 1, TACKLE
+	db 1, FORESIGHT
+	db 1, BITE
+	db 1, TAIL_WHIP
 	db 0 ; no more level-up moves
 
-KrabbyEvosAttacks:
-	db EVOLVE_LEVEL, 28, KINGLER
-	db 0 ; no more evolutions
-	db 1, BUBBLE
-	db 5, LEER
-	db 12, VICEGRIP
-	db 16, HARDEN
-	db 23, STOMP
-	db 27, GUILLOTINE
-	db 34, PROTECT
-	db 41, CRABHAMMER
-	db 0 ; no more level-up moves
-
-KinglerEvosAttacks:
+PampodourSEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
+	db 1, FORESIGHT
+	db 1, BITE
+	db 1, TAIL_WHIP
 	db 0 ; no more level-up moves
 
-VoltorbEvosAttacks:
+PampoochPEvosAttacks:
+	db EVOLVE_LEVEL, 28, PAMPODOUR_P
 	db 0 ; no more evolutions
 	db 1, TACKLE
+	db 1, FORESIGHT
+	db 1, BITE
+	db 1, TAIL_WHIP
 	db 0 ; no more level-up moves
 
-ElectrodeEvosAttacks:
+PampodourPEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
+	db 1, FORESIGHT
+	db 1, BITE
+	db 1, TAIL_WHIP
 	db 0 ; no more level-up moves
 
-HypnoEvosAttacks:
+PampoochTEvosAttacks:
+	db EVOLVE_LEVEL, 28, PAMPODOUR_T
 	db 0 ; no more evolutions
 	db 1, TACKLE
+	db 1, FORESIGHT
+	db 1, BITE
+	db 1, TAIL_WHIP
+	db 0 ; no more level-up moves
+
+PampodourTEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 1, FORESIGHT
+	db 1, BITE
+	db 1, TAIL_WHIP
 	db 0 ; no more level-up moves
 
 ExeggutorEvosAttacks:
@@ -860,7 +873,7 @@ ExeggutorEvosAttacks:
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-NidoranMEvosAttacks:
+ElectrodeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves

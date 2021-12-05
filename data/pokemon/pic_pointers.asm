@@ -195,22 +195,22 @@ PokemonPicPointers::
 	dba_pic StrawmerriBackpic
 	dba_pic StrawmenadFrontpic
 	dba_pic StrawmenadBackpic
-	dba_pic NidoranFFrontpic
-	dba_pic NidoranFBackpic
-	dba_pic KrabbyFrontpic
-	dba_pic KrabbyBackpic
-	dba_pic KinglerFrontpic
-	dba_pic KinglerBackpic
-	dba_pic VoltorbFrontpic
-	dba_pic VoltorbBackpic
-	dba_pic ElectrodeFrontpic
-	dba_pic ElectrodeBackpic
-	dba_pic HypnoFrontpic
-	dba_pic HypnoBackpic
+	dba_pic PampoochSFrontpic
+	dba_pic PampoochSBackpic
+	dba_pic PampodourSFrontpic
+	dba_pic PampodourSBackpic
+	dba_pic PampoochPFrontpic
+	dba_pic PampoochPBackpic
+	dba_pic PampodourPFrontpic
+	dba_pic PampodourPBackpic
+	dba_pic PampoochTFrontpic
+	dba_pic PampoochTBackpic
+	dba_pic PampodourTFrontpic
+	dba_pic PampodourTBackpic
 	dba_pic ExeggutorFrontpic
 	dba_pic ExeggutorBackpic
-	dba_pic NidoranMFrontpic
-	dba_pic NidoranMBackpic
+	dba_pic ElectrodeFrontpic
+	dba_pic ElectrodeBackpic
 	dba_pic MarowakFrontpic
 	dba_pic MarowakBackpic
 	dba_pic HitmonleeFrontpic

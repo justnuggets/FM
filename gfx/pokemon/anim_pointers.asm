@@ -96,14 +96,14 @@ AnimationPointers:
 	dw StrawrbleAnimation
 	dw StrawmerriAnimation
 	dw StrawmenadAnimation
-	dw NidoranFAnimation
-	dw KrabbyAnimation
-	dw KinglerAnimation
-	dw VoltorbAnimation
-	dw ElectrodeAnimation
-	dw HypnoAnimation
+	dw PampoochSAnimation
+	dw PampodourSAnimation
+	dw PampoochPAnimation
+	dw PampodourPAnimation
+	dw PampoochTAnimation 
+	dw PampodourTAnimation
 	dw ExeggutorAnimation
-	dw NidoranMAnimation 
+	dw ElectrodeAnimation
 	dw MarowakAnimation
 	dw HitmonleeAnimation
 	dw HitmonchanAnimation

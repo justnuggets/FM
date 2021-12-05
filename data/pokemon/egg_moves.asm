@@ -295,7 +295,7 @@ StrawmenadEggMoves:
 	db BARRIER
 	db -1 ; end
 
-KrabbyEggMoves:
+PampodourSEggMoves:
 	db DIG
 	db HAZE
 	db AMNESIA
@@ -303,7 +303,7 @@ KrabbyEggMoves:
 	db SLAM
 	db -1 ; end
 
-NidoranFEggMoves:
+PampoochSEggMoves:
 	db SYNTHESIS
 	db MOONLIGHT
 	db REFLECT
@@ -311,7 +311,7 @@ NidoranFEggMoves:
 	db ANCIENTPOWER
 	db -1 ; end
 
-NidoranMEggMoves:
+PampoochTEggMoves:
 	db ROCK_SLIDE
 	db ANCIENTPOWER
 	db BELLY_DRUM

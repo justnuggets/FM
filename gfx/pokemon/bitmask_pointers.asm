@@ -96,14 +96,14 @@ BitmasksPointers:
 	dw StrawrbleBitmasks
 	dw StrawmerriBitmasks
 	dw StrawmenadBitmasks
-	dw NidoranFBitmasks
-	dw KrabbyBitmasks
-	dw KinglerBitmasks
-	dw VoltorbBitmasks
-	dw ElectrodeBitmasks
-	dw HypnoBitmasks
+	dw PampoochSBitmasks
+	dw PampodourSBitmasks
+	dw PampoochPBitmasks
+	dw PampodourPBitmasks
+	dw PampoochTBitmasks
+	dw PampodourTBitmasks
 	dw ExeggutorBitmasks	
-	dw NidoranMBitmasks
+	dw ElectrodeBitmasks
 	dw MarowakBitmasks
 	dw HitmonleeBitmasks
 	dw HitmonchanBitmasks

@@ -115,14 +115,14 @@
 	const STRAWRBLE  ; 5e
 	const STRAWMERRI ; 5f
 	const STRAWMENAD ; 60
-	const NIDORAN_F  ; 61 SWAP H
-	const KRABBY     ; 62
-	const KINGLER    ; 63
-	const VOLTORB    ; 64
-	const ELECTRODE  ; 65 SWAP M
-	const HYPNO      ; 66 SWAP F
+	const PAMPOOCH_S ; 61 NIDORAN_F
+	const PAMPODOUR_S ; 62
+	const PAMPOOCH_P ; 63
+	const PAMPODOUR_P ; 64
+	const PAMPOOCH_T  ; 65 PAMPOOCH_T
+	const PAMPODOUR_T      ; 66  
 	const EXEGGUTOR  ; 67
-	const NIDORAN_M  ; 68 SWAP E
+	const ELECTRODE  ; 68
 	const MAROWAK    ; 69
 	const HITMONLEE  ; 6a
 	const HITMONCHAN ; 6b
@@ -156,7 +156,7 @@
 	const JOLTEON    ; 87
 	const FLAREON    ; 88
 	const PORYGON    ; 89
-	const OMANYTE    ; 8a SWAP
+	const OMANYTE    ; 8a SWAP PORYGON2
 	const OMASTAR    ; 8b 
 	const KABUTO     ; 8c
 	const KABUTOPS   ; 8d

@@ -28,7 +28,7 @@ SpriteMons:
 	db IMPAN
 	db TAUROS
 	db ROCKADE
-	db VOLTORB
+	db PAMPODOUR_P
 	db LAPRAS
 	db RHYDON
 	db MOLTRES
