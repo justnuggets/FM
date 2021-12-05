@@ -81,23 +81,23 @@ EvosAttacksPointers::
 	dw AntennianEvosAttacks
 	dw OkapsiEvosAttacks
 	dw TelekapiEvosAttacks
-	dw SlowbroEvosAttacks
-	dw MagnemiteEvosAttacks
-	dw MagnetonEvosAttacks
-	dw FarfetchDEvosAttacks
-	dw DoduoEvosAttacks
-	dw DodrioEvosAttacks
-	dw SeelEvosAttacks
-	dw DewgongEvosAttacks
-	dw GrimerEvosAttacks
-	dw MukEvosAttacks
-	dw ShellderEvosAttacks
-	dw CloysterEvosAttacks
-	dw GastlyEvosAttacks
-	dw HaunterEvosAttacks
-	dw GengarEvosAttacks
-	dw OnixEvosAttacks
-	dw DrowzeeEvosAttacks
+	dw KaiyakEvosAttacks
+	dw SurfalloEvosAttacks
+	dw HemogoblinEvosAttacks
+	dw PlatapoxEvosAttacks
+	dw PlatyrusEvosAttacks
+	dw SearlingEvosAttacks
+	dw FlaribouEvosAttacks
+	dw MarskratEvosAttacks
+	dw CatybaraEvosAttacks
+	dw CrescaldoEvosAttacks
+	dw PescaldoEvosAttacks
+	dw PlumplingEvosAttacks
+	dw LeapearEvosAttacks
+	dw LeviathornEvosAttacks
+	dw StrawrbleEvosAttacks
+	dw StrawmerriEvosAttacks
+	dw StrawmenadEvosAttacks
 	dw HypnoEvosAttacks
 	dw KrabbyEvosAttacks
 	dw KinglerEvosAttacks

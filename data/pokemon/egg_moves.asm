@@ -240,7 +240,7 @@ TelekapiEggMoves:
 	db STOMP
 	db -1 ; end
 
-FarfetchDEggMoves:
+PlatapoxEggMoves:
 	db FORESIGHT
 	db MIRROR_MOVE
 	db GUST
@@ -248,7 +248,7 @@ FarfetchDEggMoves:
 	db FLAIL
 	db -1 ; end
 
-DoduoEggMoves:
+PlatyrusEggMoves:
 	db QUICK_ATTACK
 	db SUPERSONIC
 	db HAZE
@@ -256,7 +256,7 @@ DoduoEggMoves:
 	db FLAIL
 	db -1 ; end
 
-SeelEggMoves:
+FlaribouEggMoves:
 	db LICK
 	db PERISH_SONG
 	db DISABLE
@@ -265,13 +265,13 @@ SeelEggMoves:
 	db ENCORE
 	db -1 ; end
 
-GrimerEggMoves:
+CatybaraEggMoves:
 	db HAZE
 	db MEAN_LOOK
 	db LICK
 	db -1 ; end
 
-ShellderEggMoves:
+PescaldoEggMoves:
 	db BUBBLEBEAM
 	db TAKE_DOWN
 	db BARRIER
@@ -279,18 +279,18 @@ ShellderEggMoves:
 	db SCREECH
 	db -1 ; end
 
-GastlyEggMoves:
+LeapearEggMoves:
 	db PSYWAVE
 	db PERISH_SONG
 	db HAZE
 	db -1 ; end
 
-OnixEggMoves:
+StrawmerriEggMoves:
 	db ROCK_SLIDE
 	db FLAIL
 	db -1 ; end
 
-DrowzeeEggMoves:
+StrawmenadEggMoves:
 	db LIGHT_SCREEN
 	db BARRIER
 	db -1 ; end

@@ -754,9 +754,9 @@ Link_PrepPartyData_Gen1:
 	ld [de], a
 	inc de
 	ld a, [bc]
-	cp MAGNEMITE
+	cp UNOWN ;removes magnemite
 	jr z, .steel_type
-	cp MAGNETON
+	cp UNOWN ; removes hemogoblin
 	jr nz, .skip_steel
 
 .steel_type
@@ -1964,17 +1964,17 @@ LinkTrade:
 	ld b, 1
 	pop af
 	ld c, a
-	cp MEW
+	cp UNOWN ; mythic
 	jr z, .send_checkbyte
 	ld a, [wCurPartySpecies]
-	cp MEW
+	cp UNOWN ; mythic
 	jr z, .send_checkbyte
 	ld b, 2
 	ld a, c
-	cp CELEBI
+	cp UNOWN ; mythic
 	jr z, .send_checkbyte
 	ld a, [wCurPartySpecies]
-	cp CELEBI
+	cp UNOWN ; mythic
 	jr z, .send_checkbyte
 
 ; Send the byte in a loop until the desired byte has been received.

@@ -173,7 +173,7 @@ Copycat:
 CopycatsDodrio:
 	opentext
 	writetext CopycatsDodrioText1
-	cry DODRIO
+	cry SUBMINO
 	promptbutton
 	writetext CopycatsDodrioText2
 	waitbutton

@@ -6,7 +6,7 @@ SometimesFleeMons:
 	db CUBBURN ;
 	db HIPPOUR
 	db POLKAPIX
-	db FELITE
+	db PLATAPOX
 
 	db -1
 

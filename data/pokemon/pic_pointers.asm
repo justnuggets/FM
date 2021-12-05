@@ -161,40 +161,40 @@ PokemonPicPointers::
 	dba_pic OkapsiBackpic
 	dba_pic TelekapiFrontpic
 	dba_pic TelekapiBackpic
-	dba_pic SlowbroFrontpic
-	dba_pic SlowbroBackpic
-	dba_pic MagnemiteFrontpic
-	dba_pic MagnemiteBackpic
-	dba_pic MagnetonFrontpic
-	dba_pic MagnetonBackpic
-	dba_pic FarfetchDFrontpic
-	dba_pic FarfetchDBackpic
-	dba_pic DoduoFrontpic
-	dba_pic DoduoBackpic
-	dba_pic DodrioFrontpic
-	dba_pic DodrioBackpic
-	dba_pic SeelFrontpic
-	dba_pic SeelBackpic
-	dba_pic DewgongFrontpic
-	dba_pic DewgongBackpic
-	dba_pic GrimerFrontpic
-	dba_pic GrimerBackpic
-	dba_pic MukFrontpic
-	dba_pic MukBackpic
-	dba_pic ShellderFrontpic
-	dba_pic ShellderBackpic
-	dba_pic CloysterFrontpic
-	dba_pic CloysterBackpic
-	dba_pic GastlyFrontpic
-	dba_pic GastlyBackpic
-	dba_pic HaunterFrontpic
-	dba_pic HaunterBackpic
-	dba_pic GengarFrontpic
-	dba_pic GengarBackpic
-	dba_pic OnixFrontpic
-	dba_pic OnixBackpic
-	dba_pic DrowzeeFrontpic
-	dba_pic DrowzeeBackpic
+	dba_pic KaiyakFrontpic
+	dba_pic KaiyakBackpic
+	dba_pic SurfalloFrontpic
+	dba_pic SurfalloBackpic
+	dba_pic HemogoblinFrontpic
+	dba_pic HemogoblinBackpic
+	dba_pic PlatapoxFrontpic
+	dba_pic PlatapoxBackpic
+	dba_pic PlatyrusFrontpic
+	dba_pic PlatyrusBackpic
+	dba_pic SearlingFrontpic
+	dba_pic SearlingBackpic
+	dba_pic FlaribouFrontpic
+	dba_pic FlaribouBackpic
+	dba_pic MarskratFrontpic
+	dba_pic MarskratBackpic
+	dba_pic CatybaraFrontpic
+	dba_pic CatybaraBackpic
+	dba_pic CrescaldoFrontpic
+	dba_pic CrescaldoBackpic
+	dba_pic PescaldoFrontpic
+	dba_pic PescaldoBackpic
+	dba_pic PlumplingFrontpic
+	dba_pic PlumplingBackpic
+	dba_pic LeapearFrontpic
+	dba_pic LeapearBackpic
+	dba_pic LeviathornFrontpic
+	dba_pic LeviathornBackpic
+	dba_pic StrawrbleFrontpic
+	dba_pic StrawrbleBackpic
+	dba_pic StrawmerriFrontpic
+	dba_pic StrawmerriBackpic
+	dba_pic StrawmenadFrontpic
+	dba_pic StrawmenadBackpic
 	dba_pic HypnoFrontpic
 	dba_pic HypnoBackpic
 	dba_pic KrabbyFrontpic

@@ -30,7 +30,7 @@ CopycatsHouse1FPokefanFScript:
 CopycatsHouse1FBlisseyScript:
 	opentext
 	writetext CopycatsHouse1FBlisseyText
-	cry BLISSEY
+	cry SUBMINO
 	waitbutton
 	closetext
 	end

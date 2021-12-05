@@ -79,23 +79,23 @@ AnimationIdlePointers:
 	dw AntennianAnimationIdle
 	dw OkapsiAnimationIdle
 	dw TelekapiAnimationIdle
-	dw SlowbroAnimationIdle
-	dw MagnemiteAnimationIdle
-	dw MagnetonAnimationIdle
-	dw FarfetchDAnimationIdle
-	dw DoduoAnimationIdle
-	dw DodrioAnimationIdle
-	dw SeelAnimationIdle
-	dw DewgongAnimationIdle
-	dw GrimerAnimationIdle
-	dw MukAnimationIdle
-	dw ShellderAnimationIdle
-	dw CloysterAnimationIdle
-	dw GastlyAnimationIdle
-	dw HaunterAnimationIdle
-	dw GengarAnimationIdle
-	dw OnixAnimationIdle
-	dw DrowzeeAnimationIdle
+	dw KaiyakAnimationIdle
+	dw SurfalloAnimationIdle
+	dw HemogoblinAnimationIdle
+	dw PlatapoxAnimationIdle
+	dw PlatyrusAnimationIdle
+	dw SearlingAnimationIdle
+	dw FlaribouAnimationIdle
+	dw MarskratAnimationIdle
+	dw CatybaraAnimationIdle
+	dw CrescaldoAnimationIdle
+	dw PescaldoAnimationIdle
+	dw PlumplingAnimationIdle
+	dw LeapearAnimationIdle
+	dw LeviathornAnimationIdle
+	dw StrawrbleAnimationIdle
+	dw StrawmerriAnimationIdle
+	dw StrawmenadAnimationIdle
 	dw HypnoAnimationIdle
 	dw KrabbyAnimationIdle
 	dw KinglerAnimationIdle

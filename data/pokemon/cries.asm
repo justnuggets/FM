@@ -85,23 +85,23 @@ PokemonCries::
 	mon_cry CRY_WEEPINBELL,    0,  256 ; ANTENNIAN
 	mon_cry CRY_WEEPINBELL,   32,  320 ; OKAPSI
 	mon_cry CRY_SLOWPOKE,      0,  256 ; TELEKAPI
-	mon_cry CRY_GROWLITHE,     0,  256 ; SLOWBRO
-	mon_cry CRY_METAPOD,     128,  224 ; MAGNEMITE
-	mon_cry CRY_METAPOD,      32,  320 ; MAGNETON
-	mon_cry CRY_SPEAROW,     221,  129 ; FARFETCH_D
-	mon_cry CRY_DIGLETT,     187,  129 ; DODUO
-	mon_cry CRY_DIGLETT,     153,  160 ; DODRIO
-	mon_cry CRY_SEEL,        136,  320 ; SEEL
-	mon_cry CRY_SEEL,         35,  383 ; DEWGONG
-	mon_cry CRY_GRIMER,        0,  256 ; GRIMER
-	mon_cry CRY_MUK,         239,  383 ; MUK
-	mon_cry CRY_FEAROW,        0,  256 ; SHELLDER
-	mon_cry CRY_FEAROW,      111,  352 ; CLOYSTER
-	mon_cry CRY_METAPOD,       0,  256 ; GASTLY
-	mon_cry CRY_METAPOD,      48,  192 ; HAUNTER
-	mon_cry CRY_MUK,           0,  383 ; GENGAR
-	mon_cry CRY_EKANS,       255,  320 ; ONIX
-	mon_cry CRY_DROWZEE,     136,  160 ; DROWZEE
+	mon_cry CRY_GROWLITHE,     0,  256 ; KAIYAK
+	mon_cry CRY_METAPOD,     128,  224 ; SURFALLO
+	mon_cry CRY_METAPOD,      32,  320 ; HEMOGOBLIN
+	mon_cry CRY_SPEAROW,     221,  129 ; PLATAPOX
+	mon_cry CRY_DIGLETT,     187,  129 ; PLATYRUS
+	mon_cry CRY_DIGLETT,     153,  160 ; SEARLING
+	mon_cry CRY_SEEL,        136,  320 ; FLARIBOU
+	mon_cry CRY_SEEL,         35,  383 ; MARSKRAT
+	mon_cry CRY_GRIMER,        0,  256 ; CATYBARA
+	mon_cry CRY_MUK,         239,  383 ; CRESCALDO
+	mon_cry CRY_FEAROW,        0,  256 ; PESCALDO
+	mon_cry CRY_FEAROW,      111,  352 ; PLUMPLING
+	mon_cry CRY_METAPOD,       0,  256 ; LEAPEAR
+	mon_cry CRY_METAPOD,      48,  192 ; LEVIATHORN
+	mon_cry CRY_MUK,           0,  383 ; STRAWRBLE
+	mon_cry CRY_EKANS,       255,  320 ; STRAWMERRI
+	mon_cry CRY_DROWZEE,     136,  160 ; STRAWMENAD
 	mon_cry CRY_DROWZEE,     238,  192 ; HYPNO
 	mon_cry CRY_KRABBY,       32,  352 ; KRABBY
 	mon_cry CRY_KRABBY,      238,  352 ; KINGLER

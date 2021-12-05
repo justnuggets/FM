@@ -5,9 +5,9 @@ SpriteMons:
 	db DAEMOON
 	db BINARS
 	db HAMSEL
-	db SHELLDER
+	db PESCALDO
 	db CURSIOR
-	db GENGAR
+	db STRAWRBLE
 	db REPVIAL
 	db MAGIKARP
 	db CUBBURN
@@ -22,7 +22,7 @@ SpriteMons:
 	db STARMIE
 	db SUBMINO
 	db FELECTRIC
-	db GRIMER
+	db CATYBARA
 	db CRYSTALIS
 	db SLICKRETE
 	db IMPAN

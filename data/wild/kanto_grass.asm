@@ -80,7 +80,7 @@ KantoGrassWildMons:
 	db 12, REPVIAL
 	db 11, DAEMOON
 	db 12, DAEMOON
-	db 17, HAUNTER
+	db 17, LEVIATHORN
 	db 15, REPVIAL
 	db 15, REPVIAL
 	db 15, REPVIAL
@@ -91,7 +91,7 @@ KantoGrassWildMons:
 	; morn
 	db 12, SKARDINE
 	db 14, DAEMOON
-	db 16, ONIX
+	db 16, STRAWMERRI
 	db 12, REPVIAL
 	db 15, MAROWAK
 	db 15, KANGASKHAN
@@ -99,7 +99,7 @@ KantoGrassWildMons:
 	; day
 	db 12, SKARDINE
 	db 14, DAEMOON
-	db 16, ONIX
+	db 16, STRAWMERRI
 	db 12, REPVIAL
 	db 15, MAROWAK
 	db 15, KANGASKHAN
@@ -107,9 +107,9 @@ KantoGrassWildMons:
 	; nite
 	db 12, REPVIAL
 	db 14, DAEMOON
-	db 16, ONIX
+	db 16, STRAWMERRI
 	db 15, REPVIAL
-	db 15, HAUNTER
+	db 15, LEVIATHORN
 	db 15, KOMODOSE
 	db 15, KOMODOSE
 	end_grass_wildmons
@@ -119,7 +119,7 @@ KantoGrassWildMons:
 	; morn
 	db 34, SABARINTH
 	db 32, RHYHORN
-	db 33, ONIX
+	db 33, STRAWMERRI
 	db 34, KOMODOSE
 	db 35, FLOCKSHOT
 	db 35, RHYDON
@@ -127,7 +127,7 @@ KantoGrassWildMons:
 	; day
 	db 34, SABARINTH
 	db 32, RHYHORN
-	db 33, ONIX
+	db 33, STRAWMERRI
 	db 34, KOMODOSE
 	db 35, FLOCKSHOT
 	db 35, RHYDON
@@ -135,7 +135,7 @@ KantoGrassWildMons:
 	; nite
 	db 34, KOMODOSE
 	db 34, SABARINTH
-	db 32, ONIX
+	db 32, STRAWMERRI
 	db 36, SABARINTH
 	db 38, SABARINTH
 	db 40, SABARINTH
@@ -315,7 +315,7 @@ KantoGrassWildMons:
 	; morn
 	db 13, HOPSTOT
 	db 13, SNUBBULL
-	db 14, MAGNEMITE
+	db 14, SURFALLO
 	db 15, LOCUTS
 	db 12, FELECTRIC
 	db 15, GRANBULL
@@ -323,15 +323,15 @@ KantoGrassWildMons:
 	; day
 	db 13, HOPSTOT
 	db 13, SNUBBULL
-	db 14, MAGNEMITE
+	db 14, SURFALLO
 	db 15, LOCUTS
 	db 12, FELECTRIC
 	db 15, GRANBULL
 	db 15, GRANBULL
 	; nite
 	db 13, PORCELION
-	db 13, DROWZEE
-	db 14, MAGNEMITE
+	db 13, STRAWMENAD
+	db 14, SURFALLO
 	db 15, WALLOPY
 	db 12, FELECTRIC
 	db 15, LOCUTS
@@ -388,7 +388,7 @@ KantoGrassWildMons:
 	db 17, PORCELION
 	db 20, NOCTOWL
 	db 16, BAGROUND
-	db 17, HAUNTER
+	db 17, LEVIATHORN
 	db 16, FELECTRIC
 	db 18, TERRAGER
 	db 18, TERRAGER
@@ -455,7 +455,7 @@ KantoGrassWildMons:
 	; morn
 	db 14, HOPPIP
 	db 13, LOCUTS
-	db 15, MAGNEMITE
+	db 15, SURFALLO
 	db 16, AXALITL
 	db 16, HOPSTOT
 	db 16, HOPPIP
@@ -463,15 +463,15 @@ KantoGrassWildMons:
 	; day
 	db 14, HOPPIP
 	db 13, LOCUTS
-	db 15, MAGNEMITE
+	db 15, SURFALLO
 	db 16, AXALITL
 	db 16, HOPSTOT
 	db 16, HOPPIP
 	db 16, HOPPIP
 	; nite
-	db 14, DROWZEE
+	db 14, STRAWMENAD
 	db 13, PORCELION
-	db 15, MAGNEMITE
+	db 15, SURFALLO
 	db 16, NOCTOWL
 	db 16, LOCUTS
 	db 16, HYPNO
@@ -565,85 +565,85 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_16
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 26, GRIMER
+	db 26, CATYBARA
 	db 27, SNOLIPOLI
-	db 28, GRIMER
+	db 28, CATYBARA
 	db 29, SNOLIPOLI
 	db 29, SNOLIPOLI
-	db 30, MUK
-	db 30, MUK
+	db 30, CRESCALDO
+	db 30, CRESCALDO
 	; day
-	db 26, GRIMER
+	db 26, CATYBARA
 	db 27, SNOLIPOLI
-	db 28, GRIMER
+	db 28, CATYBARA
 	db 29, SNOLIPOLI
 	db 29, SLUGMA
-	db 30, MUK
-	db 30, MUK
+	db 30, CRESCALDO
+	db 30, CRESCALDO
 	; nite
-	db 26, GRIMER
-	db 27, GRIMER
-	db 28, GRIMER
+	db 26, CATYBARA
+	db 27, CATYBARA
+	db 28, CATYBARA
 	db 29, MURKROW
 	db 29, MURKROW
-	db 30, MUK
-	db 30, MUK
+	db 30, CRESCALDO
+	db 30, CRESCALDO
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_17
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 30, SNOLIPOLI
-	db 29, GRIMER
-	db 31, GRIMER
+	db 29, CATYBARA
+	db 31, CATYBARA
 	db 32, SNOLIPOLI
-	db 33, GRIMER
-	db 33, MUK
-	db 33, MUK
+	db 33, CATYBARA
+	db 33, CRESCALDO
+	db 33, CRESCALDO
 	; day
 	db 30, SNOLIPOLI
 	db 29, SLUGMA
-	db 29, GRIMER
+	db 29, CATYBARA
 	db 32, SNOLIPOLI
 	db 32, SLUGMA
-	db 33, MUK
-	db 33, MUK
+	db 33, CRESCALDO
+	db 33, CRESCALDO
 	; nite
-	db 30, GRIMER
-	db 29, GRIMER
-	db 31, GRIMER
-	db 32, GRIMER
-	db 33, GRIMER
-	db 33, MUK
-	db 33, MUK
+	db 30, CATYBARA
+	db 29, CATYBARA
+	db 31, CATYBARA
+	db 32, CATYBARA
+	db 33, CATYBARA
+	db 33, CRESCALDO
+	db 33, CRESCALDO
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_18
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 26, GRIMER
+	db 26, CATYBARA
 	db 27, SNOLIPOLI
-	db 28, GRIMER
+	db 28, CATYBARA
 	db 29, SNOLIPOLI
 	db 29, SNOLIPOLI
-	db 30, MUK
-	db 30, MUK
+	db 30, CRESCALDO
+	db 30, CRESCALDO
 	; day
-	db 26, GRIMER
+	db 26, CATYBARA
 	db 27, SNOLIPOLI
-	db 28, GRIMER
+	db 28, CATYBARA
 	db 29, SNOLIPOLI
 	db 29, SLUGMA
-	db 30, MUK
-	db 30, MUK
+	db 30, CRESCALDO
+	db 30, CRESCALDO
 	; nite
-	db 26, GRIMER
-	db 27, GRIMER
-	db 28, GRIMER
-	db 29, GRIMER
-	db 29, GRIMER
-	db 30, MUK
-	db 30, MUK
+	db 26, CATYBARA
+	db 27, CATYBARA
+	db 28, CATYBARA
+	db 29, CATYBARA
+	db 29, CATYBARA
+	db 30, CRESCALDO
+	db 30, CRESCALDO
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_21
@@ -680,7 +680,7 @@ KantoGrassWildMons:
 	db 3, HOPSTOT
 	db 3, CHAWPPER
 	db 5, CHAWPPER
-	db 4, DODUO
+	db 4, PLATYRUS
 	db 6, ANTENNIAN
 	db 7, SNOLIPOLI
 	db 7, SNOLIPOLI
@@ -688,7 +688,7 @@ KantoGrassWildMons:
 	db 3, HOPSTOT
 	db 3, CHAWPPER
 	db 5, CHAWPPER
-	db 4, DODUO
+	db 4, PLATYRUS
 	db 6, ANTENNIAN
 	db 7, SNOLIPOLI
 	db 7, SNOLIPOLI
@@ -761,19 +761,19 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_26
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 28, DODUO
+	db 28, PLATYRUS
 	db 28, FLOCKSHOT
 	db 32, ANTENNIAN
 	db 30, LOCUTS
-	db 30, DODUO
+	db 30, PLATYRUS
 	db 30, HAILOTH
 	db 30, HAILOTH
 	; day
-	db 28, DODUO
+	db 28, PLATYRUS
 	db 28, FLOCKSHOT
 	db 32, ANTENNIAN
 	db 30, LOCUTS
-	db 30, DODUO
+	db 30, PLATYRUS
 	db 30, HAILOTH
 	db 30, HAILOTH
 	; nite
@@ -789,21 +789,21 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_27
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 28, DODUO
+	db 28, PLATYRUS
 	db 28, HAILOTH
 	db 30, LOCUTS
-	db 30, DODUO
+	db 30, PLATYRUS
 	db 32, ANTENNIAN
-	db 30, DODRIO
-	db 30, DODRIO
+	db 30, SEARLING
+	db 30, SEARLING
 	; day
-	db 28, DODUO
+	db 28, PLATYRUS
 	db 28, HAILOTH
 	db 30, LOCUTS
-	db 30, DODUO
+	db 30, PLATYRUS
 	db 32, ANTENNIAN
-	db 30, DODRIO
-	db 30, DODRIO
+	db 30, SEARLING
+	db 30, SEARLING
 	; nite
 	db 28, QUAGSIRE
 	db 28, NOCTOWL
@@ -821,17 +821,17 @@ KantoGrassWildMons:
 	db 40, ANTENNIAN
 	db 40, OKAPSI
 	db 42, HAILOTH
-	db 41, DODUO
-	db 43, DODRIO
-	db 43, DODRIO
+	db 41, PLATYRUS
+	db 43, SEARLING
+	db 43, SEARLING
 	; day
 	db 39, TANGELA
 	db 40, ANTENNIAN
 	db 40, OKAPSI
 	db 42, HAILOTH
-	db 41, DODUO
-	db 43, DODRIO
-	db 43, DODRIO
+	db 41, PLATYRUS
+	db 43, SEARLING
+	db 43, SEARLING
 	; nite
 	db 39, TANGELA
 	db 40, DRONNEL

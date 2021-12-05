@@ -1544,7 +1544,7 @@ BattleTowerMons:
 	bigdw 101 ; SDef
 	db "DOKUKURAGE@"
 
-	db GENGAR
+	db STRAWRBLE
 	db GOLD_BERRY
 	db THIEF, LICK, NIGHT_SHADE, GIGA_DRAIN
 	dw 0 ; OT ID
@@ -1937,7 +1937,7 @@ BattleTowerMons:
 	bigdw 91 ; SDef
 	db "DAGUTORIO@@"
 
-	db SLOWBRO
+	db KAIYAK
 	db MIRACLEBERRY
 	db SURF, PSYCHIC_M, EARTHQUAKE, BLIZZARD
 	dw 0 ; OT ID
@@ -2145,7 +2145,7 @@ BattleTowerMons:
 	bigdw 122 ; SDef
 	db "SURI-PA-@@@"
 
-	db MUK
+	db CRESCALDO
 	db QUICK_CLAW
 	db SCREECH, TOXIC, SLUDGE, HARDEN
 	dw 0 ; OT ID
@@ -4003,7 +4003,7 @@ BattleTowerMons:
 	bigdw 226 ; SDef
 	db "BANGIRASU@@"
 
-	db GENGAR
+	db STRAWRBLE
 	db NO_ITEM
 	db THUNDERBOLT, SHADOW_BALL, CONFUSE_RAY, THIEF
 	dw 0 ; OT ID
@@ -4474,7 +4474,7 @@ BattleTowerMons:
 	bigdw 236 ; SDef
 	db "SUTA-MI-@@@"
 
-	db CLOYSTER
+	db PLUMPLING
 	db LEFTOVERS
 	db EXPLOSION, BLIZZARD, SURF, ICY_WIND
 	dw 0 ; OT ID
@@ -4916,7 +4916,7 @@ BattleTowerMons:
 	bigdw 180 ; SDef
 	db "KENTAROSU@@"
 
-	db MUK
+	db CRESCALDO
 	db QUICK_CLAW
 	db TOXIC, SLUDGE_BOMB, ATTRACT, GIGA_DRAIN
 	dw 0 ; OT ID

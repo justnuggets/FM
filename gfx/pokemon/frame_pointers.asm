@@ -79,23 +79,23 @@ FramesPointers:
 	dw AntennianFrames
 	dw OkapsiFrames
 	dw TelekapiFrames
-	dw SlowbroFrames
-	dw MagnemiteFrames
-	dw MagnetonFrames
-	dw FarfetchDFrames
-	dw DoduoFrames
-	dw DodrioFrames
-	dw SeelFrames
-	dw DewgongFrames
-	dw GrimerFrames
-	dw MukFrames
-	dw ShellderFrames
-	dw CloysterFrames
-	dw GastlyFrames
-	dw HaunterFrames
-	dw GengarFrames
-	dw OnixFrames
-	dw DrowzeeFrames
+	dw KaiyakFrames
+	dw SurfalloFrames
+	dw HemogoblinFrames
+	dw PlatapoxFrames
+	dw PlatyrusFrames
+	dw SearlingFrames
+	dw FlaribouFrames
+	dw MarskratFrames
+	dw CatybaraFrames
+	dw CrescaldoFrames
+	dw PescaldoFrames
+	dw PlumplingFrames
+	dw LeapearFrames
+	dw LeviathornFrames
+	dw StrawrbleFrames
+	dw StrawmerriFrames
+	dw StrawmenadFrames
 	dw HypnoFrames
 	dw KrabbyFrames
 	dw KinglerFrames

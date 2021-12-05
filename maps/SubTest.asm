@@ -42,8 +42,10 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke SUBMINO, 20
-	givepoke MISDREAVUS, 20
+	givepoke STRAWRBLE, 100
+	givepoke STRAWMERRI, 100
+	givepoke STRAWMENAD, 100
+	givepoke SUBMINO, 100, LEFTOVERS
 
 	closetext
 	end
@@ -53,7 +55,8 @@ SubTest_MapEvents:
 	
 	def_warp_events
 	;warp_event  4,  1, PLAYERS_HOUSE_2F, 1
-	warp_event  4,  1, RUINS_OF_ALPH_OUTSIDE, 2
+	warp_event  4,  1, PEWTER_GYM, 1
+	;warp_event  4,  1, RUINS_OF_ALPH_OUTSIDE, 2
 	def_coord_events
 	
 	def_bg_events

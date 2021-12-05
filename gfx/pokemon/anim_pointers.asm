@@ -79,23 +79,23 @@ AnimationPointers:
 	dw AntennianAnimation
 	dw OkapsiAnimation
 	dw TelekapiAnimation
-	dw SlowbroAnimation
-	dw MagnemiteAnimation
-	dw MagnetonAnimation
-	dw FarfetchDAnimation
-	dw DoduoAnimation
-	dw DodrioAnimation
-	dw SeelAnimation
-	dw DewgongAnimation
-	dw GrimerAnimation
-	dw MukAnimation
-	dw ShellderAnimation
-	dw CloysterAnimation
-	dw GastlyAnimation
-	dw HaunterAnimation
-	dw GengarAnimation
-	dw OnixAnimation
-	dw DrowzeeAnimation
+	dw KaiyakAnimation
+	dw SurfalloAnimation
+	dw HemogoblinAnimation
+	dw PlatapoxAnimation
+	dw PlatyrusAnimation
+	dw SearlingAnimation
+	dw FlaribouAnimation
+	dw MarskratAnimation
+	dw CatybaraAnimation
+	dw CrescaldoAnimation
+	dw PescaldoAnimation
+	dw PlumplingAnimation
+	dw LeapearAnimation
+	dw LeviathornAnimation
+	dw StrawrbleAnimation
+	dw StrawmerriAnimation
+	dw StrawmenadAnimation
 	dw HypnoAnimation
 	dw KrabbyAnimation
 	dw KinglerAnimation

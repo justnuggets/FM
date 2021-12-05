@@ -79,23 +79,23 @@ BitmasksPointers:
 	dw AntennianBitmasks
 	dw OkapsiBitmasks
 	dw TelekapiBitmasks
-	dw SlowbroBitmasks
-	dw MagnemiteBitmasks
-	dw MagnetonBitmasks
-	dw FarfetchDBitmasks
-	dw DoduoBitmasks
-	dw DodrioBitmasks
-	dw SeelBitmasks
-	dw DewgongBitmasks
-	dw GrimerBitmasks
-	dw MukBitmasks
-	dw ShellderBitmasks
-	dw CloysterBitmasks
-	dw GastlyBitmasks
-	dw HaunterBitmasks
-	dw GengarBitmasks
-	dw OnixBitmasks
-	dw DrowzeeBitmasks
+	dw KaiyakBitmasks
+	dw SurfalloBitmasks
+	dw HemogoblinBitmasks
+	dw PlatapoxBitmasks
+	dw PlatyrusBitmasks
+	dw SearlingBitmasks
+	dw FlaribouBitmasks
+	dw MarskratBitmasks
+	dw CatybaraBitmasks
+	dw CrescaldoBitmasks
+	dw PescaldoBitmasks
+	dw PlumplingBitmasks
+	dw LeapearBitmasks
+	dw LeviathornBitmasks
+	dw StrawrbleBitmasks
+	dw StrawmerriBitmasks
+	dw StrawmenadBitmasks
 	dw HypnoBitmasks
 	dw KrabbyBitmasks
 	dw KinglerBitmasks

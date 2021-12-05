@@ -80,23 +80,23 @@ PokedexDataPointerTable:
 	dw AntennianPokedexEntry
 	dw OkapsiPokedexEntry
 	dw TelekapiPokedexEntry
-	dw SlowbroPokedexEntry
-	dw MagnemitePokedexEntry
-	dw MagnetonPokedexEntry
-	dw FarfetchDPokedexEntry
-	dw DoduoPokedexEntry
-	dw DodrioPokedexEntry
-	dw SeelPokedexEntry
-	dw DewgongPokedexEntry
-	dw GrimerPokedexEntry
-	dw MukPokedexEntry
-	dw ShellderPokedexEntry
-	dw CloysterPokedexEntry
-	dw GastlyPokedexEntry
-	dw HaunterPokedexEntry
-	dw GengarPokedexEntry
-	dw OnixPokedexEntry
-	dw DrowzeePokedexEntry
+	dw KaiyakPokedexEntry
+	dw SurfalloPokedexEntry
+	dw HemogoblinPokedexEntry
+	dw PlatapoxPokedexEntry
+	dw PlatyrusPokedexEntry
+	dw SearlingPokedexEntry
+	dw FlaribouPokedexEntry
+	dw MarskratPokedexEntry
+	dw CatybaraPokedexEntry
+	dw CrescaldoPokedexEntry
+	dw PescaldoPokedexEntry
+	dw PlumplingPokedexEntry
+	dw LeapearPokedexEntry
+	dw LeviathornPokedexEntry
+	dw StrawrblePokedexEntry
+	dw StrawmerriPokedexEntry
+	dw StrawmenadPokedexEntry
 	dw HypnoPokedexEntry
 	dw KrabbyPokedexEntry
 	dw KinglerPokedexEntry

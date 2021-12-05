@@ -41,7 +41,7 @@ JohtoWaterWildMons:
 	db 2 percent ; encounter rate
 	db 15, TELEKAPI
 	db 20, TELEKAPI
-	db 20, SLOWBRO
+	db 20, KAIYAK
 	end_water_wildmons
 
 	def_water_wildmons ILEX_FOREST

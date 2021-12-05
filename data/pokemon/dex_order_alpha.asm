@@ -31,23 +31,23 @@ AlphabeticalPokedexOrder:
 	db ECHNEEDO
 	db ECHLIPSE
 	db CLEFFA
-	db CLOYSTER
+	db PLUMPLING
 	db CORSOLA
 	db CROBAT
 	db CROCONAW
 	db SKARDINE
 	db CYNDAQUIL
 	db DELIBIRD
-	db DEWGONG
+	db MARSKRAT
 	db BUGGLAR
 	db DITTO
-	db DODRIO
-	db DODUO
+	db SEARLING
+	db PLATYRUS
 	db DONPHAN
 	db DRAGONAIR
 	db DRAGONITE
 	db DRATINI
-	db DROWZEE
+	db STRAWMENAD
 	db SPYDAR
 	db DUNSPARCE
 	db EEVEE
@@ -59,15 +59,15 @@ AlphabeticalPokedexOrder:
 	db ESPEON
 	db QARTRIDGE
 	db EXEGGUTOR
-	db FARFETCH_D
+	db PLATAPOX
 	db SNOLIPOLI
 	db FERALIGATR
 	db FLAAFFY
 	db FLAREON
 	db FORRETRESS
 	db FURRET
-	db GASTLY
-	db GENGAR
+	db LEAPEAR
+	db STRAWRBLE
 	db DAEMOON
 	db GIRAFARIG
 	db GLIGAR
@@ -78,10 +78,10 @@ AlphabeticalPokedexOrder:
 	db BOMBARDLE
 	db GRANBULL
 	db SABARINTH
-	db GRIMER
+	db CATYBARA
 	db BINARS
 	db GYARADOS
-	db HAUNTER
+	db LEVIATHORN
 	db HERACROSS
 	db HITMONCHAN
 	db HITMONLEE
@@ -122,8 +122,8 @@ AlphabeticalPokedexOrder:
 	db MAGCARGO
 	db MAGIKARP
 	db MAGMAR
-	db MAGNEMITE
-	db MAGNETON
+	db SURFALLO
+	db HEMOGOBLIN
 	db ORIZURU
 	db MANTINE
 	db MAREEP
@@ -138,7 +138,7 @@ AlphabeticalPokedexOrder:
 	db MISDREAVUS
 	db MOLTRES
 	db MR__MIME
-	db MUK
+	db CRESCALDO
 	db MURKROW
 	db NATU
 	db SPIKIDNA
@@ -153,7 +153,7 @@ AlphabeticalPokedexOrder:
 	db CURSIOR
 	db OMANYTE
 	db OMASTAR
-	db ONIX
+	db STRAWMERRI
 	db SLICKRETE
 	db GASPHALT
 	db FUUMA
@@ -193,13 +193,13 @@ AlphabeticalPokedexOrder:
 	db SCYTHER
 	db SEADRA
 	db SEAKING
-	db SEEL
+	db FLARIBOU
 	db SENTRET
-	db SHELLDER
+	db PESCALDO
 	db SHUCKLE
 	db SKARMORY
 	db SKIPLOOM
-	db SLOWBRO
+	db KAIYAK
 	db SLOWKING
 	db TELEKAPI
 	db SLUGMA

@@ -82,20 +82,20 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw FarfetchDEggMoves
-	dw DoduoEggMoves
+	dw PlatapoxEggMoves
+	dw PlatyrusEggMoves
 	dw NoEggMoves
-	dw SeelEggMoves
+	dw FlaribouEggMoves
 	dw NoEggMoves
-	dw GrimerEggMoves
+	dw CatybaraEggMoves
 	dw NoEggMoves
-	dw ShellderEggMoves
+	dw PescaldoEggMoves
 	dw NoEggMoves
-	dw GastlyEggMoves
+	dw LeapearEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw OnixEggMoves
-	dw DrowzeeEggMoves
+	dw StrawmerriEggMoves
+	dw StrawmenadEggMoves
 	dw NoEggMoves
 	dw KrabbyEggMoves
 	dw NoEggMoves

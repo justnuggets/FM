@@ -21,11 +21,11 @@ JohtoGrassWildMons:
 	db 5, HOPSTOT
 	db 5, HOPSTOT
 	; nite
-	db 3, GASTLY
-	db 4, GASTLY
-	db 5, GASTLY
+	db 3, LEAPEAR
+	db 4, LEAPEAR
+	db 5, LEAPEAR
 	db 3, HOPSTOT
-	db 6, GASTLY
+	db 6, LEAPEAR
 	db 5, HOPSTOT
 	db 5, HOPSTOT
 	end_grass_wildmons
@@ -49,11 +49,11 @@ JohtoGrassWildMons:
 	db 5, HOPSTOT
 	db 5, HOPSTOT
 	; nite
-	db 3, GASTLY
-	db 4, GASTLY
-	db 5, GASTLY
+	db 3, LEAPEAR
+	db 4, LEAPEAR
+	db 5, LEAPEAR
 	db 3, HOPSTOT
-	db 6, GASTLY
+	db 6, LEAPEAR
 	db 5, HOPSTOT
 	db 5, HOPSTOT
 	end_grass_wildmons
@@ -77,9 +77,9 @@ JohtoGrassWildMons:
 	db 24, HOPSTOT
 	db 24, HOPSTOT
 	; nite
-	db 20, GASTLY
-	db 21, GASTLY
-	db 22, GASTLY
+	db 20, LEAPEAR
+	db 21, LEAPEAR
+	db 22, LEAPEAR
 	db 22, HOPSTOT
 	db 23, HOPSTOT
 	db 24, HOPSTOT
@@ -105,9 +105,9 @@ JohtoGrassWildMons:
 	db 24, HOPSTOT
 	db 24, HOPSTOT
 	; nite
-	db 20, GASTLY
-	db 21, GASTLY
-	db 22, GASTLY
+	db 20, LEAPEAR
+	db 21, LEAPEAR
+	db 22, LEAPEAR
 	db 22, HOPSTOT
 	db 23, HOPSTOT
 	db 24, HOPSTOT
@@ -133,9 +133,9 @@ JohtoGrassWildMons:
 	db 24, HOPSTOT
 	db 24, HOPSTOT
 	; nite
-	db 20, GASTLY
-	db 21, GASTLY
-	db 22, GASTLY
+	db 20, LEAPEAR
+	db 21, LEAPEAR
+	db 22, LEAPEAR
 	db 22, HOPSTOT
 	db 23, HOPSTOT
 	db 24, HOPSTOT
@@ -161,9 +161,9 @@ JohtoGrassWildMons:
 	db 24, HOPSTOT
 	db 24, HOPSTOT
 	; nite
-	db 20, GASTLY
-	db 21, GASTLY
-	db 22, GASTLY
+	db 20, LEAPEAR
+	db 21, LEAPEAR
+	db 22, LEAPEAR
 	db 22, HOPSTOT
 	db 23, HOPSTOT
 	db 24, HOPSTOT
@@ -189,9 +189,9 @@ JohtoGrassWildMons:
 	db 24, HOPSTOT
 	db 24, HOPSTOT
 	; nite
-	db 20, GASTLY
-	db 21, GASTLY
-	db 22, GASTLY
+	db 20, LEAPEAR
+	db 21, LEAPEAR
+	db 22, LEAPEAR
 	db 22, HOPSTOT
 	db 23, HOPSTOT
 	db 24, HOPSTOT
@@ -217,9 +217,9 @@ JohtoGrassWildMons:
 	db 24, HOPSTOT
 	db 24, HOPSTOT
 	; nite
-	db 20, GASTLY
-	db 21, GASTLY
-	db 22, GASTLY
+	db 20, LEAPEAR
+	db 21, LEAPEAR
+	db 22, LEAPEAR
 	db 22, HOPSTOT
 	db 23, HOPSTOT
 	db 24, HOPSTOT
@@ -245,9 +245,9 @@ JohtoGrassWildMons:
 	db 24, HOPSTOT
 	db 24, HOPSTOT
 	; nite
-	db 20, GASTLY
-	db 21, GASTLY
-	db 22, GASTLY
+	db 20, LEAPEAR
+	db 21, LEAPEAR
+	db 22, LEAPEAR
 	db 22, HOPSTOT
 	db 23, HOPSTOT
 	db 24, HOPSTOT
@@ -273,9 +273,9 @@ JohtoGrassWildMons:
 	db 24, HOPSTOT
 	db 24, HOPSTOT
 	; nite
-	db 20, GASTLY
-	db 21, GASTLY
-	db 22, GASTLY
+	db 20, LEAPEAR
+	db 21, LEAPEAR
+	db 22, LEAPEAR
 	db 22, HOPSTOT
 	db 23, HOPSTOT
 	db 24, HOPSTOT
@@ -430,24 +430,24 @@ JohtoGrassWildMons:
 	db 5, REPVIAL
 	db 4, HOPSTOT
 	db 7, REPVIAL
-	db 6, ONIX
-	db 6, ONIX
+	db 6, STRAWMERRI
+	db 6, STRAWMERRI
 	; day
 	db 6, DAEMOON
 	db 6, FOWLLET
 	db 5, REPVIAL
 	db 4, HOPSTOT
 	db 7, REPVIAL
-	db 6, ONIX
-	db 6, ONIX
+	db 6, STRAWMERRI
+	db 6, STRAWMERRI
 	; nite
 	db 6, DAEMOON
 	db 6, HOPSTOT
 	db 5, WOOPER
 	db 4, HOPSTOT
 	db 7, REPVIAL
-	db 6, ONIX
-	db 6, ONIX
+	db 6, STRAWMERRI
+	db 6, STRAWMERRI
 	end_grass_wildmons
 
 	def_grass_wildmons UNION_CAVE_B1F
@@ -456,7 +456,7 @@ JohtoGrassWildMons:
 	db 8, DAEMOON
 	db 6, REPVIAL
 	db 8, REPVIAL
-	db 8, ONIX
+	db 8, STRAWMERRI
 	db 6, HOPSTOT
 	db 8, HOPSTOT
 	db 8, HOPSTOT
@@ -464,7 +464,7 @@ JohtoGrassWildMons:
 	db 8, DAEMOON
 	db 6, REPVIAL
 	db 8, REPVIAL
-	db 8, ONIX
+	db 8, STRAWMERRI
 	db 6, HOPSTOT
 	db 8, HOPSTOT
 	db 8, HOPSTOT
@@ -472,7 +472,7 @@ JohtoGrassWildMons:
 	db 8, DAEMOON
 	db 6, REPVIAL
 	db 8, WOOPER
-	db 8, ONIX
+	db 8, STRAWMERRI
 	db 6, HOPSTOT
 	db 8, HOPSTOT
 	db 8, HOPSTOT
@@ -486,24 +486,24 @@ JohtoGrassWildMons:
 	db 22, REPVIAL
 	db 21, LOCUTS
 	db 20, DAEMOON
-	db 23, ONIX
-	db 23, ONIX
+	db 23, STRAWMERRI
+	db 23, STRAWMERRI
 	; day
 	db 22, REPVIAL
 	db 22, KOMODOSE
 	db 22, REPVIAL
 	db 21, LOCUTS
 	db 20, DAEMOON
-	db 23, ONIX
-	db 23, ONIX
+	db 23, STRAWMERRI
+	db 23, STRAWMERRI
 	; nite
 	db 22, REPVIAL
 	db 22, KOMODOSE
 	db 22, QUAGSIRE
 	db 21, LOCUTS
 	db 20, DAEMOON
-	db 23, ONIX
-	db 23, ONIX
+	db 23, STRAWMERRI
+	db 23, STRAWMERRI
 	end_grass_wildmons
 
 	def_grass_wildmons SLOWPOKE_WELL_B1F
@@ -847,19 +847,19 @@ JohtoGrassWildMons:
 	; morn
 	db 22, KRABBY
 	db 23, REPVIAL
-	db 22, SEEL
+	db 22, FLARIBOU
 	db 24, KRABBY
 	db 25, KOMODOSE
-	db 24, SEEL
-	db 24, SEEL
+	db 24, FLARIBOU
+	db 24, FLARIBOU
 	; day
 	db 22, KRABBY
 	db 23, REPVIAL
-	db 22, SEEL
+	db 22, FLARIBOU
 	db 24, KRABBY
 	db 25, KOMODOSE
-	db 24, SEEL
-	db 24, SEEL
+	db 24, FLARIBOU
+	db 24, FLARIBOU
 	; nite
 	db 22, KRABBY
 	db 23, REPVIAL
@@ -875,19 +875,19 @@ JohtoGrassWildMons:
 	; morn
 	db 22, KRABBY
 	db 23, REPVIAL
-	db 22, SEEL
+	db 22, FLARIBOU
 	db 24, KRABBY
 	db 25, KOMODOSE
-	db 24, SEEL
-	db 24, SEEL
+	db 24, FLARIBOU
+	db 24, FLARIBOU
 	; day
 	db 22, KRABBY
 	db 23, REPVIAL
-	db 22, SEEL
+	db 22, FLARIBOU
 	db 24, KRABBY
 	db 25, KOMODOSE
-	db 24, SEEL
-	db 24, SEEL
+	db 24, FLARIBOU
+	db 24, FLARIBOU
 	; nite
 	db 22, KRABBY
 	db 23, REPVIAL
@@ -903,19 +903,19 @@ JohtoGrassWildMons:
 	; morn
 	db 22, KRABBY
 	db 23, REPVIAL
-	db 22, SEEL
+	db 22, FLARIBOU
 	db 24, KRABBY
 	db 25, KOMODOSE
-	db 24, SEEL
-	db 24, SEEL
+	db 24, FLARIBOU
+	db 24, FLARIBOU
 	; day
 	db 22, KRABBY
 	db 23, REPVIAL
-	db 22, SEEL
+	db 22, FLARIBOU
 	db 24, KRABBY
 	db 25, KOMODOSE
-	db 24, SEEL
-	db 24, SEEL
+	db 24, FLARIBOU
+	db 24, FLARIBOU
 	; nite
 	db 22, KRABBY
 	db 23, REPVIAL
@@ -931,19 +931,19 @@ JohtoGrassWildMons:
 	; morn
 	db 22, KRABBY
 	db 23, REPVIAL
-	db 22, SEEL
+	db 22, FLARIBOU
 	db 24, KRABBY
 	db 25, KOMODOSE
-	db 24, SEEL
-	db 24, SEEL
+	db 24, FLARIBOU
+	db 24, FLARIBOU
 	; day
 	db 22, KRABBY
 	db 23, REPVIAL
-	db 22, SEEL
+	db 22, FLARIBOU
 	db 24, KRABBY
 	db 25, KOMODOSE
-	db 24, SEEL
-	db 24, SEEL
+	db 24, FLARIBOU
+	db 24, FLARIBOU
 	; nite
 	db 22, KRABBY
 	db 23, REPVIAL
@@ -959,19 +959,19 @@ JohtoGrassWildMons:
 	; morn
 	db 22, KRABBY
 	db 23, REPVIAL
-	db 22, SEEL
+	db 22, FLARIBOU
 	db 24, KRABBY
 	db 25, KOMODOSE
-	db 24, SEEL
-	db 24, SEEL
+	db 24, FLARIBOU
+	db 24, FLARIBOU
 	; day
 	db 22, KRABBY
 	db 23, REPVIAL
-	db 22, SEEL
+	db 22, FLARIBOU
 	db 24, KRABBY
 	db 25, KOMODOSE
-	db 24, SEEL
-	db 24, SEEL
+	db 24, FLARIBOU
+	db 24, FLARIBOU
 	; nite
 	db 22, KRABBY
 	db 23, REPVIAL
@@ -987,19 +987,19 @@ JohtoGrassWildMons:
 	; morn
 	db 23, KRABBY
 	db 24, REPVIAL
-	db 23, SEEL
+	db 23, FLARIBOU
 	db 25, KRABBY
 	db 26, KOMODOSE
-	db 25, SEEL
-	db 25, SEEL
+	db 25, FLARIBOU
+	db 25, FLARIBOU
 	; day
 	db 23, KRABBY
 	db 24, REPVIAL
-	db 23, SEEL
+	db 23, FLARIBOU
 	db 25, KRABBY
 	db 26, KOMODOSE
-	db 25, SEEL
-	db 25, SEEL
+	db 25, FLARIBOU
+	db 25, FLARIBOU
 	; nite
 	db 23, KRABBY
 	db 24, REPVIAL
@@ -1015,19 +1015,19 @@ JohtoGrassWildMons:
 	; morn
 	db 24, KRABBY
 	db 25, REPVIAL
-	db 24, SEEL
+	db 24, FLARIBOU
 	db 26, KRABBY
 	db 27, KOMODOSE
-	db 26, SEEL
-	db 26, SEEL
+	db 26, FLARIBOU
+	db 26, FLARIBOU
 	; day
 	db 24, KRABBY
 	db 25, REPVIAL
-	db 24, SEEL
+	db 24, FLARIBOU
 	db 26, KRABBY
 	db 27, KOMODOSE
-	db 26, SEEL
-	db 26, SEEL
+	db 26, FLARIBOU
+	db 26, FLARIBOU
 	; nite
 	db 24, KRABBY
 	db 25, REPVIAL
@@ -1043,19 +1043,19 @@ JohtoGrassWildMons:
 	; morn
 	db 25, KRABBY
 	db 26, REPVIAL
-	db 25, SEEL
+	db 25, FLARIBOU
 	db 27, KRABBY
 	db 28, KOMODOSE
-	db 27, SEEL
-	db 27, SEEL
+	db 27, FLARIBOU
+	db 27, FLARIBOU
 	; day
 	db 25, KRABBY
 	db 26, REPVIAL
-	db 25, SEEL
+	db 25, FLARIBOU
 	db 27, KRABBY
 	db 28, KOMODOSE
-	db 27, SEEL
-	db 27, SEEL
+	db 27, FLARIBOU
+	db 27, FLARIBOU
 	; nite
 	db 25, KRABBY
 	db 26, REPVIAL
@@ -1071,7 +1071,7 @@ JohtoGrassWildMons:
 	; morn
 	db 43, SABARINTH
 	db 44, URSARING
-	db 42, ONIX
+	db 42, STRAWMERRI
 	db 45, MAGMAR
 	db 45, KOMODOSE
 	db 20, LARVITAR
@@ -1079,7 +1079,7 @@ JohtoGrassWildMons:
 	; day
 	db 43, SABARINTH
 	db 44, URSARING
-	db 42, ONIX
+	db 42, STRAWMERRI
 	db 45, MAGMAR
 	db 45, KOMODOSE
 	db 20, LARVITAR
@@ -1087,7 +1087,7 @@ JohtoGrassWildMons:
 	; nite
 	db 43, SABARINTH
 	db 44, KOMODOSE
-	db 42, ONIX
+	db 42, STRAWMERRI
 	db 42, KOMODOSE
 	db 45, JABAROO
 	db 46, KOMODOSE
@@ -1126,7 +1126,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 51, KOMODOSE
-	db 48, ONIX
+	db 48, STRAWMERRI
 	db 48, SABARINTH
 	db 50, URSARING
 	db 20, LARVITAR
@@ -1134,7 +1134,7 @@ JohtoGrassWildMons:
 	db 20, PUPITAR
 	; day
 	db 51, KOMODOSE
-	db 48, ONIX
+	db 48, STRAWMERRI
 	db 48, SABARINTH
 	db 50, URSARING
 	db 20, LARVITAR
@@ -1142,7 +1142,7 @@ JohtoGrassWildMons:
 	db 20, PUPITAR
 	; nite
 	db 51, KOMODOSE
-	db 48, ONIX
+	db 48, STRAWMERRI
 	db 48, SABARINTH
 	db 49, KOMODOSE
 	db 45, JABAROO
@@ -1314,8 +1314,8 @@ JohtoGrassWildMons:
 	db 5, SLIVERFISH
 	db 5, HOOTHOOT
 	db 4, REPVIAL
-	db 5, GASTLY
-	db 5, GASTLY
+	db 5, LEAPEAR
+	db 5, LEAPEAR
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_32
@@ -1342,8 +1342,8 @@ JohtoGrassWildMons:
 	db 7, SLIVERFISH
 	db 6, REPVIAL
 	db 7, HOOTHOOT
-	db 7, GASTLY
-	db 7, GASTLY
+	db 7, LEAPEAR
+	db 7, LEAPEAR
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_33
@@ -1393,7 +1393,7 @@ JohtoGrassWildMons:
 	db 10, DITTO
 	db 10, DITTO
 	; nite
-	db 12, DROWZEE
+	db 12, STRAWMENAD
 	db 11, HOPSTOT
 	db 12, HOOTHOOT
 	db 10, BAGROUND
@@ -1421,7 +1421,7 @@ JohtoGrassWildMons:
 	db 10, DITTO
 	db 12, YANMA
 	; nite
-	db 12, DROWZEE
+	db 12, STRAWMENAD
 	db 14, HOOTHOOT
 	db 13, WALLOPY
 	db 10, BAGROUND
@@ -1454,8 +1454,8 @@ JohtoGrassWildMons:
 	db 5, SLIVERFISH
 	db 5, HOOTHOOT
 	db 5, HOOTHOOT
-	db 5, GASTLY
-	db 5, GASTLY
+	db 5, LEAPEAR
+	db 5, LEAPEAR
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_37
@@ -1491,7 +1491,7 @@ JohtoGrassWildMons:
 	; morn
 	db 16, HOPSTOT
 	db 16, LOCUTS
-	db 16, MAGNEMITE
+	db 16, SURFALLO
 	db 16, AXALITL
 	db 13, TAUROS
 	db 13, MILTANK
@@ -1499,7 +1499,7 @@ JohtoGrassWildMons:
 	; day
 	db 16, HOPSTOT
 	db 16, LOCUTS
-	db 16, MAGNEMITE
+	db 16, SURFALLO
 	db 16, AXALITL
 	db 13, TAUROS
 	db 13, MILTANK
@@ -1507,7 +1507,7 @@ JohtoGrassWildMons:
 	; nite
 	db 16, PORCELION
 	db 16, LOCUTS
-	db 16, MAGNEMITE
+	db 16, SURFALLO
 	db 16, NOCTOWL
 	db 16, PORCELION
 	db 16, PORCELION
@@ -1519,7 +1519,7 @@ JohtoGrassWildMons:
 	; morn
 	db 16, HOPSTOT
 	db 16, LOCUTS
-	db 16, MAGNEMITE
+	db 16, SURFALLO
 	db 16, AXALITL
 	db 15, MILTANK
 	db 15, TAUROS
@@ -1527,7 +1527,7 @@ JohtoGrassWildMons:
 	; day
 	db 16, HOPSTOT
 	db 16, LOCUTS
-	db 16, MAGNEMITE
+	db 16, SURFALLO
 	db 16, AXALITL
 	db 15, MILTANK
 	db 15, TAUROS
@@ -1535,7 +1535,7 @@ JohtoGrassWildMons:
 	; nite
 	db 16, PORCELION
 	db 16, LOCUTS
-	db 16, MAGNEMITE
+	db 16, SURFALLO
 	db 16, NOCTOWL
 	db 18, PORCELION
 	db 18, PORCELION
@@ -1575,7 +1575,7 @@ JohtoGrassWildMons:
 	; morn
 	db 15, SENTRET
 	db 16, AXALITL
-	db 16, FARFETCH_D
+	db 16, PLATAPOX
 	db 15, FURRET
 	db 17, LOCUTS
 	db 17, FURRET
@@ -1583,7 +1583,7 @@ JohtoGrassWildMons:
 	; day
 	db 15, SENTRET
 	db 16, AXALITL
-	db 16, FARFETCH_D
+	db 16, PLATAPOX
 	db 15, FURRET
 	db 17, LOCUTS
 	db 17, FURRET
@@ -1689,17 +1689,17 @@ JohtoGrassWildMons:
 	db 42, ANTENNIAN
 	db 42, HAILOTH
 	db 44, OKAPSI
-	db 41, DODUO
-	db 43, DODRIO
-	db 43, DODRIO
+	db 41, PLATYRUS
+	db 43, SEARLING
+	db 43, SEARLING
 	; day
 	db 41, TANGELA
 	db 42, ANTENNIAN
 	db 42, HAILOTH
 	db 44, OKAPSI
-	db 41, DODUO
-	db 43, DODRIO
-	db 43, DODRIO
+	db 41, PLATYRUS
+	db 43, SEARLING
+	db 43, SEARLING
 	; nite
 	db 41, TANGELA
 	db 42, DRONNEL
@@ -1729,12 +1729,12 @@ JohtoGrassWildMons:
 	db 7, MARBLOCK
 	db 7, CHANSEY
 	; nite
-	db 10, UNOWN
-	db 10, UNOWN
-	db 10, UNOWN
-	db 10, UNOWN
-	db 10, UNOWN
-	db 10, UNOWN
+	db 10, ANTENNIAN
+	db 10, ANTENNIAN
+	db 10, DAEMOON
+	db 10, HEMOGOBLIN
+	db 10, PLATYRUS
+	db 10, KAIYAK
 	db 10, UNOWN
 	end_grass_wildmons
 

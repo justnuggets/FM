@@ -36,12 +36,12 @@ ValidateOTTrademon:
 	add hl, bc
 	ld a, [hl]
 
-	; Magnemite and Magneton's types changed
+	; Magnemite and Hemogoblin's types changed
 	; from Electric to Electric/Steel.
-	cp MAGNEMITE
-	jr z, .normal
-	cp MAGNETON
-	jr z, .normal
+	;cp MAGNEMITE
+	;jr z, .normal
+	;cp HEMOGOBLIN
+	;jr z, .normal
 
 	ld [wCurSpecies], a
 	call GetBaseData

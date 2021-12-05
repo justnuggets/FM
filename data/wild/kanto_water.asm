@@ -151,9 +151,9 @@ KantoWaterWildMons:
 
 	def_water_wildmons CELADON_CITY
 	db 2 percent ; encounter rate
-	db 20, GRIMER
-	db 15, GRIMER
-	db 15, MUK
+	db 20, CATYBARA
+	db 15, CATYBARA
+	db 15, CRESCALDO
 	end_water_wildmons
 
 	def_water_wildmons FUCHSIA_CITY

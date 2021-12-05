@@ -1157,7 +1157,7 @@ BattleCommand_Critical:
 	jr .Tally
 
 .Farfetchd:
-	cp FARFETCH_D
+	cp PLATAPOX
 	jr nz, .FocusEnergy
 	ld a, [hl]
 	cp STICK

@@ -81,48 +81,48 @@
 	const SINISTAR   ; 3c
 	const DRONNEL    ; 3d
 	const RUMBLEBEE  ; 3e
-	const BAGROUND       ; 3f
-	const TERRAGER    ; 40
-	const CAULDEGAR   ; 41
-	const ROCKADE     ; 42
+	const BAGROUND   ; 3f
+	const TERRAGER   ; 40
+	const CAULDEGAR  ; 41
+	const ROCKADE    ; 42
 	const BARROCK    ; 43
-	const MARBLOCK    ; 44
+	const MARBLOCK   ; 44
 	const SLIVERFISH ; 45
-	const REDDOT ; 46
-	const POLKAPIX ; 47
-	const IMPAN  ; 48
-	const DAETYR ; 49
+	const REDDOT 	 ; 46
+	const POLKAPIX   ; 47
+	const IMPAN		 ; 48
+	const DAETYR 	 ; 49
 	const DAEMOON    ; 4a
-	const SABARINTH   ; 4b
-	const BOMBARDLE      ; 4c
-	const ANTENNIAN     ; 4d
-	const OKAPSI   ; 4e
+	const SABARINTH  ; 4b
+	const BOMBARDLE  ; 4c
+	const ANTENNIAN  ; 4d
+	const OKAPSI   	 ; 4e
 	const TELEKAPI   ; 4f
-	const SLOWBRO    ; 50
-	const MAGNEMITE  ; 51
-	const MAGNETON   ; 52
-	const FARFETCH_D ; 53
-	const DODUO      ; 54
-	const DODRIO     ; 55
-	const SEEL       ; 56
-	const DEWGONG    ; 57
-	const GRIMER     ; 58
-	const MUK        ; 59
-	const SHELLDER   ; 5a
-	const CLOYSTER   ; 5b
-	const GASTLY     ; 5c
-	const HAUNTER    ; 5d
-	const GENGAR     ; 5e
-	const ONIX       ; 5f
-	const DROWZEE    ; 60
-	const HYPNO      ; 61
+	const KAIYAK     ; 50
+	const SURFALLO   ; 51
+	const HEMOGOBLIN ; 52
+	const PLATAPOX 	 ; 53
+	const PLATYRUS   ; 54
+	const SEARLING   ; 55
+	const FLARIBOU   ; 56
+	const MARSKRAT   ; 57
+	const CATYBARA   ; 58
+	const CRESCALDO  ; 59 
+	const PESCALDO   ; 5a
+	const PLUMPLING  ; 5b
+	const LEAPEAR    ; 5c
+	const LEVIATHORN ; 5d
+	const STRAWRBLE  ; 5e
+	const STRAWMERRI ; 5f
+	const STRAWMENAD    ; 60
+	const HYPNO      ; 61   SWAP
 	const KRABBY     ; 62
 	const KINGLER    ; 63
 	const VOLTORB    ; 64
-	const ELECTRODE  ; 65
-	const NIDORAN_F  ; 66
+	const ELECTRODE  ; 65 SWAP
+	const NIDORAN_F  ; 66 SWAP
 	const EXEGGUTOR  ; 67
-	const NIDORAN_M  ; 68
+	const NIDORAN_M  ; 68 SWAP
 	const MAROWAK    ; 69
 	const HITMONLEE  ; 6a
 	const HITMONCHAN ; 6b

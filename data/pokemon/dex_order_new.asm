@@ -81,23 +81,23 @@ NewPokedexOrder:
 	db ANTENNIAN
 	db OKAPSI
 	db TELEKAPI
-	db SLOWBRO
-	db MAGNEMITE
-	db MAGNETON
-	db FARFETCH_D
-	db DODUO  
-	db DODRIO  
-	db SEEL     
-	db DEWGONG  
-	db GRIMER    
-	db MUK       
-	db SHELLDER  
-	db CLOYSTER  
-	db GASTLY     
-	db HAUNTER    
-	db GENGAR    
-	db ONIX      
-	db DROWZEE    
+	db KAIYAK
+	db SURFALLO
+	db HEMOGOBLIN
+	db PLATAPOX
+	db PLATYRUS  
+	db SEARLING  
+	db FLARIBOU     
+	db MARSKRAT  
+	db CATYBARA    
+	db CRESCALDO       
+	db PESCALDO  
+	db PLUMPLING  
+	db LEAPEAR     
+	db LEVIATHORN    
+	db STRAWRBLE    
+	db STRAWMERRI      
+	db STRAWMENAD    
 	db HYPNO      ; 61
 	db KRABBY    
 	db KINGLER   
