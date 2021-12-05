@@ -42,9 +42,9 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke STRAWRBLE, 100
-	givepoke STRAWMERRI, 100
-	givepoke STRAWMENAD, 100
+	givepoke HYPNO, 100
+	givepoke NIDORAN_F, 100
+	givepoke EXEGGUTOR, 100
 	givepoke SUBMINO, 100, LEFTOVERS
 
 	closetext

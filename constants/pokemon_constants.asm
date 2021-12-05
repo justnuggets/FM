@@ -114,15 +114,15 @@
 	const LEVIATHORN ; 5d
 	const STRAWRBLE  ; 5e
 	const STRAWMERRI ; 5f
-	const STRAWMENAD    ; 60
-	const HYPNO      ; 61   SWAP
+	const STRAWMENAD ; 60
+	const NIDORAN_F  ; 61 SWAP H
 	const KRABBY     ; 62
 	const KINGLER    ; 63
 	const VOLTORB    ; 64
-	const ELECTRODE  ; 65 SWAP
-	const NIDORAN_F  ; 66 SWAP
+	const ELECTRODE  ; 65 SWAP M
+	const HYPNO      ; 66 SWAP F
 	const EXEGGUTOR  ; 67
-	const NIDORAN_M  ; 68 SWAP
+	const NIDORAN_M  ; 68 SWAP E
 	const MAROWAK    ; 69
 	const HITMONLEE  ; 6a
 	const HITMONCHAN ; 6b
@@ -156,8 +156,8 @@
 	const JOLTEON    ; 87
 	const FLAREON    ; 88
 	const PORYGON    ; 89
-	const OMANYTE    ; 8a
-	const OMASTAR    ; 8b
+	const OMANYTE    ; 8a SWAP
+	const OMASTAR    ; 8b 
 	const KABUTO     ; 8c
 	const KABUTOPS   ; 8d
 	const AERODACTYL ; 8e

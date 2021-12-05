@@ -97,12 +97,12 @@ PokedexDataPointerTable:
 	dw StrawrblePokedexEntry
 	dw StrawmerriPokedexEntry
 	dw StrawmenadPokedexEntry
-	dw HypnoPokedexEntry
+	dw NidoranFPokedexEntry
 	dw KrabbyPokedexEntry
 	dw KinglerPokedexEntry
 	dw VoltorbPokedexEntry
 	dw ElectrodePokedexEntry
-	dw NidoranFPokedexEntry
+	dw HypnoPokedexEntry
 	dw ExeggutorPokedexEntry
 	dw NidoranMPokedexEntry
 	dw MarowakPokedexEntry

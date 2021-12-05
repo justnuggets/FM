@@ -195,8 +195,8 @@ PokemonPicPointers::
 	dba_pic StrawmerriBackpic
 	dba_pic StrawmenadFrontpic
 	dba_pic StrawmenadBackpic
-	dba_pic HypnoFrontpic
-	dba_pic HypnoBackpic
+	dba_pic NidoranFFrontpic
+	dba_pic NidoranFBackpic
 	dba_pic KrabbyFrontpic
 	dba_pic KrabbyBackpic
 	dba_pic KinglerFrontpic
@@ -205,8 +205,8 @@ PokemonPicPointers::
 	dba_pic VoltorbBackpic
 	dba_pic ElectrodeFrontpic
 	dba_pic ElectrodeBackpic
-	dba_pic NidoranFFrontpic
-	dba_pic NidoranFBackpic
+	dba_pic HypnoFrontpic
+	dba_pic HypnoBackpic
 	dba_pic ExeggutorFrontpic
 	dba_pic ExeggutorBackpic
 	dba_pic NidoranMFrontpic

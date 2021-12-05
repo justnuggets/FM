@@ -98,12 +98,12 @@ EvosAttacksPointers::
 	dw StrawrbleEvosAttacks
 	dw StrawmerriEvosAttacks
 	dw StrawmenadEvosAttacks
-	dw HypnoEvosAttacks
+	dw NidoranFEvosAttacks
 	dw KrabbyEvosAttacks
 	dw KinglerEvosAttacks
 	dw VoltorbEvosAttacks
 	dw ElectrodeEvosAttacks
-	dw NidoranFEvosAttacks
+	dw HypnoEvosAttacks
 	dw ExeggutorEvosAttacks
 	dw NidoranMEvosAttacks
 	dw MarowakEvosAttacks

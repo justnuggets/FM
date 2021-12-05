@@ -98,12 +98,12 @@ NewPokedexOrder:
 	db STRAWRBLE    
 	db STRAWMERRI      
 	db STRAWMENAD    
-	db HYPNO      ; 61
+	db NIDORAN_F
 	db KRABBY    
 	db KINGLER   
 	db VOLTORB    
 	db ELECTRODE  ; 65
-	db NIDORAN_F  ; 66
+	db HYPNO
 	db EXEGGUTOR  
 	db NIDORAN_M  ; 68
 	db MAROWAK    

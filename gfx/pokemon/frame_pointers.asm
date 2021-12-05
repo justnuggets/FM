@@ -96,12 +96,12 @@ FramesPointers:
 	dw StrawrbleFrames
 	dw StrawmerriFrames
 	dw StrawmenadFrames
-	dw HypnoFrames
+	dw NidoranFFrames
 	dw KrabbyFrames
 	dw KinglerFrames
 	dw VoltorbFrames
 	dw ElectrodeFrames
-	dw NidoranFFrames
+	dw HypnoFrames
 	dw ExeggutorFrames
 	dw NidoranMFrames
 	dw MarowakFrames
