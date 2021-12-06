@@ -1,10 +1,10 @@
 	db "TRANSFORM@" ; species name
-	dw 100, 90 ; height, weight
+	dw 104, 4 ; height, weight
 
-	db   "When it encount-"
-	next "ers another DITTO,"
-	next "it will move"
+	db   "Imported from a"
+	next "faraway region,"
+	next "these creatures"
 
-	page "faster than normal"
-	next "to duplicate that"
-	next "opponent exactly.@"
+	page "were brought in to"
+	next "help save endang-"
+	next "ered species.@"

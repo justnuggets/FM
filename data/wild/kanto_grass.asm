@@ -66,16 +66,16 @@ KantoGrassWildMons:
 	db 12, ROCKADE
 	db 12, REPVIAL
 	db 15, BARROCK
-	db 12, MAROWAK
-	db 12, MAROWAK
+	db 12, SCRUMSHEF
+	db 12, SCRUMSHEF
 	; day
 	db 10, SKARDINE
 	db 11, DAEMOON
 	db 12, ROCKADE
 	db 12, REPVIAL
 	db 15, BARROCK
-	db 12, MAROWAK
-	db 12, MAROWAK
+	db 12, SCRUMSHEF
+	db 12, SCRUMSHEF
 	; nite
 	db 12, REPVIAL
 	db 11, DAEMOON
@@ -93,7 +93,7 @@ KantoGrassWildMons:
 	db 14, DAEMOON
 	db 16, STRAWMERRI
 	db 12, REPVIAL
-	db 15, MAROWAK
+	db 15, SCRUMSHEF
 	db 15, KANGASKHAN
 	db 15, KANGASKHAN
 	; day
@@ -101,7 +101,7 @@ KantoGrassWildMons:
 	db 14, DAEMOON
 	db 16, STRAWMERRI
 	db 12, REPVIAL
-	db 15, MAROWAK
+	db 15, SCRUMSHEF
 	db 15, KANGASKHAN
 	db 15, KANGASKHAN
 	; nite
@@ -402,16 +402,16 @@ KantoGrassWildMons:
 	db 15, LOCUTS
 	db 15, SNOLIPOLI
 	db 15, SNOLIPOLI
-	db 18, MAROWAK
-	db 18, MAROWAK
+	db 18, SCRUMSHEF
+	db 18, SCRUMSHEF
 	; day
 	db 15, HOPSTOT
 	db 15, CHAWPPER
 	db 15, LOCUTS
 	db 15, SNOLIPOLI
 	db 15, SNOLIPOLI
-	db 18, MAROWAK
-	db 18, MAROWAK
+	db 18, SCRUMSHEF
+	db 18, SCRUMSHEF
 	; nite
 	db 15, HOPSTOT
 	db 15, INGROVERT
@@ -429,7 +429,7 @@ KantoGrassWildMons:
 	db 17, PAMPODOUR_P
 	db 15, LOCUTS
 	db 15, SNOLIPOLI
-	db 15, MAROWAK
+	db 15, SCRUMSHEF
 	db 16, ELECTABUZZ
 	db 16, ELECTABUZZ
 	; day
@@ -437,7 +437,7 @@ KantoGrassWildMons:
 	db 17, PAMPODOUR_P
 	db 15, LOCUTS
 	db 15, SNOLIPOLI
-	db 15, MAROWAK
+	db 15, SCRUMSHEF
 	db 18, ELECTABUZZ
 	db 18, ELECTABUZZ
 	; nite

@@ -321,7 +321,7 @@ PampoochTEggMoves:
 	db SWORDS_DANCE
 	db -1 ; end
 
-LickitungEggMoves:
+CommansheeEggMoves:
 	db BELLY_DRUM
 	db MAGNITUDE
 	db BODY_SLAM

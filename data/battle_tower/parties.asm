@@ -420,7 +420,7 @@ BattleTowerMons:
 	bigdw 32 ; SDef
 	db "KABIGON@@@@"
 
-	db EXEGGUTOR
+	db TUTSWEET
 	db KINGS_ROCK
 	db TOXIC, GIGA_DRAIN, THIEF, CONFUSION
 	dw 0 ; OT ID
@@ -735,7 +735,7 @@ BattleTowerMons:
 	bigdw 59 ; SDef
 	db "HERAKUROSU@"
 
-	db EXEGGUTOR
+	db TUTSWEET
 	db LEFTOVERS
 	db HYPER_BEAM, PSYCHIC_M, TOXIC, DREAM_EATER
 	dw 0 ; OT ID
@@ -891,7 +891,7 @@ BattleTowerMons:
 	bigdw 53 ; SDef
 	db "HAtuSAMU@@@"
 
-	db HITMONCHAN
+	db APASHEE
 	db GOLD_BERRY
 	db THUNDERPUNCH, ICE_PUNCH, FIRE_PUNCH, MEGA_PUNCH
 	dw 0 ; OT ID
@@ -1388,7 +1388,7 @@ BattleTowerMons:
 	bigdw 81 ; SDef
 	db "PORIGON2@@@"
 
-	db MAROWAK
+	db SCRUMSHEF
 	db THICK_CLUB
 	db EARTHQUAKE, RETURN, HYPER_BEAM, BONEMERANG
 	dw 0 ; OT ID
@@ -1414,7 +1414,7 @@ BattleTowerMons:
 	bigdw 72 ; SDef
 	db "GARAGARA@@@"
 
-	db ELECTRODE
+	db TUTUFRUTTI
 	db BRIGHTPOWDER
 	db LIGHT_SCREEN, THUNDERBOLT, PROTECT, THUNDER
 	dw 0 ; OT ID
@@ -2093,7 +2093,7 @@ BattleTowerMons:
 	bigdw 106 ; SDef
 	db "RIZA-DON@@@"
 
-	db EXEGGUTOR
+	db TUTSWEET
 	db BRIGHTPOWDER
 	db EGG_BOMB, STOMP, PSYCH_UP, CONFUSION
 	dw 0 ; OT ID
@@ -2486,7 +2486,7 @@ BattleTowerMons:
 	bigdw 116 ; SDef
 	db "DAGUTORIO@@"
 
-	db ELECTRODE
+	db TUTUFRUTTI
 	db MIRACLEBERRY
 	db THUNDERBOLT, EXPLOSION, MIRROR_COAT, REST
 	dw 0 ; OT ID
@@ -3506,7 +3506,7 @@ BattleTowerMons:
 	bigdw 189 ; SDef
 	db "SANDA-@@@@@"
 
-	db EXEGGUTOR
+	db TUTSWEET
 	db MIRACLEBERRY
 	db REST, EXPLOSION, PSYCHIC_M, GIGA_DRAIN
 	dw 0 ; OT ID
@@ -3714,7 +3714,7 @@ BattleTowerMons:
 	bigdw 152 ; SDef
 	db "KIRINRIKI@@"
 
-	db HITMONLEE
+	db SOUSFLE
 	db FOCUS_BAND
 	db REVERSAL, ENDURE, BODY_SLAM, MEGA_KICK
 	dw 0 ; OT ID
@@ -4263,7 +4263,7 @@ BattleTowerMons:
 	bigdw 189 ; SDef
 	db "PUTERA@@@@@"
 
-	db ELECTRODE
+	db TUTUFRUTTI
 	db KINGS_ROCK
 	db THUNDERBOLT, EXPLOSION, MIRROR_COAT, TOXIC
 	dw 0 ; OT ID
@@ -5127,7 +5127,7 @@ BattleTowerMons:
 	bigdw 263 ; SDef
 	db "RIZA-DON@@@"
 
-	db ELECTRODE
+	db TUTUFRUTTI
 	db BRIGHTPOWDER
 	db THUNDER_WAVE, THUNDERBOLT, EXPLOSION, MIRROR_COAT
 	dw 0 ; OT ID
@@ -5361,7 +5361,7 @@ BattleTowerMons:
 	bigdw 194 ; SDef
 	db "INOMU-@@@@@"
 
-	db EXEGGUTOR
+	db TUTSWEET
 	db QUICK_CLAW
 	db PSYCHIC_M, TOXIC, EXPLOSION, GIGA_DRAIN
 	dw 0 ; OT ID
@@ -5439,7 +5439,7 @@ BattleTowerMons:
 	bigdw 190 ; SDef
 	db "GORO-NIya@@"
 
-	db HITMONCHAN
+	db APASHEE
 	db FOCUS_BAND
 	db COUNTER, FIRE_PUNCH, THUNDERPUNCH, ICE_PUNCH
 	dw 0 ; OT ID

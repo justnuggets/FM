@@ -104,12 +104,12 @@ EvosAttacksPointers::
 	dw PampodourPEvosAttacks
 	dw PampoochTEvosAttacks
 	dw PampodourTEvosAttacks
-	dw ExeggutorEvosAttacks
-	dw ElectrodeEvosAttacks
-	dw MarowakEvosAttacks
-	dw HitmonleeEvosAttacks
-	dw HitmonchanEvosAttacks
-	dw LickitungEvosAttacks
+	dw TutsweetEvosAttacks
+	dw TutufruttiEvosAttacks
+	dw ScrumshefEvosAttacks
+	dw SousfleEvosAttacks
+	dw ApasheeEvosAttacks
+	dw CommansheeEvosAttacks
 	dw DittoEvosAttacks
 	dw WeezingEvosAttacks
 	dw RhyhornEvosAttacks

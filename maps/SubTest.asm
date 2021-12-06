@@ -42,12 +42,7 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke PAMPODOUR_S, 100
-	givepoke PAMPOOCH_P, 100
-	givepoke PAMPODOUR_P, 100
-	givepoke PAMPOOCH_T, 100
-	givepoke PAMPODOUR_T, 100
-	givepoke ELECTRODE, 100, LEFTOVERS
+	givepoke CHANSEY, 1, LEFTOVERS
 
 	closetext
 	end

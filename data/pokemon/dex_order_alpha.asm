@@ -53,12 +53,12 @@ AlphabeticalPokedexOrder:
 	db EEVEE
 	db CRYSTALIS
 	db ELECTABUZZ
-	db ELECTRODE
+	db TUTUFRUTTI
 	db ELEKID
 	db ENTEI
 	db ESPEON
 	db QARTRIDGE
-	db EXEGGUTOR
+	db TUTSWEET
 	db PLATAPOX
 	db SNOLIPOLI
 	db FERALIGATR
@@ -83,8 +83,8 @@ AlphabeticalPokedexOrder:
 	db GYARADOS
 	db LEVIATHORN
 	db HERACROSS
-	db HITMONCHAN
-	db HITMONLEE
+	db APASHEE
+	db SOUSFLE
 	db HITMONTOP
 	db HO_OH
 	db HOOTHOOT
@@ -113,7 +113,7 @@ AlphabeticalPokedexOrder:
 	db LARVITAR
 	db LEDIAN
 	db LEDYBA
-	db LICKITUNG
+	db COMMANSHEE
 	db LUGIA
 	db MARBLOCK
 	db BARROCK
@@ -128,7 +128,7 @@ AlphabeticalPokedexOrder:
 	db MANTINE
 	db MAREEP
 	db MARILL
-	db MAROWAK
+	db SCRUMSHEF
 	db MEGANIUM
 	db PORCELION
 	db DRIPPOUR

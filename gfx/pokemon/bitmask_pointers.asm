@@ -102,12 +102,12 @@ BitmasksPointers:
 	dw PampodourPBitmasks
 	dw PampoochTBitmasks
 	dw PampodourTBitmasks
-	dw ExeggutorBitmasks	
-	dw ElectrodeBitmasks
-	dw MarowakBitmasks
-	dw HitmonleeBitmasks
-	dw HitmonchanBitmasks
-	dw LickitungBitmasks
+	dw TutsweetBitmasks	
+	dw TutufruttiBitmasks
+	dw ScrumshefBitmasks
+	dw SousfleBitmasks
+	dw ApasheeBitmasks
+	dw CommansheeBitmasks
 	dw DittoBitmasks
 	dw WeezingBitmasks
 	dw RhyhornBitmasks

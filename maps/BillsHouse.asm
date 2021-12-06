@@ -28,8 +28,8 @@ BillsGrandpa:
 	checkevent EVENT_SHOWED_ODDISH_TO_BILLS_GRANDPA
 	iftrue .ShowedCursior
 	checkevent EVENT_SHOWED_LICKITUNG_TO_BILLS_GRANDPA
-	iftrue .ShowedLickitung
-	writetext BillsGrandpaLickitungText
+	iftrue .ShowedCommanshee
+	writetext BillsGrandpaCommansheeText
 	promptbutton
 	writetext BillsGrandpaAskToSeeMonText
 	yesorno
@@ -40,7 +40,7 @@ BillsGrandpa:
 	ifnotequal SUBMINO, .WrongPokemon
 	scall .CorrectPokemon
 	setevent EVENT_SHOWED_LICKITUNG_TO_BILLS_GRANDPA
-	sjump .ShowedLickitung
+	sjump .ShowedCommanshee
 
 .GotEverstone:
 	writetext BillsGrandpaCursiorText
@@ -114,7 +114,7 @@ BillsGrandpa:
 	setevent EVENT_SHOWED_PICHU_TO_BILLS_GRANDPA
 	sjump .ShowedPichu
 
-.ShowedLickitung:
+.ShowedCommanshee:
 	checkevent EVENT_GOT_EVERSTONE_FROM_BILLS_GRANDPA
 	iftrue .GotEverstone
 	scall .ReceiveItem
@@ -279,7 +279,7 @@ BillsGrandpaWrongPokemonText:
 	cont "told about."
 	done
 
-BillsGrandpaLickitungText:
+BillsGrandpaCommansheeText:
 	text "My grandson BILL"
 	line "told me about a"
 

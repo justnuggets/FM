@@ -102,12 +102,12 @@ FramesPointers:
 	dw PampodourPFrames
 	dw PampoochTFrames
 	dw PampodourTFrames
-	dw ExeggutorFrames
-	dw ElectrodeFrames
-	dw MarowakFrames
-	dw HitmonleeFrames
-	dw HitmonchanFrames
-	dw LickitungFrames
+	dw TutsweetFrames
+	dw TutufruttiFrames
+	dw ScrumshefFrames
+	dw SousfleFrames
+	dw ApasheeFrames
+	dw CommansheeFrames
 	dw DittoFrames
 	dw WeezingFrames
 	dw RhyhornFrames

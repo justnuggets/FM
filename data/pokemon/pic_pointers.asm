@@ -207,18 +207,18 @@ PokemonPicPointers::
 	dba_pic PampoochTBackpic
 	dba_pic PampodourTFrontpic
 	dba_pic PampodourTBackpic
-	dba_pic ExeggutorFrontpic
-	dba_pic ExeggutorBackpic
-	dba_pic ElectrodeFrontpic
-	dba_pic ElectrodeBackpic
-	dba_pic MarowakFrontpic
-	dba_pic MarowakBackpic
-	dba_pic HitmonleeFrontpic
-	dba_pic HitmonleeBackpic
-	dba_pic HitmonchanFrontpic
-	dba_pic HitmonchanBackpic
-	dba_pic LickitungFrontpic
-	dba_pic LickitungBackpic
+	dba_pic TutsweetFrontpic
+	dba_pic TutsweetBackpic
+	dba_pic TutufruttiFrontpic
+	dba_pic TutufruttiBackpic
+	dba_pic ScrumshefFrontpic
+	dba_pic ScrumshefBackpic
+	dba_pic SousfleFrontpic
+	dba_pic SousfleBackpic
+	dba_pic ApasheeFrontpic
+	dba_pic ApasheeBackpic
+	dba_pic CommansheeFrontpic
+	dba_pic CommansheeBackpic
 	dba_pic DittoFrontpic
 	dba_pic DittoBackpic
 	dba_pic WeezingFrontpic

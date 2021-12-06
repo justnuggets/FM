@@ -2747,12 +2747,12 @@ CheckDamageStatsCritical:
 ThickClubBoost:
 ; Return in hl the stat value at hl.
 
-; If the attacking monster is Skardine or Marowak and
+; If the attacking monster is Skardine or Scrumshef and
 ; it's holding a Thick Club, double it.
 	push bc
 	push de
 	ld b, SKARDINE ; CUBONE MARSKRAT
-	ld c, MAROWAK ; CATYBARA
+	ld c, SCRUMSHEF ; CATYBARA
 	ld d, THICK_CLUB
 	call SpeciesItemBoost
 	pop de

@@ -102,12 +102,12 @@ AnimationIdlePointers:
 	dw PampodourPAnimationIdle
 	dw PampoochTAnimationIdle
 	dw PampodourTAnimationIdle
-	dw ExeggutorAnimationIdle
-	dw ElectrodeAnimationIdle
-	dw MarowakAnimationIdle
-	dw HitmonleeAnimationIdle
-	dw HitmonchanAnimationIdle
-	dw LickitungAnimationIdle
+	dw TutsweetAnimationIdle
+	dw TutufruttiAnimationIdle
+	dw ScrumshefAnimationIdle
+	dw SousfleAnimationIdle
+	dw ApasheeAnimationIdle
+	dw CommansheeAnimationIdle
 	dw DittoAnimationIdle
 	dw WeezingAnimationIdle
 	dw RhyhornAnimationIdle

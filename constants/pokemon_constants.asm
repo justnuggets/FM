@@ -121,12 +121,12 @@
 	const PAMPODOUR_P ; 64
 	const PAMPOOCH_T  ; 65 PAMPOOCH_T
 	const PAMPODOUR_T      ; 66  
-	const EXEGGUTOR  ; 67
-	const ELECTRODE  ; 68
-	const MAROWAK    ; 69
-	const HITMONLEE  ; 6a
-	const HITMONCHAN ; 6b
-	const LICKITUNG  ; 6c
+	const TUTSWEET  ; 67
+	const TUTUFRUTTI  ; 68
+	const SCRUMSHEF    ; 69
+	const SOUSFLE  ; 6a
+	const APASHEE ; 6b
+	const COMMANSHEE  ; 6c
 	const DITTO     ; 6d
 	const WEEZING    ; 6e
 	const RHYHORN    ; 6f

@@ -102,18 +102,18 @@ PokemonCries::
 	mon_cry CRY_MUK,           0,  383 ; STRAWRBLE
 	mon_cry CRY_EKANS,       255,  320 ; STRAWMERRI
 	mon_cry CRY_DROWZEE,     136,  160 ; STRAWMENAD
-	mon_cry CRY_DROWZEE,     238,  192 ; PAMPODOUR_T
+	mon_cry CRY_DROWZEE,     238,  192 ; PAMPOOCH_S
 	mon_cry CRY_KRABBY,       32,  352 ; PAMPODOUR_S
 	mon_cry CRY_KRABBY,      238,  352 ; PAMPOOCH_P
 	mon_cry CRY_VOLTORB,     237,  256 ; PAMPODOUR_P
-	mon_cry CRY_VOLTORB,     168,  272 ; ELECTRODE
-	mon_cry CRY_DIGLETT,       0,  256 ; PAMPOOCH-SILK
-	mon_cry CRY_DROWZEE,       0,  256 ; EXEGGUTOR
-	mon_cry CRY_CLEFAIRY,      0,  256 ; PAMPOOCH-PUFF
-	mon_cry CRY_ODDISH,       79,  224 ; MAROWAK
-	mon_cry CRY_GOLEM,       128,  320 ; HITMONLEE
-	mon_cry CRY_SEEL,        238,  320 ; HITMONCHAN
-	mon_cry CRY_SEEL,          0,  256 ; LICKITUNG
+	mon_cry CRY_VOLTORB,     168,  272 ; PAMPOOCH-T
+	mon_cry CRY_DIGLETT,       0,  256 ; PAMPODOUR-T
+	mon_cry CRY_DROWZEE,       0,  256 ; TUTSWEET
+	mon_cry CRY_CLEFAIRY,      0,  256 ; TUTUFRUTTI
+	mon_cry CRY_ODDISH,       79,  224 ; SCRUMSHEF
+	mon_cry CRY_GOLEM,       128,  320 ; SOUSFLE
+	mon_cry CRY_SEEL,        238,  320 ; APASHEE
+	mon_cry CRY_SEEL,          0,  256 ; COMMANSHEE
 	mon_cry CRY_GOLEM,       230,  349 ; KOFFING
 	mon_cry CRY_GOLEM,       255,  383 ; WEEZING
 	mon_cry CRY_CHARMANDER,    0,  256 ; RHYHORN

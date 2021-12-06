@@ -1602,20 +1602,20 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 23, TANGELA
-	db 22, LICKITUNG
+	db 22, COMMANSHEE
 	db 22, SLIVERFISH
 	db 24, REDDOT
-	db 24, LICKITUNG
-	db 26, LICKITUNG
-	db 26, LICKITUNG
+	db 24, COMMANSHEE
+	db 26, COMMANSHEE
+	db 26, COMMANSHEE
 	; day
 	db 23, TANGELA
-	db 22, LICKITUNG
+	db 22, COMMANSHEE
 	db 22, SLIVERFISH
 	db 24, REDDOT
-	db 24, LICKITUNG
-	db 26, LICKITUNG
-	db 26, LICKITUNG
+	db 24, COMMANSHEE
+	db 26, COMMANSHEE
+	db 26, COMMANSHEE
 	; nite
 	db 23, TANGELA
 	db 22, SINISTAR
@@ -1729,13 +1729,13 @@ JohtoGrassWildMons:
 	db 7, MARBLOCK
 	db 7, CHANSEY
 	; nite
-	db 10, ANTENNIAN
-	db 10, ANTENNIAN
-	db 10, DAEMOON
-	db 10, HEMOGOBLIN
-	db 10, PLATYRUS
-	db 10, KAIYAK
-	db 10, UNOWN
+	db 1, ROCKADE
+	db 1, ROCKADE
+	db 1, ROCKADE
+	db 1, ROCKADE
+	db 1, ROCKADE
+	db 1, KAIYAK
+	db 1, FLARIBOU
 	end_grass_wildmons
 
 	db -1 ; end

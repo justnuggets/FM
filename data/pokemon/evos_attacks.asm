@@ -20,23 +20,24 @@ INCLUDE "data/pokemon/evos_attacks_pointers.asm"
 SubminoEvosAttacks:
 	db EVOLVE_LEVEL, 20, SUBZILLA 
 	db 0 ; no more evolutions
+	db 1, PROTECT
 	db 1, SUBSTITUTE
-	db 4, METRONOME
+	db 1, METRONOME
 	db 0 ; no more level-up moves
 
 SubzillaEvosAttacks:
 	db EVOLVE_LEVEL, 32, SUBZILANTE
 	db 0 ; no more evolutions
+	db 1, PROTECT
 	db 1, SUBSTITUTE
 	db 1, METRONOME
-	db 1, TACKLE
-	db 4, MINIMIZE
 	db 0 ; no more level-up moves
 
 SubzilanteEvosAttacks:
 	db 0 ; no more evolutions
-	db 1,  SUBSTITUTE
-	db 1,  METRONOME
+	db 1, PROTECT
+	db 1, SUBSTITUTE
+	db 1, METRONOME
 	db 1,  TACKLE
 	db 4,  MINIMIZE
 	db 10, BODY_SLAM
@@ -565,10 +566,11 @@ CauldegarEvosAttacks:
 RockadeEvosAttacks:
 	db EVOLVE_LEVEL, 28, BARROCK
 	db 0 ; no more evolutions
-	db 1, ROCK_THROW
-	db 1, TACKLE
-	db 1, SAND_ATTACK
-	db 1, ENDURE
+	db 1, EXPLOSION
+	db 2, ROCK_THROW
+	db 2, TACKLE
+	db 2, SAND_ATTACK
+	db 2, ENDURE
 	db 0 ; no more level-up moves
 
 BarrockEvosAttacks:
@@ -656,6 +658,7 @@ AntennianEvosAttacks:
 	db 1, THUNDERSHOCK
 	db 1, SLEEP_POWDER
 	db 1, STUN_SPORE
+	db 1, DISABLE
 	db 0 ; no more level-up moves
 
 OkapsiEvosAttacks:
@@ -868,34 +871,59 @@ PampodourTEvosAttacks:
 	db 1, TAIL_WHIP
 	db 0 ; no more level-up moves
 
-ExeggutorEvosAttacks:
+TutsweetEvosAttacks:
+	db EVOLVE_HAPPINESS, TR_NITE, TUTUFRUTTI
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, POUND
+	db 1, DOUBLESLAP
+	db 1, SING
+	db 1, RAPID_SPIN
 	db 0 ; no more level-up moves
 
-ElectrodeEvosAttacks:
+TutufruttiEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, POUND
+	db 1, DOUBLESLAP
+	db 1, SING
+	db 1, RAPID_SPIN
+	db 1, PERISH_SONG
+	db 1, RECOVER
 	db 0 ; no more level-up moves
 
-MarowakEvosAttacks:
+ScrumshefEvosAttacks:
+	db EVOLVE_HAPPINESS, TR_MORNDAY, SOUSFLE
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BELLY_DRUM
+	db 1, BODY_SLAM
+	db 1, POUND
+	db 1, DOUBLESLAP
+	db 1, RECOVER
 	db 0 ; no more level-up moves
 
-HitmonleeEvosAttacks:
+SousfleEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BELLY_DRUM
+	db 1, BODY_SLAM
+	db 1, POUND
+	db 1, DOUBLESLAP
+	db 1, RECOVER
 	db 0 ; no more level-up moves
 
-HitmonchanEvosAttacks:
+ApasheeEvosAttacks:
+	db EVOLVE_LEVEL, 40, COMMANSHEE
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, WING_ATTACK
+	db 1, STEEL_WING
+	db 1, AGILITY
+	db 1, SWIFT
 	db 0 ; no more level-up moves
 
-LickitungEvosAttacks:
+CommansheeEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, WING_ATTACK
+	db 1, STEEL_WING
+	db 1, AGILITY
+	db 1, SWIFT
 	db 0 ; no more level-up moves
 
 DittoEvosAttacks:
@@ -906,7 +934,7 @@ DittoEvosAttacks:
 
 WeezingEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, PROTECT
 	db 0 ; no more level-up moves
 
 RhyhornEvosAttacks:
@@ -1573,8 +1601,8 @@ SmeargleEvosAttacks:
 	db 0 ; no more level-up moves
 
 TyrogueEvosAttacks:
-	db EVOLVE_STAT, 20, ATK_LT_DEF, HITMONCHAN
-	db EVOLVE_STAT, 20, ATK_GT_DEF, HITMONLEE
+	db EVOLVE_STAT, 20, ATK_LT_DEF, APASHEE
+	db EVOLVE_STAT, 20, ATK_GT_DEF, SOUSFLE
 	db EVOLVE_STAT, 20, ATK_EQ_DEF, HITMONTOP
 	db 0 ; no more evolutions
 	db 1, TACKLE

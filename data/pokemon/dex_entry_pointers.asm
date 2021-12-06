@@ -103,12 +103,12 @@ PokedexDataPointerTable:
 	dw PampodourPPokedexEntry
 	dw PampoochTPokedexEntry
 	dw PampodourTPokedexEntry
-	dw ExeggutorPokedexEntry
-	dw ElectrodePokedexEntry
-	dw MarowakPokedexEntry
-	dw HitmonleePokedexEntry
-	dw HitmonchanPokedexEntry
-	dw LickitungPokedexEntry
+	dw TutsweetPokedexEntry
+	dw TutufruttiPokedexEntry
+	dw ScrumshefPokedexEntry
+	dw SousflePokedexEntry
+	dw ApasheePokedexEntry
+	dw CommansheePokedexEntry
 	dw DittoPokedexEntry
 	dw WeezingPokedexEntry
 	dw RhyhornPokedexEntry

@@ -102,12 +102,12 @@ AnimationPointers:
 	dw PampodourPAnimation
 	dw PampoochTAnimation 
 	dw PampodourTAnimation
-	dw ExeggutorAnimation
-	dw ElectrodeAnimation
-	dw MarowakAnimation
-	dw HitmonleeAnimation
-	dw HitmonchanAnimation
-	dw LickitungAnimation
+	dw TutsweetAnimation
+	dw TutufruttiAnimation
+	dw ScrumshefAnimation
+	dw SousfleAnimation
+	dw ApasheeAnimation
+	dw CommansheeAnimation
 	dw DittoAnimation
 	dw WeezingAnimation
 	dw RhyhornAnimation

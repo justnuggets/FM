@@ -104,12 +104,12 @@ NewPokedexOrder:
 	db PAMPODOUR_P    
 	db PAMPOOCH_T
 	db PAMPODOUR_T
-	db EXEGGUTOR  
-	db ELECTRODE
-	db MAROWAK    
-	db HITMONLEE  
-	db HITMONCHAN 
-	db LICKITUNG  
+	db TUTSWEET  
+	db TUTUFRUTTI
+	db SCRUMSHEF    
+	db SOUSFLE  
+	db APASHEE 
+	db COMMANSHEE  
 	db DITTO    ; 6d
 	db WEEZING    
 	db RHYHORN    
