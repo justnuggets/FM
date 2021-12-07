@@ -109,20 +109,20 @@ AnimationIdlePointers:
 	dw ApasheeAnimationIdle
 	dw CommansheeAnimationIdle
 	dw DittoAnimationIdle
-	dw WeezingAnimationIdle
-	dw RhyhornAnimationIdle
-	dw RhydonAnimationIdle
-	dw ChanseyAnimationIdle
-	dw TangelaAnimationIdle
-	dw KangaskhanAnimationIdle
-	dw HorseaAnimationIdle
-	dw SeadraAnimationIdle
-	dw GoldeenAnimationIdle
-	dw SeakingAnimationIdle
-	dw StaryuAnimationIdle
-	dw StarmieAnimationIdle
-	dw MrMimeAnimationIdle
-	dw ScytherAnimationIdle
+	dw ConstaboldAnimationIdle
+	dw TarotisAnimationIdle
+	dw OrchantisAnimationIdle
+	dw HocupocusAnimationIdle
+	dw PresticianAnimationIdle
+	dw DoracleAnimationIdle
+	dw DelphoraAnimationIdle
+	dw XsailerateAnimationIdle
+	dw DiviperAnimationIdle
+	dw SnorcobraAnimationIdle
+	dw EspungeAnimationIdle
+	dw ZiggrathAnimationIdle
+	dw CanvalogAnimationIdle
+	dw PlasmanianAnimationIdle
 	dw JynxAnimationIdle
 	dw ElectabuzzAnimationIdle
 	dw MagmarAnimationIdle

@@ -109,20 +109,20 @@ AnimationPointers:
 	dw ApasheeAnimation
 	dw CommansheeAnimation
 	dw DittoAnimation
-	dw WeezingAnimation
-	dw RhyhornAnimation
-	dw RhydonAnimation
-	dw ChanseyAnimation
-	dw TangelaAnimation
-	dw KangaskhanAnimation
-	dw HorseaAnimation
-	dw SeadraAnimation
-	dw GoldeenAnimation
-	dw SeakingAnimation
-	dw StaryuAnimation
-	dw StarmieAnimation
-	dw MrMimeAnimation
-	dw ScytherAnimation
+	dw ConstaboldAnimation
+	dw TarotisAnimation
+	dw OrchantisAnimation
+	dw HocupocusAnimation
+	dw PresticianAnimation
+	dw DoracleAnimation
+	dw DelphoraAnimation
+	dw XsailerateAnimation
+	dw DiviperAnimation
+	dw SnorcobraAnimation
+	dw EspungeAnimation
+	dw ZiggrathAnimation
+	dw CanvalogAnimation
+	dw PlasmanianAnimation
 	dw JynxAnimation
 	dw ElectabuzzAnimation
 	dw MagmarAnimation

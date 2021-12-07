@@ -4,9 +4,9 @@ KantoWaterWildMons:
 
 	def_water_wildmons TOHJO_FALLS
 	db 4 percent ; encounter rate
-	db 20, GOLDEEN
+	db 20, DIVIPER
 	db 20, TELEKAPI
-	db 20, SEAKING
+	db 20, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons VERMILION_PORT
@@ -18,9 +18,9 @@ KantoWaterWildMons:
 
 	def_water_wildmons ROUTE_4
 	db 4 percent ; encounter rate
-	db 10, GOLDEEN
-	db 5, GOLDEEN
-	db 10, SEAKING
+	db 10, DIVIPER
+	db 5, DIVIPER
+	db 10, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_6
@@ -32,16 +32,16 @@ KantoWaterWildMons:
 
 	def_water_wildmons ROUTE_9
 	db 4 percent ; encounter rate
-	db 15, GOLDEEN
-	db 10, GOLDEEN
-	db 15, SEAKING
+	db 15, DIVIPER
+	db 10, DIVIPER
+	db 15, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_10_NORTH
 	db 4 percent ; encounter rate
-	db 15, GOLDEEN
-	db 10, GOLDEEN
-	db 15, SEAKING
+	db 15, DIVIPER
+	db 10, DIVIPER
+	db 15, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_12
@@ -88,16 +88,16 @@ KantoWaterWildMons:
 
 	def_water_wildmons ROUTE_24
 	db 4 percent ; encounter rate
-	db 10, GOLDEEN
-	db 5, GOLDEEN
-	db 10, SEAKING
+	db 10, DIVIPER
+	db 5, DIVIPER
+	db 10, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_25
 	db 4 percent ; encounter rate
-	db 10, GOLDEEN
-	db 5, GOLDEEN
-	db 10, SEAKING
+	db 10, DIVIPER
+	db 5, DIVIPER
+	db 10, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_26
@@ -137,9 +137,9 @@ KantoWaterWildMons:
 
 	def_water_wildmons CERULEAN_CITY
 	db 4 percent ; encounter rate
-	db 10, GOLDEEN
-	db 5, GOLDEEN
-	db 10, SEAKING
+	db 10, DIVIPER
+	db 5, DIVIPER
+	db 10, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons VERMILION_CITY

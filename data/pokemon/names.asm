@@ -113,7 +113,7 @@ PokemonNames::
 	db "TAROTIS@@@"
 	db "ORCHANTIS@"
 	db "HOCUPOCUS@"
-	db "ZIMZALABIM"
+	db "PRESTICIAN"
 	db "DORACLE@@@"
 	db "DELPHORA@@"
 	db "XSAILERATE"

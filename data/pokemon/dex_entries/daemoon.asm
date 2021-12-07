@@ -7,4 +7,4 @@
 
 	page "Its true form is"
 	next "said to be rather"
-	next "horrific!@"
+	next "horrendous!@"

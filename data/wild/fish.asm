@@ -57,17 +57,17 @@ FishGroups:
 .Lake_Old:
 	db  70 percent + 1, MAGIKARP,   10
 	db  85 percent + 1, MAGIKARP,   10
-	db 100 percent,     GOLDEEN,    10
+	db 100 percent,     DIVIPER,    10
 .Lake_Good:
 	db  35 percent,     MAGIKARP,   20
-	db  70 percent,     GOLDEEN,    20
-	db  90 percent + 1, GOLDEEN,    20
+	db  70 percent,     DIVIPER,    20
+	db  90 percent + 1, DIVIPER,    20
 	db 100 percent,     time_group 4
 .Lake_Super:
-	db  40 percent,     GOLDEEN,    40
+	db  40 percent,     DIVIPER,    40
 	db  70 percent,     time_group 5
 	db  90 percent + 1, MAGIKARP,   40
-	db 100 percent,     SEAKING,    40
+	db 100 percent,     SNORCOBRA,    40
 
 .Pond_Old:
 	db  70 percent + 1, MAGIKARP,   10
@@ -172,7 +172,7 @@ FishGroups:
 	db  40 percent,     PAMPODOUR_S,     40
 	db  70 percent,     time_group 19
 	db  90 percent + 1, PAMPOOCH_P,    40
-	db 100 percent,     SEADRA,     40
+	db 100 percent,     XSAILERATE,     40
 
 .Qwilfish_NoSwarm_Old:
 .Qwilfish_Old:
@@ -209,12 +209,12 @@ FishGroups:
 
 TimeFishGroups:
 	;  day              nite
-	db CORSOLA,    20,  STARYU,     20 ; 0
-	db CORSOLA,    40,  STARYU,     40 ; 1
+	db CORSOLA,    20,  ESPUNGE,     20 ; 0
+	db CORSOLA,    40,  ESPUNGE,     40 ; 1
 	db PESCALDO,   20,  PESCALDO,   20 ; 2
 	db PESCALDO,   40,  PESCALDO,   40 ; 3
-	db GOLDEEN,    20,  GOLDEEN,    20 ; 4
-	db GOLDEEN,    40,  GOLDEEN,    40 ; 5
+	db DIVIPER,    20,  DIVIPER,    20 ; 4
+	db DIVIPER,    40,  DIVIPER,    40 ; 5
 	db SINISTAR,    20,  SINISTAR,    20 ; 6
 	db SINISTAR,    40,  SINISTAR,    40 ; 7
 	db DRATINI,    20,  DRATINI,    20 ; 8
@@ -227,7 +227,7 @@ TimeFishGroups:
 	db GYARADOS,   40,  GYARADOS,   40 ; 15
 	db DRATINI,    10,  DRATINI,    10 ; 16
 	db DRATINI,    10,  DRATINI,    10 ; 17
-	db HORSEA,     20,  HORSEA,     20 ; 18
-	db HORSEA,     40,  HORSEA,     40 ; 19
+	db DELPHORA,     20,  DELPHORA,     20 ; 18
+	db DELPHORA,     40,  DELPHORA,     40 ; 19
 	db IMPAN,  20,  IMPAN,  20 ; 20
 	db IMPAN,  40,  IMPAN,  40 ; 21

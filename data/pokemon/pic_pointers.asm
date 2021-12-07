@@ -221,34 +221,34 @@ PokemonPicPointers::
 	dba_pic CommansheeBackpic
 	dba_pic DittoFrontpic
 	dba_pic DittoBackpic
-	dba_pic WeezingFrontpic
-	dba_pic WeezingBackpic
-	dba_pic RhyhornFrontpic
-	dba_pic RhyhornBackpic
-	dba_pic RhydonFrontpic
-	dba_pic RhydonBackpic
-	dba_pic ChanseyFrontpic
-	dba_pic ChanseyBackpic
-	dba_pic TangelaFrontpic
-	dba_pic TangelaBackpic
-	dba_pic KangaskhanFrontpic
-	dba_pic KangaskhanBackpic
-	dba_pic HorseaFrontpic
-	dba_pic HorseaBackpic
-	dba_pic SeadraFrontpic
-	dba_pic SeadraBackpic
-	dba_pic GoldeenFrontpic
-	dba_pic GoldeenBackpic
-	dba_pic SeakingFrontpic
-	dba_pic SeakingBackpic
-	dba_pic StaryuFrontpic
-	dba_pic StaryuBackpic
-	dba_pic StarmieFrontpic
-	dba_pic StarmieBackpic
-	dba_pic MrMimeFrontpic
-	dba_pic MrMimeBackpic
-	dba_pic ScytherFrontpic
-	dba_pic ScytherBackpic
+	dba_pic ConstaboldFrontpic
+	dba_pic ConstaboldBackpic
+	dba_pic TarotisFrontpic
+	dba_pic TarotisBackpic
+	dba_pic OrchantisFrontpic
+	dba_pic OrchantisBackpic
+	dba_pic HocupocusFrontpic
+	dba_pic HocupocusBackpic
+	dba_pic PresticianFrontpic
+	dba_pic PresticianBackpic
+	dba_pic DoracleFrontpic
+	dba_pic DoracleBackpic
+	dba_pic DelphoraFrontpic
+	dba_pic DelphoraBackpic
+	dba_pic XsailerateFrontpic
+	dba_pic XsailerateBackpic
+	dba_pic DiviperFrontpic
+	dba_pic DiviperBackpic
+	dba_pic SnorcobraFrontpic
+	dba_pic SnorcobraBackpic
+	dba_pic EspungeFrontpic
+	dba_pic EspungeBackpic
+	dba_pic ZiggrathFrontpic
+	dba_pic ZiggrathBackpic
+	dba_pic CanvalogFrontpic
+	dba_pic CanvalogBackpic
+	dba_pic PlasmanianFrontpic
+	dba_pic PlasmanianBackpic
 	dba_pic JynxFrontpic
 	dba_pic JynxBackpic
 	dba_pic ElectabuzzFrontpic

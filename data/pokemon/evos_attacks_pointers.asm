@@ -111,20 +111,20 @@ EvosAttacksPointers::
 	dw ApasheeEvosAttacks
 	dw CommansheeEvosAttacks
 	dw DittoEvosAttacks
-	dw WeezingEvosAttacks
-	dw RhyhornEvosAttacks
-	dw RhydonEvosAttacks
-	dw ChanseyEvosAttacks
-	dw TangelaEvosAttacks
-	dw KangaskhanEvosAttacks
-	dw HorseaEvosAttacks
-	dw SeadraEvosAttacks
-	dw GoldeenEvosAttacks
-	dw SeakingEvosAttacks
-	dw StaryuEvosAttacks
-	dw StarmieEvosAttacks
-	dw MrMimeEvosAttacks
-	dw ScytherEvosAttacks
+	dw ConstaboldEvosAttacks
+	dw TarotisEvosAttacks
+	dw OrchantisEvosAttacks
+	dw HocupocusEvosAttacks
+	dw PresticianEvosAttacks
+	dw DoracleEvosAttacks
+	dw DelphoraEvosAttacks
+	dw XsailerateEvosAttacks
+	dw DiviperEvosAttacks
+	dw SnorcobraEvosAttacks
+	dw EspungeEvosAttacks
+	dw ZiggrathEvosAttacks
+	dw CanvalogEvosAttacks
+	dw PlasmanianEvosAttacks
 	dw JynxEvosAttacks
 	dw ElectabuzzEvosAttacks
 	dw MagmarEvosAttacks

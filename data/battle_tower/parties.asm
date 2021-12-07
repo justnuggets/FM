@@ -108,7 +108,7 @@ BattleTowerMons:
 	bigdw 23 ; SDef
 	db "SO-NANSU@@@"
 
-	db KANGASKHAN
+	db DORACLE
 	db MIRACLEBERRY
 	db REVERSAL, HYPER_BEAM, EARTHQUAKE, ATTRACT
 	dw 0 ; OT ID
@@ -524,7 +524,7 @@ BattleTowerMons:
 	bigdw 24 ; SDef
 	db "KENTAROSU@@"
 
-	db MR__MIME
+	db CANVALOG
 	db QUICK_CLAW
 	db TOXIC, PSYCH_UP, FIRE_PUNCH, HEADBUTT
 	dw 0 ; OT ID
@@ -579,7 +579,7 @@ BattleTowerMons:
 	bigdw 72 ; SDef
 	db "BURAtuKI-@@"
 
-	db STARMIE
+	db ZIGGRATH
 	db GOLD_BERRY
 	db RECOVER, PSYCHIC_M, SURF, PSYCH_UP
 	dw 0 ; OT ID
@@ -1154,7 +1154,7 @@ BattleTowerMons:
 	bigdw 82 ; SDef
 	db "NIyoROBON@@"
 
-	db STARMIE
+	db ZIGGRATH
 	db LEFTOVERS
 	db THUNDER_WAVE, PSYCHIC_M, RECOVER, SURF
 	dw 0 ; OT ID
@@ -1807,7 +1807,7 @@ BattleTowerMons:
 	bigdw 107 ; SDef
 	db "HU-DEiN@@@@"
 
-	db STARMIE
+	db ZIGGRATH
 	db LEFTOVERS
 	db BLIZZARD, THUNDERBOLT, SURF, PSYCHIC_M
 	dw 0 ; OT ID
@@ -2434,7 +2434,7 @@ BattleTowerMons:
 	bigdw 128 ; SDef
 	db "KAIRIKI-@@@"
 
-	db STARMIE
+	db ZIGGRATH
 	db SCOPE_LENS
 	db THUNDER_WAVE, RECOVER, THUNDERBOLT, SURF
 	dw 0 ; OT ID
@@ -3191,7 +3191,7 @@ BattleTowerMons:
 	bigdw 180 ; SDef
 	db "KAMEtuKUSU@"
 
-	db RHYDON
+	db ORCHANTIS
 	db QUICK_CLAW
 	db EARTHQUAKE, SURF, IRON_TAIL, ROCK_SLIDE
 	dw 0 ; OT ID
@@ -3636,7 +3636,7 @@ BattleTowerMons:
 	bigdw 166 ; SDef
 	db "RINGUMA@@@@"
 
-	db MR__MIME
+	db CANVALOG
 	db KINGS_ROCK
 	db REFLECT, FIRE_PUNCH, PSYCHIC_M, ENCORE
 	dw 0 ; OT ID
@@ -4448,7 +4448,7 @@ BattleTowerMons:
 	bigdw 263 ; SDef
 	db "KAIRIyu-@@@"
 
-	db STARMIE
+	db ZIGGRATH
 	db LEFTOVERS
 	db RECOVER, THUNDERBOLT, SURF, PSYCHIC_M
 	dw 0 ; OT ID
@@ -5153,7 +5153,7 @@ BattleTowerMons:
 	bigdw 248 ; SDef
 	db "MARUMAIN@@@"
 
-	db RHYDON
+	db ORCHANTIS
 	db MIRACLEBERRY
 	db SURF, EARTHQUAKE, HYPER_BEAM, ROCK_SLIDE
 	dw 0 ; OT ID

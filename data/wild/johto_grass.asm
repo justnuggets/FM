@@ -319,7 +319,7 @@ JohtoGrassWildMons:
 	db 15, REPVIAL
 	db 12, KOFFING
 	db 16, KOFFING
-	db 16, WEEZING
+	db 16, CONSTABOLD
 	; day
 	db 14, HOPSTOT
 	db 14, KOFFING
@@ -327,7 +327,7 @@ JohtoGrassWildMons:
 	db 15, REPVIAL
 	db 12, KOFFING
 	db 16, KOFFING
-	db 16, WEEZING
+	db 16, CONSTABOLD
 	; nite
 	db 14, HOPSTOT
 	db 14, KOFFING
@@ -335,7 +335,7 @@ JohtoGrassWildMons:
 	db 15, REPVIAL
 	db 12, KOFFING
 	db 16, KOFFING
-	db 16, WEEZING
+	db 16, CONSTABOLD
 	end_grass_wildmons
 
 	def_grass_wildmons NATIONAL_PARK
@@ -1601,7 +1601,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_44
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 23, TANGELA
+	db 23, PRESTICIAN
 	db 22, COMMANSHEE
 	db 22, SLIVERFISH
 	db 24, REDDOT
@@ -1609,7 +1609,7 @@ JohtoGrassWildMons:
 	db 26, COMMANSHEE
 	db 26, COMMANSHEE
 	; day
-	db 23, TANGELA
+	db 23, PRESTICIAN
 	db 22, COMMANSHEE
 	db 22, SLIVERFISH
 	db 24, REDDOT
@@ -1617,7 +1617,7 @@ JohtoGrassWildMons:
 	db 26, COMMANSHEE
 	db 26, COMMANSHEE
 	; nite
-	db 23, TANGELA
+	db 23, PRESTICIAN
 	db 22, SINISTAR
 	db 22, SLIVERFISH
 	db 24, REDDOT
@@ -1685,7 +1685,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons SILVER_CAVE_OUTSIDE
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 41, TANGELA
+	db 41, PRESTICIAN
 	db 42, ANTENNIAN
 	db 42, HAILOTH
 	db 44, OKAPSI
@@ -1693,7 +1693,7 @@ JohtoGrassWildMons:
 	db 43, SEARLING
 	db 43, SEARLING
 	; day
-	db 41, TANGELA
+	db 41, PRESTICIAN
 	db 42, ANTENNIAN
 	db 42, HAILOTH
 	db 44, OKAPSI
@@ -1701,7 +1701,7 @@ JohtoGrassWildMons:
 	db 43, SEARLING
 	db 43, SEARLING
 	; nite
-	db 41, TANGELA
+	db 41, PRESTICIAN
 	db 42, DRONNEL
 	db 42, KOMODOSE
 	db 44, DRONNEL
@@ -1727,7 +1727,7 @@ JohtoGrassWildMons:
     db 7, HAILOTH
 	db 7, MARBLOCK
 	db 7, MARBLOCK
-	db 7, CHANSEY
+	db 7, HOCUPOCUS
 	; nite
 	db 1, ROCKADE
 	db 1, ROCKADE

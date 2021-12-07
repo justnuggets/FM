@@ -115,33 +115,33 @@
 	const STRAWRBLE  ; 5e
 	const STRAWMERRI ; 5f
 	const STRAWMENAD ; 60
-	const PAMPOOCH_S ; 61 NIDORAN_F
+	const PAMPOOCH_S  ; 61 
 	const PAMPODOUR_S ; 62
-	const PAMPOOCH_P ; 63
+	const PAMPOOCH_P  ; 63
 	const PAMPODOUR_P ; 64
-	const PAMPOOCH_T  ; 65 PAMPOOCH_T
-	const PAMPODOUR_T      ; 66  
-	const TUTSWEET  ; 67
-	const TUTUFRUTTI  ; 68
-	const SCRUMSHEF    ; 69
-	const SOUSFLE  ; 6a
-	const APASHEE ; 6b
-	const COMMANSHEE  ; 6c
-	const DITTO     ; 6d
-	const WEEZING    ; 6e
-	const RHYHORN    ; 6f
-	const RHYDON     ; 70
-	const CHANSEY    ; 71
-	const TANGELA    ; 72
-	const KANGASKHAN ; 73
-	const HORSEA     ; 74
-	const SEADRA     ; 75
-	const GOLDEEN    ; 76
-	const SEAKING    ; 77
-	const STARYU     ; 78
-	const STARMIE    ; 79
-	const MR__MIME   ; 7a
-	const SCYTHER    ; 7b
+	const PAMPOOCH_T  ; 65 
+	const PAMPODOUR_T ; 66  
+	const TUTSWEET   ; 67
+	const TUTUFRUTTI ; 68
+	const SCRUMSHEF  ; 69
+	const SOUSFLE    ; 6a
+	const APASHEE    ; 6b
+	const COMMANSHEE ; 6c
+	const DITTO      ; 6d
+	const CONSTABOLD ; 6e
+	const TAROTIS    ; 6f
+	const ORCHANTIS  ; 70
+	const HOCUPOCUS  ; 71
+	const PRESTICIAN ; 72
+	const DORACLE    ; 73
+	const DELPHORA   ; 74
+	const XSAILERATE ; 75
+	const DIVIPER    ; 76
+	const SNORCOBRA    ; 77
+	const ESPUNGE     ; 78
+	const ZIGGRATH    ; 79
+	const CANVALOG   ; 7a
+	const PLASMANIAN    ; 7b
 	const JYNX       ; 7c
 	const ELECTABUZZ ; 7d
 	const MAGMAR     ; 7e
@@ -150,7 +150,7 @@
 	const MAGIKARP   ; 81
 	const GYARADOS   ; 82
 	const LAPRAS     ; 83
-	const KOFFING     ; 84
+	const KOFFING    ; 84
 	const EEVEE      ; 85
 	const VAPOREON   ; 86
 	const JOLTEON    ; 87

@@ -109,20 +109,20 @@ BitmasksPointers:
 	dw ApasheeBitmasks
 	dw CommansheeBitmasks
 	dw DittoBitmasks
-	dw WeezingBitmasks
-	dw RhyhornBitmasks
-	dw RhydonBitmasks
-	dw ChanseyBitmasks
-	dw TangelaBitmasks
-	dw KangaskhanBitmasks
-	dw HorseaBitmasks
-	dw SeadraBitmasks
-	dw GoldeenBitmasks
-	dw SeakingBitmasks
-	dw StaryuBitmasks
-	dw StarmieBitmasks
-	dw MrMimeBitmasks
-	dw ScytherBitmasks
+	dw ConstaboldBitmasks
+	dw TarotisBitmasks
+	dw OrchantisBitmasks
+	dw HocupocusBitmasks
+	dw PresticianBitmasks
+	dw DoracleBitmasks
+	dw DelphoraBitmasks
+	dw XsailerateBitmasks
+	dw DiviperBitmasks
+	dw SnorcobraBitmasks
+	dw EspungeBitmasks
+	dw ZiggrathBitmasks
+	dw CanvalogBitmasks
+	dw PlasmanianBitmasks
 	dw JynxBitmasks
 	dw ElectabuzzBitmasks
 	dw MagmarBitmasks

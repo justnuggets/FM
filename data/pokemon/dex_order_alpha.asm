@@ -22,7 +22,7 @@ AlphabeticalPokedexOrder:
 	db SUBZILLA
 	db HIPPOUR
 	db CELEBI
-	db CHANSEY
+	db HOCUPOCUS
 	db HAERAZOR
 	db GRASSNIP
 	db LOPSOIL
@@ -73,7 +73,7 @@ AlphabeticalPokedexOrder:
 	db GLIGAR
 	db ENVOIL
 	db KOMODOSE
-	db GOLDEEN
+	db DIVIPER
 	db JABAROO
 	db BOMBARDLE
 	db GRANBULL
@@ -89,7 +89,7 @@ AlphabeticalPokedexOrder:
 	db HO_OH
 	db HOOTHOOT
 	db HOPPIP
-	db HORSEA
+	db DELPHORA
 	db HOUNDOOM
 	db HOUNDOUR
 	db PAMPODOUR_T
@@ -103,7 +103,7 @@ AlphabeticalPokedexOrder:
 	db KABUTOPS
 	db TERRAGER
 	db GUINAPI
-	db KANGASKHAN
+	db DORACLE
 	db KINGDRA
 	db PAMPOOCH_P
 	db KOFFING
@@ -137,7 +137,7 @@ AlphabeticalPokedexOrder:
 	db MILTANK
 	db MISDREAVUS
 	db MOLTRES
-	db MR__MIME
+	db CANVALOG
 	db CRESCALDO
 	db MURKROW
 	db NATU
@@ -185,14 +185,14 @@ AlphabeticalPokedexOrder:
 	db LOCUTS
 	db HOPSTOT
 	db REMORAID
-	db RHYDON
-	db RHYHORN
+	db ORCHANTIS
+	db TAROTIS
 	db FOWLLET
 	db FLOCKSHOT
 	db SCIZOR
-	db SCYTHER
-	db SEADRA
-	db SEAKING
+	db PLASMANIAN
+	db XSAILERATE
+	db SNORCOBRA
 	db FLARIBOU
 	db SENTRET
 	db PESCALDO
@@ -212,15 +212,15 @@ AlphabeticalPokedexOrder:
 	db SPINARAK
 	db CUBBURN
 	db STANTLER
-	db STARMIE
-	db STARYU
+	db ZIGGRATH
+	db ESPUNGE
 	db STEELIX
 	db SUDOWOODO
 	db SUICUNE
 	db SUNFLORA
 	db SUNKERN
 	db SWINUB
-	db TANGELA
+	db PRESTICIAN
 	db TAUROS
 	db TEDDIURSA
 	db IMPAN
@@ -245,7 +245,7 @@ AlphabeticalPokedexOrder:
 	db COALDIAK
 	db HAMSEL
 	db REDDOT
-	db WEEZING
+	db CONSTABOLD
 	db HISZARD
 	db WOBBUFFET
 	db WOOPER

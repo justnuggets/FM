@@ -1,10 +1,10 @@
 	db "WHISKER@" ; species name
-	dw 307, 440 ; height, weight
+	dw 307, 640 ; height, weight
 
-	db   "It is said to live"
-	next "a thousand years,"
-	next "and each of its"
+	db   "Speedy climbers,"
+	next "they run along,"
+	next "branches, roofs,"
 
-	page "tails is loaded"
-	next "with supernatural"
-	next "powers.@"
+	page "and even power-"
+	next "lines with per-"
+	next "fect balance.@"

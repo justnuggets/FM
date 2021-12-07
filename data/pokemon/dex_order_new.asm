@@ -111,20 +111,20 @@ NewPokedexOrder:
 	db APASHEE 
 	db COMMANSHEE  
 	db DITTO    ; 6d
-	db WEEZING    
-	db RHYHORN    
-	db RHYDON     
-	db CHANSEY
-	db TANGELA 
-	db KANGASKHAN
-	db HORSEA 
-	db SEADRA
-	db GOLDEEN
-	db SEAKING
-	db STARYU
-	db STARMIE 
-	db MR__MIME
-	db SCYTHER 
+	db CONSTABOLD    
+	db TAROTIS    
+	db ORCHANTIS     
+	db HOCUPOCUS
+	db PRESTICIAN 
+	db DORACLE
+	db DELPHORA 
+	db XSAILERATE
+	db DIVIPER
+	db SNORCOBRA
+	db ESPUNGE
+	db ZIGGRATH 
+	db CANVALOG
+	db PLASMANIAN 
 	db JYNX 
 	db ELECTABUZZ
 	db MAGMAR 

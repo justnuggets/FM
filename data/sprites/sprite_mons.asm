@@ -19,7 +19,7 @@ SpriteMons:
 	db ECHLIPSE
 	db GRASSNIP
 	db JYNX
-	db STARMIE
+	db ZIGGRATH
 	db SUBMINO
 	db FELECTRIC
 	db CATYBARA
@@ -30,7 +30,7 @@ SpriteMons:
 	db ROCKADE
 	db PAMPODOUR_P
 	db LAPRAS
-	db RHYDON
+	db ORCHANTIS
 	db MOLTRES
 	db SNORLAX
 	db GYARADOS

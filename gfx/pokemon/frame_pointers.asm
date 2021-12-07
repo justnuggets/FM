@@ -109,20 +109,20 @@ FramesPointers:
 	dw ApasheeFrames
 	dw CommansheeFrames
 	dw DittoFrames
-	dw WeezingFrames
-	dw RhyhornFrames
-	dw RhydonFrames
-	dw ChanseyFrames
-	dw TangelaFrames
-	dw KangaskhanFrames
-	dw HorseaFrames
-	dw SeadraFrames
-	dw GoldeenFrames
-	dw SeakingFrames
-	dw StaryuFrames
-	dw StarmieFrames
-	dw MrMimeFrames
-	dw ScytherFrames
+	dw ConstaboldFrames
+	dw TarotisFrames
+	dw OrchantisFrames
+	dw HocupocusFrames
+	dw PresticianFrames
+	dw DoracleFrames
+	dw DelphoraFrames
+	dw XsailerateFrames
+	dw DiviperFrames
+	dw SnorcobraFrames
+	dw EspungeFrames
+	dw ZiggrathFrames
+	dw CanvalogFrames
+	dw PlasmanianFrames
 	dw JynxFrames
 	dw ElectabuzzFrames
 	dw MagmarFrames

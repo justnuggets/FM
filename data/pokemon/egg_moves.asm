@@ -8,7 +8,7 @@ SECTION "Egg Moves", ROMX
 ; Sweet Scent and Steel Wing were redundant since they're TMs, and
 ; Charm and Lovely Kiss were unobtainable.
 
-; Staryu's egg moves were removed in Crystal, because Staryu is genderless
+; Espunge's egg moves were removed in Crystal, because Espunge is genderless
 ; and can only breed with Ditto.
 
 INCLUDE "data/pokemon/egg_move_pointers.asm"
@@ -327,7 +327,7 @@ CommansheeEggMoves:
 	db BODY_SLAM
 	db -1 ; end
 
-RhyhornEggMoves:
+TarotisEggMoves:
 	db CRUNCH
 	db REVERSAL
 	db ROCK_SLIDE
@@ -337,13 +337,13 @@ RhyhornEggMoves:
 	db MAGNITUDE
 	db -1 ; end
 
-ChanseyEggMoves:
+HocupocusEggMoves:
 	db PRESENT
 	db METRONOME
 	db HEAL_BELL
 	db -1 ; end
 
-TangelaEggMoves:
+PresticianEggMoves:
 	db FLAIL
 	db CONFUSION
 	db MEGA_DRAIN
@@ -351,7 +351,7 @@ TangelaEggMoves:
 	db AMNESIA
 	db -1 ; end
 
-KangaskhanEggMoves:
+DoracleEggMoves:
 	db STOMP
 	db FORESIGHT
 	db FOCUS_ENERGY
@@ -359,7 +359,7 @@ KangaskhanEggMoves:
 	db DISABLE
 	db -1 ; end
 
-HorseaEggMoves:
+DelphoraEggMoves:
 	db FLAIL
 	db AURORA_BEAM
 	db OCTAZOOKA
@@ -368,19 +368,19 @@ HorseaEggMoves:
 	db DRAGON_RAGE
 	db -1 ; end
 
-GoldeenEggMoves:
+DiviperEggMoves:
 	db PSYBEAM
 	db HAZE
 	db HYDRO_PUMP
 	db -1 ; end
 
-MrMimeEggMoves:
+CanvalogEggMoves:
 	db FUTURE_SIGHT
 	db HYPNOSIS
 	db MIMIC
 	db -1 ; end
 
-ScytherEggMoves:
+PlasmanianEggMoves:
 	db COUNTER
 	db SAFEGUARD
 	db BATON_PASS

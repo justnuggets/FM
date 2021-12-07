@@ -94,16 +94,16 @@ KantoGrassWildMons:
 	db 16, STRAWMERRI
 	db 12, REPVIAL
 	db 15, SCRUMSHEF
-	db 15, KANGASKHAN
-	db 15, KANGASKHAN
+	db 15, DORACLE
+	db 15, DORACLE
 	; day
 	db 12, SKARDINE
 	db 14, DAEMOON
 	db 16, STRAWMERRI
 	db 12, REPVIAL
 	db 15, SCRUMSHEF
-	db 15, KANGASKHAN
-	db 15, KANGASKHAN
+	db 15, DORACLE
+	db 15, DORACLE
 	; nite
 	db 12, REPVIAL
 	db 14, DAEMOON
@@ -118,20 +118,20 @@ KantoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 34, SABARINTH
-	db 32, RHYHORN
+	db 32, TAROTIS
 	db 33, STRAWMERRI
 	db 34, KOMODOSE
 	db 35, FLOCKSHOT
-	db 35, RHYDON
-	db 35, RHYDON
+	db 35, ORCHANTIS
+	db 35, ORCHANTIS
 	; day
 	db 34, SABARINTH
-	db 32, RHYHORN
+	db 32, TAROTIS
 	db 33, STRAWMERRI
 	db 34, KOMODOSE
 	db 35, FLOCKSHOT
-	db 35, RHYDON
-	db 35, RHYDON
+	db 35, ORCHANTIS
+	db 35, ORCHANTIS
 	; nite
 	db 34, KOMODOSE
 	db 34, SABARINTH
@@ -487,7 +487,7 @@ KantoGrassWildMons:
 	db 25, HOPPIP
 	db 27, HOPPIP
 	db 27, HOPPIP
-	db 25, CHANSEY
+	db 25, HOCUPOCUS
 	; day
 	db 23, SKARGAROS
 	db 23, LOUSPOUT
@@ -495,7 +495,7 @@ KantoGrassWildMons:
 	db 25, HOPPIP
 	db 27, HOPPIP
 	db 27, HOPPIP
-	db 25, CHANSEY
+	db 25, HOCUPOCUS
 	; nite
 	db 23, INGROVERT
 	db 23, QUAGSIRE
@@ -503,7 +503,7 @@ KantoGrassWildMons:
 	db 25, FRITESHADE
 	db 25, QUAGSIRE
 	db 25, QUAGSIRE
-	db 25, CHANSEY
+	db 25, HOCUPOCUS
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_14
@@ -515,7 +515,7 @@ KantoGrassWildMons:
 	db 28, HOPPIP
 	db 30, SKIPLOOM
 	db 30, SKIPLOOM
-	db 28, CHANSEY
+	db 28, HOCUPOCUS
 	; day
 	db 26, SKARGAROS
 	db 26, LOUSPOUT
@@ -523,7 +523,7 @@ KantoGrassWildMons:
 	db 28, HOPPIP
 	db 30, SKIPLOOM
 	db 30, SKIPLOOM
-	db 28, CHANSEY
+	db 28, HOCUPOCUS
 	; nite
 	db 26, INGROVERT
 	db 26, QUAGSIRE
@@ -531,7 +531,7 @@ KantoGrassWildMons:
 	db 28, FRITESHADE
 	db 28, QUAGSIRE
 	db 28, QUAGSIRE
-	db 28, CHANSEY
+	db 28, HOCUPOCUS
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_15
@@ -543,7 +543,7 @@ KantoGrassWildMons:
 	db 25, HOPPIP
 	db 27, HOPPIP
 	db 27, HOPPIP
-	db 25, CHANSEY
+	db 25, HOCUPOCUS
 	; day
 	db 23, SKARGAROS
 	db 23, LOUSPOUT
@@ -551,7 +551,7 @@ KantoGrassWildMons:
 	db 25, HOPPIP
 	db 27, HOPPIP
 	db 27, HOPPIP
-	db 25, CHANSEY
+	db 25, HOCUPOCUS
 	; nite
 	db 23, INGROVERT
 	db 23, QUAGSIRE
@@ -559,7 +559,7 @@ KantoGrassWildMons:
 	db 25, FRITESHADE
 	db 25, QUAGSIRE
 	db 25, QUAGSIRE
-	db 25, CHANSEY
+	db 25, HOCUPOCUS
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_16
@@ -649,29 +649,29 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_21
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
-	db 30, TANGELA
+	db 30, PRESTICIAN
 	db 25, HOPSTOT
-	db 35, TANGELA
+	db 35, PRESTICIAN
 	db 20, LOCUTS
-	db 30, MR__MIME
-	db 28, MR__MIME
-	db 28, MR__MIME
+	db 30, CANVALOG
+	db 28, CANVALOG
+	db 28, CANVALOG
 	; day
-	db 30, TANGELA
+	db 30, PRESTICIAN
 	db 25, HOPSTOT
-	db 35, TANGELA
+	db 35, PRESTICIAN
 	db 20, LOCUTS
-	db 28, MR__MIME
-	db 30, MR__MIME
-	db 30, MR__MIME
+	db 28, CANVALOG
+	db 30, CANVALOG
+	db 30, CANVALOG
 	; nite
-	db 30, TANGELA
+	db 30, PRESTICIAN
 	db 25, HOPSTOT
-	db 35, TANGELA
+	db 35, PRESTICIAN
 	db 20, LOCUTS
-	db 30, TANGELA
-	db 28, TANGELA
-	db 28, TANGELA
+	db 30, PRESTICIAN
+	db 28, PRESTICIAN
+	db 28, PRESTICIAN
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_22
@@ -817,7 +817,7 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_28
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 39, TANGELA
+	db 39, PRESTICIAN
 	db 40, ANTENNIAN
 	db 40, OKAPSI
 	db 42, HAILOTH
@@ -825,7 +825,7 @@ KantoGrassWildMons:
 	db 43, SEARLING
 	db 43, SEARLING
 	; day
-	db 39, TANGELA
+	db 39, PRESTICIAN
 	db 40, ANTENNIAN
 	db 40, OKAPSI
 	db 42, HAILOTH
@@ -833,7 +833,7 @@ KantoGrassWildMons:
 	db 43, SEARLING
 	db 43, SEARLING
 	; nite
-	db 39, TANGELA
+	db 39, PRESTICIAN
 	db 40, DRONNEL
 	db 40, KOMODOSE
 	db 40, DRONNEL

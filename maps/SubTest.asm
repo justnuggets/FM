@@ -42,7 +42,8 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke CHANSEY, 1, LEFTOVERS
+	givepoke PLASMANIAN, 50
+	givepoke SUBMINO, 5, LEFTOVERS
 
 	closetext
 	end

@@ -53,51 +53,51 @@ JohtoWaterWildMons:
 
 	def_water_wildmons MOUNT_MORTAR_1F_OUTSIDE
 	db 4 percent ; encounter rate
-	db 15, GOLDEEN
+	db 15, DIVIPER
 	db 20, MARILL
-	db 20, SEAKING
+	db 20, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons MOUNT_MORTAR_2F_INSIDE
 	db 2 percent ; encounter rate
-	db 20, GOLDEEN
+	db 20, DIVIPER
 	db 25, MARILL
-	db 25, SEAKING
+	db 25, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons MOUNT_MORTAR_B1F
 	db 2 percent ; encounter rate
-	db 15, GOLDEEN
+	db 15, DIVIPER
 	db 20, MARILL
-	db 20, SEAKING
+	db 20, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons WHIRL_ISLAND_SW
 	db 4 percent ; encounter rate
 	db 20, IMPAN
-	db 15, HORSEA
+	db 15, DELPHORA
 	db 20, DAETYR
 	end_water_wildmons
 
 	def_water_wildmons WHIRL_ISLAND_B2F
 	db 4 percent ; encounter rate
-	db 15, HORSEA
-	db 20, HORSEA
+	db 15, DELPHORA
+	db 20, DELPHORA
 	db 20, DAETYR
 	end_water_wildmons
 
 	def_water_wildmons WHIRL_ISLAND_LUGIA_CHAMBER
 	db 4 percent ; encounter rate
-	db 20, HORSEA
+	db 20, DELPHORA
 	db 20, DAETYR
-	db 20, SEADRA
+	db 20, XSAILERATE
 	end_water_wildmons
 
 	def_water_wildmons SILVER_CAVE_ROOM_2
 	db 2 percent ; encounter rate
-	db 35, SEAKING
+	db 35, SNORCOBRA
 	db 35, JABAROO
-	db 35, GOLDEEN
+	db 35, DIVIPER
 	end_water_wildmons
 
 	def_water_wildmons DARK_CAVE_VIOLET_ENTRANCE
@@ -179,9 +179,9 @@ JohtoWaterWildMons:
 
 	def_water_wildmons ROUTE_42
 	db 4 percent ; encounter rate
-	db 20, GOLDEEN
-	db 15, GOLDEEN
-	db 20, SEAKING
+	db 20, DIVIPER
+	db 15, DIVIPER
+	db 20, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_43

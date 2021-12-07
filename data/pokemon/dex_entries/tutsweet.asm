@@ -7,4 +7,4 @@
 
 	page "anced is often mi-"
 	next "staken for formal"
-	next "of dancing.@"
+	next "dance moves.@"

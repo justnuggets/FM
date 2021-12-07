@@ -121,7 +121,7 @@ SurfGuyAlreadyGaveSurf:
 DanceTheaterRhydon:
 	opentext
 	writetext RhydonText
-	cry RHYDON
+	cry SUBMINO
 	waitbutton
 	closetext
 	end

@@ -2,7 +2,7 @@ Pokered_MonIndices:
 	table_width 1, Pokered_MonIndices
 	db SUBMINO
 	db SUBZILLA
-	db KANGASKHAN
+	db DORACLE
 	db PAMPOOCH_T
 	db ECHLIPSE
 	db CHAWPPER
@@ -18,7 +18,7 @@ Pokered_MonIndices:
 	db PAMPOOCH_S
 	db CLINCHITON
 	db SKARDINE
-	db RHYHORN
+	db TAROTIS
 	db LAPRAS
 	db BUSHIDUDE
 	db MEW
@@ -26,11 +26,11 @@ Pokered_MonIndices:
 	db PESCALDO
 	db IMPAN
 	db LEAPEAR
-	db SCYTHER
-	db STARYU
+	db PLASMANIAN
+	db ESPUNGE
 	db GRILLZLY
 	db PINSIR
-	db TANGELA
+	db PRESTICIAN
 	db SCIZOR ; MISSINGNO.
 	db SHUCKLE ; MISSINGNO.
 	db BINARS
@@ -40,9 +40,9 @@ Pokered_MonIndices:
 	db TELEKAPI
 	db TERRAGER
 	db SABARINTH
-	db CHANSEY
+	db HOCUPOCUS
 	db BARROCK
-	db MR__MIME
+	db CANVALOG
 	db SOUSFLE
 	db APASHEE
 	db HAILOTH
@@ -92,8 +92,8 @@ Pokered_MonIndices:
 	db DRAGONAIR
 	db KABUTO
 	db KABUTOPS
-	db HORSEA
-	db SEADRA
+	db DELPHORA
+	db XSAILERATE
 	db SKARMORY ; MISSINGNO.
 	db HOUNDOUR ; MISSINGNO.
 	db FOWLLET
@@ -143,7 +143,7 @@ Pokered_MonIndices:
 	db TYROGUE ; MISSINGNO.
 	db TUTUFRUTTI
 	db ECHNEEDO
-	db WEEZING
+	db CONSTABOLD
 	db FUUMA
 	db SCRUMSHEF
 	db HITMONTOP ; MISSINGNO.
@@ -152,12 +152,12 @@ Pokered_MonIndices:
 	db CAULDEGAR
 	db AXALITL
 	db AXALOT
-	db STARMIE
+	db ZIGGRATH
 	db SUBZILANTE
 	db DAETYR
 	db SMOOCHUM ; MISSINGNO.
-	db GOLDEEN
-	db SEAKING
+	db DIVIPER
+	db SNORCOBRA
 	db ELEKID ; MISSINGNO.
 	db MAGBY ; MISSINGNO.
 	db MILTANK ; MISSINGNO.

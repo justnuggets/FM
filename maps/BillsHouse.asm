@@ -24,7 +24,7 @@ BillsGrandpa:
 	checkevent EVENT_SHOWED_GROWLITHE_VULPIX_TO_BILLS_GRANDPA
 	iftrue .ShowedBinarsVulpix
 	checkevent EVENT_SHOWED_STARYU_TO_BILLS_GRANDPA
-	iftrue .ShowedStaryu
+	iftrue .ShowedEspunge
 	checkevent EVENT_SHOWED_ODDISH_TO_BILLS_GRANDPA
 	iftrue .ShowedCursior
 	checkevent EVENT_SHOWED_LICKITUNG_TO_BILLS_GRANDPA
@@ -57,7 +57,7 @@ BillsGrandpa:
 	sjump .ShowedCursior
 
 .GotLeafStone:
-	writetext BillsGrandpaStaryuText
+	writetext BillsGrandpaEspungeText
 	promptbutton
 	writetext BillsGrandpaAskToSeeMonText
 	yesorno
@@ -68,7 +68,7 @@ BillsGrandpa:
 	ifnotequal SUBMINO, .WrongPokemon
 	scall .CorrectPokemon
 	setevent EVENT_SHOWED_STARYU_TO_BILLS_GRANDPA
-	sjump .ShowedStaryu
+	sjump .ShowedEspunge
 
 .GotWaterStone:
 	checkver
@@ -136,7 +136,7 @@ BillsGrandpa:
 	closetext
 	end
 
-.ShowedStaryu:
+.ShowedEspunge:
 	checkevent EVENT_GOT_WATER_STONE_FROM_BILLS_GRANDPA
 	iftrue .GotWaterStone
 	scall .ReceiveItem
@@ -296,7 +296,7 @@ BillsGrandpaCursiorText:
 	cont "on its head."
 	done
 
-BillsGrandpaStaryuText:
+BillsGrandpaEspungeText:
 	text "Do you know of a"
 	line "sea #MON that"
 

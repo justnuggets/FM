@@ -110,19 +110,19 @@ EggMovePointers::
 	dw CommansheeEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw RhyhornEggMoves
+	dw TarotisEggMoves
 	dw NoEggMoves
-	dw ChanseyEggMoves
-	dw TangelaEggMoves
-	dw KangaskhanEggMoves
-	dw HorseaEggMoves
+	dw HocupocusEggMoves
+	dw PresticianEggMoves
+	dw DoracleEggMoves
+	dw DelphoraEggMoves
 	dw NoEggMoves
-	dw GoldeenEggMoves
+	dw DiviperEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw MrMimeEggMoves
-	dw ScytherEggMoves
+	dw CanvalogEggMoves
+	dw PlasmanianEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

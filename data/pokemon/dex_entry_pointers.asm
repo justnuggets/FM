@@ -110,20 +110,20 @@ PokedexDataPointerTable:
 	dw ApasheePokedexEntry
 	dw CommansheePokedexEntry
 	dw DittoPokedexEntry
-	dw WeezingPokedexEntry
-	dw RhyhornPokedexEntry
-	dw RhydonPokedexEntry
-	dw ChanseyPokedexEntry
-	dw TangelaPokedexEntry
-	dw KangaskhanPokedexEntry
-	dw HorseaPokedexEntry
-	dw SeadraPokedexEntry
-	dw GoldeenPokedexEntry
-	dw SeakingPokedexEntry
-	dw StaryuPokedexEntry
-	dw StarmiePokedexEntry
-	dw MrMimePokedexEntry
-	dw ScytherPokedexEntry
+	dw ConstaboldPokedexEntry
+	dw TarotisPokedexEntry
+	dw OrchantisPokedexEntry
+	dw HocupocusPokedexEntry
+	dw PresticianPokedexEntry
+	dw DoraclePokedexEntry
+	dw DelphoraPokedexEntry
+	dw XsaileratePokedexEntry
+	dw DiviperPokedexEntry
+	dw SnorcobraPokedexEntry
+	dw EspungePokedexEntry
+	dw ZiggrathPokedexEntry
+	dw CanvalogPokedexEntry
+	dw PlasmanianPokedexEntry
 	dw JynxPokedexEntry
 	dw ElectabuzzPokedexEntry
 	dw MagmarPokedexEntry

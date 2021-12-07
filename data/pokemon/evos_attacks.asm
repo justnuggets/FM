@@ -932,77 +932,118 @@ DittoEvosAttacks:
 	db 1, TRANSFORM
 	db 0 ; no more level-up moves
 
-WeezingEvosAttacks:
+ConstaboldEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, PROTECT
+	db 1, DIZZY_PUNCH
+	db 1, DOUBLE_KICK
+	db 1, SCREECH
 	db 0 ; no more level-up moves
 
-RhyhornEvosAttacks:
+TarotisEvosAttacks:
+	db EVOLVE_LEVEL, 24, ORCHANTIS
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, DOUBLE_TEAM
+	db 1, CONFUSION
+	db 1, FURY_ATTACK
 	db 0 ; no more level-up moves
 
-RhydonEvosAttacks:
+OrchantisEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, DOUBLE_TEAM
+	db 1, CONFUSION
+	db 1, FURY_ATTACK
 	db 0 ; no more level-up moves
 
-ChanseyEvosAttacks:
+HocupocusEvosAttacks:
+	db EVOLVE_LEVEL, 33, PRESTICIAN
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, LIGHT_SCREEN
+	db 1, THUNDERSHOCK
+	db 1, BARRAGE
+	db 1, MIST
 	db 0 ; no more level-up moves
 
-TangelaEvosAttacks:
+PresticianEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, LIGHT_SCREEN
+	db 1, THUNDERSHOCK
+	db 1, BARRAGE
+	db 1, MIST
 	db 0 ; no more level-up moves
 
-KangaskhanEvosAttacks:
+DoracleEvosAttacks:
+	db EVOLVE_LEVEL, 32, XSAILERATE
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BUBBLEBEAM
+	db 1, PSYBEAM
+	db 1, BARRAGE
+	db 1, HEADBUTT
 	db 0 ; no more level-up moves
 
-HorseaEvosAttacks:
-	db EVOLVE_LEVEL, 32, SEADRA
+DelphoraEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BUBBLEBEAM
+	db 1, PSYBEAM
+	db 1, BARRAGE
+	db 1, HEADBUTT
+	db 4, SUPERSONIC
 	db 0 ; no more level-up moves
 
-SeadraEvosAttacks:
+XsailerateEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, GUST
+	db 1, AGILITY
+	db 1, QUICK_ATTACK
+	db 1, BUBBLEBEAM
 	db 0 ; no more level-up moves
 
-GoldeenEvosAttacks:
-	db EVOLVE_LEVEL, 33, SEAKING
+DiviperEvosAttacks:
+	db EVOLVE_LEVEL, 33, SNORCOBRA
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BIND
+	db 1, BITE
+	db 1, ACID
+	db 1, WHIRLPOOL
 	db 0 ; no more level-up moves
 
-SeakingEvosAttacks:
+SnorcobraEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BIND
+	db 1, BITE
+	db 1, ACID
+	db 1, WHIRLPOOL
 	db 0 ; no more level-up moves
 
-StaryuEvosAttacks:
-	db EVOLVE_ITEM, WATER_STONE, STARMIE
+EspungeEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, MEGA_DRAIN
+	db 1, WATER_GUN
+	db 1, DEFENSE_CURL
+	db 1, MIRROR_COAT
 	db 0 ; no more level-up moves
 
-StarmieEvosAttacks:
+ZiggrathEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, WING_ATTACK
+	db 1, PSYBEAM
+	db 1, NIGHT_SHADE
 	db 0 ; no more level-up moves
 
-MrMimeEvosAttacks:
+CanvalogEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, EMBER
+	db 1, REVERSAL
+	db 1, FLAIL
+	db 1, RAPID_SPIN
 	db 0 ; no more level-up moves
 
-ScytherEvosAttacks:
+PlasmanianEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, THUNDERSHOCK
+	db 1, REVERSAL
+	db 1, EXPLOSION
+	db 1, RAPID_SPIN
 	db 0 ; no more level-up moves
 
 JynxEvosAttacks:

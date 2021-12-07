@@ -115,20 +115,20 @@ PokemonCries::
 	mon_cry CRY_SEEL,        238,  320 ; APASHEE
 	mon_cry CRY_SEEL,          0,  256 ; COMMANSHEE
 	mon_cry CRY_GOLEM,       230,  349 ; KOFFING
-	mon_cry CRY_GOLEM,       255,  383 ; WEEZING
-	mon_cry CRY_CHARMANDER,    0,  256 ; RHYHORN
-	mon_cry CRY_RHYDON,        0,  256 ; RHYDON
-	mon_cry CRY_PIDGEOTTO,    10,  320 ; CHANSEY
-	mon_cry CRY_GOLEM,         0,  256 ; TANGELA
-	mon_cry CRY_KANGASKHAN,    0,  256 ; KANGASKHAN
-	mon_cry CRY_CLEFAIRY,    153,  144 ; HORSEA
-	mon_cry CRY_CLEFAIRY,     60,  129 ; SEADRA
-	mon_cry CRY_CATERPIE,    128,  192 ; GOLDEEN
-	mon_cry CRY_CATERPIE,     16,  383 ; SEAKING
-	mon_cry CRY_PARAS,         2,  160 ; STARYU
-	mon_cry CRY_PARAS,         0,  256 ; STARMIE
-	mon_cry CRY_KRABBY,        8,  192 ; MR__MIME
-	mon_cry CRY_CATERPIE,      0,  256 ; SCYTHER
+	mon_cry CRY_GOLEM,       255,  383 ; CONSTABOLD
+	mon_cry CRY_CHARMANDER,    0,  256 ; TAROTIS
+	mon_cry CRY_RHYDON,        0,  256 ; ORCHANTIS
+	mon_cry CRY_PIDGEOTTO,    10,  320 ; HOCUPOCUS
+	mon_cry CRY_GOLEM,         0,  256 ; PRESTICIAN
+	mon_cry CRY_KANGASKHAN,    0,  256 ; DORACLE
+	mon_cry CRY_CLEFAIRY,    153,  144 ; DELPHORA
+	mon_cry CRY_CLEFAIRY,     60,  129 ; XSAILERATE
+	mon_cry CRY_CATERPIE,    128,  192 ; DIVIPER
+	mon_cry CRY_CATERPIE,     16,  383 ; SNORCOBRA
+	mon_cry CRY_PARAS,         2,  160 ; ESPUNGE
+	mon_cry CRY_PARAS,         0,  256 ; ZIGGRATH
+	mon_cry CRY_KRABBY,        8,  192 ; CANVALOG
+	mon_cry CRY_CATERPIE,      0,  256 ; PLASMANIAN
 	mon_cry CRY_DROWZEE,     255,  383 ; JYNX
 	mon_cry CRY_VOLTORB,     143,  383 ; ELECTABUZZ
 	mon_cry CRY_CHARMANDER,  255,  176 ; MAGMAR
