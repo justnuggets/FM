@@ -1146,7 +1146,7 @@ BattleCommand_Critical:
 .Item:
 	ld c, 0
 
-	cp HOCUPOCUS
+	cp SWINEDEL
 	jr nz, .Farfetchd
 	ld a, [hl]
 	cp LUCKY_PUNCH

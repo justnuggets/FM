@@ -394,12 +394,12 @@ CamoufraugEggMoves:
 	db FLAIL
 	db -1 ; end
 
-LaprasEggMoves:
+SwinedelEggMoves:
 	db AURORA_BEAM
 	db FORESIGHT
 	db -1 ; end
 
-KoffingEggMoves:
+ColomentalEggMoves:
 	db SCREECH
 	db PSYWAVE
 	db PSYBEAM
@@ -407,7 +407,7 @@ KoffingEggMoves:
 	db PAIN_SPLIT
 	db -1 ; end
 	
-EeveeEggMoves:
+ElecmentalEggMoves:
 	db FLAIL
 	db CHARM
 	db -1 ; end

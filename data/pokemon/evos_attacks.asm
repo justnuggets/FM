@@ -1089,54 +1089,74 @@ MirauggerEvosAttacks:
 	db 1, PERISH_SONG
 	db 0 ; no more level-up moves
 
-MagikarpEvosAttacks:
+TrubbleEvosAttacks:
 	db 0 ; no more evolutions
+	db 1, ROCK_THROW
+	db 1, SELFDESTRUCT
+	db 1, BITE
+	db 0 ; no more level-up moves
+
+GolgraniteEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, ROCK_THROW
+	db 1, SELFDESTRUCT
+	db 1, BITE
+	db 0 ; no more level-up moves
+
+SwinedelEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, METRONOME
+	db 1, BODY_SLAM
+	db 1, PAY_DAY
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-GyaradosEvosAttacks:
+ColomentalEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, CONVERSION	
+	db 1, SWIFT	
+	db 1, GUST		
 	db 0 ; no more level-up moves
 
-LaprasEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-
-KoffingEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-
-EeveeEvosAttacks:
-	db EVOLVE_ITEM, THUNDERSTONE, JOLTEON
-	db EVOLVE_ITEM, WATER_STONE, VAPOREON
-	db EVOLVE_ITEM, FIRE_STONE, FLAREON
+ElecmentalEvosAttacks:
+	db EVOLVE_ITEM, THUNDERSTONE, SEDIMENTAL
+	db EVOLVE_ITEM, WATER_STONE, OCCUMENTAL
+	db EVOLVE_ITEM, FIRE_STONE, GAIAMENTAL
 	db EVOLVE_HAPPINESS, TR_MORNDAY, ESPEON
 	db EVOLVE_HAPPINESS, TR_NITE, UMBREON
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, CONVERSION
+	db 1, THUNDERSHOCK
 	db 0 ; no more level-up moves
 
-VaporeonEvosAttacks:
+OccumentalEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, CONVERSION
+	db 1, ACID
+	db 1, LICK
+	db 1, CONFUSION
 	db 0 ; no more level-up moves
 
-JolteonEvosAttacks:
+SedimentalEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, CONVERSION
+	db 1, REVERSAL
+	db 1, ROLLOUT
+	db 1, MAGNITUDE
 	db 0 ; no more level-up moves
 
-FlareonEvosAttacks:
+GaiamentalEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, CONVERSION
+	db 1, RAZOR_LEAF
+	db 1, PIN_MISSILE
+	db 1, SLUDGE_BOMB
 	db 0 ; no more level-up moves
 
-PorygonEvosAttacks:
+IgnimentalEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, CONVERSION
+	db 1, EMBER
 	db 0 ; no more level-up moves
 	
 OmanyteEvosAttacks:
@@ -1644,7 +1664,7 @@ DonphanEvosAttacks:
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-Porygon2EvosAttacks:
+Porygo2EvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves

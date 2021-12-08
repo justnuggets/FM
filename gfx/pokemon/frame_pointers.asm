@@ -128,15 +128,15 @@ FramesPointers:
 	dw CloakroakFrames
 	dw CamoufraugFrames
 	dw MirauggerFrames
-	dw MagikarpFrames
-	dw GyaradosFrames
-	dw LaprasFrames
-	dw KoffingFrames
-	dw EeveeFrames
-	dw VaporeonFrames
-	dw JolteonFrames
-	dw FlareonFrames
-	dw PorygonFrames
+	dw TrubbleFrames
+	dw GolgraniteFrames
+	dw SwinedelFrames
+	dw ColomentalFrames
+	dw ElecmentalFrames
+	dw OccumentalFrames
+	dw SedimentalFrames
+	dw GaiamentalFrames
+	dw IgnimentalFrames
 	dw OmanyteFrames
 	dw OmastarFrames
 	dw KabutoFrames
@@ -232,7 +232,7 @@ FramesPointers:
 	dw KingdraFrames
 	dw PhanpyFrames
 	dw DonphanFrames
-	dw Porygon2Frames
+	dw Porygo2Frames
 	dw StantlerFrames
 	dw SmeargleFrames
 	dw TyrogueFrames

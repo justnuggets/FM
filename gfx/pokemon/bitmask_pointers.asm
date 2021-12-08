@@ -128,15 +128,15 @@ BitmasksPointers:
 	dw CloakroakBitmasks
 	dw CamoufraugBitmasks
 	dw MirauggerBitmasks
-	dw MagikarpBitmasks
-	dw GyaradosBitmasks
-	dw LaprasBitmasks
-	dw KoffingBitmasks
-	dw EeveeBitmasks
-	dw VaporeonBitmasks
-	dw JolteonBitmasks
-	dw FlareonBitmasks
-	dw PorygonBitmasks
+	dw TrubbleBitmasks
+	dw GolgraniteBitmasks
+	dw SwinedelBitmasks
+	dw ColomentalBitmasks
+	dw ElecmentalBitmasks
+	dw OccumentalBitmasks
+	dw SedimentalBitmasks
+	dw GaiamentalBitmasks
+	dw IgnimentalBitmasks
 	dw OmanyteBitmasks
 	dw OmastarBitmasks
 	dw KabutoBitmasks
@@ -232,7 +232,7 @@ BitmasksPointers:
 	dw KingdraBitmasks
 	dw PhanpyBitmasks
 	dw DonphanBitmasks
-	dw Porygon2Bitmasks
+	dw Porygo2Bitmasks
 	dw StantlerBitmasks
 	dw SmeargleBitmasks
 	dw TyrogueBitmasks

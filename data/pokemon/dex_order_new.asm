@@ -130,15 +130,15 @@ NewPokedexOrder:
 	db CLOAKROAK 
 	db CAMOUFRAUG  
 	db MIRAUGGER  
-	db MAGIKARP
-	db GYARADOS 
-	db LAPRAS   
-	db KOFFING  
-	db EEVEE    
-	db VAPOREON  
-	db JOLTEON    
-	db FLAREON    ;
-	db PORYGON    ;
+	db TRUBBLE
+	db GOLGRANITE 
+	db SWINEDEL   
+	db COLOMENTAL  
+	db ELECMENTAL    
+	db OCCUMENTAL  
+	db SEDIMENTAL    
+	db GAIAMENTAL    ;
+	db IGNIMENTAL    ;
 	db OMANYTE    ; 8a
 	db OMASTAR    ; 8b
 	db KABUTO     ; 8c
@@ -234,7 +234,7 @@ NewPokedexOrder:
 	db KINGDRA    ; e6
 	db PHANPY     ; e7
 	db DONPHAN    ; e8
-	db PORYGON2   ; e9
+	db PORYGO2   ; e9
 	db STANTLER   ; ea
 	db SMEARGLE   ; eb
 	db TYROGUE    ; ec

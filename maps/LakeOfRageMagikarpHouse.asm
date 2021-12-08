@@ -37,7 +37,7 @@ MagikarpLengthRaterScript:
 	end
 
 .AskedForMagikarp:
-	setval MAGIKARP
+	setval SKARDINE
 	special FindPartyMonThatSpecies
 	iffalse .ClearedRocketHideout
 	writetext MagikarpLengthRaterText_YouHaveAMagikarp
@@ -111,7 +111,7 @@ MagikarpLengthRaterText_LakeOfRageHistory:
 	para "It used to be that"
 	line "you could catch"
 
-	para "lively MAGIKARP"
+	para "lively TRUBBLE"
 	line "there, but…"
 
 	para "I don't understand"
@@ -130,13 +130,13 @@ MagikarpLengthRaterText_WorldsLargestMagikarp:
 	text "LAKE OF RAGE is"
 	line "back to normal."
 
-	para "The MAGIKARP have"
+	para "The TRUBBLE have"
 	line "returned."
 
 	para "I may yet realize"
 	line "my dream of see-"
 	cont "ing the world's"
-	cont "largest MAGIKARP."
+	cont "largest TRUBBLE."
 
 	para "Do you have a ROD?"
 	line "Please help me if"
@@ -145,7 +145,7 @@ MagikarpLengthRaterText_WorldsLargestMagikarp:
 
 MagikarpLengthRaterText_YouHaveAMagikarp:
 	text "Ah, you have a"
-	line "MAGIKARP! Let's"
+	line "TRUBBLE! Let's"
 
 	para "see how big that"
 	line "baby is."
@@ -183,7 +183,7 @@ MagikarpLengthRaterText_TooShort:
 
 MagikarpLengthRaterText_NotMagikarp:
 	text "What? That's not a"
-	line "MAGIKARP!"
+	line "TRUBBLE!"
 	done
 
 MagikarpLengthRaterText_Refused:

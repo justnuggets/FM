@@ -9,7 +9,7 @@ SpriteMons:
 	db CURSIOR
 	db STRAWRBLE
 	db REPVIAL
-	db MAGIKARP
+	db TRUBBLE
 	db CUBBURN
 	db TOGEPI
 	db HIPTORRENT
@@ -29,11 +29,11 @@ SpriteMons:
 	db MIRAUGGER
 	db ROCKADE
 	db PAMPODOUR_P
-	db LAPRAS
+	db SWINEDEL
 	db ORCHANTIS
 	db MOLTRES
 	db SNORLAX
-	db GYARADOS
+	db GOLGRANITE
 	db LUGIA
 	db HO_OH
 	assert_table_length NUM_POKEMON_SPRITES

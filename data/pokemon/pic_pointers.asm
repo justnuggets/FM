@@ -259,24 +259,24 @@ PokemonPicPointers::
 	dba_pic CamoufraugBackpic
 	dba_pic MirauggerFrontpic
 	dba_pic MirauggerBackpic
-	dba_pic MagikarpFrontpic
-	dba_pic MagikarpBackpic
-	dba_pic GyaradosFrontpic
-	dba_pic GyaradosBackpic
-	dba_pic LaprasFrontpic
-	dba_pic LaprasBackpic
-	dba_pic KoffingFrontpic
-	dba_pic KoffingBackpic
-	dba_pic EeveeFrontpic
-	dba_pic EeveeBackpic
-	dba_pic VaporeonFrontpic
-	dba_pic VaporeonBackpic
-	dba_pic JolteonFrontpic
-	dba_pic JolteonBackpic
-	dba_pic FlareonFrontpic
-	dba_pic FlareonBackpic
-	dba_pic PorygonFrontpic
-	dba_pic PorygonBackpic
+	dba_pic TrubbleFrontpic
+	dba_pic TrubbleBackpic
+	dba_pic GolgraniteFrontpic
+	dba_pic GolgraniteBackpic
+	dba_pic SwinedelFrontpic
+	dba_pic SwinedelBackpic
+	dba_pic ColomentalFrontpic
+	dba_pic ColomentalBackpic
+	dba_pic ElecmentalFrontpic
+	dba_pic ElecmentalBackpic
+	dba_pic OccumentalFrontpic
+	dba_pic OccumentalBackpic
+	dba_pic SedimentalFrontpic
+	dba_pic SedimentalBackpic
+	dba_pic GaiamentalFrontpic
+	dba_pic GaiamentalBackpic
+	dba_pic IgnimentalFrontpic
+	dba_pic IgnimentalBackpic
 	dba_pic OmanyteFrontpic
 	dba_pic OmanyteBackpic
 	dba_pic OmastarFrontpic
@@ -470,8 +470,8 @@ PokemonPicPointers::
 	dba_pic PhanpyBackpic
 	dba_pic DonphanFrontpic
 	dba_pic DonphanBackpic
-	dba_pic Porygon2Frontpic
-	dba_pic Porygon2Backpic
+	dba_pic Porygo2Frontpic
+	dba_pic Porygo2Backpic
 	dba_pic StantlerFrontpic
 	dba_pic StantlerBackpic
 	dba_pic SmeargleFrontpic

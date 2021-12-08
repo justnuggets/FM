@@ -130,9 +130,9 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw LaprasEggMoves
-	dw KoffingEggMoves
-	dw EeveeEggMoves
+	dw SwinedelEggMoves
+	dw ColomentalEggMoves
+	dw ElecmentalEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

@@ -130,15 +130,15 @@ EvosAttacksPointers::
 	dw CloakroakEvosAttacks
 	dw CamoufraugEvosAttacks
 	dw MirauggerEvosAttacks
-	dw MagikarpEvosAttacks
-	dw GyaradosEvosAttacks
-	dw LaprasEvosAttacks
-	dw KoffingEvosAttacks
-	dw EeveeEvosAttacks
-	dw VaporeonEvosAttacks
-	dw JolteonEvosAttacks
-	dw FlareonEvosAttacks
-	dw PorygonEvosAttacks
+	dw TrubbleEvosAttacks
+	dw GolgraniteEvosAttacks
+	dw SwinedelEvosAttacks
+	dw ColomentalEvosAttacks
+	dw ElecmentalEvosAttacks
+	dw OccumentalEvosAttacks
+	dw SedimentalEvosAttacks
+	dw GaiamentalEvosAttacks
+	dw IgnimentalEvosAttacks
 	dw OmanyteEvosAttacks
 	dw OmastarEvosAttacks
 	dw KabutoEvosAttacks
@@ -234,7 +234,7 @@ EvosAttacksPointers::
 	dw KingdraEvosAttacks
 	dw PhanpyEvosAttacks
 	dw DonphanEvosAttacks
-	dw Porygon2EvosAttacks
+	dw Porygo2EvosAttacks
 	dw StantlerEvosAttacks
 	dw SmeargleEvosAttacks
 	dw TyrogueEvosAttacks

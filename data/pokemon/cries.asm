@@ -114,7 +114,7 @@ PokemonCries::
 	mon_cry CRY_GOLEM,       128,  320 ; SOUSFLE
 	mon_cry CRY_SEEL,        238,  320 ; APASHEE
 	mon_cry CRY_SEEL,          0,  256 ; COMMANSHEE
-	mon_cry CRY_GOLEM,       230,  349 ; KOFFING
+	mon_cry CRY_GOLEM,       230,  349 ; COLOMENTAL
 	mon_cry CRY_GOLEM,       255,  383 ; CONSTABOLD
 	mon_cry CRY_CHARMANDER,    0,  256 ; TAROTIS
 	mon_cry CRY_RHYDON,        0,  256 ; ORCHANTIS
@@ -134,15 +134,15 @@ PokemonCries::
 	mon_cry CRY_CHARMANDER,  255,  176 ; CLOAKROAK
 	mon_cry CRY_PIDGEOTTO,     0,  256 ; CAMOUFRAUG
 	mon_cry CRY_SQUIRTLE,     17,  192 ; MIRAUGGER
-	mon_cry CRY_EKANS,       128,  128 ; MAGIKARP
-	mon_cry CRY_EKANS,         0,  256 ; GYARADOS
-	mon_cry CRY_LAPRAS,        0,  256 ; LAPRAS
-	mon_cry CRY_PIDGEY,      255,  383 ; DITTO
-	mon_cry CRY_VENONAT,     136,  224 ; EEVEE
-	mon_cry CRY_VENONAT,     170,  383 ; VAPOREON
-	mon_cry CRY_VENONAT,      61,  256 ; JOLTEON
-	mon_cry CRY_VENONAT,      16,  160 ; FLAREON
-	mon_cry CRY_WEEPINBELL,  170,  383 ; PORYGON
+	mon_cry CRY_EKANS,       128,  128 ; TRUBBLE
+	mon_cry CRY_EKANS,         0,  256 ; GOLGRANITE
+	mon_cry CRY_LAPRAS,        0,  256 ; SWINEDEL
+	mon_cry CRY_PIDGEY,      255,  383 ; COLOMENTAL
+	mon_cry CRY_VENONAT,     136,  224 ; ELECMENTAL
+	mon_cry CRY_VENONAT,     170,  383 ; OCCUMENTAL
+	mon_cry CRY_VENONAT,      61,  256 ; SEDIMENTAL
+	mon_cry CRY_VENONAT,      16,  160 ; GAIAMENTAL
+	mon_cry CRY_WEEPINBELL,  170,  383 ; IGNIMENTAL
 	mon_cry CRY_GROWLITHE,   240,  129 ; OMANYTE
 	mon_cry CRY_GROWLITHE,   255,  192 ; OMASTAR
 	mon_cry CRY_CATERPIE,    187,  192 ; KABUTO
@@ -238,7 +238,7 @@ PokemonCries::
 	mon_cry CRY_SLUGMA,      763,  256 ; KINGDRA
 	mon_cry CRY_SENTRET,      72,  560 ; PHANPY
 	mon_cry CRY_DONPHAN,       0,  416 ; DONPHAN
-	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGON2
+	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGO2
 	mon_cry CRY_AIPOM,      -352,  384 ; STANTLER
 	mon_cry CRY_PICHU,      -538,  496 ; SMEARGLE
 	mon_cry CRY_AIPOM,        44,  264 ; TYROGUE

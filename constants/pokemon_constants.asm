@@ -137,30 +137,30 @@
 	const DELPHORA   ; 74
 	const XSAILERATE ; 75
 	const DIVIPER    ; 76
-	const SNORCOBRA    ; 77
-	const ESPUNGE     ; 78
-	const ZIGGRATH    ; 79
+	const SNORCOBRA  ; 77
+	const ESPUNGE    ; 78
+	const ZIGGRATH   ; 79
 	const CANVALOG   ; 7a
-	const PLASMANIAN    ; 7b
-	const CLADILLO       ; 7c
+	const PLASMANIAN ; 7b
+	const CLADILLO   ; 7c
 	const ARMORDILLO ; 7d
-	const CLOAKROAK     ; 7e
-	const CAMOUFRAUG     ; 7f
-	const MIRAUGGER     ; 80
-	const MAGIKARP   ; 81
-	const GYARADOS   ; 82
-	const LAPRAS     ; 83
-	const KOFFING    ; 84
-	const EEVEE      ; 85
-	const VAPOREON   ; 86
-	const JOLTEON    ; 87
-	const FLAREON    ; 88
-	const PORYGON    ; 89
-	const OMANYTE    ; 8a SWAP PORYGON2
+	const CLOAKROAK  ; 7e
+	const CAMOUFRAUG ; 7f
+	const MIRAUGGER  ; 80
+	const TRUBBLE    ; 81
+	const GOLGRANITE ; 82
+	const SWINEDEL   ; 83
+	const COLOMENTAL ; 84
+	const ELECMENTAL ; 85
+	const OCCUMENTAL ; 86
+	const SEDIMENTAL ; 87
+	const GAIAMENTAL    ; 88
+	const IGNIMENTAL    ; 89
+	const OMANYTE    ; 8a SWAP PORYGO2
 	const OMASTAR    ; 8b 
 	const KABUTO     ; 8c
 	const KABUTOPS   ; 8d
-	const AERODACTYL ; 8e
+	const AERODACTYL ; 8e END SWAP
 	const SNORLAX    ; 8f
 	const ARTICUNO   ; 90
 	const ZAPDOS     ; 91
@@ -252,7 +252,7 @@ JOHTO_POKEMON EQU const_value
 	const KINGDRA    ; e6
 	const PHANPY     ; e7
 	const DONPHAN    ; e8
-	const PORYGON2   ; e9
+	const PORYGO2   ; e9
 	const STANTLER   ; ea
 	const SMEARGLE   ; eb
 	const TYROGUE    ; ec

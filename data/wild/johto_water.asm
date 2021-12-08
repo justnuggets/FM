@@ -102,22 +102,22 @@ JohtoWaterWildMons:
 
 	def_water_wildmons DARK_CAVE_VIOLET_ENTRANCE
 	db 2 percent ; encounter rate
-	db 15, MAGIKARP
-	db 10, MAGIKARP
-	db 5, MAGIKARP
+	db 15, TRUBBLE
+	db 10, TRUBBLE
+	db 5, TRUBBLE
 	end_water_wildmons
 
 	def_water_wildmons DARK_CAVE_BLACKTHORN_ENTRANCE
 	db 2 percent ; encounter rate
-	db 15, MAGIKARP
-	db 10, MAGIKARP
-	db 5, MAGIKARP
+	db 15, TRUBBLE
+	db 10, TRUBBLE
+	db 5, TRUBBLE
 	end_water_wildmons
 
 	def_water_wildmons DRAGONS_DEN_B1F
 	db 4 percent ; encounter rate
-	db 15, MAGIKARP
-	db 10, MAGIKARP
+	db 15, TRUBBLE
+	db 10, TRUBBLE
 	db 10, DRATINI
 	end_water_wildmons
 
@@ -186,9 +186,9 @@ JohtoWaterWildMons:
 
 	def_water_wildmons ROUTE_43
 	db 2 percent ; encounter rate
-	db 20, MAGIKARP
-	db 15, MAGIKARP
-	db 10, MAGIKARP
+	db 20, TRUBBLE
+	db 15, TRUBBLE
+	db 10, TRUBBLE
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_44
@@ -200,9 +200,9 @@ JohtoWaterWildMons:
 
 	def_water_wildmons ROUTE_45
 	db 2 percent ; encounter rate
-	db 20, MAGIKARP
-	db 15, MAGIKARP
-	db 5, MAGIKARP
+	db 20, TRUBBLE
+	db 15, TRUBBLE
+	db 5, TRUBBLE
 	end_water_wildmons
 
 	def_water_wildmons NEW_BARK_TOWN
@@ -249,16 +249,16 @@ JohtoWaterWildMons:
 
 	def_water_wildmons LAKE_OF_RAGE
 	db 6 percent ; encounter rate
-	db 15, MAGIKARP
-	db 10, MAGIKARP
-	db 15, GYARADOS
+	db 15, TRUBBLE
+	db 10, TRUBBLE
+	db 15, GOLGRANITE
 	end_water_wildmons
 
 	def_water_wildmons BLACKTHORN_CITY
 	db 4 percent ; encounter rate
-	db 15, MAGIKARP
-	db 10, MAGIKARP
-	db 5, MAGIKARP
+	db 15, TRUBBLE
+	db 10, TRUBBLE
+	db 5, TRUBBLE
 	end_water_wildmons
 
 	def_water_wildmons SILVER_CAVE_OUTSIDE

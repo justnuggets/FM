@@ -129,15 +129,15 @@ PokedexDataPointerTable:
 	dw CloakroakPokedexEntry
 	dw CamoufraugPokedexEntry
 	dw MirauggerPokedexEntry
-	dw MagikarpPokedexEntry
-	dw GyaradosPokedexEntry
-	dw LaprasPokedexEntry
-	dw KoffingPokedexEntry
-	dw EeveePokedexEntry
-	dw VaporeonPokedexEntry
-	dw JolteonPokedexEntry
-	dw FlareonPokedexEntry
-	dw PorygonPokedexEntry
+	dw TrubblePokedexEntry
+	dw GolgranitePokedexEntry
+	dw SwinedelPokedexEntry
+	dw ColomentalPokedexEntry
+	dw ElecmentalPokedexEntry
+	dw OccumentalPokedexEntry
+	dw SedimentalPokedexEntry
+	dw GaiamentalPokedexEntry
+	dw IgnimentalPokedexEntry
 	dw OmanytePokedexEntry
 	dw OmastarPokedexEntry
 	dw KabutoPokedexEntry
@@ -233,7 +233,7 @@ PokedexDataPointerTable:
 	dw KingdraPokedexEntry
 	dw PhanpyPokedexEntry
 	dw DonphanPokedexEntry
-	dw Porygon2PokedexEntry
+	dw Porygo2PokedexEntry
 	dw StantlerPokedexEntry
 	dw SmearglePokedexEntry
 	dw TyroguePokedexEntry

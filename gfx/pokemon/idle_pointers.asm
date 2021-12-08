@@ -128,15 +128,15 @@ AnimationIdlePointers:
 	dw CloakroakAnimationIdle
 	dw CamoufraugAnimationIdle
 	dw MirauggerAnimationIdle
-	dw MagikarpAnimationIdle
-	dw GyaradosAnimationIdle
-	dw LaprasAnimationIdle
-	dw KoffingAnimationIdle
-	dw EeveeAnimationIdle
-	dw VaporeonAnimationIdle
-	dw JolteonAnimationIdle
-	dw FlareonAnimationIdle
-	dw PorygonAnimationIdle
+	dw TrubbleAnimationIdle
+	dw GolgraniteAnimationIdle
+	dw SwinedelAnimationIdle
+	dw ColomentalAnimationIdle
+	dw ElecmentalAnimationIdle
+	dw OccumentalAnimationIdle
+	dw SedimentalAnimationIdle
+	dw GaiamentalAnimationIdle
+	dw IgnimentalAnimationIdle
 	dw OmanyteAnimationIdle
 	dw OmastarAnimationIdle
 	dw KabutoAnimationIdle
@@ -232,7 +232,7 @@ AnimationIdlePointers:
 	dw KingdraAnimationIdle
 	dw PhanpyAnimationIdle
 	dw DonphanAnimationIdle
-	dw Porygon2AnimationIdle
+	dw Porygo2AnimationIdle
 	dw StantlerAnimationIdle
 	dw SmeargleAnimationIdle
 	dw TyrogueAnimationIdle

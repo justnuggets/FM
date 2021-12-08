@@ -82,9 +82,9 @@ RedGyarados:
 	opentext
 	writetext LakeOfRageGyaradosCryText
 	pause 15
-	cry GYARADOS
+	cry SURFALLO
 	closetext
-	loadwildmon GYARADOS, 30
+	loadwildmon SURFALLO, 30
 	loadvar VAR_BATTLETYPE, BATTLETYPE_SHINY
 	startbattle
 	ifequal LOSE, .NotBeaten

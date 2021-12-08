@@ -286,7 +286,7 @@ JohtoGrassWildMons:
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
 	db 13, HOPSTOT
-	db 14, KOFFING
+	db 14, COLOMENTAL
 	db 15, HOPSTOT
 	db 14, REPVIAL
 	db 15, HOPSTOT
@@ -294,7 +294,7 @@ JohtoGrassWildMons:
 	db 15, LOCUTS
 	; day
 	db 13, HOPSTOT
-	db 14, KOFFING
+	db 14, COLOMENTAL
 	db 15, HOPSTOT
 	db 14, REPVIAL
 	db 15, HOPSTOT
@@ -302,7 +302,7 @@ JohtoGrassWildMons:
 	db 15, LOCUTS
 	; nite
 	db 13, HOPSTOT
-	db 14, KOFFING
+	db 14, COLOMENTAL
 	db 15, HOPSTOT
 	db 14, REPVIAL
 	db 15, HOPSTOT
@@ -314,27 +314,27 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 14, HOPSTOT
-	db 14, KOFFING
-	db 16, KOFFING
+	db 14, COLOMENTAL
+	db 16, COLOMENTAL
 	db 15, REPVIAL
-	db 12, KOFFING
-	db 16, KOFFING
+	db 12, COLOMENTAL
+	db 16, COLOMENTAL
 	db 16, CONSTABOLD
 	; day
 	db 14, HOPSTOT
-	db 14, KOFFING
-	db 16, KOFFING
+	db 14, COLOMENTAL
+	db 16, COLOMENTAL
 	db 15, REPVIAL
-	db 12, KOFFING
-	db 16, KOFFING
+	db 12, COLOMENTAL
+	db 16, COLOMENTAL
 	db 16, CONSTABOLD
 	; nite
 	db 14, HOPSTOT
-	db 14, KOFFING
-	db 16, KOFFING
+	db 14, COLOMENTAL
+	db 16, COLOMENTAL
 	db 15, REPVIAL
-	db 12, KOFFING
-	db 16, KOFFING
+	db 12, COLOMENTAL
+	db 16, COLOMENTAL
 	db 16, CONSTABOLD
 	end_grass_wildmons
 
@@ -1729,12 +1729,12 @@ JohtoGrassWildMons:
 	db 7, MARBLOCK
 	db 7, HOCUPOCUS
 	; nite
-	db 1, ROCKADE
-	db 1, ROCKADE
-	db 1, ROCKADE
-	db 1, ROCKADE
-	db 1, ROCKADE
-	db 1, KAIYAK
+	db 1, IMPAN
+	db 1, CAMOUFRAUG
+	db 1, PAMPOOCH_S
+	db 1, APASHEE
+	db 1, DORACLE
+	db 1, SURFALLO
 	db 1, FLARIBOU
 	end_grass_wildmons
 

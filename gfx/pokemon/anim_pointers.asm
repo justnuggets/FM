@@ -128,15 +128,15 @@ AnimationPointers:
 	dw CloakroakAnimation
 	dw CamoufraugAnimation
 	dw MirauggerAnimation
-	dw MagikarpAnimation
-	dw GyaradosAnimation
-	dw LaprasAnimation
-	dw KoffingAnimation
-	dw EeveeAnimation
-	dw VaporeonAnimation
-	dw JolteonAnimation
-	dw FlareonAnimation
-	dw PorygonAnimation
+	dw TrubbleAnimation
+	dw GolgraniteAnimation
+	dw SwinedelAnimation
+	dw ColomentalAnimation
+	dw ElecmentalAnimation
+	dw OccumentalAnimation
+	dw SedimentalAnimation
+	dw GaiamentalAnimation
+	dw IgnimentalAnimation
 	dw OmanyteAnimation
 	dw OmastarAnimation
 	dw KabutoAnimation
@@ -232,7 +232,7 @@ AnimationPointers:
 	dw KingdraAnimation
 	dw PhanpyAnimation
 	dw DonphanAnimation
-	dw Porygon2Animation
+	dw Porygo2Animation
 	dw StantlerAnimation
 	dw SmeargleAnimation
 	dw TyrogueAnimation

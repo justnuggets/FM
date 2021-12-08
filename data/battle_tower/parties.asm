@@ -4,7 +4,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 1
 
-	db JOLTEON
+	db SEDIMENTAL
 	db MIRACLEBERRY
 	db THUNDERBOLT, HYPER_BEAM, SHADOW_BALL, ROAR
 	dw 0 ; OT ID
@@ -212,7 +212,7 @@ BattleTowerMons:
 	bigdw 26 ; SDef
 	db "PUTERA@@@@@"
 
-	db LAPRAS
+	db SWINEDEL
 	db MIRACLEBERRY
 	db BLIZZARD, SURF, THUNDERBOLT, PSYCHIC_M
 	dw 0 ; OT ID
@@ -264,7 +264,7 @@ BattleTowerMons:
 	bigdw 27 ; SDef
 	db "NIyu-RA@@@@"
 
-	db PORYGON2
+	db PORYGO2
 	db BRIGHTPOWDER
 	db PSYCHIC_M, BLIZZARD, HYPER_BEAM, TRI_ATTACK
 	dw 0 ; OT ID
@@ -605,7 +605,7 @@ BattleTowerMons:
 	bigdw 54 ; SDef
 	db "SUTA-MI-@@@"
 
-	db GYARADOS
+	db GOLGRANITE
 	db MIRACLEBERRY
 	db HYPER_BEAM, DRAGON_RAGE, THUNDERBOLT, FIRE_BLAST
 	dw 0 ; OT ID
@@ -813,7 +813,7 @@ BattleTowerMons:
 	bigdw 75 ; SDef
 	db "HAPINASU@@@"
 
-	db LAPRAS
+	db SWINEDEL
 	db GOLD_BERRY
 	db PSYCHIC_M, THUNDERBOLT, BLIZZARD, CONFUSE_RAY
 	dw 0 ; OT ID
@@ -1102,7 +1102,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 3
 
-	db JOLTEON
+	db SEDIMENTAL
 	db MIRACLEBERRY
 	db THUNDERBOLT, THUNDER_WAVE, ROAR, MUD_SLAP
 	dw 0 ; OT ID
@@ -1362,7 +1362,7 @@ BattleTowerMons:
 	bigdw 76 ; SDef
 	db "KUROBAtuTO@"
 
-	db PORYGON2
+	db PORYGO2
 	db BRIGHTPOWDER
 	db PSYCHIC_M, RECOVER, HYPER_BEAM, TRI_ATTACK
 	dw 0 ; OT ID
@@ -1440,7 +1440,7 @@ BattleTowerMons:
 	bigdw 78 ; SDef
 	db "MARUMAIN@@@"
 
-	db LAPRAS
+	db SWINEDEL
 	db LEFTOVERS
 	db RAIN_DANCE, WATER_GUN, ICY_WIND, STRENGTH
 	dw 0 ; OT ID
@@ -1729,7 +1729,7 @@ BattleTowerMons:
 	bigdw 125 ; SDef
 	db "KABIGON@@@@"
 
-	db LAPRAS
+	db SWINEDEL
 	db LEFTOVERS
 	db THUNDERBOLT, ICE_BEAM, CONFUSE_RAY, SURF
 	dw 0 ; OT ID
@@ -1963,7 +1963,7 @@ BattleTowerMons:
 	bigdw 103 ; SDef
 	db "YADORAN@@@@"
 
-	db PORYGON2
+	db PORYGO2
 	db NO_ITEM
 	db CONVERSION2, CONVERSION, PSYBEAM, THIEF
 	dw 0 ; OT ID
@@ -2304,7 +2304,7 @@ BattleTowerMons:
 	bigdw 159 ; SDef
 	db "KABIGON@@@@"
 
-	db LAPRAS
+	db SWINEDEL
 	db GOLD_BERRY
 	db THUNDERBOLT, SURF, CONFUSE_RAY, BLIZZARD
 	dw 0 ; OT ID
@@ -2330,7 +2330,7 @@ BattleTowerMons:
 	bigdw 143 ; SDef
 	db "RAPURASU@@@"
 
-	db JOLTEON
+	db SEDIMENTAL
 	db KINGS_ROCK
 	db THUNDERBOLT, THUNDER_WAVE, SHADOW_BALL, HIDDEN_POWER
 	dw 0 ; OT ID
@@ -2694,7 +2694,7 @@ BattleTowerMons:
 	bigdw 101 ; SDef
 	db "KIRINRIKI@@"
 
-	db GYARADOS
+	db GOLGRANITE
 	db MIRACLEBERRY
 	db HYPER_BEAM, SURF, RAIN_DANCE, ZAP_CANNON
 	dw 0 ; OT ID
@@ -2827,7 +2827,7 @@ BattleTowerMons:
 	bigdw 153 ; SDef
 	db "HERUGA-@@@@"
 
-	db PORYGON2
+	db PORYGO2
 	db LEFTOVERS
 	db BLIZZARD, RECOVER, TOXIC, PSYCHIC_M
 	dw 0 ; OT ID
@@ -3298,7 +3298,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 7
 
-	db JOLTEON
+	db SEDIMENTAL
 	db MIRACLEBERRY
 	db THUNDERBOLT, HYPER_BEAM, SHADOW_BALL, ROAR
 	dw 0 ; OT ID
@@ -3324,7 +3324,7 @@ BattleTowerMons:
 	bigdw 201 ; SDef
 	db "SANDA-SU@@@"
 
-	db VAPOREON
+	db OCCUMENTAL
 	db LEFTOVERS
 	db BLIZZARD, SHADOW_BALL, SURF, MUD_SLAP
 	dw 0 ; OT ID
@@ -3558,7 +3558,7 @@ BattleTowerMons:
 	bigdw 240 ; SDef
 	db "BURAtuKI-@@"
 
-	db GYARADOS
+	db GOLGRANITE
 	db BRIGHTPOWDER
 	db SURF, THUNDERBOLT, HYPER_BEAM, ROAR
 	dw 0 ; OT ID
@@ -3847,7 +3847,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 8
 
-	db JOLTEON
+	db SEDIMENTAL
 	db MIRACLEBERRY
 	db THUNDER_WAVE, THUNDERBOLT, IRON_TAIL, ROAR
 	dw 0 ; OT ID
@@ -3951,7 +3951,7 @@ BattleTowerMons:
 	bigdw 183 ; SDef
 	db "KENTAROSU@@"
 
-	db LAPRAS
+	db SWINEDEL
 	db MINT_BERRY
 	db REST, SURF, CONFUSE_RAY, PSYCHIC_M
 	dw 0 ; OT ID
@@ -4107,7 +4107,7 @@ BattleTowerMons:
 	bigdw 228 ; SDef
 	db "KAIRIyu-@@@"
 
-	db PORYGON2
+	db PORYGO2
 	db LEFTOVERS
 	db PSYCHIC_M, RECOVER, HYPER_BEAM, TRI_ATTACK
 	dw 0 ; OT ID
@@ -4526,7 +4526,7 @@ BattleTowerMons:
 	bigdw 225 ; SDef
 	db "KUROBAtuTO@"
 
-	db PORYGON2
+	db PORYGO2
 	db QUICK_CLAW
 	db TOXIC, PSYCHIC_M, RECOVER, PROTECT
 	dw 0 ; OT ID
@@ -4604,7 +4604,7 @@ BattleTowerMons:
 	bigdw 259 ; SDef
 	db "BANGIRASU@@"
 
-	db LAPRAS
+	db SWINEDEL
 	db MINT_BERRY
 	db REST, SURF, THUNDERBOLT, PSYCHIC_M
 	dw 0 ; OT ID
@@ -4838,7 +4838,7 @@ BattleTowerMons:
 	bigdw 493 ; SDef
 	db "TUBOTUBO@@@"
 
-	db FLAREON
+	db GAIAMENTAL
 	db MINT_BERRY
 	db HYPER_BEAM, FLAMETHROWER, SHADOW_BALL, ROAR
 	dw 0 ; OT ID
@@ -5023,7 +5023,7 @@ BattleTowerMons:
 	bigdw 284 ; SDef
 	db "KINGUDORA@@"
 
-	db JOLTEON
+	db SEDIMENTAL
 	db BRIGHTPOWDER
 	db THUNDERBOLT, ROAR, THUNDER_WAVE, IRON_TAIL
 	dw 0 ; OT ID

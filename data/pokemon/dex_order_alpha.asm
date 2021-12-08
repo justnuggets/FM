@@ -50,7 +50,7 @@ AlphabeticalPokedexOrder:
 	db STRAWMENAD
 	db SPYDAR
 	db DUNSPARCE
-	db EEVEE
+	db ELECMENTAL
 	db CRYSTALIS
 	db ARMORDILLO
 	db TUTUFRUTTI
@@ -63,7 +63,7 @@ AlphabeticalPokedexOrder:
 	db SNOLIPOLI
 	db FERALIGATR
 	db FLAAFFY
-	db FLAREON
+	db GAIAMENTAL
 	db FORRETRESS
 	db FURRET
 	db LEAPEAR
@@ -80,7 +80,7 @@ AlphabeticalPokedexOrder:
 	db SABARINTH
 	db CATYBARA
 	db BINARS
-	db GYARADOS
+	db GOLGRANITE
 	db LEVIATHORN
 	db HERACROSS
 	db APASHEE
@@ -96,7 +96,7 @@ AlphabeticalPokedexOrder:
 	db IGGLYBUFF
 	db SUBZILLA
 	db FELECTRIC
-	db JOLTEON
+	db SEDIMENTAL
 	db JUMPLUFF
 	db CLADILLO
 	db KABUTO
@@ -106,10 +106,10 @@ AlphabeticalPokedexOrder:
 	db DORACLE
 	db KINGDRA
 	db PAMPOOCH_P
-	db KOFFING
+	db COLOMENTAL
 	db PAMPODOUR_S
 	db LANTURN
-	db LAPRAS
+	db SWINEDEL
 	db LARVITAR
 	db LEDIAN
 	db LEDYBA
@@ -120,7 +120,7 @@ AlphabeticalPokedexOrder:
 	db ROCKADE
 	db MAGBY
 	db MAGCARGO
-	db MAGIKARP
+	db TRUBBLE
 	db CLOAKROAK
 	db SURFALLO
 	db HEMOGOBLIN
@@ -171,8 +171,8 @@ AlphabeticalPokedexOrder:
 	db DRONNEL
 	db RUMBLEBEE
 	db ANTENNIAN
-	db PORYGON
-	db PORYGON2
+	db IGNIMENTAL
+	db PORYGO2
 	db ORIGERON
 	db WALLOPY
 	db PUPITAR
@@ -234,7 +234,7 @@ AlphabeticalPokedexOrder:
 	db UMBREON
 	db UNOWN
 	db URSARING
-	db VAPOREON
+	db OCCUMENTAL
 	db FRITESHADE
 	db INGROVERT
 	db SUBZILANTE

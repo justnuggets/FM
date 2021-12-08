@@ -135,7 +135,7 @@ CeladonGameCornerPrizeRoomPokemonVendor:
 	verticalmenu
 	closewindow
 	ifequal 1, .Pikachu
-	ifequal 2, .Porygon
+	ifequal 2, .Ignimental
 	ifequal 3, .Larvitar
 	sjump CeladonPrizeRoom_CancelPurchaseScript
 
@@ -157,7 +157,7 @@ CeladonGameCornerPrizeRoomPokemonVendor:
 	takecoins CELADONGAMECORNERPRIZEROOM_PIKACHU_COINS
 	sjump .loop
 
-.Porygon:
+.Ignimental:
 	checkcoins CELADONGAMECORNERPRIZEROOM_PORYGON_COINS
 	ifequal HAVE_LESS, CeladonPrizeRoom_notenoughcoins
 	readvar VAR_PARTYCOUNT
@@ -208,7 +208,7 @@ CeladonGameCornerPrizeRoomPokemonVendor:
 	db "CANCEL@"
 
 CeladonGameCornerPrizeRoomGentlemanText:
-	text "I wanted PORYGON,"
+	text "I wanted IGNIMENTAL,"
 	line "but I was short by"
 	cont "100 coins…"
 	done

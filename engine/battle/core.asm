@@ -6153,7 +6153,7 @@ LoadEnemyMon:
 ; After the conversion to feet, it is unable to target any,
 ; since the largest possible Magikarp is 5'3", and $0503 = 1283 mm.
 	ld a, [wTempEnemyMonSpecies]
-	cp MAGIKARP
+	cp SKARDINE
 	jr nz, .Happiness
 
 ; Get Magikarp's length
