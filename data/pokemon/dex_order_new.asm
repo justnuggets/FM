@@ -139,10 +139,10 @@ NewPokedexOrder:
 	db SEDIMENTAL    
 	db GAIAMENTAL    ;
 	db IGNIMENTAL    ;
-	db OMANYTE    ; 8a
-	db OMASTAR    ; 8b
-	db KABUTO     ; 8c
-	db KABUTOPS   ; 8d
+	db PORYGO2   ; e9
+	db STANTLER   ; ea
+	db SMEARGLE   ; eb
+	db TYROGUE    ; ec
 	db AERODACTYL 
 	db SNORLAX   
 	db ARTICUNO  
@@ -234,10 +234,10 @@ NewPokedexOrder:
 	db KINGDRA    ; e6
 	db PHANPY     ; e7
 	db DONPHAN    ; e8
-	db PORYGO2   ; e9
-	db STANTLER   ; ea
-	db SMEARGLE   ; eb
-	db TYROGUE    ; ec
+	db OMANYTE    ; 8a
+	db OMASTAR    ; 8b
+	db KABUTO     ; 8c
+	db KABUTOPS   ; 8d
 	db HITMONTOP  ; ed
 	db SMOOCHUM   ; ee
 	db ELEKID     ; ef

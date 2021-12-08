@@ -137,10 +137,10 @@ FramesPointers:
 	dw SedimentalFrames
 	dw GaiamentalFrames
 	dw IgnimentalFrames
-	dw OmanyteFrames
-	dw OmastarFrames
-	dw KabutoFrames
-	dw KabutopsFrames
+	dw Porygo2Frames
+	dw StantlerFrames
+	dw SmeargleFrames
+	dw TyrogueFrames
 	dw AerodactylFrames
 	dw SnorlaxFrames
 	dw ArticunoFrames
@@ -232,10 +232,10 @@ FramesPointers:
 	dw KingdraFrames
 	dw PhanpyFrames
 	dw DonphanFrames
-	dw Porygo2Frames
-	dw StantlerFrames
-	dw SmeargleFrames
-	dw TyrogueFrames
+	dw OmanyteFrames
+	dw OmastarFrames
+	dw KabutoFrames
+	dw KabutopsFrames
 	dw HitmontopFrames
 	dw SmoochumFrames
 	dw ElekidFrames

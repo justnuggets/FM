@@ -137,10 +137,10 @@ AnimationPointers:
 	dw SedimentalAnimation
 	dw GaiamentalAnimation
 	dw IgnimentalAnimation
-	dw OmanyteAnimation
-	dw OmastarAnimation
-	dw KabutoAnimation
-	dw KabutopsAnimation
+	dw Porygo2Animation
+	dw StantlerAnimation
+	dw SmeargleAnimation
+	dw TyrogueAnimation
 	dw AerodactylAnimation
 	dw SnorlaxAnimation
 	dw ArticunoAnimation
@@ -232,10 +232,10 @@ AnimationPointers:
 	dw KingdraAnimation
 	dw PhanpyAnimation
 	dw DonphanAnimation
-	dw Porygo2Animation
-	dw StantlerAnimation
-	dw SmeargleAnimation
-	dw TyrogueAnimation
+	dw OmanyteAnimation
+	dw OmastarAnimation
+	dw KabutoAnimation
+	dw KabutopsAnimation
 	dw HitmontopAnimation
 	dw SmoochumAnimation
 	dw ElekidAnimation

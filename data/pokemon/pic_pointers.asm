@@ -277,14 +277,14 @@ PokemonPicPointers::
 	dba_pic GaiamentalBackpic
 	dba_pic IgnimentalFrontpic
 	dba_pic IgnimentalBackpic
-	dba_pic OmanyteFrontpic
-	dba_pic OmanyteBackpic
-	dba_pic OmastarFrontpic
-	dba_pic OmastarBackpic
-	dba_pic KabutoFrontpic
-	dba_pic KabutoBackpic
-	dba_pic KabutopsFrontpic
-	dba_pic KabutopsBackpic
+	dba_pic Porygo2Frontpic
+	dba_pic Porygo2Backpic
+	dba_pic StantlerFrontpic
+	dba_pic StantlerBackpic
+	dba_pic SmeargleFrontpic
+	dba_pic SmeargleBackpic
+	dba_pic TyrogueFrontpic
+	dba_pic TyrogueBackpic
 	dba_pic AerodactylFrontpic
 	dba_pic AerodactylBackpic
 	dba_pic SnorlaxFrontpic
@@ -470,14 +470,14 @@ PokemonPicPointers::
 	dba_pic PhanpyBackpic
 	dba_pic DonphanFrontpic
 	dba_pic DonphanBackpic
-	dba_pic Porygo2Frontpic
-	dba_pic Porygo2Backpic
-	dba_pic StantlerFrontpic
-	dba_pic StantlerBackpic
-	dba_pic SmeargleFrontpic
-	dba_pic SmeargleBackpic
-	dba_pic TyrogueFrontpic
-	dba_pic TyrogueBackpic
+	dba_pic OmanyteFrontpic
+	dba_pic OmanyteBackpic
+	dba_pic OmastarFrontpic
+	dba_pic OmastarBackpic
+	dba_pic KabutoFrontpic
+	dba_pic KabutoBackpic
+	dba_pic KabutopsFrontpic
+	dba_pic KabutopsBackpic
 	dba_pic HitmontopFrontpic
 	dba_pic HitmontopBackpic
 	dba_pic SmoochumFrontpic

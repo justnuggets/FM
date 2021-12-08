@@ -1159,29 +1159,37 @@ IgnimentalEvosAttacks:
 	db 1, EMBER
 	db 0 ; no more level-up moves
 	
-OmanyteEvosAttacks:
+Porygo2EvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, CONVERSION
+	db 1, POWDER_SNOW
+	db 1, WATER_GUN
+	db 0 ; no more level-up moves
+	
+StantlerEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, CONVERSION
+	db 1, CRUNCH
+	db 0 ; no more level-up moves
+	
+SmeargleEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, CONVERSION
+	db 1, STEEL_WING
 	db 0 ; no more level-up moves
 
-OmastarEvosAttacks:
+TyrogueEvosAttacks:
+	db EVOLVE_STAT, 20, ATK_LT_DEF, APASHEE
+	db EVOLVE_STAT, 20, ATK_GT_DEF, SOUSFLE
+	db EVOLVE_STAT, 20, ATK_EQ_DEF, HITMONTOP
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, CONVERSION
+	db 1, TWISTER
 	db 0 ; no more level-up moves
-
-KabutoEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-
-KabutopsEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-
+	
 AerodactylEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, CONVERSION
 	db 0 ; no more level-up moves
 
 SnorlaxEvosAttacks:
@@ -1664,27 +1672,28 @@ DonphanEvosAttacks:
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-Porygo2EvosAttacks:
+OmanyteEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-	
-StantlerEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-	
-SmeargleEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, ANCIENTPOWER
+	db 1, WATER_GUN
 	db 0 ; no more level-up moves
 
-TyrogueEvosAttacks:
-	db EVOLVE_STAT, 20, ATK_LT_DEF, APASHEE
-	db EVOLVE_STAT, 20, ATK_GT_DEF, SOUSFLE
-	db EVOLVE_STAT, 20, ATK_EQ_DEF, HITMONTOP
+OmastarEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, ANCIENTPOWER
+	db 1, WATER_GUN
+	db 0 ; no more level-up moves
+
+KabutoEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, ANCIENTPOWER
+	db 1, LEECH_LIFE
+	db 0 ; no more level-up moves
+
+KabutopsEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, ANCIENTPOWER
+	db 1, LEECH_LIFE
 	db 0 ; no more level-up moves
 
 HitmontopEvosAttacks:

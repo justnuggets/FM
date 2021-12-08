@@ -138,10 +138,10 @@ PokedexDataPointerTable:
 	dw SedimentalPokedexEntry
 	dw GaiamentalPokedexEntry
 	dw IgnimentalPokedexEntry
-	dw OmanytePokedexEntry
-	dw OmastarPokedexEntry
-	dw KabutoPokedexEntry
-	dw KabutopsPokedexEntry
+	dw Porygo2PokedexEntry
+	dw StantlerPokedexEntry
+	dw SmearglePokedexEntry
+	dw TyroguePokedexEntry
 	dw AerodactylPokedexEntry
 	dw SnorlaxPokedexEntry
 	dw ArticunoPokedexEntry
@@ -233,10 +233,10 @@ PokedexDataPointerTable:
 	dw KingdraPokedexEntry
 	dw PhanpyPokedexEntry
 	dw DonphanPokedexEntry
-	dw Porygo2PokedexEntry
-	dw StantlerPokedexEntry
-	dw SmearglePokedexEntry
-	dw TyroguePokedexEntry
+	dw OmanytePokedexEntry
+	dw OmastarPokedexEntry
+	dw KabutoPokedexEntry
+	dw KabutopsPokedexEntry
 	dw HitmontopPokedexEntry
 	dw SmoochumPokedexEntry
 	dw ElekidPokedexEntry

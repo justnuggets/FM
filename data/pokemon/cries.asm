@@ -143,10 +143,10 @@ PokemonCries::
 	mon_cry CRY_VENONAT,      61,  256 ; SEDIMENTAL
 	mon_cry CRY_VENONAT,      16,  160 ; GAIAMENTAL
 	mon_cry CRY_WEEPINBELL,  170,  383 ; IGNIMENTAL
-	mon_cry CRY_GROWLITHE,   240,  129 ; OMANYTE
-	mon_cry CRY_GROWLITHE,   255,  192 ; OMASTAR
-	mon_cry CRY_CATERPIE,    187,  192 ; KABUTO
-	mon_cry CRY_FEAROW,      238,  129 ; KABUTOPS
+	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGO2
+	mon_cry CRY_AIPOM,      -352,  384 ; STANTLER
+	mon_cry CRY_PICHU,      -538,  496 ; SMEARGLE
+	mon_cry CRY_AIPOM,        44,  264 ; TYROGUE
 	mon_cry CRY_VILEPLUME,    32,  368 ; AERODACTYL
 	mon_cry CRY_GRIMER,       85,  129 ; SNORLAX
 	mon_cry CRY_RAICHU,      128,  192 ; ARTICUNO
@@ -238,10 +238,10 @@ PokemonCries::
 	mon_cry CRY_SLUGMA,      763,  256 ; KINGDRA
 	mon_cry CRY_SENTRET,      72,  560 ; PHANPY
 	mon_cry CRY_DONPHAN,       0,  416 ; DONPHAN
-	mon_cry CRY_GIRAFARIG,   115,  576 ; PORYGO2
-	mon_cry CRY_AIPOM,      -352,  384 ; STANTLER
-	mon_cry CRY_PICHU,      -538,  496 ; SMEARGLE
-	mon_cry CRY_AIPOM,        44,  264 ; TYROGUE
+	mon_cry CRY_GROWLITHE,   240,  129 ; OMANYTE
+	mon_cry CRY_GROWLITHE,   255,  192 ; OMASTAR
+	mon_cry CRY_FEAROW,      198,  100  ; KABUTO
+	mon_cry CRY_FEAROW,      238,  129 ; KABUTOPS
 	mon_cry CRY_SLUGMA,        0,  256 ; HITMONTOP
 	mon_cry CRY_MARILL,      104,  256 ; SMOOCHUM
 	mon_cry CRY_SUNFLORA,   -728,  180 ; ELEKID

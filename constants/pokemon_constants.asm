@@ -156,10 +156,10 @@
 	const SEDIMENTAL ; 87
 	const GAIAMENTAL    ; 88
 	const IGNIMENTAL    ; 89
-	const OMANYTE    ; 8a SWAP PORYGO2
-	const OMASTAR    ; 8b 
-	const KABUTO     ; 8c
-	const KABUTOPS   ; 8d
+	const PORYGO2   ; e9
+	const STANTLER   ; ea
+	const SMEARGLE   ; eb
+	const TYROGUE    ; ec
 	const AERODACTYL ; 8e END SWAP
 	const SNORLAX    ; 8f
 	const ARTICUNO   ; 90
@@ -169,7 +169,7 @@
 	const DRAGONAIR  ; 94
 	const DRAGONITE  ; 95
 	const MEWTWO     ; 96
-	const MEW        ; 97
+	const MEW        ; 97 JOHTO MARKER v
 JOHTO_POKEMON EQU const_value
 	const CHIKORITA  ; 98
 	const BAYLEEF    ; 99
@@ -252,10 +252,10 @@ JOHTO_POKEMON EQU const_value
 	const KINGDRA    ; e6
 	const PHANPY     ; e7
 	const DONPHAN    ; e8
-	const PORYGO2   ; e9
-	const STANTLER   ; ea
-	const SMEARGLE   ; eb
-	const TYROGUE    ; ec
+	const OMANYTE    ; 8a SWAP PORYGO2
+	const OMASTAR    ; 8b 
+	const KABUTO     ; 8c
+	const KABUTOPS   ; 8ds
 	const HITMONTOP  ; ed
 	const SMOOCHUM   ; ee
 	const ELEKID     ; ef
@@ -263,7 +263,7 @@ JOHTO_POKEMON EQU const_value
 	const MILTANK    ; f1
 	const BLISSEY    ; f2
 	const RAIKOU     ; f3
-	const ENTEI      ; f4
+	const ENTEI      ; f4 JOHTO MARKER ^
 	const SUICUNE    ; f5
 	const LARVITAR   ; f6
 	const PUPITAR    ; f7

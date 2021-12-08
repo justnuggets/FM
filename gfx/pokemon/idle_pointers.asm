@@ -137,10 +137,10 @@ AnimationIdlePointers:
 	dw SedimentalAnimationIdle
 	dw GaiamentalAnimationIdle
 	dw IgnimentalAnimationIdle
-	dw OmanyteAnimationIdle
-	dw OmastarAnimationIdle
-	dw KabutoAnimationIdle
-	dw KabutopsAnimationIdle
+	dw Porygo2AnimationIdle
+	dw StantlerAnimationIdle
+	dw SmeargleAnimationIdle
+	dw TyrogueAnimationIdle
 	dw AerodactylAnimationIdle
 	dw SnorlaxAnimationIdle
 	dw ArticunoAnimationIdle
@@ -232,10 +232,10 @@ AnimationIdlePointers:
 	dw KingdraAnimationIdle
 	dw PhanpyAnimationIdle
 	dw DonphanAnimationIdle
-	dw Porygo2AnimationIdle
-	dw StantlerAnimationIdle
-	dw SmeargleAnimationIdle
-	dw TyrogueAnimationIdle
+	dw OmanyteAnimationIdle
+	dw OmastarAnimationIdle
+	dw KabutoAnimationIdle
+	dw KabutopsAnimationIdle
 	dw HitmontopAnimationIdle
 	dw SmoochumAnimationIdle
 	dw ElekidAnimationIdle

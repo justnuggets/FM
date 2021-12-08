@@ -139,10 +139,10 @@ EvosAttacksPointers::
 	dw SedimentalEvosAttacks
 	dw GaiamentalEvosAttacks
 	dw IgnimentalEvosAttacks
-	dw OmanyteEvosAttacks
-	dw OmastarEvosAttacks
-	dw KabutoEvosAttacks
-	dw KabutopsEvosAttacks
+	dw Porygo2EvosAttacks
+	dw StantlerEvosAttacks
+	dw SmeargleEvosAttacks
+	dw TyrogueEvosAttacks
 	dw AerodactylEvosAttacks
 	dw SnorlaxEvosAttacks
 	dw ArticunoEvosAttacks
@@ -234,10 +234,10 @@ EvosAttacksPointers::
 	dw KingdraEvosAttacks
 	dw PhanpyEvosAttacks
 	dw DonphanEvosAttacks
-	dw Porygo2EvosAttacks
-	dw StantlerEvosAttacks
-	dw SmeargleEvosAttacks
-	dw TyrogueEvosAttacks
+	dw OmanyteEvosAttacks
+	dw OmastarEvosAttacks
+	dw KabutoEvosAttacks
+	dw KabutopsEvosAttacks	
 	dw HitmontopEvosAttacks
 	dw SmoochumEvosAttacks
 	dw ElekidEvosAttacks

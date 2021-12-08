@@ -137,10 +137,10 @@ BitmasksPointers:
 	dw SedimentalBitmasks
 	dw GaiamentalBitmasks
 	dw IgnimentalBitmasks
-	dw OmanyteBitmasks
-	dw OmastarBitmasks
-	dw KabutoBitmasks
-	dw KabutopsBitmasks
+	dw Porygo2Bitmasks
+	dw StantlerBitmasks
+	dw SmeargleBitmasks
+	dw TyrogueBitmasks
 	dw AerodactylBitmasks
 	dw SnorlaxBitmasks
 	dw ArticunoBitmasks
@@ -232,10 +232,10 @@ BitmasksPointers:
 	dw KingdraBitmasks
 	dw PhanpyBitmasks
 	dw DonphanBitmasks
-	dw Porygo2Bitmasks
-	dw StantlerBitmasks
-	dw SmeargleBitmasks
-	dw TyrogueBitmasks
+	dw OmanyteBitmasks
+	dw OmastarBitmasks
+	dw KabutoBitmasks
+	dw KabutopsBitmasks
 	dw HitmontopBitmasks
 	dw SmoochumBitmasks
 	dw ElekidBitmasks
