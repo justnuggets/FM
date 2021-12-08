@@ -35,11 +35,11 @@ BugContestant_CooltrainerMNick:
 	db COOLTRAINERM, NICK
 	dbw PLASMANIAN,    357
 	dbw HIPTORRENT, 349
-	dbw PINSIR,     368
+	dbw CAMOUFRAUG,     368
 
 BugContestant_PokefanMWilliam:
 	db POKEFANM, WILLIAM
-	dbw PINSIR,     332
+	dbw CAMOUFRAUG,     332
 	dbw HIPTORRENT, 324
 	dbw INGROVERT,    321
 
@@ -51,7 +51,7 @@ BugContestant_BugCatcherBenny:
 
 BugContestant_CamperBarry:
 	db CAMPER, BARRY
-	dbw PINSIR,     366
+	dbw CAMOUFRAUG,     366
 	dbw INGROVERT,    329
 	dbw GUINAPI,     314
 
@@ -70,7 +70,7 @@ BugContestant_BugCatcherJosh:
 BugContestant_YoungsterSamuel:
 	db YOUNGSTER, SAMUEL
 	dbw HAMSEL,     270
-	dbw PINSIR,     282
+	dbw CAMOUFRAUG,     282
 	dbw HIPPOUR,   251
 
 BugContestant_SchoolboyKipp:

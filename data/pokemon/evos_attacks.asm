@@ -1046,29 +1046,47 @@ PlasmanianEvosAttacks:
 	db 1, RAPID_SPIN
 	db 0 ; no more level-up moves
 
-JynxEvosAttacks:
+CladilloEvosAttacks:
+	db EVOLVE_LEVEL, 31, ARMORDILLO
 	db 0 ; no more evolutions
+	db 1, ROLLOUT
 	db 1, TACKLE
+	db 1, DEFENSE_CURL
+	db 1, HEADBUTT
 	db 0 ; no more level-up moves
 
-ElectabuzzEvosAttacks:
+ArmordilloEvosAttacks:
 	db 0 ; no more evolutions
+	db 1, ROLLOUT
 	db 1, TACKLE
+	db 1, DEFENSE_CURL
+	db 1, HEADBUTT
 	db 0 ; no more level-up moves
 
-MagmarEvosAttacks:
+CloakroakEvosAttacks:
+db EVOLVE_LEVEL, 29, CAMOUFRAUG
 	db 0 ; no more evolutions
+	db 1, MUD_SLAP
+	db 1, SAND_ATTACK
 	db 1, TACKLE
+	db 1, PERISH_SONG
 	db 0 ; no more level-up moves
 
-PinsirEvosAttacks:
+CamoufraugEvosAttacks:
+	db EVOLVE_ITEM, SUN_STONE, MIRAUGGER
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, MUD_SLAP
+	db 1, SAND_ATTACK
+	db 1, HORN_ATTACK
+	db 1, PERISH_SONG
 	db 0 ; no more level-up moves
 
-TaurosEvosAttacks:
+MirauggerEvosAttacks:
 	db 0 ; no more evolutions
+	db 1, MUD_SLAP
+	db 1, SAND_ATTACK
 	db 1, TACKLE
+	db 1, PERISH_SONG
 	db 0 ; no more level-up moves
 
 MagikarpEvosAttacks:
@@ -1655,19 +1673,19 @@ HitmontopEvosAttacks:
 	db 0 ; no more level-up moves
 
 SmoochumEvosAttacks:
-	db EVOLVE_LEVEL, 30, JYNX
+	db EVOLVE_LEVEL, 30, CLADILLO
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
 ElekidEvosAttacks:
-	db EVOLVE_LEVEL, 30, ELECTABUZZ
+	db EVOLVE_LEVEL, 30, ARMORDILLO
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
 MagbyEvosAttacks:
-	db EVOLVE_LEVEL, 30, MAGMAR
+	db EVOLVE_LEVEL, 30, CLOAKROAK
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves

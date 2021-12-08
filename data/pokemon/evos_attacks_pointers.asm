@@ -125,11 +125,11 @@ EvosAttacksPointers::
 	dw ZiggrathEvosAttacks
 	dw CanvalogEvosAttacks
 	dw PlasmanianEvosAttacks
-	dw JynxEvosAttacks
-	dw ElectabuzzEvosAttacks
-	dw MagmarEvosAttacks
-	dw PinsirEvosAttacks
-	dw TaurosEvosAttacks
+	dw CladilloEvosAttacks
+	dw ArmordilloEvosAttacks
+	dw CloakroakEvosAttacks
+	dw CamoufraugEvosAttacks
+	dw MirauggerEvosAttacks
 	dw MagikarpEvosAttacks
 	dw GyaradosEvosAttacks
 	dw LaprasEvosAttacks

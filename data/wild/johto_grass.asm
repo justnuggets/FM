@@ -739,7 +739,7 @@ JohtoGrassWildMons:
 	db 24, SWINUB
 	db 25, KOMODOSE
 	db 23, KOMODOSE
-	db 22, JYNX
+	db 22, CLADILLO
 	; day
 	db 22, SWINUB
 	db 23, REPVIAL
@@ -747,7 +747,7 @@ JohtoGrassWildMons:
 	db 24, SWINUB
 	db 25, KOMODOSE
 	db 23, KOMODOSE
-	db 22, JYNX
+	db 22, CLADILLO
 	; nite
 	db 22, DELIBIRD
 	db 23, REPVIAL
@@ -766,16 +766,16 @@ JohtoGrassWildMons:
 	db 24, KOMODOSE
 	db 25, SWINUB
 	db 26, KOMODOSE
-	db 22, JYNX
-	db 24, JYNX
+	db 22, CLADILLO
+	db 24, CLADILLO
 	; day
 	db 23, SWINUB
 	db 24, REPVIAL
 	db 24, KOMODOSE
 	db 25, SWINUB
 	db 26, KOMODOSE
-	db 22, JYNX
-	db 24, JYNX
+	db 22, CLADILLO
+	db 24, CLADILLO
 	; nite
 	db 23, DELIBIRD
 	db 24, REPVIAL
@@ -794,16 +794,16 @@ JohtoGrassWildMons:
 	db 24, KOMODOSE
 	db 25, SWINUB
 	db 26, KOMODOSE
-	db 22, JYNX
-	db 24, JYNX
+	db 22, CLADILLO
+	db 24, CLADILLO
 	; day
 	db 23, SWINUB
 	db 24, REPVIAL
 	db 24, KOMODOSE
 	db 25, SWINUB
 	db 26, KOMODOSE
-	db 22, JYNX
-	db 24, JYNX
+	db 22, CLADILLO
+	db 24, CLADILLO
 	; nite
 	db 23, DELIBIRD
 	db 24, REPVIAL
@@ -821,17 +821,17 @@ JohtoGrassWildMons:
 	db 25, REPVIAL
 	db 25, KOMODOSE
 	db 26, SWINUB
-	db 22, JYNX
-	db 24, JYNX
-	db 26, JYNX
+	db 22, CLADILLO
+	db 24, CLADILLO
+	db 26, CLADILLO
 	; day
 	db 24, SWINUB
 	db 25, REPVIAL
 	db 25, KOMODOSE
 	db 26, SWINUB
-	db 22, JYNX
-	db 24, JYNX
-	db 26, JYNX
+	db 22, CLADILLO
+	db 24, CLADILLO
+	db 26, CLADILLO
 	; nite
 	db 24, DELIBIRD
 	db 25, REPVIAL
@@ -1072,7 +1072,7 @@ JohtoGrassWildMons:
 	db 43, SABARINTH
 	db 44, URSARING
 	db 42, STRAWMERRI
-	db 45, MAGMAR
+	db 45, CLOAKROAK
 	db 45, KOMODOSE
 	db 20, LARVITAR
 	db 15, LARVITAR
@@ -1080,7 +1080,7 @@ JohtoGrassWildMons:
 	db 43, SABARINTH
 	db 44, URSARING
 	db 42, STRAWMERRI
-	db 45, MAGMAR
+	db 45, CLOAKROAK
 	db 45, KOMODOSE
 	db 20, LARVITAR
 	db 15, LARVITAR
@@ -1493,7 +1493,7 @@ JohtoGrassWildMons:
 	db 16, LOCUTS
 	db 16, SURFALLO
 	db 16, AXALITL
-	db 13, TAUROS
+	db 13, MIRAUGGER
 	db 13, MILTANK
 	db 13, MILTANK
 	; day
@@ -1501,7 +1501,7 @@ JohtoGrassWildMons:
 	db 16, LOCUTS
 	db 16, SURFALLO
 	db 16, AXALITL
-	db 13, TAUROS
+	db 13, MIRAUGGER
 	db 13, MILTANK
 	db 13, MILTANK
 	; nite
@@ -1522,16 +1522,16 @@ JohtoGrassWildMons:
 	db 16, SURFALLO
 	db 16, AXALITL
 	db 15, MILTANK
-	db 15, TAUROS
-	db 15, TAUROS
+	db 15, MIRAUGGER
+	db 15, MIRAUGGER
 	; day
 	db 16, HOPSTOT
 	db 16, LOCUTS
 	db 16, SURFALLO
 	db 16, AXALITL
 	db 15, MILTANK
-	db 15, TAUROS
-	db 15, TAUROS
+	db 15, MIRAUGGER
+	db 15, MIRAUGGER
 	; nite
 	db 16, PORCELION
 	db 16, LOCUTS

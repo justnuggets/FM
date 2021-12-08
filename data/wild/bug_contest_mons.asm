@@ -9,5 +9,5 @@ ContestMons:
 	db 10, INGROVERT,    10, 16
 	db 10, SLICKRETE,      10, 17
 	db  5, PLASMANIAN,    13, 14
-	db  5, PINSIR,     13, 14
+	db  5, CAMOUFRAUG,     13, 14
 	db -1, FRITESHADE,   30, 40

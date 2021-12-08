@@ -125,11 +125,11 @@ NewPokedexOrder:
 	db ZIGGRATH 
 	db CANVALOG
 	db PLASMANIAN 
-	db JYNX 
-	db ELECTABUZZ
-	db MAGMAR 
-	db PINSIR  
-	db TAUROS  
+	db CLADILLO 
+	db ARMORDILLO
+	db CLOAKROAK 
+	db CAMOUFRAUG  
+	db MIRAUGGER  
 	db MAGIKARP
 	db GYARADOS 
 	db LAPRAS   

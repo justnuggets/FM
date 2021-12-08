@@ -42,7 +42,9 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke PLASMANIAN, 50
+	givepoke CLOAKROAK, 50
+	givepoke CAMOUFRAUG, 50
+	givepoke MIRAUGGER, 50
 	givepoke SUBMINO, 5, LEFTOVERS
 
 	closetext

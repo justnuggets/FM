@@ -123,11 +123,11 @@ BitmasksPointers:
 	dw ZiggrathBitmasks
 	dw CanvalogBitmasks
 	dw PlasmanianBitmasks
-	dw JynxBitmasks
-	dw ElectabuzzBitmasks
-	dw MagmarBitmasks
-	dw PinsirBitmasks
-	dw TaurosBitmasks
+	dw CladilloBitmasks
+	dw ArmordilloBitmasks
+	dw CloakroakBitmasks
+	dw CamoufraugBitmasks
+	dw MirauggerBitmasks
 	dw MagikarpBitmasks
 	dw GyaradosBitmasks
 	dw LaprasBitmasks

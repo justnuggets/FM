@@ -142,11 +142,11 @@
 	const ZIGGRATH    ; 79
 	const CANVALOG   ; 7a
 	const PLASMANIAN    ; 7b
-	const JYNX       ; 7c
-	const ELECTABUZZ ; 7d
-	const MAGMAR     ; 7e
-	const PINSIR     ; 7f
-	const TAUROS     ; 80
+	const CLADILLO       ; 7c
+	const ARMORDILLO ; 7d
+	const CLOAKROAK     ; 7e
+	const CAMOUFRAUG     ; 7f
+	const MIRAUGGER     ; 80
 	const MAGIKARP   ; 81
 	const GYARADOS   ; 82
 	const LAPRAS     ; 83

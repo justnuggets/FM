@@ -52,7 +52,7 @@ AlphabeticalPokedexOrder:
 	db DUNSPARCE
 	db EEVEE
 	db CRYSTALIS
-	db ELECTABUZZ
+	db ARMORDILLO
 	db TUTUFRUTTI
 	db ELEKID
 	db ENTEI
@@ -98,7 +98,7 @@ AlphabeticalPokedexOrder:
 	db FELECTRIC
 	db JOLTEON
 	db JUMPLUFF
-	db JYNX
+	db CLADILLO
 	db KABUTO
 	db KABUTOPS
 	db TERRAGER
@@ -121,7 +121,7 @@ AlphabeticalPokedexOrder:
 	db MAGBY
 	db MAGCARGO
 	db MAGIKARP
-	db MAGMAR
+	db CLOAKROAK
 	db SURFALLO
 	db HEMOGOBLIN
 	db ORIZURU
@@ -165,7 +165,7 @@ AlphabeticalPokedexOrder:
 	db TEAKBEAK
 	db PILOSWINE
 	db PINECO
-	db PINSIR
+	db CAMOUFRAUG
 	db POLITOED
 	db SINISTAR
 	db DRONNEL
@@ -221,7 +221,7 @@ AlphabeticalPokedexOrder:
 	db SUNKERN
 	db SWINUB
 	db PRESTICIAN
-	db TAUROS
+	db MIRAUGGER
 	db TEDDIURSA
 	db IMPAN
 	db DAETYR

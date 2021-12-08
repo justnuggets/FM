@@ -18,7 +18,7 @@ SpriteMons:
 	db TEAKBEAK
 	db ECHLIPSE
 	db GRASSNIP
-	db JYNX
+	db CLADILLO
 	db ZIGGRATH
 	db SUBMINO
 	db FELECTRIC
@@ -26,7 +26,7 @@ SpriteMons:
 	db CRYSTALIS
 	db SLICKRETE
 	db IMPAN
-	db TAUROS
+	db MIRAUGGER
 	db ROCKADE
 	db PAMPODOUR_P
 	db LAPRAS

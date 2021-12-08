@@ -498,7 +498,7 @@ BattleTowerMons:
 	bigdw 21 ; SDef
 	db "ANNO-N@@@@@"
 
-	db TAUROS
+	db MIRAUGGER
 	db KINGS_ROCK
 	db HEADBUTT, SWAGGER, TAIL_WHIP, ICY_WIND
 	dw 0 ; OT ID
@@ -917,7 +917,7 @@ BattleTowerMons:
 	bigdw 62 ; SDef
 	db "EBIWARA-@@@"
 
-	db TAUROS
+	db MIRAUGGER
 	db BRIGHTPOWDER
 	db THUNDERBOLT, EARTHQUAKE, HYPER_BEAM, BLIZZARD
 	dw 0 ; OT ID
@@ -1180,7 +1180,7 @@ BattleTowerMons:
 	bigdw 81 ; SDef
 	db "SUTA-MI-@@@"
 
-	db JYNX
+	db CLADILLO
 	db GOLD_BERRY
 	db BLIZZARD, LOVELY_KISS, DREAM_EATER, ATTRACT
 	dw 0 ; OT ID
@@ -1651,7 +1651,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 4
 
-	db TAUROS
+	db MIRAUGGER
 	db GOLD_BERRY
 	db RETURN, HYPER_BEAM, EARTHQUAKE, IRON_TAIL
 	dw 0 ; OT ID
@@ -2171,7 +2171,7 @@ BattleTowerMons:
 	bigdw 111 ; SDef
 	db "BETOBETON@@"
 
-	db ELECTABUZZ
+	db ARMORDILLO
 	db KINGS_ROCK
 	db LIGHT_SCREEN, THUNDERPUNCH, SWIFT, SNORE
 	dw 0 ; OT ID
@@ -3139,7 +3139,7 @@ BattleTowerMons:
 	bigdw 167 ; SDef
 	db "HERAKUROSU@"
 
-	db JYNX
+	db CLADILLO
 	db MIRACLEBERRY
 	db BLIZZARD, PSYCHIC_M, SHADOW_BALL, ICY_WIND
 	dw 0 ; OT ID
@@ -3925,7 +3925,7 @@ BattleTowerMons:
 	bigdw 197 ; SDef
 	db "HERUGA-@@@@"
 
-	db TAUROS
+	db MIRAUGGER
 	db GOLD_BERRY
 	db EARTHQUAKE, BODY_SLAM, IRON_TAIL, HYPER_BEAM
 	dw 0 ; OT ID
@@ -4133,7 +4133,7 @@ BattleTowerMons:
 	bigdw 221 ; SDef
 	db "PORIGON2@@@"
 
-	db JYNX
+	db CLADILLO
 	db QUICK_CLAW
 	db LOVELY_KISS, BLIZZARD, DREAM_EATER, PSYCHIC_M
 	dw 0 ; OT ID
@@ -4341,7 +4341,7 @@ BattleTowerMons:
 	bigdw 143 ; SDef
 	db "UTUBOtuTO@@"
 
-	db PINSIR
+	db CAMOUFRAUG
 	db GOLD_BERRY
 	db HYPER_BEAM, SUBMISSION, STRENGTH, TOXIC
 	dw 0 ; OT ID
@@ -4890,7 +4890,7 @@ BattleTowerMons:
 	bigdw 182 ; SDef
 	db "MIRUTANKU@@"
 
-	db TAUROS
+	db MIRAUGGER
 	db PINK_BOW
 	db THUNDERBOLT, HYPER_BEAM, ATTRACT, EARTHQUAKE
 	dw 0 ; OT ID
@@ -5049,7 +5049,7 @@ BattleTowerMons:
 	bigdw 278 ; SDef
 	db "SANDA-SU@@@"
 
-	db TAUROS
+	db MIRAUGGER
 	db KINGS_ROCK
 	db HYPER_BEAM, EARTHQUAKE, IRON_TAIL, THUNDERBOLT
 	dw 0 ; OT ID

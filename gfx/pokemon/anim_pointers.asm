@@ -123,11 +123,11 @@ AnimationPointers:
 	dw ZiggrathAnimation
 	dw CanvalogAnimation
 	dw PlasmanianAnimation
-	dw JynxAnimation
-	dw ElectabuzzAnimation
-	dw MagmarAnimation
-	dw PinsirAnimation
-	dw TaurosAnimation
+	dw CladilloAnimation
+	dw ArmordilloAnimation
+	dw CloakroakAnimation
+	dw CamoufraugAnimation
+	dw MirauggerAnimation
 	dw MagikarpAnimation
 	dw GyaradosAnimation
 	dw LaprasAnimation

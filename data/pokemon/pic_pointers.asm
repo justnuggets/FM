@@ -249,16 +249,16 @@ PokemonPicPointers::
 	dba_pic CanvalogBackpic
 	dba_pic PlasmanianFrontpic
 	dba_pic PlasmanianBackpic
-	dba_pic JynxFrontpic
-	dba_pic JynxBackpic
-	dba_pic ElectabuzzFrontpic
-	dba_pic ElectabuzzBackpic
-	dba_pic MagmarFrontpic
-	dba_pic MagmarBackpic
-	dba_pic PinsirFrontpic
-	dba_pic PinsirBackpic
-	dba_pic TaurosFrontpic
-	dba_pic TaurosBackpic
+	dba_pic CladilloFrontpic
+	dba_pic CladilloBackpic
+	dba_pic ArmordilloFrontpic
+	dba_pic ArmordilloBackpic
+	dba_pic CloakroakFrontpic
+	dba_pic CloakroakBackpic
+	dba_pic CamoufraugFrontpic
+	dba_pic CamoufraugBackpic
+	dba_pic MirauggerFrontpic
+	dba_pic MirauggerBackpic
 	dba_pic MagikarpFrontpic
 	dba_pic MagikarpBackpic
 	dba_pic GyaradosFrontpic

@@ -124,11 +124,11 @@ PokedexDataPointerTable:
 	dw ZiggrathPokedexEntry
 	dw CanvalogPokedexEntry
 	dw PlasmanianPokedexEntry
-	dw JynxPokedexEntry
-	dw ElectabuzzPokedexEntry
-	dw MagmarPokedexEntry
-	dw PinsirPokedexEntry
-	dw TaurosPokedexEntry
+	dw CladilloPokedexEntry
+	dw ArmordilloPokedexEntry
+	dw CloakroakPokedexEntry
+	dw CamoufraugPokedexEntry
+	dw MirauggerPokedexEntry
 	dw MagikarpPokedexEntry
 	dw GyaradosPokedexEntry
 	dw LaprasPokedexEntry

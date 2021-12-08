@@ -129,11 +129,11 @@ PokemonCries::
 	mon_cry CRY_PARAS,         0,  256 ; ZIGGRATH
 	mon_cry CRY_KRABBY,        8,  192 ; CANVALOG
 	mon_cry CRY_CATERPIE,      0,  256 ; PLASMANIAN
-	mon_cry CRY_DROWZEE,     255,  383 ; JYNX
-	mon_cry CRY_VOLTORB,     143,  383 ; ELECTABUZZ
-	mon_cry CRY_CHARMANDER,  255,  176 ; MAGMAR
-	mon_cry CRY_PIDGEOTTO,     0,  256 ; PINSIR
-	mon_cry CRY_SQUIRTLE,     17,  192 ; TAUROS
+	mon_cry CRY_DROWZEE,     255,  383 ; CLADILLO
+	mon_cry CRY_VOLTORB,     143,  383 ; ARMORDILLO
+	mon_cry CRY_CHARMANDER,  255,  176 ; CLOAKROAK
+	mon_cry CRY_PIDGEOTTO,     0,  256 ; CAMOUFRAUG
+	mon_cry CRY_SQUIRTLE,     17,  192 ; MIRAUGGER
 	mon_cry CRY_EKANS,       128,  128 ; MAGIKARP
 	mon_cry CRY_EKANS,         0,  256 ; GYARADOS
 	mon_cry CRY_LAPRAS,        0,  256 ; LAPRAS

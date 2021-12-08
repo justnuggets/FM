@@ -123,11 +123,11 @@ AnimationIdlePointers:
 	dw ZiggrathAnimationIdle
 	dw CanvalogAnimationIdle
 	dw PlasmanianAnimationIdle
-	dw JynxAnimationIdle
-	dw ElectabuzzAnimationIdle
-	dw MagmarAnimationIdle
-	dw PinsirAnimationIdle
-	dw TaurosAnimationIdle
+	dw CladilloAnimationIdle
+	dw ArmordilloAnimationIdle
+	dw CloakroakAnimationIdle
+	dw CamoufraugAnimationIdle
+	dw MirauggerAnimationIdle
 	dw MagikarpAnimationIdle
 	dw GyaradosAnimationIdle
 	dw LaprasAnimationIdle

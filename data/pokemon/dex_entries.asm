@@ -130,11 +130,11 @@ EspungePokedexEntry::     INCLUDE "data/pokemon/dex_entries/espunge.asm"
 ZiggrathPokedexEntry::    INCLUDE "data/pokemon/dex_entries/ziggrath.asm"
 CanvalogPokedexEntry::     INCLUDE "data/pokemon/dex_entries/canvalog.asm"
 PlasmanianPokedexEntry::    INCLUDE "data/pokemon/dex_entries/plasmanian.asm"
-JynxPokedexEntry::       INCLUDE "data/pokemon/dex_entries/jynx.asm"
-ElectabuzzPokedexEntry:: INCLUDE "data/pokemon/dex_entries/electabuzz.asm"
-MagmarPokedexEntry::     INCLUDE "data/pokemon/dex_entries/magmar.asm"
-PinsirPokedexEntry::     INCLUDE "data/pokemon/dex_entries/pinsir.asm"
-TaurosPokedexEntry::     INCLUDE "data/pokemon/dex_entries/tauros.asm"
+CladilloPokedexEntry::       INCLUDE "data/pokemon/dex_entries/cladillo.asm"
+ArmordilloPokedexEntry:: INCLUDE "data/pokemon/dex_entries/armordillo.asm"
+CloakroakPokedexEntry::     INCLUDE "data/pokemon/dex_entries/cloakroak.asm"
+CamoufraugPokedexEntry::     INCLUDE "data/pokemon/dex_entries/camoufraug.asm"
+MirauggerPokedexEntry::     INCLUDE "data/pokemon/dex_entries/miraugger.asm"
 
 
 SECTION "Pokedex Entries 129-192", ROMX

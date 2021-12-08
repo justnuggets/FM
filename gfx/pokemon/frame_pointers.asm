@@ -123,11 +123,11 @@ FramesPointers:
 	dw ZiggrathFrames
 	dw CanvalogFrames
 	dw PlasmanianFrames
-	dw JynxFrames
-	dw ElectabuzzFrames
-	dw MagmarFrames
-	dw PinsirFrames
-	dw TaurosFrames
+	dw CladilloFrames
+	dw ArmordilloFrames
+	dw CloakroakFrames
+	dw CamoufraugFrames
+	dw MirauggerFrames
 	dw MagikarpFrames
 	dw GyaradosFrames
 	dw LaprasFrames
