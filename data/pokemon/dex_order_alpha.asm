@@ -3,16 +3,16 @@
 AlphabeticalPokedexOrder:
 	table_width 1, AlphabeticalPokedexOrder
 	db BAGROUND
-	db AERODACTYL
+	db FARIMENTAL
 	db AIPOM
 	db CAULDEGAR
 	db AMPHAROS
 	db HAILOTH
 	db BUSHIDUDE
 	db ARIADOS
-	db ARTICUNO
+	db ALTBOT
 	db AZUMARILL
-	db BAYLEEF
+	db TSUKIMIKO
 	db OPOSSTER
 	db BELLOSSOM
 	db SLIVERFISH
@@ -26,7 +26,7 @@ AlphabeticalPokedexOrder:
 	db HAERAZOR
 	db GRASSNIP
 	db LOPSOIL
-	db CHIKORITA
+	db GOTHEDRAL
 	db CHINCHOU
 	db ECHNEEDO
 	db ECHLIPSE
@@ -36,7 +36,7 @@ AlphabeticalPokedexOrder:
 	db CROBAT
 	db CROCONAW
 	db SKARDINE
-	db CYNDAQUIL
+	db SMOKAI
 	db DELIBIRD
 	db MARSKRAT
 	db BUGGLAR
@@ -44,9 +44,9 @@ AlphabeticalPokedexOrder:
 	db SEARLING
 	db PLATYRUS
 	db DONPHAN
-	db DRAGONAIR
-	db DRAGONITE
-	db DRATINI
+	db ACROMAT
+	db PARAGODA
+	db TRAUMAT
 	db STRAWMENAD
 	db SPYDAR
 	db DUNSPARCE
@@ -129,14 +129,14 @@ AlphabeticalPokedexOrder:
 	db MAREEP
 	db MARILL
 	db SCRUMSHEF
-	db MEGANIUM
+	db ZONBI
 	db PORCELION
 	db DRIPPOUR
-	db MEW
-	db MEWTWO
+	db FEARTRESS
+	db DOOMSTONE
 	db MILTANK
 	db MISDREAVUS
-	db MOLTRES
+	db PUMMAT
 	db CANVALOG
 	db CRESCALDO
 	db MURKROW
@@ -172,12 +172,12 @@ AlphabeticalPokedexOrder:
 	db RUMBLEBEE
 	db ANTENNIAN
 	db IGNIMENTAL
-	db PORYGO2
+	db MOLUMENTAL
 	db ORIGERON
 	db WALLOPY
 	db PUPITAR
 	db QUAGSIRE
-	db QUILAVA
+	db TROLLGORE
 	db QWILFISH
 	db WOODRILL
 	db RAIKOU
@@ -203,15 +203,15 @@ AlphabeticalPokedexOrder:
 	db SLOWKING
 	db TELEKAPI
 	db SLUGMA
-	db SMEARGLE
+	db ALUMENTAL
 	db SMOOCHUM
 	db SNEASEL
-	db SNORLAX
+	db CTRLBOT
 	db SNUBBULL
 	db CHAWPPER
 	db SPINARAK
 	db CUBBURN
-	db STANTLER
+	db VILEMENTAL
 	db ZIGGRATH
 	db ESPUNGE
 	db STEELIX
@@ -227,10 +227,10 @@ AlphabeticalPokedexOrder:
 	db DAETYR
 	db TOGEPI
 	db TOGETIC
-	db TOTODILE
-	db TYPHLOSION
+	db RENDEREXE
+	db GEXEL
 	db TYRANITAR
-	db TYROGUE
+	db SALAMENTAL
 	db UMBREON
 	db UNOWN
 	db URSARING
@@ -251,6 +251,6 @@ AlphabeticalPokedexOrder:
 	db WOOPER
 	db XATU
 	db YANMA
-	db ZAPDOS
+	db DELBOT
 	db REPVIAL
 	assert_table_length NUM_POKEMON

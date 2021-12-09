@@ -137,27 +137,27 @@ FramesPointers:
 	dw SedimentalFrames
 	dw GaiamentalFrames
 	dw IgnimentalFrames
-	dw Porygo2Frames
-	dw StantlerFrames
-	dw SmeargleFrames
-	dw TyrogueFrames
-	dw AerodactylFrames
-	dw SnorlaxFrames
-	dw ArticunoFrames
-	dw ZapdosFrames
-	dw MoltresFrames
-	dw DratiniFrames
-	dw DragonairFrames
-	dw DragoniteFrames
-	dw MewtwoFrames
-	dw MewFrames
-	dw ChikoritaFrames
-	dw BayleefFrames
-	dw MeganiumFrames
-	dw CyndaquilFrames
-	dw QuilavaFrames
-	dw TyphlosionFrames
-	dw TotodileFrames
+	dw MolumentalFrames
+	dw VilementalFrames
+	dw AlumentalFrames
+	dw SalamentalFrames
+	dw FarimentalFrames
+	dw CtrlbotFrames
+	dw AltbotFrames
+	dw DelbotFrames
+	dw PummatFrames
+	dw TraumatFrames
+	dw AcromatFrames
+	dw ParagodaFrames
+	dw DoomstoneFrames
+	dw FeartressFrames
+	dw GothedralFrames
+	dw TsukimikoFrames
+	dw ZonbiFrames
+	dw SmokaiFrames
+	dw TrollgoreFrames
+	dw GexelFrames
+	dw RenderexeFrames
 	dw CroconawFrames
 	dw FeraligatrFrames
 	dw SentretFrames

@@ -3952,11 +3952,11 @@ BattleTower_UbersCheck:
 .loop
 	push af
 	ld a, [de]
-	cp MEWTWO
+	cp SUBMINO ; UBER
 	jr z, .uber
-	cp MEW
+	cp SUBMINO ; UBER
 	jr z, .uber
-	cp LUGIA
+	cp SUBMINO ; UBER
 	jr c, .next
 	cp NUM_POKEMON + 1
 	jr nc, .next

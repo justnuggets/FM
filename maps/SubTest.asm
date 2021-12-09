@@ -42,10 +42,8 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke OMASTAR, 50
-	givepoke OMANYTE, 50
-	givepoke KABUTOPS, 50
-	givepoke KABUTO, 50
+	givepoke GEXEL, 50, REVIVE
+	givepoke RENDEREXE, 50
 	givepoke SUBMINO, 5, LEFTOVERS
 
 	closetext
@@ -56,7 +54,8 @@ SubTest_MapEvents:
 	
 	def_warp_events
 	;warp_event  4,  1, PLAYERS_HOUSE_2F, 1
-	warp_event  4,  1, DAY_CARE, 1
+	;warp_event  4,  1, DAY_CARE, 1
+	warp_event  4,  1, OLIVINE_CITY, 1
 	;warp_event  4,  1, RUINS_OF_ALPH_OUTSIDE, 2
 	def_coord_events
 	

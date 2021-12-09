@@ -393,7 +393,7 @@ endr
 	jr nz, .valid
 
 .invalid
-	ld a, SMEARGLE
+	ld a, SUBMINO
 	ld [hl], a
 
 .valid

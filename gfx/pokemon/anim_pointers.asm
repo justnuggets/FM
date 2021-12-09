@@ -137,27 +137,27 @@ AnimationPointers:
 	dw SedimentalAnimation
 	dw GaiamentalAnimation
 	dw IgnimentalAnimation
-	dw Porygo2Animation
-	dw StantlerAnimation
-	dw SmeargleAnimation
-	dw TyrogueAnimation
-	dw AerodactylAnimation
-	dw SnorlaxAnimation
-	dw ArticunoAnimation
-	dw ZapdosAnimation
-	dw MoltresAnimation
-	dw DratiniAnimation
-	dw DragonairAnimation
-	dw DragoniteAnimation
-	dw MewtwoAnimation
-	dw MewAnimation
-	dw ChikoritaAnimation
-	dw BayleefAnimation
-	dw MeganiumAnimation
-	dw CyndaquilAnimation
-	dw QuilavaAnimation
-	dw TyphlosionAnimation
-	dw TotodileAnimation
+	dw MolumentalAnimation
+	dw VilementalAnimation
+	dw AlumentalAnimation
+	dw SalamentalAnimation
+	dw FarimentalAnimation
+	dw CtrlbotAnimation
+	dw AltbotAnimation
+	dw DelbotAnimation
+	dw PummatAnimation
+	dw TraumatAnimation
+	dw AcromatAnimation
+	dw ParagodaAnimation
+	dw DoomstoneAnimation
+	dw FeartressAnimation
+	dw GothedralAnimation
+	dw TsukimikoAnimation
+	dw ZonbiAnimation
+	dw SmokaiAnimation
+	dw TrollgoreAnimation
+	dw GexelAnimation
+	dw RenderexeAnimation
 	dw CroconawAnimation
 	dw FeraligatrAnimation
 	dw SentretAnimation

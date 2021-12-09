@@ -373,17 +373,17 @@ JohtoGrassWildMons:
 	db 22, NATU
 	db 18, NATU
 	db 24, NATU
-	db 20, SMEARGLE
-	db 22, SMEARGLE
-	db 22, SMEARGLE
+	db 20, ALUMENTAL
+	db 22, ALUMENTAL
+	db 22, ALUMENTAL
 	; day
 	db 20, NATU
 	db 22, NATU
 	db 18, NATU
 	db 24, NATU
-	db 20, SMEARGLE
-	db 22, SMEARGLE
-	db 22, SMEARGLE
+	db 20, ALUMENTAL
+	db 22, ALUMENTAL
+	db 22, ALUMENTAL
 	; nite
 	db 20, NATU
 	db 22, NATU
@@ -1478,9 +1478,9 @@ JohtoGrassWildMons:
 	db 15, POSSUMUS
 	; nite
 	db 13, SPINARAK
-	db 14, STANTLER
+	db 14, VILEMENTAL
 	db 15, HOOTHOOT
-	db 16, STANTLER
+	db 16, VILEMENTAL
 	db 15, NOCTOWL
 	db 15, ARIADOS
 	db 15, ARIADOS

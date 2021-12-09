@@ -137,27 +137,27 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw OmanyteEggMoves
 	dw NoEggMoves
-	dw KabutoEggMoves
+	dw VilementalEggMoves
 	dw NoEggMoves
-	dw AerodactylEggMoves
-	dw SnorlaxEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw DratiniEggMoves
+	dw SalamentalEggMoves
+	dw FarimentalEggMoves
+	dw CtrlbotEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw NoEggMoves
-	dw ChikoritaEggMoves
-	dw NoEggMoves
-	dw NoEggMoves
-	dw CyndaquilEggMoves
+	dw TraumatEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw TotodileEggMoves
+	dw NoEggMoves
+	dw NoEggMoves
+	dw GothedralEggMoves
+	dw NoEggMoves
+	dw NoEggMoves
+	dw SmokaiEggMoves
+	dw NoEggMoves
+	dw NoEggMoves
+	dw RenderexeEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw SentretEggMoves
@@ -232,10 +232,10 @@ EggMovePointers::
 	dw NoEggMoves
 	dw PhanpyEggMoves
 	dw NoEggMoves
+	dw OmanyteEggMoves
 	dw NoEggMoves
-	dw StantlerEggMoves
+	dw KabutoEggMoves
 	dw NoEggMoves
-	dw TyrogueEggMoves
 	dw NoEggMoves
 	dw SmoochumEggMoves
 	dw ElekidEggMoves

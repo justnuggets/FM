@@ -137,27 +137,27 @@ BitmasksPointers:
 	dw SedimentalBitmasks
 	dw GaiamentalBitmasks
 	dw IgnimentalBitmasks
-	dw Porygo2Bitmasks
-	dw StantlerBitmasks
-	dw SmeargleBitmasks
-	dw TyrogueBitmasks
-	dw AerodactylBitmasks
-	dw SnorlaxBitmasks
-	dw ArticunoBitmasks
-	dw ZapdosBitmasks
-	dw MoltresBitmasks
-	dw DratiniBitmasks
-	dw DragonairBitmasks
-	dw DragoniteBitmasks
-	dw MewtwoBitmasks
-	dw MewBitmasks
-	dw ChikoritaBitmasks
-	dw BayleefBitmasks
-	dw MeganiumBitmasks
-	dw CyndaquilBitmasks
-	dw QuilavaBitmasks
-	dw TyphlosionBitmasks
-	dw TotodileBitmasks
+	dw MolumentalBitmasks
+	dw VilementalBitmasks
+	dw AlumentalBitmasks
+	dw SalamentalBitmasks
+	dw FarimentalBitmasks
+	dw CtrlbotBitmasks
+	dw AltbotBitmasks
+	dw DelbotBitmasks
+	dw PummatBitmasks
+	dw TraumatBitmasks
+	dw AcromatBitmasks
+	dw ParagodaBitmasks
+	dw DoomstoneBitmasks
+	dw FeartressBitmasks
+	dw GothedralBitmasks
+	dw TsukimikoBitmasks
+	dw ZonbiBitmasks
+	dw SmokaiBitmasks
+	dw TrollgoreBitmasks
+	dw GexelBitmasks
+	dw RenderexeBitmasks
 	dw CroconawBitmasks
 	dw FeraligatrBitmasks
 	dw SentretBitmasks

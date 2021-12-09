@@ -139,27 +139,27 @@ EvosAttacksPointers::
 	dw SedimentalEvosAttacks
 	dw GaiamentalEvosAttacks
 	dw IgnimentalEvosAttacks
-	dw Porygo2EvosAttacks
-	dw StantlerEvosAttacks
-	dw SmeargleEvosAttacks
-	dw TyrogueEvosAttacks
-	dw AerodactylEvosAttacks
-	dw SnorlaxEvosAttacks
-	dw ArticunoEvosAttacks
-	dw ZapdosEvosAttacks
-	dw MoltresEvosAttacks
-	dw DratiniEvosAttacks
-	dw DragonairEvosAttacks
-	dw DragoniteEvosAttacks
-	dw MewtwoEvosAttacks
-	dw MewEvosAttacks
-	dw ChikoritaEvosAttacks
-	dw BayleefEvosAttacks
-	dw MeganiumEvosAttacks
-	dw CyndaquilEvosAttacks
-	dw QuilavaEvosAttacks
-	dw TyphlosionEvosAttacks
-	dw TotodileEvosAttacks
+	dw MolumentalEvosAttacks
+	dw VilementalEvosAttacks
+	dw AlumentalEvosAttacks
+	dw SalamentalEvosAttacks
+	dw FarimentalEvosAttacks
+	dw CtrlbotEvosAttacks
+	dw AltbotEvosAttacks
+	dw DelbotEvosAttacks
+	dw PummatEvosAttacks
+	dw TraumatEvosAttacks
+	dw AcromatEvosAttacks
+	dw ParagodaEvosAttacks
+	dw DoomstoneEvosAttacks
+	dw FeartressEvosAttacks
+	dw GothedralEvosAttacks
+	dw TsukimikoEvosAttacks
+	dw ZonbiEvosAttacks
+	dw SmokaiEvosAttacks
+	dw TrollgoreEvosAttacks
+	dw GexelEvosAttacks
+	dw RenderexeEvosAttacks
 	dw CroconawEvosAttacks
 	dw FeraligatrEvosAttacks
 	dw SentretEvosAttacks

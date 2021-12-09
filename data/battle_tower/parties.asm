@@ -186,7 +186,7 @@ BattleTowerMons:
 	bigdw 26 ; SDef
 	db "MIRUTANKU@@"
 
-	db AERODACTYL
+	db FARIMENTAL
 	db LEFTOVERS
 	db HYPER_BEAM, SUPERSONIC, EARTHQUAKE, BITE
 	dw 0 ; OT ID
@@ -264,7 +264,7 @@ BattleTowerMons:
 	bigdw 27 ; SDef
 	db "NIyu-RA@@@@"
 
-	db PORYGO2
+	db MOLUMENTAL
 	db BRIGHTPOWDER
 	db PSYCHIC_M, BLIZZARD, HYPER_BEAM, TRI_ATTACK
 	dw 0 ; OT ID
@@ -394,7 +394,7 @@ BattleTowerMons:
 	bigdw 39 ; SDef
 	db "HAPINASU@@@"
 
-	db SNORLAX
+	db CTRLBOT
 	db MIRACLEBERRY
 	db HEADBUTT, PROTECT, SNORE, SURF
 	dw 0 ; OT ID
@@ -761,7 +761,7 @@ BattleTowerMons:
 	bigdw 46 ; SDef
 	db "NAtuSI-@@@@"
 
-	db AERODACTYL
+	db FARIMENTAL
 	db GOLD_BERRY
 	db REST, HYPER_BEAM, EARTHQUAKE, DRAGON_RAGE
 	dw 0 ; OT ID
@@ -1362,7 +1362,7 @@ BattleTowerMons:
 	bigdw 76 ; SDef
 	db "KUROBAtuTO@"
 
-	db PORYGO2
+	db MOLUMENTAL
 	db BRIGHTPOWDER
 	db PSYCHIC_M, RECOVER, HYPER_BEAM, TRI_ATTACK
 	dw 0 ; OT ID
@@ -1703,7 +1703,7 @@ BattleTowerMons:
 	bigdw 115 ; SDef
 	db "KINGUDORA@@"
 
-	db SNORLAX
+	db CTRLBOT
 	db QUICK_CLAW
 	db ATTRACT, BODY_SLAM, PSYCH_UP, EARTHQUAKE
 	dw 0 ; OT ID
@@ -1963,7 +1963,7 @@ BattleTowerMons:
 	bigdw 103 ; SDef
 	db "YADORAN@@@@"
 
-	db PORYGO2
+	db MOLUMENTAL
 	db NO_ITEM
 	db CONVERSION2, CONVERSION, PSYBEAM, THIEF
 	dw 0 ; OT ID
@@ -2278,7 +2278,7 @@ BattleTowerMons:
 	bigdw 279 ; SDef
 	db "TUBOTUBO@@@"
 
-	db SNORLAX
+	db CTRLBOT
 	db LEFTOVERS
 	db HYPER_BEAM, EARTHQUAKE, SURF, PSYCH_UP
 	dw 0 ; OT ID
@@ -2512,7 +2512,7 @@ BattleTowerMons:
 	bigdw 126 ; SDef
 	db "MARUMAIN@@@"
 
-	db AERODACTYL
+	db FARIMENTAL
 	db KINGS_ROCK
 	db HYPER_BEAM, EARTHQUAKE, FIRE_BLAST, IRON_TAIL
 	dw 0 ; OT ID
@@ -2564,7 +2564,7 @@ BattleTowerMons:
 	bigdw 127 ; SDef
 	db "KUROBAtuTO@"
 
-	db ZAPDOS
+	db DELBOT
 	db MIRACLEBERRY
 	db DRILL_PECK, THUNDERBOLT, THUNDER_WAVE, HYPER_BEAM
 	dw 0 ; OT ID
@@ -2720,7 +2720,7 @@ BattleTowerMons:
 	bigdw 135 ; SDef
 	db "GIyaRADOSU@"
 
-	db ARTICUNO
+	db ALTBOT
 	db GOLD_BERRY
 	db BLIZZARD, HYPER_BEAM, ROAR, ICY_WIND
 	dw 0 ; OT ID
@@ -2827,7 +2827,7 @@ BattleTowerMons:
 	bigdw 153 ; SDef
 	db "HERUGA-@@@@"
 
-	db PORYGO2
+	db MOLUMENTAL
 	db LEFTOVERS
 	db BLIZZARD, RECOVER, TOXIC, PSYCHIC_M
 	dw 0 ; OT ID
@@ -2879,7 +2879,7 @@ BattleTowerMons:
 	bigdw 158 ; SDef
 	db "KAIRIKI-@@@"
 
-	db ZAPDOS
+	db DELBOT
 	db MINT_BERRY
 	db REST, DRILL_PECK, THUNDERBOLT, THUNDER_WAVE
 	dw 0 ; OT ID
@@ -2931,7 +2931,7 @@ BattleTowerMons:
 	bigdw 122 ; SDef
 	db "SO-NANSU@@@"
 
-	db AERODACTYL
+	db FARIMENTAL
 	db LEFTOVERS
 	db HYPER_BEAM, SUPERSONIC, EARTHQUAKE, BITE
 	dw 0 ; OT ID
@@ -2957,7 +2957,7 @@ BattleTowerMons:
 	bigdw 142 ; SDef
 	db "PUTERA@@@@@"
 
-	db DRAGONITE
+	db PARAGODA
 	db MIRACLEBERRY
 	db HYPER_BEAM, ICY_WIND, THUNDERBOLT, SURF
 	dw 0 ; OT ID
@@ -3087,7 +3087,7 @@ BattleTowerMons:
 	bigdw 215 ; SDef
 	db "HAPINASU@@@"
 
-	db SNORLAX
+	db CTRLBOT
 	db PINK_BOW
 	db ROCK_SLIDE, SURF, BODY_SLAM, EARTHQUAKE
 	dw 0 ; OT ID
@@ -3402,7 +3402,7 @@ BattleTowerMons:
 	bigdw 250 ; SDef
 	db "HAPINASU@@@"
 
-	db SNORLAX
+	db CTRLBOT
 	db LEFTOVERS
 	db ROCK_SLIDE, EARTHQUAKE, BLIZZARD, SHADOW_BALL
 	dw 0 ; OT ID
@@ -3480,7 +3480,7 @@ BattleTowerMons:
 	bigdw 203 ; SDef
 	db "BANGIRASU@@"
 
-	db ZAPDOS
+	db DELBOT
 	db GOLD_BERRY
 	db THUNDERBOLT, DRILL_PECK, THUNDER_WAVE, HYPER_BEAM
 	dw 0 ; OT ID
@@ -3873,7 +3873,7 @@ BattleTowerMons:
 	bigdw 221 ; SDef
 	db "SANDA-SU@@@"
 
-	db SNORLAX
+	db CTRLBOT
 	db LEFTOVERS
 	db REST, BELLY_DRUM, SNORE, EARTHQUAKE
 	dw 0 ; OT ID
@@ -4081,7 +4081,7 @@ BattleTowerMons:
 	bigdw 221 ; SDef
 	db "KINGUDORA@@"
 
-	db DRAGONITE
+	db PARAGODA
 	db GOLD_BERRY
 	db THUNDER_WAVE, SURF, THUNDERBOLT, OUTRAGE
 	dw 0 ; OT ID
@@ -4107,7 +4107,7 @@ BattleTowerMons:
 	bigdw 228 ; SDef
 	db "KAIRIyu-@@@"
 
-	db PORYGO2
+	db MOLUMENTAL
 	db LEFTOVERS
 	db PSYCHIC_M, RECOVER, HYPER_BEAM, TRI_ATTACK
 	dw 0 ; OT ID
@@ -4211,7 +4211,7 @@ BattleTowerMons:
 	bigdw 185 ; SDef
 	db "EA-MUDO@@@@"
 
-	db MOLTRES
+	db PUMMAT
 	db CHARCOAL
 	db FLAMETHROWER, SKY_ATTACK, STEEL_WING, HYPER_BEAM
 	dw 0 ; OT ID
@@ -4237,7 +4237,7 @@ BattleTowerMons:
 	bigdw 207 ; SDef
 	db "HUaIYA-@@@@"
 
-	db AERODACTYL
+	db FARIMENTAL
 	db MIRACLEBERRY
 	db HYPER_BEAM, REST, EARTHQUAKE, ROAR
 	dw 0 ; OT ID
@@ -4422,7 +4422,7 @@ BattleTowerMons:
 	bigdw 314 ; SDef
 	db "BURAtuKI-@@"
 
-	db DRAGONITE
+	db PARAGODA
 	db QUICK_CLAW
 	db FIRE_BLAST, HYPER_BEAM, OUTRAGE, BLIZZARD
 	dw 0 ; OT ID
@@ -4526,7 +4526,7 @@ BattleTowerMons:
 	bigdw 225 ; SDef
 	db "KUROBAtuTO@"
 
-	db PORYGO2
+	db MOLUMENTAL
 	db QUICK_CLAW
 	db TOXIC, PSYCHIC_M, RECOVER, PROTECT
 	dw 0 ; OT ID
@@ -4682,7 +4682,7 @@ BattleTowerMons:
 	bigdw 230 ; SDef
 	db "KAIRIKI-@@@"
 
-	db SNORLAX
+	db CTRLBOT
 	db MIRACLEBERRY
 	db FIRE_BLAST, SURF, EARTHQUAKE, HYPER_BEAM
 	dw 0 ; OT ID

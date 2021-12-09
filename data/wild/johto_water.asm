@@ -118,7 +118,7 @@ JohtoWaterWildMons:
 	db 4 percent ; encounter rate
 	db 15, TRUBBLE
 	db 10, TRUBBLE
-	db 10, DRATINI
+	db 10, TRAUMAT
 	end_water_wildmons
 
 	def_water_wildmons OLIVINE_PORT

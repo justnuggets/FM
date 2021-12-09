@@ -31,8 +31,8 @@ SpriteMons:
 	db PAMPODOUR_P
 	db SWINEDEL
 	db ORCHANTIS
-	db MOLTRES
-	db SNORLAX
+	db PUMMAT
+	db CTRLBOT
 	db GOLGRANITE
 	db LUGIA
 	db HO_OH

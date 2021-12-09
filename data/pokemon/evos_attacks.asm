@@ -496,6 +496,8 @@ OrigeronEvosAttacks:
 	db 0 ; no more level-up moves
 
 BinarsEvosAttacks:
+	db EVOLVE_STAT, 20, ATK_LT_DEF, BUSHIDUDE
+	db EVOLVE_STAT, 20, ATK_GT_DEF, SINISTAR
 	db EVOLVE_ITEM, FIRE_STONE, BUSHIDUDE
 	db 0 ; no more evolutions
 	db 1, CUT
@@ -1159,121 +1161,153 @@ IgnimentalEvosAttacks:
 	db 1, EMBER
 	db 0 ; no more level-up moves
 	
-Porygo2EvosAttacks:
+MolumentalEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, CONVERSION
 	db 1, POWDER_SNOW
 	db 1, WATER_GUN
 	db 0 ; no more level-up moves
 	
-StantlerEvosAttacks:
+VilementalEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, CONVERSION
 	db 1, CRUNCH
 	db 0 ; no more level-up moves
 	
-SmeargleEvosAttacks:
+AlumentalEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, CONVERSION
 	db 1, STEEL_WING
 	db 0 ; no more level-up moves
 
-TyrogueEvosAttacks:
-	db EVOLVE_STAT, 20, ATK_LT_DEF, APASHEE
-	db EVOLVE_STAT, 20, ATK_GT_DEF, SOUSFLE
-	db EVOLVE_STAT, 20, ATK_EQ_DEF, HITMONTOP
+SalamentalEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, CONVERSION
 	db 1, TWISTER
 	db 0 ; no more level-up moves
 	
-AerodactylEvosAttacks:
+FarimentalEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, CONVERSION
 	db 0 ; no more level-up moves
 
-SnorlaxEvosAttacks:
+CtrlbotEvosAttacks:
+db EVOLVE_LEVEL, 25, ALTBOT
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, EXTREMESPEED
+	db 1, DISABLE
+	db 1, THUNDER_WAVE
 	db 0 ; no more level-up moves
 
-ArticunoEvosAttacks:
+AltbotEvosAttacks:
+db EVOLVE_ITEM, MAX_POTION, DELBOT
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, EXTREMESPEED
+	db 1, DISABLE
+	db 1, THUNDER_WAVE
 	db 0 ; no more level-up moves
 
-ZapdosEvosAttacks:
+DelbotEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, EXTREMESPEED
+	db 1, DISABLE
+	db 1, THUNDER_WAVE
 	db 0 ; no more level-up moves
 
-MoltresEvosAttacks:
+PummatEvosAttacks:
+db EVOLVE_LEVEL, 25, TRAUMAT
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, SELFDESTRUCT
+	db 1, COUNTER
+	db 1, SEISMIC_TOSS
+	db 1, HI_JUMP_KICK
 	db 0 ; no more level-up moves
 
-DratiniEvosAttacks:
-	db EVOLVE_LEVEL, 30, DRAGONAIR
+TraumatEvosAttacks:
+db EVOLVE_ITEM, REVIVE, ACROMAT
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, SELFDESTRUCT
+	db 1, COUNTER
+	db 1, SEISMIC_TOSS
+	db 1, HI_JUMP_KICK
 	db 0 ; no more level-up moves
 
-DragonairEvosAttacks:
-	db EVOLVE_LEVEL, 55, DRAGONITE
+AcromatEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, SELFDESTRUCT
+	db 1, COUNTER
+	db 1, SEISMIC_TOSS
+	db 1, HI_JUMP_KICK
 	db 0 ; no more level-up moves
 
-DragoniteEvosAttacks:
+ParagodaEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, ROCK_THROW
+	db 1, ANCIENTPOWER
+	db 1, SHADOW_BALL
 	db 0 ; no more level-up moves
 	
-MewtwoEvosAttacks:
+DoomstoneEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, ROCK_THROW
+	db 1, ANCIENTPOWER
+	db 1, SHADOW_BALL
+	db 0 ; no more level-up moves
+
+FeartressEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, ROCK_THROW
+	db 1, ANCIENTPOWER
+	db 1, SHADOW_BALL
+	db 0 ; no more level-up moves
+
+GothedralEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, ROCK_THROW
+	db 1, ANCIENTPOWER
+	db 1, SHADOW_BALL
+	db 0 ; no more level-up moves
+
+TsukimikoEvosAttacks:
+	db EVOLVE_LEVEL, 32, ZONBI
+	db 0 ; no more evolutions
+	db 1, PSYBEAM
+	db 1, NIGHT_SHADE
+	db 1, CURSE
+	db 1, DESTINY_BOND
+	db 0 ; no more level-up moves
+
+ZonbiEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, BITE
+	db 1, NIGHT_SHADE
+	db 1, CURSE
+	db 1, DESTINY_BOND
+	db 0 ; no more level-up moves
+
+SmokaiEvosAttacks:
+	db EVOLVE_LEVEL, 14, TROLLGORE
+	db 0 ; no more evolutions
+	db 1, EMBER
+	db 1, MEAN_LOOK
+	db 1, FIRE_PUNCH
+	db 1, THUNDERPUNCH
+	db 0 ; no more level-up moves
+
+TrollgoreEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, EMBER
+	db 1, MEAN_LOOK
+	db 1, FIRE_PUNCH
+	db 1, THUNDERPUNCH
+	db 0 ; no more level-up moves
+
+GexelEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-MewEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-
-ChikoritaEvosAttacks:
-	db EVOLVE_LEVEL, 16, BAYLEEF
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-
-BayleefEvosAttacks:
-	db EVOLVE_LEVEL, 32, MEGANIUM
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-
-MeganiumEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-
-CyndaquilEvosAttacks:
-	db EVOLVE_LEVEL, 14, QUILAVA
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-
-QuilavaEvosAttacks:
-	db EVOLVE_LEVEL, 36, TYPHLOSION
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-
-TyphlosionEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-
-TotodileEvosAttacks:
+RenderexeEvosAttacks:
 	db EVOLVE_LEVEL, 18, CROCONAW
 	db 0 ; no more evolutions
 	db 1, TACKLE

@@ -137,27 +137,27 @@ AnimationIdlePointers:
 	dw SedimentalAnimationIdle
 	dw GaiamentalAnimationIdle
 	dw IgnimentalAnimationIdle
-	dw Porygo2AnimationIdle
-	dw StantlerAnimationIdle
-	dw SmeargleAnimationIdle
-	dw TyrogueAnimationIdle
-	dw AerodactylAnimationIdle
-	dw SnorlaxAnimationIdle
-	dw ArticunoAnimationIdle
-	dw ZapdosAnimationIdle
-	dw MoltresAnimationIdle
-	dw DratiniAnimationIdle
-	dw DragonairAnimationIdle
-	dw DragoniteAnimationIdle
-	dw MewtwoAnimationIdle
-	dw MewAnimationIdle
-	dw ChikoritaAnimationIdle
-	dw BayleefAnimationIdle
-	dw MeganiumAnimationIdle
-	dw CyndaquilAnimationIdle
-	dw QuilavaAnimationIdle
-	dw TyphlosionAnimationIdle
-	dw TotodileAnimationIdle
+	dw MolumentalAnimationIdle
+	dw VilementalAnimationIdle
+	dw AlumentalAnimationIdle
+	dw SalamentalAnimationIdle
+	dw FarimentalAnimationIdle
+	dw CtrlbotAnimationIdle
+	dw AltbotAnimationIdle
+	dw DelbotAnimationIdle
+	dw PummatAnimationIdle
+	dw TraumatAnimationIdle
+	dw AcromatAnimationIdle
+	dw ParagodaAnimationIdle
+	dw DoomstoneAnimationIdle
+	dw FeartressAnimationIdle
+	dw GothedralAnimationIdle
+	dw TsukimikoAnimationIdle
+	dw ZonbiAnimationIdle
+	dw SmokaiAnimationIdle
+	dw TrollgoreAnimationIdle
+	dw GexelAnimationIdle
+	dw RenderexeAnimationIdle
 	dw CroconawAnimationIdle
 	dw FeraligatrAnimationIdle
 	dw SentretAnimationIdle

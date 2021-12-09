@@ -97,7 +97,7 @@ FishGroups:
 	db  40 percent,     TRUBBLE,   40
 	db  70 percent,     time_group 9
 	db  90 percent + 1, TRUBBLE,   40
-	db 100 percent,     DRAGONAIR,  40
+	db 100 percent,     ACROMAT,  40
 
 .Qwilfish_Swarm_Old:
 	db  70 percent + 1, TRUBBLE,   5
@@ -157,7 +157,7 @@ FishGroups:
 	db  40 percent,     TRUBBLE,   10
 	db  70 percent,     time_group 17
 	db  90 percent + 1, TRUBBLE,   10
-	db 100 percent,     DRAGONAIR,  10
+	db 100 percent,     ACROMAT,  10
 
 .WhirlIslands_Old:
 	db  70 percent + 1, TRUBBLE,   10
@@ -217,16 +217,16 @@ TimeFishGroups:
 	db DIVIPER,    40,  DIVIPER,    40 ; 5
 	db SINISTAR,    20,  SINISTAR,    20 ; 6
 	db SINISTAR,    40,  SINISTAR,    40 ; 7
-	db DRATINI,    20,  DRATINI,    20 ; 8
-	db DRATINI,    40,  DRATINI,    40 ; 9
+	db TRAUMAT,    20,  TRAUMAT,    20 ; 8
+	db TRAUMAT,    40,  TRAUMAT,    40 ; 9
 	db QWILFISH,   20,  QWILFISH,   20 ; 10
 	db QWILFISH,   40,  QWILFISH,   40 ; 11
 	db REMORAID,   20,  REMORAID,   20 ; 12
 	db REMORAID,   40,  REMORAID,   40 ; 13
 	db GOLGRANITE,   20,  GOLGRANITE,   20 ; 14
 	db GOLGRANITE,   40,  GOLGRANITE,   40 ; 15
-	db DRATINI,    10,  DRATINI,    10 ; 16
-	db DRATINI,    10,  DRATINI,    10 ; 17
+	db TRAUMAT,    10,  TRAUMAT,    10 ; 16
+	db TRAUMAT,    10,  TRAUMAT,    10 ; 17
 	db DELPHORA,     20,  DELPHORA,     20 ; 18
 	db DELPHORA,     40,  DELPHORA,     40 ; 19
 	db IMPAN,  20,  IMPAN,  20 ; 20

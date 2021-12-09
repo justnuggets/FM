@@ -138,27 +138,27 @@ PokedexDataPointerTable:
 	dw SedimentalPokedexEntry
 	dw GaiamentalPokedexEntry
 	dw IgnimentalPokedexEntry
-	dw Porygo2PokedexEntry
-	dw StantlerPokedexEntry
-	dw SmearglePokedexEntry
-	dw TyroguePokedexEntry
-	dw AerodactylPokedexEntry
-	dw SnorlaxPokedexEntry
-	dw ArticunoPokedexEntry
-	dw ZapdosPokedexEntry
-	dw MoltresPokedexEntry
-	dw DratiniPokedexEntry
-	dw DragonairPokedexEntry
-	dw DragonitePokedexEntry
-	dw MewtwoPokedexEntry
-	dw MewPokedexEntry
-	dw ChikoritaPokedexEntry
-	dw BayleefPokedexEntry
-	dw MeganiumPokedexEntry
-	dw CyndaquilPokedexEntry
-	dw QuilavaPokedexEntry
-	dw TyphlosionPokedexEntry
-	dw TotodilePokedexEntry
+	dw MolumentalPokedexEntry
+	dw VilementalPokedexEntry
+	dw AlumentalPokedexEntry
+	dw SalamentalPokedexEntry
+	dw FarimentalPokedexEntry
+	dw CtrlbotPokedexEntry
+	dw AltbotPokedexEntry
+	dw DelbotPokedexEntry
+	dw PummatPokedexEntry
+	dw TraumatPokedexEntry
+	dw AcromatPokedexEntry
+	dw ParagodaPokedexEntry
+	dw DoomstonePokedexEntry
+	dw FeartressPokedexEntry
+	dw GothedralPokedexEntry
+	dw TsukimikoPokedexEntry
+	dw ZonbiPokedexEntry
+	dw SmokaiPokedexEntry
+	dw TrollgorePokedexEntry
+	dw GexelPokedexEntry
+	dw RenderexePokedexEntry
 	dw CroconawPokedexEntry
 	dw FeraligatrPokedexEntry
 	dw SentretPokedexEntry

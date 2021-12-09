@@ -412,40 +412,39 @@ ElecmentalEggMoves:
 	db CHARM
 	db -1 ; end
 
-OmanyteEggMoves:
-	db BUBBLEBEAM
-	db AURORA_BEAM
-	db SLAM
-	db SUPERSONIC
-	db HAZE
+VilementalEggMoves:
+	db REFLECT
+	db SPITE
+	db DISABLE
+	db LIGHT_SCREEN
+	db BITE
 	db -1 ; end
 
-KabutoEggMoves:
-	db BUBBLEBEAM
-	db AURORA_BEAM
+SalamentalEggMoves:
 	db RAPID_SPIN
-	db DIG
-	db FLAIL
+	db HI_JUMP_KICK
+	db MACH_PUNCH
+	db MIND_READER
 	db -1 ; end
 
-AerodactylEggMoves:
+FarimentalEggMoves:
 	db WHIRLWIND
 	db PURSUIT
 	db FORESIGHT
 	db -1 ; end
 
-SnorlaxEggMoves:
+CtrlbotEggMoves:
 	db LICK
 	db -1 ; end
 
-DratiniEggMoves:
+TraumatEggMoves:
 	db LIGHT_SCREEN
 	db MIST
 	db HAZE
 	db SUPERSONIC
 	db -1 ; end
 
-ChikoritaEggMoves:
+GothedralEggMoves:
 	db VINE_WHIP
 	db LEECH_SEED
 	db COUNTER
@@ -454,7 +453,7 @@ ChikoritaEggMoves:
 	db SWORDS_DANCE
 	db -1 ; end
 
-CyndaquilEggMoves:
+SmokaiEggMoves:
 	db FURY_SWIPES
 	db QUICK_ATTACK
 	db REVERSAL
@@ -463,7 +462,7 @@ CyndaquilEggMoves:
 	db SUBMISSION
 	db -1 ; end
 
-TotodileEggMoves:
+RenderexeEggMoves:
 	db CRUNCH
 	db THRASH
 	db HYDRO_PUMP
@@ -761,21 +760,23 @@ PhanpyEggMoves:
 	db WATER_GUN
 	db -1 ; end
 
-StantlerEggMoves:
-	db REFLECT
-	db SPITE
-	db DISABLE
-	db LIGHT_SCREEN
-	db BITE
+
+OmanyteEggMoves:
+	db BUBBLEBEAM
+	db AURORA_BEAM
+	db SLAM
+	db SUPERSONIC
+	db HAZE
 	db -1 ; end
 
-TyrogueEggMoves:
+KabutoEggMoves:
+	db BUBBLEBEAM
+	db AURORA_BEAM
 	db RAPID_SPIN
-	db HI_JUMP_KICK
-	db MACH_PUNCH
-	db MIND_READER
+	db DIG
+	db FLAIL
 	db -1 ; end
-
+	
 SmoochumEggMoves:
 	db MEDITATE
 	db -1 ; end
