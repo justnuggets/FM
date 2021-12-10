@@ -54,7 +54,7 @@ SwarmGrassWildMons:
 	db 12, PAMPOOCH_S
 	db 12, YANMA
 	db 14, YANMA
-	db 14, HOOTHOOT
+	db 14, MANIFIST
 	db 10, DITTO
 	db 10, DITTO
 

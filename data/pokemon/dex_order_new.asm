@@ -137,12 +137,12 @@ NewPokedexOrder:
 	db ELECMENTAL    
 	db OCCUMENTAL  
 	db SEDIMENTAL    
-	db GAIAMENTAL    ;
-	db IGNIMENTAL    ;
-	db MOLUMENTAL   ; e9
-	db VILEMENTAL   ; ea
-	db ALUMENTAL   ; eb
-	db SALAMENTAL    ; ec
+	db GAIAMENTAL    
+	db IGNIMENTAL   
+	db MOLUMENTAL   
+	db VILEMENTAL   
+	db ALUMENTAL  
+	db SALAMENTAL   
 	db FARIMENTAL 
 	db CTRLBOT   
 	db ALTBOT  
@@ -156,27 +156,27 @@ NewPokedexOrder:
 	db GOTHEDRAL  ; 98
 	db TSUKIMIKO    
 	db ZONBI   
-	db SMOKAI  ; 9b
+	db SMOKAI  
 	db TROLLGORE    
 	db GEXEL 
-	db RENDEREXE   ; 9e
-	db CROCONAW   
-	db FERALIGATR 
-	db SENTRET  
-	db FURRET    
-	db HOOTHOOT  
-	db NOCTOWL   
-	db LEDYBA   
-	db LEDIAN    
-	db SPINARAK
-	db ARIADOS    
-	db CROBAT     
-	db CHINCHOU   
-	db LANTURN    
-	db PICHU      
-	db CLEFFA     
+	db RENDEREXE   
+	db SUNIATA   
+	db HAPSUKA 
+	db DARDUKA  
+	db STOATSDOOL    
+	db MANIFIST  
+	db GHAUNTED   
+	db HAZVAT   
+	db TOXIVAT    
+	db NARBURR
+	db NARCICLE    
+	db PLANKTOON     
+	db AGUAMARINE   
+	db CIRIOUS    
+	db ZEPHLUFF      
+	db NIMBILLOW     
 	db IGGLYBUFF  
-	db TOGEPI     ; af
+	db TOGEPI     
 	db TOGETIC    
 	db NATU       
 	db XATU       
@@ -234,10 +234,10 @@ NewPokedexOrder:
 	db KINGDRA    
 	db PHANPY     
 	db DONPHAN    
-	db OMANYTE    ; 8a
-	db OMASTAR    ; 8b
-	db KABUTO     ; 8c
-	db KABUTOPS   ; 8d
+	db OMANYTE    
+	db OMASTAR   
+	db KABUTO    
+	db KABUTOPS  
 	db HITMONTOP  
 	db SMOOCHUM   
 	db ELEKID   

@@ -158,21 +158,21 @@ BitmasksPointers:
 	dw TrollgoreBitmasks
 	dw GexelBitmasks
 	dw RenderexeBitmasks
-	dw CroconawBitmasks
-	dw FeraligatrBitmasks
-	dw SentretBitmasks
-	dw FurretBitmasks
-	dw HoothootBitmasks
-	dw NoctowlBitmasks
-	dw LedybaBitmasks
-	dw LedianBitmasks
-	dw SpinarakBitmasks
-	dw AriadosBitmasks
-	dw CrobatBitmasks
-	dw ChinchouBitmasks
-	dw LanturnBitmasks
-	dw PichuBitmasks
-	dw CleffaBitmasks
+	dw SuniataBitmasks
+	dw HapsukaBitmasks
+	dw DardukaBitmasks
+	dw StoatsdoolBitmasks
+	dw ManifistBitmasks
+	dw GhauntedBitmasks
+	dw HazvatBitmasks
+	dw ToxivatBitmasks
+	dw NarburrBitmasks
+	dw NarcicleBitmasks
+	dw PlanktoonBitmasks
+	dw AguamarineBitmasks
+	dw CiriousBitmasks
+	dw ZephluffBitmasks
+	dw NimbillowBitmasks
 	dw IgglybuffBitmasks
 	dw TogepiBitmasks
 	dw TogeticBitmasks

@@ -158,21 +158,21 @@ AnimationIdlePointers:
 	dw TrollgoreAnimationIdle
 	dw GexelAnimationIdle
 	dw RenderexeAnimationIdle
-	dw CroconawAnimationIdle
-	dw FeraligatrAnimationIdle
-	dw SentretAnimationIdle
-	dw FurretAnimationIdle
-	dw HoothootAnimationIdle
-	dw NoctowlAnimationIdle
-	dw LedybaAnimationIdle
-	dw LedianAnimationIdle
-	dw SpinarakAnimationIdle
-	dw AriadosAnimationIdle
-	dw CrobatAnimationIdle
-	dw ChinchouAnimationIdle
-	dw LanturnAnimationIdle
-	dw PichuAnimationIdle
-	dw CleffaAnimationIdle
+	dw SuniataAnimationIdle
+	dw HapsukaAnimationIdle
+	dw DardukaAnimationIdle
+	dw StoatsdoolAnimationIdle
+	dw ManifistAnimationIdle
+	dw GhauntedAnimationIdle
+	dw HazvatAnimationIdle
+	dw ToxivatAnimationIdle
+	dw NarburrAnimationIdle
+	dw NarcicleAnimationIdle
+	dw PlanktoonAnimationIdle
+	dw AguamarineAnimationIdle
+	dw CiriousAnimationIdle
+	dw ZephluffAnimationIdle
+	dw NimbillowAnimationIdle
 	dw IgglybuffAnimationIdle
 	dw TogepiAnimationIdle
 	dw TogeticAnimationIdle

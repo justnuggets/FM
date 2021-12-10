@@ -471,7 +471,7 @@ RenderexeEggMoves:
 	db ROCK_SLIDE
 	db -1 ; end
 
-SentretEggMoves:
+DardukaEggMoves:
 	db DOUBLE_EDGE
 	db PURSUIT
 	db SLASH
@@ -479,7 +479,7 @@ SentretEggMoves:
 	db REVERSAL
 	db -1 ; end
 
-HoothootEggMoves:
+ManifistEggMoves:
 	db MIRROR_MOVE
 	db SUPERSONIC
 	db FAINT_ATTACK
@@ -488,13 +488,13 @@ HoothootEggMoves:
 	db SKY_ATTACK
 	db -1 ; end
 
-LedybaEggMoves:
+HazvatEggMoves:
 	db PSYBEAM
 	db BIDE
 	db LIGHT_SCREEN
 	db -1 ; end
 
-SpinarakEggMoves:
+NarburrEggMoves:
 	db PSYBEAM
 	db DISABLE
 	db SONICBOOM
@@ -502,13 +502,13 @@ SpinarakEggMoves:
 	db PURSUIT
 	db -1 ; end
 
-ChinchouEggMoves:
+AguamarineEggMoves:
 	db FLAIL
 	db SUPERSONIC
 	db SCREECH
 	db -1 ; end
 
-PichuEggMoves:
+ZephluffEggMoves:
 	db REVERSAL
 	db BIDE
 	db PRESENT
@@ -516,7 +516,7 @@ PichuEggMoves:
 	db DOUBLESLAP
 	db -1 ; end
 
-CleffaEggMoves:
+NimbillowEggMoves:
 	db PRESENT
 	db METRONOME
 	db AMNESIA

@@ -1241,6 +1241,7 @@ AcromatEvosAttacks:
 	db 0 ; no more level-up moves
 
 ParagodaEvosAttacks:
+db EVOLVE_LEVEL, 25, DOOMSTONE
 	db 0 ; no more evolutions
 	db 1, ROCK_THROW
 	db 1, ANCIENTPOWER
@@ -1248,6 +1249,8 @@ ParagodaEvosAttacks:
 	db 0 ; no more level-up moves
 	
 DoomstoneEvosAttacks:
+db EVOLVE_LEVEL, 25, FEARTRESS
+db EVOLVE_LEVEL, 26, GOTHEDRAL
 	db 0 ; no more evolutions
 	db 1, ROCK_THROW
 	db 1, ANCIENTPOWER
@@ -1286,7 +1289,7 @@ ZonbiEvosAttacks:
 	db 0 ; no more level-up moves
 
 SmokaiEvosAttacks:
-	db EVOLVE_LEVEL, 14, TROLLGORE
+	db EVOLVE_LEVEL, 34, TROLLGORE
 	db 0 ; no more evolutions
 	db 1, EMBER
 	db 1, MEAN_LOOK
@@ -1303,95 +1306,126 @@ TrollgoreEvosAttacks:
 	db 0 ; no more level-up moves
 
 GexelEvosAttacks:
+	db EVOLVE_LEVEL, 16, RENDEREXE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
 RenderexeEvosAttacks:
-	db EVOLVE_LEVEL, 18, CROCONAW
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-CroconawEvosAttacks:
-	db EVOLVE_LEVEL, 30, FERALIGATR
+SuniataEvosAttacks:
+;EVOLVE ZERO HAPPINESS TO DARDUKA
+;EVOLVE MAX HAPPINESS HAPSUKA
+	db EVOLVE_LEVEL, 30, HAPSUKA
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-FeraligatrEvosAttacks:
+HapsukaEvosAttacks:
+;EVOLVE ZERO HAPPINESS TO SUNIATA
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-SentretEvosAttacks:
-	db EVOLVE_LEVEL, 15, FURRET
+DardukaEvosAttacks:
+;EVOLVE MAX HAPPINESS SUNIATA
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-FurretEvosAttacks:
+StoatsdoolEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, MEGA_DRAIN
+	db 1, SLEEP_POWDER
+	db 1, CONFUSE_RAY
+	db 1, DREAM_EATER
 	db 0 ; no more level-up moves
 
-HoothootEvosAttacks:
-	db EVOLVE_LEVEL, 20, NOCTOWL
+ManifistEvosAttacks:
+	db EVOLVE_LEVEL, 20, GHAUNTED
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, SCRATCH
+	db 1, DOUBLESLAP
 	db 0 ; no more level-up moves
 
-NoctowlEvosAttacks:
+GhauntedEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, SCRATCH
+	db 1, DOUBLESLAP
 	db 0 ; no more level-up moves
 
-LedybaEvosAttacks:
-	db EVOLVE_LEVEL, 18, LEDIAN
+HazvatEvosAttacks:
+	db EVOLVE_LEVEL, 18, TOXIVAT
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, SELFDESTRUCT
+	db 1, ACID
 	db 0 ; no more level-up moves
 
-LedianEvosAttacks:
+ToxivatEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, SELFDESTRUCT
+	db 1, ACID
 	db 0 ; no more level-up moves
 
-SpinarakEvosAttacks:
-	db EVOLVE_LEVEL, 22, ARIADOS
+NarburrEvosAttacks:
+	db EVOLVE_LEVEL, 22, NARCICLE
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, HORN_ATTACK
+	db 1, FURY_ATTACK
+	db 1, ICE_BEAM
+	db 1, LOCK_ON
 	db 0 ; no more level-up moves
 
-AriadosEvosAttacks:
+NarcicleEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, HORN_ATTACK
+	db 1, FURY_ATTACK
+	db 1, ICE_BEAM
+	db 1, LOCK_ON
 	db 0 ; no more level-up moves
 
-CrobatEvosAttacks:
+PlanktoonEvosAttacks:
+	db EVOLVE_LEVEL, 27, AGUAMARINE
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, WATER_GUN
+	db 1, KARATE_CHOP
+	db 1, LOCK_ON
+	db 1, FOCUS_ENERGY
 	db 0 ; no more level-up moves
 
-ChinchouEvosAttacks:
-	db EVOLVE_LEVEL, 27, LANTURN
+AguamarineEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, WATER_GUN
+	db 1, KARATE_CHOP
+	db 1, LOCK_ON
+	db 1, FOCUS_ENERGY
 	db 0 ; no more level-up moves
 
-LanturnEvosAttacks:
+CiriousEvosAttacks:
 	db 0 ; no more evolutions
+	db 1, GUST
 	db 1, TACKLE
+	db 1, SUNNY_DAY
+	db 1, RAIN_DANCE
 	db 0 ; no more level-up moves
 
-PichuEvosAttacks:
+ZephluffEvosAttacks:
 	db 0 ; no more evolutions
+	db 1, GUST
 	db 1, TACKLE
+	db 1, SUNNY_DAY
+	db 1, RAIN_DANCE
 	db 0 ; no more level-up moves
 
-CleffaEvosAttacks:
+NimbillowEvosAttacks:
 	db 0 ; no more evolutions
+	db 1, GUST
 	db 1, TACKLE
+	db 1, SUNNY_DAY
+	db 1, RAIN_DANCE
 	db 0 ; no more level-up moves
 
 IgglybuffEvosAttacks:

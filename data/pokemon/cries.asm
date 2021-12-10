@@ -164,21 +164,21 @@ PokemonCries::
 	mon_cry CRY_CYNDAQUIL,   801,  288 ; TROLLGORE
 	mon_cry CRY_TYPHLOSION, 3840,  212 ; GEXEL
 	mon_cry CRY_TOTODILE,   1132,  232 ; RENDEREXE
-	mon_cry CRY_TOTODILE,   1088,  272 ; CROCONAW
-	mon_cry CRY_TOTODILE,   1020,  384 ; FERALIGATR
-	mon_cry CRY_SENTRET,     138,  184 ; SENTRET
-	mon_cry CRY_SENTRET,     107,  258 ; FURRET
-	mon_cry CRY_HOOTHOOT,    145,  216 ; HOOTHOOT
-	mon_cry CRY_HOOTHOOT,      0,  416 ; NOCTOWL
-	mon_cry CRY_LEDYBA,        0,  222 ; LEDYBA
-	mon_cry CRY_LEDYBA,     -150,  312 ; LEDIAN
-	mon_cry CRY_SPINARAK,     17,  512 ; SPINARAK
-	mon_cry CRY_SPINARAK,   -174,  482 ; ARIADOS
-	mon_cry CRY_SQUIRTLE,    -16,  320 ; CROBAT
-	mon_cry CRY_CYNDAQUIL,   969,  320 ; CHINCHOU
-	mon_cry CRY_CYNDAQUIL,   720,  272 ; LANTURN
-	mon_cry CRY_PICHU,         0,  320 ; PICHU
-	mon_cry CRY_CLEFFA,       97,  145 ; CLEFFA
+	mon_cry CRY_TOTODILE,   1088,  272 ; SUNIATA
+	mon_cry CRY_TOTODILE,   1020,  384 ; HAPSUKA
+	mon_cry CRY_SENTRET,     138,  184 ; DARDUKA
+	mon_cry CRY_SENTRET,     107,  258 ; STOATSDOOL
+	mon_cry CRY_HOOTHOOT,    145,  216 ; MANIFIST
+	mon_cry CRY_HOOTHOOT,      0,  416 ; GHAUNTED
+	mon_cry CRY_LEDYBA,        0,  222 ; HAZVAT
+	mon_cry CRY_LEDYBA,     -150,  312 ; TOXIVAT
+	mon_cry CRY_SPINARAK,     17,  512 ; NARBURR
+	mon_cry CRY_SPINARAK,   -174,  482 ; NARCICLE
+	mon_cry CRY_SQUIRTLE,    -16,  320 ; PLANKTOON
+	mon_cry CRY_CYNDAQUIL,   969,  320 ; AGUAMARINE
+	mon_cry CRY_CYNDAQUIL,   720,  272 ; CIRIOUS
+	mon_cry CRY_PICHU,         0,  320 ; ZEPHLUFF
+	mon_cry CRY_CLEFFA,       97,  145 ; NIMBILLOW
 	mon_cry CRY_CHIKORITA,   232,  232 ; IGGLYBUFF
 	mon_cry CRY_TOGEPI,       16,  256 ; TOGEPI
 	mon_cry CRY_TOGETIC,      59,   56 ; TOGETIC

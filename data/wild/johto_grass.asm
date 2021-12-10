@@ -343,7 +343,7 @@ JohtoGrassWildMons:
 	; morn
 	db 12, PAMPOOCH_T
 	db 12, PAMPOOCH_S
-	db 14, LEDYBA
+	db 14, HAZVAT
 	db 13, POSSUMUS
 	db 10, HIPPOUR
 	db 10, HAMSEL
@@ -358,9 +358,9 @@ JohtoGrassWildMons:
 	db 10, HAMSEL
 	; nite
 	db 12, WALLOPY
-	db 13, HOOTHOOT
-	db 14, SPINARAK
-	db 15, HOOTHOOT
+	db 13, MANIFIST
+	db 14, NARBURR
+	db 15, MANIFIST
 	db 10, INGROVERT
 	db 12, INGROVERT
 	db 12, INGROVERT
@@ -585,7 +585,7 @@ JohtoGrassWildMons:
 	db 5, INGROVERT
 	db 7, CURSIOR
 	db 7, WALLOPY
-	db 7, HOOTHOOT
+	db 7, MANIFIST
 	db 6, SLICKRETE
 	db 6, SLICKRETE
 	end_grass_wildmons
@@ -1238,34 +1238,34 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 2, POSSUMUS
-	db 2, SENTRET
+	db 2, DARDUKA
 	db 3, POSSUMUS
-	db 3, SENTRET
+	db 3, DARDUKA
 	db 2, HOPSTOT
 	db 3, HOPPIP
 	db 3, HOPPIP
 	; day
 	db 2, POSSUMUS
-	db 2, SENTRET
+	db 2, DARDUKA
 	db 3, POSSUMUS
-	db 3, SENTRET
+	db 3, DARDUKA
 	db 2, HOPSTOT
 	db 3, HOPPIP
 	db 3, HOPPIP
 	; nite
-	db 2, HOOTHOOT
+	db 2, MANIFIST
 	db 2, HOPSTOT
-	db 3, HOOTHOOT
+	db 3, MANIFIST
 	db 3, HOPSTOT
 	db 2, HOPSTOT
-	db 3, HOOTHOOT
-	db 3, HOOTHOOT
+	db 3, MANIFIST
+	db 3, MANIFIST
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_30
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, LEDYBA
+	db 3, HAZVAT
 	db 3, HIPPOUR
 	db 4, HIPPOUR
 	db 4, POSSUMUS
@@ -1281,19 +1281,19 @@ JohtoGrassWildMons:
 	db 4, HOPPIP
 	db 4, HOPPIP
 	; nite
-	db 3, SPINARAK
-	db 3, HOOTHOOT
+	db 3, NARBURR
+	db 3, MANIFIST
 	db 4, SINISTAR
-	db 4, HOOTHOOT
+	db 4, MANIFIST
 	db 3, REPVIAL
-	db 4, HOOTHOOT
-	db 4, HOOTHOOT
+	db 4, MANIFIST
+	db 4, MANIFIST
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_31
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 4, LEDYBA
+	db 4, HAZVAT
 	db 4, HIPPOUR
 	db 5, SLIVERFISH
 	db 5, POSSUMUS
@@ -1309,10 +1309,10 @@ JohtoGrassWildMons:
 	db 5, HOPPIP
 	db 5, HOPPIP
 	; nite
-	db 4, SPINARAK
+	db 4, NARBURR
 	db 4, SINISTAR
 	db 5, SLIVERFISH
-	db 5, HOOTHOOT
+	db 5, MANIFIST
 	db 4, REPVIAL
 	db 5, LEAPEAR
 	db 5, LEAPEAR
@@ -1341,7 +1341,7 @@ JohtoGrassWildMons:
 	db 5, HOPSTOT
 	db 7, SLIVERFISH
 	db 6, REPVIAL
-	db 7, HOOTHOOT
+	db 7, MANIFIST
 	db 7, LEAPEAR
 	db 7, LEAPEAR
 	end_grass_wildmons
@@ -1395,7 +1395,7 @@ JohtoGrassWildMons:
 	; nite
 	db 12, STRAWMENAD
 	db 11, HOPSTOT
-	db 12, HOOTHOOT
+	db 12, MANIFIST
 	db 10, BAGROUND
 	db 12, FELECTRIC
 	db 10, DITTO
@@ -1422,7 +1422,7 @@ JohtoGrassWildMons:
 	db 12, YANMA
 	; nite
 	db 12, STRAWMENAD
-	db 14, HOOTHOOT
+	db 14, MANIFIST
 	db 13, WALLOPY
 	db 10, BAGROUND
 	db 12, FELECTRIC
@@ -1433,7 +1433,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_36
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 4, LEDYBA
+	db 4, HAZVAT
 	db 4, POSSUMUS
 	db 5, SLIVERFISH
 	db 5, BINARS
@@ -1449,11 +1449,11 @@ JohtoGrassWildMons:
 	db 6, POSSUMUS
 	db 6, POSSUMUS
 	; nite
-	db 4, SPINARAK
-	db 4, HOOTHOOT
+	db 4, NARBURR
+	db 4, MANIFIST
 	db 5, SLIVERFISH
-	db 5, HOOTHOOT
-	db 5, HOOTHOOT
+	db 5, MANIFIST
+	db 5, MANIFIST
 	db 5, LEAPEAR
 	db 5, LEAPEAR
 	end_grass_wildmons
@@ -1461,13 +1461,13 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_37
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 13, LEDYBA
+	db 13, HAZVAT
 	db 14, BINARS
 	db 15, POSSUMUS
 	db 16, BINARS
 	db 15, AXALITL
-	db 15, LEDIAN
-	db 15, LEDIAN
+	db 15, TOXIVAT
+	db 15, TOXIVAT
 	; day
 	db 13, POSSUMUS
 	db 14, BINARS
@@ -1477,13 +1477,13 @@ JohtoGrassWildMons:
 	db 15, POSSUMUS
 	db 15, POSSUMUS
 	; nite
-	db 13, SPINARAK
+	db 13, NARBURR
 	db 14, VILEMENTAL
-	db 15, HOOTHOOT
+	db 15, MANIFIST
 	db 16, VILEMENTAL
-	db 15, NOCTOWL
-	db 15, ARIADOS
-	db 15, ARIADOS
+	db 15, GHAUNTED
+	db 15, NARCICLE
+	db 15, NARCICLE
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_38
@@ -1508,7 +1508,7 @@ JohtoGrassWildMons:
 	db 16, PORCELION
 	db 16, LOCUTS
 	db 16, SURFALLO
-	db 16, NOCTOWL
+	db 16, GHAUNTED
 	db 16, PORCELION
 	db 16, PORCELION
 	db 16, PORCELION
@@ -1536,7 +1536,7 @@ JohtoGrassWildMons:
 	db 16, PORCELION
 	db 16, LOCUTS
 	db 16, SURFALLO
-	db 16, NOCTOWL
+	db 16, GHAUNTED
 	db 18, PORCELION
 	db 18, PORCELION
 	db 18, PORCELION
@@ -1573,24 +1573,24 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_43
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 15, SENTRET
+	db 15, DARDUKA
 	db 16, AXALITL
 	db 16, PLATAPOX
-	db 15, FURRET
+	db 15, STOATSDOOL
 	db 17, LOCUTS
-	db 17, FURRET
-	db 17, FURRET
+	db 17, STOATSDOOL
+	db 17, STOATSDOOL
 	; day
-	db 15, SENTRET
+	db 15, DARDUKA
 	db 16, AXALITL
 	db 16, PLATAPOX
-	db 15, FURRET
+	db 15, STOATSDOOL
 	db 17, LOCUTS
-	db 17, FURRET
-	db 17, FURRET
+	db 17, STOATSDOOL
+	db 17, STOATSDOOL
 	; nite
 	db 15, INGROVERT
-	db 16, NOCTOWL
+	db 16, GHAUNTED
 	db 16, LOCUTS
 	db 17, INGROVERT
 	db 17, LOCUTS
@@ -1729,13 +1729,13 @@ JohtoGrassWildMons:
 	db 7, MARBLOCK
 	db 7, HOCUPOCUS
 	; nite
-	db 1, IMPAN
-	db 1, CAMOUFRAUG
-	db 1, PAMPOOCH_S
-	db 1, APASHEE
-	db 1, DORACLE
-	db 1, SURFALLO
-	db 1, FLARIBOU
+	db 1, SMOKAI
+	db 1, PARAGODA
+	db 1, RENDEREXE
+	db 1, STOATSDOOL
+	db 1, SALAMENTAL
+	db 1, FARIMENTAL
+	db 1, SWINEDEL
 	end_grass_wildmons
 
 	db -1 ; end

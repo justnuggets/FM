@@ -9,7 +9,7 @@ AlphabeticalPokedexOrder:
 	db AMPHAROS
 	db HAILOTH
 	db BUSHIDUDE
-	db ARIADOS
+	db NARCICLE
 	db ALTBOT
 	db AZUMARILL
 	db TSUKIMIKO
@@ -27,14 +27,14 @@ AlphabeticalPokedexOrder:
 	db GRASSNIP
 	db LOPSOIL
 	db GOTHEDRAL
-	db CHINCHOU
+	db AGUAMARINE
 	db ECHNEEDO
 	db ECHLIPSE
-	db CLEFFA
+	db NIMBILLOW
 	db PLUMPLING
 	db CORSOLA
-	db CROBAT
-	db CROCONAW
+	db PLANKTOON
+	db SUNIATA
 	db SKARDINE
 	db SMOKAI
 	db DELIBIRD
@@ -61,11 +61,11 @@ AlphabeticalPokedexOrder:
 	db TUTSWEET
 	db PLATAPOX
 	db SNOLIPOLI
-	db FERALIGATR
+	db HAPSUKA
 	db FLAAFFY
 	db GAIAMENTAL
 	db FORRETRESS
-	db FURRET
+	db STOATSDOOL
 	db LEAPEAR
 	db STRAWRBLE
 	db DAEMOON
@@ -87,7 +87,7 @@ AlphabeticalPokedexOrder:
 	db SOUSFLE
 	db HITMONTOP
 	db HO_OH
-	db HOOTHOOT
+	db MANIFIST
 	db HOPPIP
 	db DELPHORA
 	db HOUNDOOM
@@ -108,11 +108,11 @@ AlphabeticalPokedexOrder:
 	db PAMPOOCH_P
 	db COLOMENTAL
 	db PAMPODOUR_S
-	db LANTURN
+	db CIRIOUS
 	db SWINEDEL
 	db LARVITAR
-	db LEDIAN
-	db LEDYBA
+	db TOXIVAT
+	db HAZVAT
 	db COMMANSHEE
 	db LUGIA
 	db MARBLOCK
@@ -148,7 +148,7 @@ AlphabeticalPokedexOrder:
 	db LOUSPOUT
 	db SKARGAROS
 	db FELITE
-	db NOCTOWL
+	db GHAUNTED
 	db OCTILLERY
 	db CURSIOR
 	db OMANYTE
@@ -158,7 +158,7 @@ AlphabeticalPokedexOrder:
 	db GASPHALT
 	db FUUMA
 	db PHANPY
-	db PICHU
+	db ZEPHLUFF
 	db AXALOT
 	db AXALITL
 	db POSSUMUS
@@ -194,7 +194,7 @@ AlphabeticalPokedexOrder:
 	db XSAILERATE
 	db SNORCOBRA
 	db FLARIBOU
-	db SENTRET
+	db DARDUKA
 	db PESCALDO
 	db SHUCKLE
 	db SKARMORY
@@ -209,7 +209,7 @@ AlphabeticalPokedexOrder:
 	db CTRLBOT
 	db SNUBBULL
 	db CHAWPPER
-	db SPINARAK
+	db NARBURR
 	db CUBBURN
 	db VILEMENTAL
 	db ZIGGRATH

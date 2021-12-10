@@ -178,21 +178,21 @@ JOHTO_POKEMON EQU const_value
 	const TROLLGORE    ; 9c
 	const GEXEL ; 9d
 	const RENDEREXE   ; 9e
-	const CROCONAW   ; 9f
-	const FERALIGATR ; a0
-	const SENTRET    ; a1
-	const FURRET     ; a2
-	const HOOTHOOT   ; a3
-	const NOCTOWL    ; a4
-	const LEDYBA     ; a5
-	const LEDIAN     ; a6
-	const SPINARAK   ; a7
-	const ARIADOS    ; a8
-	const CROBAT     ; a9
-	const CHINCHOU   ; aa
-	const LANTURN    ; ab
-	const PICHU      ; ac
-	const CLEFFA     ; ad
+	const SUNIATA   ; 9f
+	const HAPSUKA ; a0
+	const DARDUKA    ; a1
+	const STOATSDOOL     ; a2
+	const MANIFIST   ; a3
+	const GHAUNTED    ; a4
+	const HAZVAT     ; a5
+	const TOXIVAT     ; a6
+	const NARBURR   ; a7
+	const NARCICLE    ; a8
+	const PLANKTOON     ; a9
+	const AGUAMARINE   ; aa
+	const CIRIOUS    ; ab
+	const ZEPHLUFF      ; ac
+	const NIMBILLOW     ; ad
 	const IGGLYBUFF  ; ae
 	const TOGEPI     ; af
 	const TOGETIC    ; b0

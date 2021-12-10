@@ -160,19 +160,19 @@ EggMovePointers::
 	dw RenderexeEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw SentretEggMoves
+	dw DardukaEggMoves
 	dw NoEggMoves
-	dw HoothootEggMoves
+	dw ManifistEggMoves
 	dw NoEggMoves
-	dw LedybaEggMoves
+	dw HazvatEggMoves
 	dw NoEggMoves
-	dw SpinarakEggMoves
+	dw NarburrEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw ChinchouEggMoves
+	dw AguamarineEggMoves
 	dw NoEggMoves
-	dw PichuEggMoves
-	dw CleffaEggMoves
+	dw ZephluffEggMoves
+	dw NimbillowEggMoves
 	dw IgglybuffEggMoves
 	dw TogepiEggMoves
 	dw NoEggMoves

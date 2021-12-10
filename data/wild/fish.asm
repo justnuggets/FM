@@ -46,13 +46,13 @@ FishGroups:
 .Ocean_Good:
 	db  35 percent,     TRUBBLE,   20
 	db  70 percent,     IMPAN,  20
-	db  90 percent + 1, CHINCHOU,   20
+	db  90 percent + 1, AGUAMARINE,   20
 	db 100 percent,     time_group 2
 .Ocean_Super:
-	db  40 percent,     CHINCHOU,   40
+	db  40 percent,     AGUAMARINE,   40
 	db  70 percent,     time_group 3
 	db  90 percent + 1, DAETYR, 40
-	db 100 percent,     LANTURN,    40
+	db 100 percent,     CIRIOUS,    40
 
 .Lake_Old:
 	db  70 percent + 1, TRUBBLE,   10

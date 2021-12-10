@@ -159,21 +159,21 @@ PokedexDataPointerTable:
 	dw TrollgorePokedexEntry
 	dw GexelPokedexEntry
 	dw RenderexePokedexEntry
-	dw CroconawPokedexEntry
-	dw FeraligatrPokedexEntry
-	dw SentretPokedexEntry
-	dw FurretPokedexEntry
-	dw HoothootPokedexEntry
-	dw NoctowlPokedexEntry
-	dw LedybaPokedexEntry
-	dw LedianPokedexEntry
-	dw SpinarakPokedexEntry
-	dw AriadosPokedexEntry
-	dw CrobatPokedexEntry
-	dw ChinchouPokedexEntry
-	dw LanturnPokedexEntry
-	dw PichuPokedexEntry
-	dw CleffaPokedexEntry
+	dw SuniataPokedexEntry
+	dw HapsukaPokedexEntry
+	dw DardukaPokedexEntry
+	dw StoatsdoolPokedexEntry
+	dw ManifistPokedexEntry
+	dw GhauntedPokedexEntry
+	dw HazvatPokedexEntry
+	dw ToxivatPokedexEntry
+	dw NarburrPokedexEntry
+	dw NarciclePokedexEntry
+	dw PlanktoonPokedexEntry
+	dw AguamarinePokedexEntry
+	dw CiriousPokedexEntry
+	dw ZephluffPokedexEntry
+	dw NimbillowPokedexEntry
 	dw IgglybuffPokedexEntry
 	dw TogepiPokedexEntry
 	dw TogeticPokedexEntry

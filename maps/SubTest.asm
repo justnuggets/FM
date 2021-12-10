@@ -42,8 +42,8 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke GEXEL, 50, REVIVE
-	givepoke RENDEREXE, 50
+	givepoke IGGLYBUFF, 50, REVIVE
+	givepoke TOGEPI, 50, REVIVE
 	givepoke SUBMINO, 5, LEFTOVERS
 
 	closetext

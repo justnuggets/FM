@@ -319,36 +319,36 @@ PokemonPicPointers::
 	dba_pic GexelBackpic
 	dba_pic RenderexeFrontpic
 	dba_pic RenderexeBackpic
-	dba_pic CroconawFrontpic
-	dba_pic CroconawBackpic
-	dba_pic FeraligatrFrontpic
-	dba_pic FeraligatrBackpic
-	dba_pic SentretFrontpic
-	dba_pic SentretBackpic
-	dba_pic FurretFrontpic
-	dba_pic FurretBackpic
-	dba_pic HoothootFrontpic
-	dba_pic HoothootBackpic
-	dba_pic NoctowlFrontpic
-	dba_pic NoctowlBackpic
-	dba_pic LedybaFrontpic
-	dba_pic LedybaBackpic
-	dba_pic LedianFrontpic
-	dba_pic LedianBackpic
-	dba_pic SpinarakFrontpic
-	dba_pic SpinarakBackpic
-	dba_pic AriadosFrontpic
-	dba_pic AriadosBackpic
-	dba_pic CrobatFrontpic
-	dba_pic CrobatBackpic
-	dba_pic ChinchouFrontpic
-	dba_pic ChinchouBackpic
-	dba_pic LanturnFrontpic
-	dba_pic LanturnBackpic
-	dba_pic PichuFrontpic
-	dba_pic PichuBackpic
-	dba_pic CleffaFrontpic
-	dba_pic CleffaBackpic
+	dba_pic SuniataFrontpic
+	dba_pic SuniataBackpic
+	dba_pic HapsukaFrontpic
+	dba_pic HapsukaBackpic
+	dba_pic DardukaFrontpic
+	dba_pic DardukaBackpic
+	dba_pic StoatsdoolFrontpic
+	dba_pic StoatsdoolBackpic
+	dba_pic ManifistFrontpic
+	dba_pic ManifistBackpic
+	dba_pic GhauntedFrontpic
+	dba_pic GhauntedBackpic
+	dba_pic HazvatFrontpic
+	dba_pic HazvatBackpic
+	dba_pic ToxivatFrontpic
+	dba_pic ToxivatBackpic
+	dba_pic NarburrFrontpic
+	dba_pic NarburrBackpic
+	dba_pic NarcicleFrontpic
+	dba_pic NarcicleBackpic
+	dba_pic PlanktoonFrontpic
+	dba_pic PlanktoonBackpic
+	dba_pic AguamarineFrontpic
+	dba_pic AguamarineBackpic
+	dba_pic CiriousFrontpic
+	dba_pic CiriousBackpic
+	dba_pic ZephluffFrontpic
+	dba_pic ZephluffBackpic
+	dba_pic NimbillowFrontpic
+	dba_pic NimbillowBackpic
 	dba_pic IgglybuffFrontpic
 	dba_pic IgglybuffBackpic
 	dba_pic TogepiFrontpic

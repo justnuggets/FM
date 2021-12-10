@@ -175,37 +175,37 @@ KantoGrassWildMons:
 	; morn
 	db 2, POSSUMUS
 	db 2, HOPSTOT
-	db 3, SENTRET
+	db 3, DARDUKA
 	db 3, POSSUMUS
-	db 6, FURRET
+	db 6, STOATSDOOL
 	db 4, POSSUMUS
 	db 4, POSSUMUS
 	; day
 	db 2, POSSUMUS
 	db 2, HOPSTOT
-	db 3, SENTRET
+	db 3, DARDUKA
 	db 3, POSSUMUS
-	db 6, FURRET
+	db 6, STOATSDOOL
 	db 4, POSSUMUS
 	db 4, POSSUMUS
 	; nite
-	db 2, HOOTHOOT
+	db 2, MANIFIST
 	db 2, HOPSTOT
 	db 3, HOPSTOT
-	db 3, HOOTHOOT
+	db 3, MANIFIST
 	db 6, LOCUTS
-	db 4, HOOTHOOT
-	db 4, HOOTHOOT
+	db 4, MANIFIST
+	db 4, MANIFIST
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_2
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 3, HIPPOUR
-	db 3, LEDYBA
+	db 3, HAZVAT
 	db 5, POSSUMUS
 	db 7, HIPTORRENT
-	db 7, LEDIAN
+	db 7, TOXIVAT
 	db 4, TEAKBEAK
 	db 4, TEAKBEAK
 	; day
@@ -217,13 +217,13 @@ KantoGrassWildMons:
 	db 4, TEAKBEAK
 	db 4, TEAKBEAK
 	; nite
-	db 3, HOOTHOOT
-	db 3, SPINARAK
-	db 5, HOOTHOOT
-	db 7, NOCTOWL
-	db 7, ARIADOS
-	db 4, NOCTOWL
-	db 4, NOCTOWL
+	db 3, MANIFIST
+	db 3, NARBURR
+	db 5, MANIFIST
+	db 7, GHAUNTED
+	db 7, NARCICLE
+	db 4, GHAUNTED
+	db 4, GHAUNTED
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_3
@@ -301,9 +301,9 @@ KantoGrassWildMons:
 	db 14, BAGROUND
 	db 14, BAGROUND
 	; nite
-	db 13, HOOTHOOT
+	db 13, MANIFIST
 	db 13, PORCELION
-	db 15, NOCTOWL
+	db 15, GHAUNTED
 	db 12, BAGROUND
 	db 14, FELECTRIC
 	db 14, BAGROUND
@@ -386,7 +386,7 @@ KantoGrassWildMons:
 	db 18, TERRAGER
 	; nite
 	db 17, PORCELION
-	db 20, NOCTOWL
+	db 20, GHAUNTED
 	db 16, BAGROUND
 	db 17, LEVIATHORN
 	db 16, FELECTRIC
@@ -472,7 +472,7 @@ KantoGrassWildMons:
 	db 14, STRAWMENAD
 	db 13, PORCELION
 	db 15, SURFALLO
-	db 16, NOCTOWL
+	db 16, GHAUNTED
 	db 16, LOCUTS
 	db 16, PAMPODOUR_T
 	db 16, PAMPODOUR_T
@@ -499,7 +499,7 @@ KantoGrassWildMons:
 	; nite
 	db 23, INGROVERT
 	db 23, QUAGSIRE
-	db 25, NOCTOWL
+	db 25, GHAUNTED
 	db 25, FRITESHADE
 	db 25, QUAGSIRE
 	db 25, QUAGSIRE
@@ -527,7 +527,7 @@ KantoGrassWildMons:
 	; nite
 	db 26, INGROVERT
 	db 26, QUAGSIRE
-	db 28, NOCTOWL
+	db 28, GHAUNTED
 	db 28, FRITESHADE
 	db 28, QUAGSIRE
 	db 28, QUAGSIRE
@@ -555,7 +555,7 @@ KantoGrassWildMons:
 	; nite
 	db 23, INGROVERT
 	db 23, QUAGSIRE
-	db 25, NOCTOWL
+	db 25, GHAUNTED
 	db 25, FRITESHADE
 	db 25, QUAGSIRE
 	db 25, QUAGSIRE
@@ -750,12 +750,12 @@ KantoGrassWildMons:
 	db 14, HIPTORRENT
 	; nite
 	db 10, CURSIOR
-	db 10, HOOTHOOT
+	db 10, MANIFIST
 	db 10, INGROVERT
-	db 12, NOCTOWL
+	db 12, GHAUNTED
 	db 10, SLIVERFISH
-	db 14, NOCTOWL
-	db 14, NOCTOWL
+	db 14, GHAUNTED
+	db 14, GHAUNTED
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_26
@@ -777,9 +777,9 @@ KantoGrassWildMons:
 	db 30, HAILOTH
 	db 30, HAILOTH
 	; nite
-	db 28, NOCTOWL
+	db 28, GHAUNTED
 	db 28, LOCUTS
-	db 32, NOCTOWL
+	db 32, GHAUNTED
 	db 30, LOCUTS
 	db 30, QUAGSIRE
 	db 30, QUAGSIRE
@@ -806,12 +806,12 @@ KantoGrassWildMons:
 	db 30, SEARLING
 	; nite
 	db 28, QUAGSIRE
-	db 28, NOCTOWL
+	db 28, GHAUNTED
 	db 30, LOCUTS
 	db 30, QUAGSIRE
-	db 32, NOCTOWL
-	db 32, NOCTOWL
-	db 32, NOCTOWL
+	db 32, GHAUNTED
+	db 32, GHAUNTED
+	db 32, GHAUNTED
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_28

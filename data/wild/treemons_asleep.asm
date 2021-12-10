@@ -10,22 +10,22 @@ AsleepTreeMonsNite:
 	db CHAWPPER
 	db CRYSTALIS
 	db QARTRIDGE
-	db LEDYBA
+	db HAZVAT
 	db AIPOM
 	db -1 ; end
 
 AsleepTreeMonsDay:
 	db INGROVERT
-	db HOOTHOOT
-	db NOCTOWL
-	db SPINARAK
+	db MANIFIST
+	db GHAUNTED
+	db NARBURR
 	db HERACROSS
 	db -1 ; end
 
 AsleepTreeMonsMorn:
 	db INGROVERT
-	db HOOTHOOT
-	db NOCTOWL
-	db SPINARAK
+	db MANIFIST
+	db GHAUNTED
+	db NARBURR
 	db HERACROSS
 	db -1 ; end

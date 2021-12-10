@@ -158,21 +158,21 @@ FramesPointers:
 	dw TrollgoreFrames
 	dw GexelFrames
 	dw RenderexeFrames
-	dw CroconawFrames
-	dw FeraligatrFrames
-	dw SentretFrames
-	dw FurretFrames
-	dw HoothootFrames
-	dw NoctowlFrames
-	dw LedybaFrames
-	dw LedianFrames
-	dw SpinarakFrames
-	dw AriadosFrames
-	dw CrobatFrames
-	dw ChinchouFrames
-	dw LanturnFrames
-	dw PichuFrames
-	dw CleffaFrames
+	dw SuniataFrames
+	dw HapsukaFrames
+	dw DardukaFrames
+	dw StoatsdoolFrames
+	dw ManifistFrames
+	dw GhauntedFrames
+	dw HazvatFrames
+	dw ToxivatFrames
+	dw NarburrFrames
+	dw NarcicleFrames
+	dw PlanktoonFrames
+	dw AguamarineFrames
+	dw CiriousFrames
+	dw ZephluffFrames
+	dw NimbillowFrames
 	dw IgglybuffFrames
 	dw TogepiFrames
 	dw TogeticFrames

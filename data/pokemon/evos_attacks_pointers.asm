@@ -160,21 +160,21 @@ EvosAttacksPointers::
 	dw TrollgoreEvosAttacks
 	dw GexelEvosAttacks
 	dw RenderexeEvosAttacks
-	dw CroconawEvosAttacks
-	dw FeraligatrEvosAttacks
-	dw SentretEvosAttacks
-	dw FurretEvosAttacks
-	dw HoothootEvosAttacks
-	dw NoctowlEvosAttacks
-	dw LedybaEvosAttacks
-	dw LedianEvosAttacks
-	dw SpinarakEvosAttacks
-	dw AriadosEvosAttacks
-	dw CrobatEvosAttacks
-	dw ChinchouEvosAttacks
-	dw LanturnEvosAttacks
-	dw PichuEvosAttacks
-	dw CleffaEvosAttacks
+	dw SuniataEvosAttacks
+	dw HapsukaEvosAttacks
+	dw DardukaEvosAttacks
+	dw StoatsdoolEvosAttacks
+	dw ManifistEvosAttacks
+	dw GhauntedEvosAttacks
+	dw HazvatEvosAttacks
+	dw ToxivatEvosAttacks
+	dw NarburrEvosAttacks
+	dw NarcicleEvosAttacks
+	dw PlanktoonEvosAttacks
+	dw AguamarineEvosAttacks
+	dw CiriousEvosAttacks
+	dw ZephluffEvosAttacks
+	dw NimbillowEvosAttacks
 	dw IgglybuffEvosAttacks
 	dw TogepiEvosAttacks
 	dw TogeticEvosAttacks

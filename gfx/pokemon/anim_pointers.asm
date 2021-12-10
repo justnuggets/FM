@@ -158,21 +158,21 @@ AnimationPointers:
 	dw TrollgoreAnimation
 	dw GexelAnimation
 	dw RenderexeAnimation
-	dw CroconawAnimation
-	dw FeraligatrAnimation
-	dw SentretAnimation
-	dw FurretAnimation
-	dw HoothootAnimation
-	dw NoctowlAnimation
-	dw LedybaAnimation
-	dw LedianAnimation
-	dw SpinarakAnimation
-	dw AriadosAnimation
-	dw CrobatAnimation
-	dw ChinchouAnimation
-	dw LanturnAnimation
-	dw PichuAnimation
-	dw CleffaAnimation
+	dw SuniataAnimation
+	dw HapsukaAnimation
+	dw DardukaAnimation
+	dw StoatsdoolAnimation
+	dw ManifistAnimation
+	dw GhauntedAnimation
+	dw HazvatAnimation
+	dw ToxivatAnimation
+	dw NarburrAnimation
+	dw NarcicleAnimation
+	dw PlanktoonAnimation
+	dw AguamarineAnimation
+	dw CiriousAnimation
+	dw ZephluffAnimation
+	dw NimbillowAnimation
 	dw IgglybuffAnimation
 	dw TogepiAnimation
 	dw TogeticAnimation

@@ -55,15 +55,15 @@ TreeMonSet_Town:
 
 TreeMonSet_Route:
 ; common
-	db 50, HOOTHOOT,   10
-	db 15, SPINARAK,   10
-	db 15, LEDYBA,     10
+	db 50, MANIFIST,   10
+	db 15, NARBURR,   10
+	db 15, HAZVAT,     10
 	db 10, QARTRIDGE,  10
 	db  5, QARTRIDGE,  10
 	db  5, QARTRIDGE,  10
 	db -1
 ; rare
-	db 50, HOOTHOOT,   10
+	db 50, MANIFIST,   10
 	db 15, PINECO,     10
 	db 15, PINECO,     10
 	db 10, QARTRIDGE,  10
@@ -73,15 +73,15 @@ TreeMonSet_Route:
 
 TreeMonSet_Kanto:
 ; common
-	db 50, HOOTHOOT,   10
+	db 50, MANIFIST,   10
 	db 15, CRYSTALIS,      10
-	db 15, HOOTHOOT,   10
+	db 15, MANIFIST,   10
 	db 10, QARTRIDGE,  10
 	db  5, QARTRIDGE,  10
 	db  5, QARTRIDGE,  10
 	db -1
 ; rare
-	db 50, HOOTHOOT,   10
+	db 50, MANIFIST,   10
 	db 15, PINECO,     10
 	db 15, PINECO,     10
 	db 10, QARTRIDGE,  10
@@ -91,15 +91,15 @@ TreeMonSet_Kanto:
 
 TreeMonSet_Lake:
 ; common
-	db 50, HOOTHOOT,   10
+	db 50, MANIFIST,   10
 	db 15, INGROVERT,    10
-	db 15, HOOTHOOT,   10
+	db 15, MANIFIST,   10
 	db 10, QARTRIDGE,  10
 	db  5, QARTRIDGE,  10
 	db  5, QARTRIDGE,  10
 	db -1
 ; rare
-	db 50, HOOTHOOT,   10
+	db 50, MANIFIST,   10
 	db 15, PINECO,     10
 	db 15, PINECO,     10
 	db 10, QARTRIDGE,  10
@@ -109,18 +109,18 @@ TreeMonSet_Lake:
 
 TreeMonSet_Forest:
 ; common
-	db 50, HOOTHOOT,   10
+	db 50, MANIFIST,   10
 	db 15, PINECO,     10
 	db 15, PINECO,     10
-	db 10, NOCTOWL,    10
+	db 10, GHAUNTED,    10
 	db  5, HIPTORRENT, 10
 	db  5, OPOSSTER,   10
 	db -1
 ; rare
-	db 50, HOOTHOOT,   10
+	db 50, MANIFIST,   10
 	db 15, HIPPOUR,   10
 	db 15, HAMSEL,     10
-	db 10, HOOTHOOT,   10
+	db 10, MANIFIST,   10
 	db  5, DRIPPOUR,    10
 	db  5, GUINAPI,     10
 	db -1
