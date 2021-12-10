@@ -178,26 +178,26 @@ AnimationIdlePointers:
 	dw BambootemAnimationIdle
 	dw FlorascentAnimationIdle
 	dw ThissileAnimationIdle
-	dw MareepAnimationIdle
-	dw FlaaffyAnimationIdle
-	dw AmpharosAnimationIdle
-	dw BellossomAnimationIdle
-	dw MarillAnimationIdle
-	dw AzumarillAnimationIdle
-	dw SudowoodoAnimationIdle
-	dw PolitoedAnimationIdle
-	dw HoppipAnimationIdle
-	dw SkiploomAnimationIdle
-	dw JumpluffAnimationIdle
-	dw AipomAnimationIdle
-	dw SunkernAnimationIdle
-	dw SunfloraAnimationIdle
-	dw YanmaAnimationIdle
-	dw WooperAnimationIdle
-	dw QuagsireAnimationIdle
-	dw EspeonAnimationIdle
-	dw UmbreonAnimationIdle
-	dw MurkrowAnimationIdle
+	dw ElecoilAnimationIdle
+	dw WattvernAnimationIdle
+	dw ThundrakeAnimationIdle
+	dw EctopusAnimationIdle
+	dw SwirrelAnimationIdle
+	dw AlpackAnimationIdle
+	dw LlamiceAnimationIdle
+	dw FenriftAnimationIdle
+	dw GlaewulfAnimationIdle
+	dw SlomeAnimationIdle
+	dw DwarftainAnimationIdle
+	dw YodeleiAnimationIdle
+	dw BivalryAnimationIdle
+	dw ConchorallAnimationIdle
+	dw ColoshellAnimationIdle
+	dw MogulluskAnimationIdle
+	dw TusselAnimationIdle
+	dw BibbonAnimationIdle
+	dw BuffboonAnimationIdle
+	dw BanandrillAnimationIdle
 	dw SlowkingAnimationIdle
 	dw MisdreavusAnimationIdle
 	dw UnownAnimationIdle

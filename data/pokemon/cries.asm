@@ -184,26 +184,26 @@ PokemonCries::
 	mon_cry CRY_TOGETIC,      59,   56 ; BAMBOOTEM
 	mon_cry CRY_NATU,       -103,  256 ; FLORASCENT
 	mon_cry CRY_NATU,       -167,  360 ; THISSILE
-	mon_cry CRY_MAREEP,       34,  216 ; MAREEP
-	mon_cry CRY_MAREEP,       -7,  384 ; FLAAFFY
-	mon_cry CRY_AMPHAROS,   -124,  232 ; AMPHAROS
-	mon_cry CRY_CLEFFA,      132,  336 ; BELLOSSOM
-	mon_cry CRY_MARILL,      283,  288 ; MARILL
-	mon_cry CRY_MARILL,      182,  384 ; AZUMARILL
-	mon_cry CRY_CLEFFA,     3904,  384 ; SUDOWOODO
-	mon_cry CRY_CLEFFA,     -675,  456 ; POLITOED
-	mon_cry CRY_CLEFFA,       59,  200 ; HOPPIP
-	mon_cry CRY_CLEFFA,       39,  312 ; SKIPLOOM
-	mon_cry CRY_CLEFFA,        0,  384 ; JUMPLUFF
-	mon_cry CRY_AIPOM,       -81,  232 ; AIPOM
-	mon_cry CRY_MARILL,      299,  184 ; SUNKERN
-	mon_cry CRY_SUNFLORA,    -32,  384 ; SUNFLORA
-	mon_cry CRY_TOTODILE,     49,  200 ; YANMA
-	mon_cry CRY_WOOPER,      147,  175 ; WOOPER
-	mon_cry CRY_WOOPER,     -198,  320 ; QUAGSIRE
-	mon_cry CRY_AIPOM,       162,  320 ; ESPEON
-	mon_cry CRY_VENONAT,    -233,  240 ; UMBREON
-	mon_cry CRY_MARILL,      -31,  384 ; MURKROW
+	mon_cry CRY_MAREEP,       34,  216 ; ELECOIL
+	mon_cry CRY_MAREEP,       -7,  384 ; WATTVERN
+	mon_cry CRY_AMPHAROS,   -124,  232 ; THUNDRAKE
+	mon_cry CRY_CLEFFA,      132,  336 ; ECTOPUS
+	mon_cry CRY_MARILL,      283,  288 ; SWIRREL
+	mon_cry CRY_MARILL,      182,  384 ; ALPACK
+	mon_cry CRY_CLEFFA,     3904,  384 ; FENRIFT
+	mon_cry CRY_CLEFFA,     -675,  456 ; LLAMICE
+	mon_cry CRY_CLEFFA,       59,  200 ; GLAEWULF
+	mon_cry CRY_CLEFFA,       39,  312 ; SLOME
+	mon_cry CRY_CLEFFA,        0,  384 ; DWARFTAIN
+	mon_cry CRY_AIPOM,       -81,  232 ; YODELEI
+	mon_cry CRY_MARILL,      299,  184 ; BIVALRY
+	mon_cry CRY_SUNFLORA,    -32,  384 ; CONCHORALL
+	mon_cry CRY_TOTODILE,     49,  200 ; COLOSHELL
+	mon_cry CRY_WOOPER,      147,  175 ; MOGULLUSK
+	mon_cry CRY_WOOPER,     -198,  320 ; TUSSEL
+	mon_cry CRY_AIPOM,       162,  320 ; BIBBON
+	mon_cry CRY_VENONAT,    -233,  240 ; BUFFBOON
+	mon_cry CRY_MARILL,      -31,  384 ; BANANDRILL
 	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING
 	mon_cry CRY_HOOTHOOT,    304,  232 ; MISDREAVUS
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN

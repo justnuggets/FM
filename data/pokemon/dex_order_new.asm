@@ -180,26 +180,26 @@ NewPokedexOrder:
 	db BAMBOOTEM    
 	db FLORASCENT       
 	db THISSILE       
-	db MAREEP     
-	db FLAAFFY    
-	db AMPHAROS   
-	db BELLOSSOM  
-	db MARILL     
-	db AZUMARILL  
-	db SUDOWOODO  
-	db POLITOED   
-	db HOPPIP     
-	db SKIPLOOM   
-	db JUMPLUFF   
-	db AIPOM      
-	db SUNKERN    
-	db SUNFLORA   
-	db YANMA      
-	db WOOPER    
-	db QUAGSIRE   
-	db ESPEON     
-	db UMBREON    
-	db MURKROW    
+	db ELECOIL     
+	db WATTVERN    
+	db THUNDRAKE   
+	db ECTOPUS  
+	db SWIRREL     
+	db ALPACK   
+	db LLAMICE   
+	db FENRIFT 
+	db GLAEWULF     
+	db SLOME   
+	db DWARFTAIN   
+	db YODELEI      
+	db BIVALRY    
+	db CONCHORALL   
+	db COLOSHELL      
+	db MOGULLUSK    
+	db TUSSEL   
+	db BIBBON     
+	db BUFFBOON    
+	db BANANDRILL    
 	db SLOWKING   
 	db MISDREAVUS 
 	db UNOWN      ; c9

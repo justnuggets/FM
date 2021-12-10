@@ -351,7 +351,7 @@ JohtoGrassWildMons:
 	; day
 	db 12, PAMPOOCH_S
 	db 12, PAMPOOCH_T
-	db 14, SUNKERN
+	db 14, BIVALRY
 	db 13, POSSUMUS
 	db 10, HIPPOUR
 	db 10, HAMSEL
@@ -389,9 +389,9 @@ JohtoGrassWildMons:
 	db 22, FLORASCENT
 	db 18, FLORASCENT
 	db 24, FLORASCENT
-	db 22, WOOPER
-	db 22, QUAGSIRE
-	db 22, QUAGSIRE
+	db 22, MOGULLUSK
+	db 22, TUSSEL
+	db 22, TUSSEL
 	end_grass_wildmons
 
 	def_grass_wildmons RUINS_OF_ALPH_INNER_CHAMBER
@@ -443,7 +443,7 @@ JohtoGrassWildMons:
 	; nite
 	db 6, DAEMOON
 	db 6, HOPSTOT
-	db 5, WOOPER
+	db 5, MOGULLUSK
 	db 4, HOPSTOT
 	db 7, REPVIAL
 	db 6, STRAWMERRI
@@ -471,7 +471,7 @@ JohtoGrassWildMons:
 	; nite
 	db 8, DAEMOON
 	db 6, REPVIAL
-	db 8, WOOPER
+	db 8, MOGULLUSK
 	db 8, STRAWMERRI
 	db 6, HOPSTOT
 	db 8, HOPSTOT
@@ -499,7 +499,7 @@ JohtoGrassWildMons:
 	; nite
 	db 22, REPVIAL
 	db 22, KOMODOSE
-	db 22, QUAGSIRE
+	db 22, TUSSEL
 	db 21, LOCUTS
 	db 20, DAEMOON
 	db 23, STRAWMERRI
@@ -611,7 +611,7 @@ JohtoGrassWildMons:
 	; nite
 	db 14, HOPSTOT
 	db 13, REPVIAL
-	db 14, MARILL
+	db 14, SWIRREL
 	db 13, KOMODOSE
 	db 14, DAEMOON
 	db 16, LOCUTS
@@ -641,7 +641,7 @@ JohtoGrassWildMons:
 	db 14, HOPSTOT
 	db 15, LOCUTS
 	db 14, REPVIAL
-	db 15, MARILL
+	db 15, SWIRREL
 	db 15, KOMODOSE
 	db 15, KOMODOSE
 	end_grass_wildmons
@@ -669,7 +669,7 @@ JohtoGrassWildMons:
 	db 31, DAEMOON
 	db 30, LOCUTS
 	db 30, KOMODOSE
-	db 28, MARILL
+	db 28, SWIRREL
 	db 32, KOMODOSE
 	db 32, KOMODOSE
 	end_grass_wildmons
@@ -696,7 +696,7 @@ JohtoGrassWildMons:
 	db 15, REPVIAL
 	db 17, REPVIAL
 	db 17, KOMODOSE
-	db 16, MARILL
+	db 16, SWIRREL
 	db 16, DAEMOON
 	db 18, LOCUTS
 	db 18, LOCUTS
@@ -1242,16 +1242,16 @@ JohtoGrassWildMons:
 	db 3, POSSUMUS
 	db 3, DARDUKA
 	db 2, HOPSTOT
-	db 3, HOPPIP
-	db 3, HOPPIP
+	db 3, GLAEWULF
+	db 3, GLAEWULF
 	; day
 	db 2, POSSUMUS
 	db 2, DARDUKA
 	db 3, POSSUMUS
 	db 3, DARDUKA
 	db 2, HOPSTOT
-	db 3, HOPPIP
-	db 3, HOPPIP
+	db 3, GLAEWULF
+	db 3, GLAEWULF
 	; nite
 	db 2, MANIFIST
 	db 2, HOPSTOT
@@ -1270,16 +1270,16 @@ JohtoGrassWildMons:
 	db 4, HIPPOUR
 	db 4, POSSUMUS
 	db 3, HAMSEL
-	db 4, HOPPIP
-	db 4, HOPPIP
+	db 4, GLAEWULF
+	db 4, GLAEWULF
 	; day
 	db 3, POSSUMUS
 	db 3, HIPPOUR
 	db 4, HIPPOUR
 	db 4, POSSUMUS
 	db 3, HAMSEL
-	db 4, HOPPIP
-	db 4, HOPPIP
+	db 4, GLAEWULF
+	db 4, GLAEWULF
 	; nite
 	db 3, NARBURR
 	db 3, MANIFIST
@@ -1298,16 +1298,16 @@ JohtoGrassWildMons:
 	db 5, SLIVERFISH
 	db 5, POSSUMUS
 	db 4, HAMSEL
-	db 5, HOPPIP
-	db 5, HOPPIP
+	db 5, GLAEWULF
+	db 5, GLAEWULF
 	; day
 	db 4, POSSUMUS
 	db 4, HIPPOUR
 	db 5, SLIVERFISH
 	db 5, POSSUMUS
 	db 4, HAMSEL
-	db 5, HOPPIP
-	db 5, HOPPIP
+	db 5, GLAEWULF
+	db 5, GLAEWULF
 	; nite
 	db 4, NARBURR
 	db 4, SINISTAR
@@ -1324,20 +1324,20 @@ JohtoGrassWildMons:
 	db 4, CRYSTALIS
 	db 5, HOPSTOT
 	db 7, SLIVERFISH
-	db 6, HOPPIP
+	db 6, GLAEWULF
 	db 7, POSSUMUS
-	db 7, HOPPIP
-	db 7, HOPPIP
+	db 7, GLAEWULF
+	db 7, GLAEWULF
 	; day
 	db 4, CRYSTALIS
 	db 5, HOPSTOT
 	db 7, SLIVERFISH
-	db 6, HOPPIP
+	db 6, GLAEWULF
 	db 7, POSSUMUS
-	db 7, HOPPIP
-	db 7, HOPPIP
+	db 7, GLAEWULF
+	db 7, GLAEWULF
 	; nite
-	db 4, WOOPER
+	db 4, MOGULLUSK
 	db 5, HOPSTOT
 	db 7, SLIVERFISH
 	db 6, REPVIAL
@@ -1352,18 +1352,18 @@ JohtoGrassWildMons:
 	db 6, HOPSTOT
 	db 6, CHAWPPER
 	db 6, DAEMOON
-	db 6, HOPPIP
+	db 6, GLAEWULF
 	db 7, CRYSTALIS
-	db 7, HOPPIP
-	db 7, HOPPIP
+	db 7, GLAEWULF
+	db 7, GLAEWULF
 	; day
 	db 6, HOPSTOT
 	db 6, CHAWPPER
 	db 6, DAEMOON
-	db 6, HOPPIP
+	db 6, GLAEWULF
 	db 7, CRYSTALIS
-	db 7, HOPPIP
-	db 7, HOPPIP
+	db 7, GLAEWULF
+	db 7, GLAEWULF
 	; nite
 	db 6, HOPSTOT
 	db 6, REPVIAL
@@ -1411,7 +1411,7 @@ JohtoGrassWildMons:
 	db 10, BAGROUND
 	db 12, FELECTRIC
 	db 10, DITTO
-	db 12, YANMA
+	db 12, COLOSHELL
 	; day
 	db 12, SNUBBULL
 	db 14, POSSUMUS
@@ -1419,7 +1419,7 @@ JohtoGrassWildMons:
 	db 10, BAGROUND
 	db 12, FELECTRIC
 	db 10, DITTO
-	db 12, YANMA
+	db 12, COLOSHELL
 	; nite
 	db 12, STRAWMENAD
 	db 14, MANIFIST
@@ -1427,7 +1427,7 @@ JohtoGrassWildMons:
 	db 10, BAGROUND
 	db 12, FELECTRIC
 	db 10, DITTO
-	db 12, YANMA
+	db 12, COLOSHELL
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_36
@@ -1565,7 +1565,7 @@ JohtoGrassWildMons:
 	db 14, REPVIAL
 	db 15, LOCUTS
 	db 16, KOMODOSE
-	db 15, MARILL
+	db 15, SWIRREL
 	db 16, KOMODOSE
 	db 16, KOMODOSE
 	end_grass_wildmons

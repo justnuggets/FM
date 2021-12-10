@@ -4,29 +4,29 @@ JohtoWaterWildMons:
 
 	def_water_wildmons RUINS_OF_ALPH_OUTSIDE
 	db 2 percent ; encounter rate
-	db 15, WOOPER
-	db 20, QUAGSIRE
-	db 15, QUAGSIRE
+	db 15, MOGULLUSK
+	db 20, TUSSEL
+	db 15, TUSSEL
 	end_water_wildmons
 
 	def_water_wildmons UNION_CAVE_1F
 	db 2 percent ; encounter rate
-	db 15, WOOPER
-	db 20, QUAGSIRE
-	db 15, QUAGSIRE
+	db 15, MOGULLUSK
+	db 20, TUSSEL
+	db 15, TUSSEL
 	end_water_wildmons
 
 	def_water_wildmons UNION_CAVE_B1F
 	db 2 percent ; encounter rate
-	db 15, WOOPER
-	db 20, QUAGSIRE
-	db 15, QUAGSIRE
+	db 15, MOGULLUSK
+	db 20, TUSSEL
+	db 15, TUSSEL
 	end_water_wildmons
 
 	def_water_wildmons UNION_CAVE_B2F
 	db 4 percent ; encounter rate
 	db 15, IMPAN
-	db 20, QUAGSIRE
+	db 20, TUSSEL
 	db 20, DAETYR
 	end_water_wildmons
 
@@ -54,21 +54,21 @@ JohtoWaterWildMons:
 	def_water_wildmons MOUNT_MORTAR_1F_OUTSIDE
 	db 4 percent ; encounter rate
 	db 15, DIVIPER
-	db 20, MARILL
+	db 20, SWIRREL
 	db 20, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons MOUNT_MORTAR_2F_INSIDE
 	db 2 percent ; encounter rate
 	db 20, DIVIPER
-	db 25, MARILL
+	db 25, SWIRREL
 	db 25, SNORCOBRA
 	end_water_wildmons
 
 	def_water_wildmons MOUNT_MORTAR_B1F
 	db 2 percent ; encounter rate
 	db 15, DIVIPER
-	db 20, MARILL
+	db 20, SWIRREL
 	db 20, SNORCOBRA
 	end_water_wildmons
 
@@ -145,7 +145,7 @@ JohtoWaterWildMons:
 	def_water_wildmons ROUTE_32
 	db 6 percent ; encounter rate
 	db 15, IMPAN
-	db 20, QUAGSIRE
+	db 20, TUSSEL
 	db 20, DAETYR
 	end_water_wildmons
 

@@ -1124,8 +1124,8 @@ ElecmentalEvosAttacks:
 	db EVOLVE_ITEM, THUNDERSTONE, SEDIMENTAL
 	db EVOLVE_ITEM, WATER_STONE, OCCUMENTAL
 	db EVOLVE_ITEM, FIRE_STONE, GAIAMENTAL
-	db EVOLVE_HAPPINESS, TR_MORNDAY, ESPEON
-	db EVOLVE_HAPPINESS, TR_NITE, UMBREON
+	db EVOLVE_HAPPINESS, TR_MORNDAY, BIBBON
+	db EVOLVE_HAPPINESS, TR_NITE, BUFFBOON
 	db 0 ; no more evolutions
 	db 1, CONVERSION
 	db 1, THUNDERSHOCK
@@ -1465,111 +1465,151 @@ ThissileEvosAttacks:
 	db 1, RAIN_DANCE
 	db 0 ; no more level-up moves
 
-MareepEvosAttacks:
-	db EVOLVE_LEVEL, 15, FLAAFFY
+ElecoilEvosAttacks:
+	db EVOLVE_LEVEL, 20, WATTVERN
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, THUNDERSHOCK
+	db 1, TWISTER
+	db 1, EXTREMESPEED
+	db 1, THUNDER_WAVE
 	db 0 ; no more level-up moves
 
-FlaaffyEvosAttacks:
-	db EVOLVE_LEVEL, 30, AMPHAROS
+WattvernEvosAttacks:
+	db EVOLVE_LEVEL, 50, THUNDRAKE
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, THUNDERSHOCK
+	db 1, TWISTER
+	db 1, EXTREMESPEED
+	db 1, THUNDER_WAVE
 	db 0 ; no more level-up moves
 	
-AmpharosEvosAttacks:
+ThundrakeEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, THUNDERSHOCK
+	db 1, TWISTER
+	db 1, EXTREMESPEED
+	db 1, THUNDER_WAVE
 	db 0 ; no more level-up moves
 
-BellossomEvosAttacks:
+EctopusEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BUBBLEBEAM
+	db 1, ICY_WIND
+	db 1, HAZE
 	db 0 ; no more level-up moves
 
-MarillEvosAttacks:
-	db EVOLVE_LEVEL, 18, AZUMARILL
+SwirrelEvosAttacks:
+	db EVOLVE_LEVEL, 18, ALPACK
 	db 0 ; no more evolutions
 	db 1, TACKLE
+	db 1, POWDER_SNOW
+	db 1, DOUBLE_TEAM
 	db 0 ; no more level-up moves
 
-AzumarillEvosAttacks:
+AlpackEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
-	db 0 ; no more level-up moves
-
-SudowoodoEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, POWDER_SNOW
+	db 1, STOMP
 	db 0 ; no more level-up moves
 	
-PolitoedEvosAttacks:
+LlamiceEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
+	db 1, POWDER_SNOW
+	db 1, STOMP
+	db 0 ; no more level-up moves
+	
+FenriftEvosAttacks:
+	db EVOLVE_LEVEL, 18, GLAEWULF
+	db 0 ; no more evolutions
+	db 1, BITE
+	db 1, POWDER_SNOW
+	db 1, STOMP
 	db 0 ; no more level-up moves
 
-HoppipEvosAttacks:
-	db EVOLVE_LEVEL, 18, SKIPLOOM
+GlaewulfEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BITE
+	db 1, POWDER_SNOW
+	db 1, STOMP
 	db 0 ; no more level-up moves
 
-SkiploomEvosAttacks:
-	db EVOLVE_LEVEL, 27, JUMPLUFF
+SlomeEvosAttacks:
+	db EVOLVE_LEVEL, 52, DWARFTAIN
+	db EVOLVE_LEVEL, 51, YODELEI
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, SING
+	db 1, POWDER_SNOW
 	db 0 ; no more level-up moves
 
-JumpluffEvosAttacks:
+DwarftainEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, SING
+	db 1, POWDER_SNOW
 	db 0 ; no more level-up moves
 
-AipomEvosAttacks:
+YodeleiEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, SING
+	db 1, POWDER_SNOW
 	db 0 ; no more level-up moves
 
-SunkernEvosAttacks:
-	db EVOLVE_ITEM, SUN_STONE, SUNFLORA
+BivalryEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BODY_SLAM
+	db 1, WATERFALL
+	db 1, SAND_ATTACK
 	db 0 ; no more level-up moves
 
-SunfloraEvosAttacks:
+ConchorallEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BODY_SLAM
+	db 1, WATERFALL
+	db 1, SAND_ATTACK
 	db 0 ; no more level-up moves
 
-YanmaEvosAttacks:
+ColoshellEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BODY_SLAM
+	db 1, WATERFALL
+	db 1, SAND_ATTACK
 	db 0 ; no more level-up moves
 
-WooperEvosAttacks:
-	db EVOLVE_LEVEL, 20, QUAGSIRE
+MogulluskEvosAttacks:
+	db EVOLVE_LEVEL, 20, TUSSEL
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BODY_SLAM
+	db 1, WATERFALL
+	db 1, SAND_ATTACK
 	db 0 ; no more level-up moves
 
-QuagsireEvosAttacks:
+TusselEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BODY_SLAM
+	db 1, WATERFALL
+	db 1, SAND_ATTACK
 	db 0 ; no more level-up moves
 
-EspeonEvosAttacks:
+BibbonEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BITE
+	db 1, SWAGGER
+	db 1, THRASH
 	db 0 ; no more level-up moves
 
-UmbreonEvosAttacks:
+BuffboonEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BITE
+	db 1, SWAGGER
+	db 1, THRASH
 	db 0 ; no more level-up moves
 
-MurkrowEvosAttacks:
+BanandrillEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, BITE
+	db 1, SWAGGER
+	db 1, THRASH
 	db 0 ; no more level-up moves
 
 SlowkingEvosAttacks:

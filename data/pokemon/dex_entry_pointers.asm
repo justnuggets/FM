@@ -179,26 +179,26 @@ PokedexDataPointerTable:
 	dw BambootemPokedexEntry
 	dw FlorascentPokedexEntry
 	dw ThissilePokedexEntry
-	dw MareepPokedexEntry
-	dw FlaaffyPokedexEntry
-	dw AmpharosPokedexEntry
-	dw BellossomPokedexEntry
-	dw MarillPokedexEntry
-	dw AzumarillPokedexEntry
-	dw SudowoodoPokedexEntry
-	dw PolitoedPokedexEntry
-	dw HoppipPokedexEntry
-	dw SkiploomPokedexEntry
-	dw JumpluffPokedexEntry
-	dw AipomPokedexEntry
-	dw SunkernPokedexEntry
-	dw SunfloraPokedexEntry
-	dw YanmaPokedexEntry
-	dw WooperPokedexEntry
-	dw QuagsirePokedexEntry
-	dw EspeonPokedexEntry
-	dw UmbreonPokedexEntry
-	dw MurkrowPokedexEntry
+	dw ElecoilPokedexEntry
+	dw WattvernPokedexEntry
+	dw ThundrakePokedexEntry
+	dw EctopusPokedexEntry
+	dw SwirrelPokedexEntry
+	dw AlpackPokedexEntry
+	dw LlamicePokedexEntry
+	dw FenriftPokedexEntry
+	dw GlaewulfPokedexEntry
+	dw SlomePokedexEntry
+	dw DwarftainPokedexEntry
+	dw YodeleiPokedexEntry
+	dw BivalryPokedexEntry
+	dw ConchorallPokedexEntry
+	dw ColoshellPokedexEntry
+	dw MogulluskPokedexEntry
+	dw TusselPokedexEntry
+	dw BibbonPokedexEntry
+	dw BuffboonPokedexEntry
+	dw BanandrillPokedexEntry
 	dw SlowkingPokedexEntry
 	dw MisdreavusPokedexEntry
 	dw UnownPokedexEntry

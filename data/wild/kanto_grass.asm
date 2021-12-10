@@ -358,7 +358,7 @@ KantoGrassWildMons:
 	db 16, BAGROUND
 	; nite
 	db 17, PORCELION
-	db 17, MURKROW
+	db 17, BANANDRILL
 	db 18, HOUNDOUR
 	db 18, FUUMA
 	db 18, FELECTRIC
@@ -453,21 +453,21 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_11
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 14, HOPPIP
+	db 14, GLAEWULF
 	db 13, LOCUTS
 	db 15, SURFALLO
 	db 16, AXALITL
 	db 16, HOPSTOT
-	db 16, HOPPIP
-	db 16, HOPPIP
+	db 16, GLAEWULF
+	db 16, GLAEWULF
 	; day
-	db 14, HOPPIP
+	db 14, GLAEWULF
 	db 13, LOCUTS
 	db 15, SURFALLO
 	db 16, AXALITL
 	db 16, HOPSTOT
-	db 16, HOPPIP
-	db 16, HOPPIP
+	db 16, GLAEWULF
+	db 16, GLAEWULF
 	; nite
 	db 14, STRAWMENAD
 	db 13, PORCELION
@@ -484,25 +484,25 @@ KantoGrassWildMons:
 	db 23, SKARGAROS
 	db 23, LOUSPOUT
 	db 25, AXALITL
-	db 25, HOPPIP
-	db 27, HOPPIP
-	db 27, HOPPIP
+	db 25, GLAEWULF
+	db 27, GLAEWULF
+	db 27, GLAEWULF
 	db 25, HOCUPOCUS
 	; day
 	db 23, SKARGAROS
 	db 23, LOUSPOUT
 	db 25, AXALITL
-	db 25, HOPPIP
-	db 27, HOPPIP
-	db 27, HOPPIP
+	db 25, GLAEWULF
+	db 27, GLAEWULF
+	db 27, GLAEWULF
 	db 25, HOCUPOCUS
 	; nite
 	db 23, INGROVERT
-	db 23, QUAGSIRE
+	db 23, TUSSEL
 	db 25, GHAUNTED
 	db 25, FRITESHADE
-	db 25, QUAGSIRE
-	db 25, QUAGSIRE
+	db 25, TUSSEL
+	db 25, TUSSEL
 	db 25, HOCUPOCUS
 	end_grass_wildmons
 
@@ -512,25 +512,25 @@ KantoGrassWildMons:
 	db 26, SKARGAROS
 	db 26, LOUSPOUT
 	db 28, AXALITL
-	db 28, HOPPIP
-	db 30, SKIPLOOM
-	db 30, SKIPLOOM
+	db 28, GLAEWULF
+	db 30, SLOME
+	db 30, SLOME
 	db 28, HOCUPOCUS
 	; day
 	db 26, SKARGAROS
 	db 26, LOUSPOUT
 	db 28, AXALITL
-	db 28, HOPPIP
-	db 30, SKIPLOOM
-	db 30, SKIPLOOM
+	db 28, GLAEWULF
+	db 30, SLOME
+	db 30, SLOME
 	db 28, HOCUPOCUS
 	; nite
 	db 26, INGROVERT
-	db 26, QUAGSIRE
+	db 26, TUSSEL
 	db 28, GHAUNTED
 	db 28, FRITESHADE
-	db 28, QUAGSIRE
-	db 28, QUAGSIRE
+	db 28, TUSSEL
+	db 28, TUSSEL
 	db 28, HOCUPOCUS
 	end_grass_wildmons
 
@@ -540,25 +540,25 @@ KantoGrassWildMons:
 	db 23, SKARGAROS
 	db 23, LOUSPOUT
 	db 25, AXALITL
-	db 25, HOPPIP
-	db 27, HOPPIP
-	db 27, HOPPIP
+	db 25, GLAEWULF
+	db 27, GLAEWULF
+	db 27, GLAEWULF
 	db 25, HOCUPOCUS
 	; day
 	db 23, SKARGAROS
 	db 23, LOUSPOUT
 	db 25, AXALITL
-	db 25, HOPPIP
-	db 27, HOPPIP
-	db 27, HOPPIP
+	db 25, GLAEWULF
+	db 27, GLAEWULF
+	db 27, GLAEWULF
 	db 25, HOCUPOCUS
 	; nite
 	db 23, INGROVERT
-	db 23, QUAGSIRE
+	db 23, TUSSEL
 	db 25, GHAUNTED
 	db 25, FRITESHADE
-	db 25, QUAGSIRE
-	db 25, QUAGSIRE
+	db 25, TUSSEL
+	db 25, TUSSEL
 	db 25, HOCUPOCUS
 	end_grass_wildmons
 
@@ -584,8 +584,8 @@ KantoGrassWildMons:
 	db 26, CATYBARA
 	db 27, CATYBARA
 	db 28, CATYBARA
-	db 29, MURKROW
-	db 29, MURKROW
+	db 29, BANANDRILL
+	db 29, BANANDRILL
 	db 30, CRESCALDO
 	db 30, CRESCALDO
 	end_grass_wildmons
@@ -714,7 +714,7 @@ KantoGrassWildMons:
 	db 14, HIPTORRENT
 	; day
 	db 8, HIPPOUR
-	db 12, SUNKERN
+	db 12, BIVALRY
 	db 10, HIPPOUR
 	db 12, BAGROUND
 	db 10, SLIVERFISH
@@ -781,9 +781,9 @@ KantoGrassWildMons:
 	db 28, LOCUTS
 	db 32, GHAUNTED
 	db 30, LOCUTS
-	db 30, QUAGSIRE
-	db 30, QUAGSIRE
-	db 30, QUAGSIRE
+	db 30, TUSSEL
+	db 30, TUSSEL
+	db 30, TUSSEL
 	end_grass_wildmons
 
 	def_grass_wildmons ROUTE_27
@@ -805,10 +805,10 @@ KantoGrassWildMons:
 	db 30, SEARLING
 	db 30, SEARLING
 	; nite
-	db 28, QUAGSIRE
+	db 28, TUSSEL
 	db 28, GHAUNTED
 	db 30, LOCUTS
-	db 30, QUAGSIRE
+	db 30, TUSSEL
 	db 32, GHAUNTED
 	db 32, GHAUNTED
 	db 32, GHAUNTED

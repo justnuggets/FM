@@ -198,26 +198,26 @@ JOHTO_POKEMON EQU const_value
 	const BAMBOOTEM    ; b0
 	const FLORASCENT       ; b1
 	const THISSILE       ; b2
-	const MAREEP     ; b3
-	const FLAAFFY    ; b4
-	const AMPHAROS   ; b5
-	const BELLOSSOM  ; b6
-	const MARILL     ; b7
-	const AZUMARILL  ; b8
-	const SUDOWOODO  ; b9
-	const POLITOED   ; ba
-	const HOPPIP     ; bb
-	const SKIPLOOM   ; bc
-	const JUMPLUFF   ; bd
-	const AIPOM      ; be
-	const SUNKERN    ; bf
-	const SUNFLORA   ; c0
-	const YANMA      ; c1
-	const WOOPER     ; c2
-	const QUAGSIRE   ; c3
-	const ESPEON     ; c4
-	const UMBREON    ; c5
-	const MURKROW    ; c6
+	const ELECOIL     ; b3
+	const WATTVERN    ; b4
+	const THUNDRAKE   ; b5
+	const ECTOPUS  ; b6
+	const SWIRREL     ; b7
+	const ALPACK  ; b8 DO FIRST!
+	const LLAMICE   ; b9
+	const FENRIFT  ; ba
+	const GLAEWULF     ; bb
+	const SLOME   ; bc
+	const DWARFTAIN   ; bd
+	const YODELEI      ; be
+	const BIVALRY    ; bf
+	const CONCHORALL   ; c0
+	const COLOSHELL      ; c1
+	const MOGULLUSK     ; c2
+	const TUSSEL   ; c3
+	const BIBBON     ; c4
+	const BUFFBOON    ; c5
+	const BANANDRILL    ; c6
 	const SLOWKING   ; c7
 	const MISDREAVUS ; c8
 	const UNOWN      ; c9

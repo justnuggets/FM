@@ -178,26 +178,26 @@ FramesPointers:
 	dw BambootemFrames
 	dw FlorascentFrames
 	dw ThissileFrames
-	dw MareepFrames
-	dw FlaaffyFrames
-	dw AmpharosFrames
-	dw BellossomFrames
-	dw MarillFrames
-	dw AzumarillFrames
-	dw SudowoodoFrames
-	dw PolitoedFrames
-	dw HoppipFrames
-	dw SkiploomFrames
-	dw JumpluffFrames
-	dw AipomFrames
-	dw SunkernFrames
-	dw SunfloraFrames
-	dw YanmaFrames
-	dw WooperFrames
-	dw QuagsireFrames
-	dw EspeonFrames
-	dw UmbreonFrames
-	dw MurkrowFrames
+	dw ElecoilFrames
+	dw WattvernFrames
+	dw ThundrakeFrames
+	dw EctopusFrames
+	dw SwirrelFrames
+	dw AlpackFrames
+	dw LlamiceFrames
+	dw FenriftFrames
+	dw GlaewulfFrames
+	dw SlomeFrames
+	dw DwarftainFrames
+	dw YodeleiFrames
+	dw BivalryFrames
+	dw ConchorallFrames
+	dw ColoshellFrames
+	dw MogulluskFrames
+	dw TusselFrames
+	dw BibbonFrames
+	dw BuffboonFrames
+	dw BanandrillFrames
 	dw SlowkingFrames
 	dw MisdreavusFrames
 	dw UnownFrames

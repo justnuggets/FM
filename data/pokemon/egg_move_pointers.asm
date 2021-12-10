@@ -178,26 +178,26 @@ EggMovePointers::
 	dw NoEggMoves
 	dw FlorascentEggMoves
 	dw NoEggMoves
-	dw MareepEggMoves
+	dw ElecoilEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw MarillEggMoves
-	dw NoEggMoves
-	dw SudowoodoEggMoves
-	dw NoEggMoves
-	dw HoppipEggMoves
+	dw SwirrelEggMoves
+	dw AlpackEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw AipomEggMoves
+	dw GlaewulfEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw YanmaEggMoves
-	dw WooperEggMoves
+	dw YodeleiEggMoves
+	dw NoEggMoves
+	dw NoEggMoves
+	dw ColoshellEggMoves
+	dw MogulluskEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw MurkrowEggMoves
+	dw BanandrillEggMoves
 	dw NoEggMoves
 	dw MisdreavusEggMoves
 	dw NoEggMoves

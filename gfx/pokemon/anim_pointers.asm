@@ -178,26 +178,26 @@ AnimationPointers:
 	dw BambootemAnimation
 	dw FlorascentAnimation
 	dw ThissileAnimation
-	dw MareepAnimation
-	dw FlaaffyAnimation
-	dw AmpharosAnimation
-	dw BellossomAnimation
-	dw MarillAnimation
-	dw AzumarillAnimation
-	dw SudowoodoAnimation
-	dw PolitoedAnimation
-	dw HoppipAnimation
-	dw SkiploomAnimation
-	dw JumpluffAnimation
-	dw AipomAnimation
-	dw SunkernAnimation
-	dw SunfloraAnimation
-	dw YanmaAnimation
-	dw WooperAnimation
-	dw QuagsireAnimation
-	dw EspeonAnimation
-	dw UmbreonAnimation
-	dw MurkrowAnimation
+	dw ElecoilAnimation
+	dw WattvernAnimation
+	dw ThundrakeAnimation
+	dw EctopusAnimation
+	dw SwirrelAnimation
+	dw AlpackAnimation
+	dw LlamiceAnimation
+	dw FenriftAnimation
+	dw GlaewulfAnimation
+	dw SlomeAnimation
+	dw DwarftainAnimation
+	dw YodeleiAnimation
+	dw BivalryAnimation
+	dw ConchorallAnimation
+	dw ColoshellAnimation
+	dw MogulluskAnimation
+	dw TusselAnimation
+	dw BibbonAnimation
+	dw BuffboonAnimation
+	dw BanandrillAnimation
 	dw SlowkingAnimation
 	dw MisdreavusAnimation
 	dw UnownAnimation

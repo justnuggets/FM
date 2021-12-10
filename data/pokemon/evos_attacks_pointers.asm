@@ -180,26 +180,26 @@ EvosAttacksPointers::
 	dw BambootemEvosAttacks
 	dw FlorascentEvosAttacks
 	dw ThissileEvosAttacks
-	dw MareepEvosAttacks
-	dw FlaaffyEvosAttacks
-	dw AmpharosEvosAttacks
-	dw BellossomEvosAttacks
-	dw MarillEvosAttacks
-	dw AzumarillEvosAttacks
-	dw SudowoodoEvosAttacks
-	dw PolitoedEvosAttacks
-	dw HoppipEvosAttacks
-	dw SkiploomEvosAttacks
-	dw JumpluffEvosAttacks
-	dw AipomEvosAttacks
-	dw SunkernEvosAttacks
-	dw SunfloraEvosAttacks
-	dw YanmaEvosAttacks
-	dw WooperEvosAttacks
-	dw QuagsireEvosAttacks
-	dw EspeonEvosAttacks
-	dw UmbreonEvosAttacks
-	dw MurkrowEvosAttacks
+	dw ElecoilEvosAttacks
+	dw WattvernEvosAttacks
+	dw ThundrakeEvosAttacks
+	dw EctopusEvosAttacks
+	dw SwirrelEvosAttacks
+	dw AlpackEvosAttacks
+	dw LlamiceEvosAttacks
+	dw FenriftEvosAttacks
+	dw GlaewulfEvosAttacks
+	dw SlomeEvosAttacks
+	dw DwarftainEvosAttacks
+	dw YodeleiEvosAttacks
+	dw BivalryEvosAttacks
+	dw ConchorallEvosAttacks
+	dw ColoshellEvosAttacks
+	dw MogulluskEvosAttacks
+	dw TusselEvosAttacks
+	dw BibbonEvosAttacks
+	dw BuffboonEvosAttacks
+	dw BanandrillEvosAttacks
 	dw SlowkingEvosAttacks
 	dw MisdreavusEvosAttacks
 	dw UnownEvosAttacks

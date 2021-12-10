@@ -208,7 +208,7 @@ TrainerPokefanfBeverly1:
 	iftrue .GiveNugget
 	checkcellnum PHONE_POKEFAN_BEVERLY
 	iftrue .NumberAccepted
-	checkpoke MARILL
+	checkpoke SUBMINO
 	iffalse .NoMarill
 	checkevent EVENT_BEVERLY_ASKED_FOR_PHONE_NUMBER
 	iftrue .AskAgain

@@ -178,26 +178,26 @@ BitmasksPointers:
 	dw BambootemBitmasks
 	dw FlorascentBitmasks
 	dw ThissileBitmasks
-	dw MareepBitmasks
-	dw FlaaffyBitmasks
-	dw AmpharosBitmasks
-	dw BellossomBitmasks
-	dw MarillBitmasks
-	dw AzumarillBitmasks
-	dw SudowoodoBitmasks
-	dw PolitoedBitmasks
-	dw HoppipBitmasks
-	dw SkiploomBitmasks
-	dw JumpluffBitmasks
-	dw AipomBitmasks
-	dw SunkernBitmasks
-	dw SunfloraBitmasks
-	dw YanmaBitmasks
-	dw WooperBitmasks
-	dw QuagsireBitmasks
-	dw EspeonBitmasks
-	dw UmbreonBitmasks
-	dw MurkrowBitmasks
+	dw ElecoilBitmasks
+	dw WattvernBitmasks
+	dw ThundrakeBitmasks
+	dw EctopusBitmasks
+	dw SwirrelBitmasks
+	dw AlpackBitmasks
+	dw LlamiceBitmasks
+	dw FenriftBitmasks
+	dw GlaewulfBitmasks
+	dw SlomeBitmasks
+	dw DwarftainBitmasks
+	dw YodeleiBitmasks
+	dw BivalryBitmasks
+	dw ConchorallBitmasks
+	dw ColoshellBitmasks
+	dw MogulluskBitmasks
+	dw TusselBitmasks
+	dw BibbonBitmasks
+	dw BuffboonBitmasks
+	dw BanandrillBitmasks
 	dw SlowkingBitmasks
 	dw MisdreavusBitmasks
 	dw UnownBitmasks

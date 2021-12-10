@@ -11,7 +11,7 @@ AsleepTreeMonsNite:
 	db CRYSTALIS
 	db QARTRIDGE
 	db HAZVAT
-	db AIPOM
+	db YODELEI
 	db -1 ; end
 
 AsleepTreeMonsDay:

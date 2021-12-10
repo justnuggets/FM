@@ -4,17 +4,17 @@ AlphabeticalPokedexOrder:
 	table_width 1, AlphabeticalPokedexOrder
 	db BAGROUND
 	db FARIMENTAL
-	db AIPOM
+	db YODELEI
 	db CAULDEGAR
-	db AMPHAROS
+	db THUNDRAKE
 	db HAILOTH
 	db BUSHIDUDE
 	db NARCICLE
 	db ALTBOT
-	db AZUMARILL
+	db ALPACK
 	db TSUKIMIKO
 	db OPOSSTER
-	db BELLOSSOM
+	db ECTOPUS
 	db SLIVERFISH
 	db GRILLZLY
 	db BLISSEY
@@ -56,13 +56,13 @@ AlphabeticalPokedexOrder:
 	db TUTUFRUTTI
 	db ELEKID
 	db ENTEI
-	db ESPEON
+	db BIBBON
 	db QARTRIDGE
 	db TUTSWEET
 	db PLATAPOX
 	db SNOLIPOLI
 	db HAPSUKA
-	db FLAAFFY
+	db WATTVERN
 	db GAIAMENTAL
 	db FORRETRESS
 	db STOATSDOOL
@@ -88,7 +88,7 @@ AlphabeticalPokedexOrder:
 	db HITMONTOP
 	db HO_OH
 	db MANIFIST
-	db HOPPIP
+	db GLAEWULF
 	db DELPHORA
 	db HOUNDOOM
 	db HOUNDOUR
@@ -97,7 +97,7 @@ AlphabeticalPokedexOrder:
 	db SUBZILLA
 	db FELECTRIC
 	db SEDIMENTAL
-	db JUMPLUFF
+	db DWARFTAIN
 	db CLADILLO
 	db KABUTO
 	db KABUTOPS
@@ -126,8 +126,8 @@ AlphabeticalPokedexOrder:
 	db HEMOGOBLIN
 	db ORIZURU
 	db MANTINE
-	db MAREEP
-	db MARILL
+	db ELECOIL
+	db SWIRREL
 	db SCRUMSHEF
 	db ZONBI
 	db PORCELION
@@ -139,7 +139,7 @@ AlphabeticalPokedexOrder:
 	db PUMMAT
 	db CANVALOG
 	db CRESCALDO
-	db MURKROW
+	db BANANDRILL
 	db FLORASCENT
 	db SPIKIDNA
 	db CLINCHITON
@@ -166,7 +166,7 @@ AlphabeticalPokedexOrder:
 	db PILOSWINE
 	db PINECO
 	db CAMOUFRAUG
-	db POLITOED
+	db LLAMICE
 	db SINISTAR
 	db DRONNEL
 	db RUMBLEBEE
@@ -176,7 +176,7 @@ AlphabeticalPokedexOrder:
 	db ORIGERON
 	db WALLOPY
 	db PUPITAR
-	db QUAGSIRE
+	db TUSSEL
 	db TROLLGORE
 	db QWILFISH
 	db WOODRILL
@@ -198,7 +198,7 @@ AlphabeticalPokedexOrder:
 	db PESCALDO
 	db SHUCKLE
 	db SKARMORY
-	db SKIPLOOM
+	db SLOME
 	db KAIYAK
 	db SLOWKING
 	db TELEKAPI
@@ -215,10 +215,10 @@ AlphabeticalPokedexOrder:
 	db ZIGGRATH
 	db ESPUNGE
 	db STEELIX
-	db SUDOWOODO
+	db FENRIFT
 	db SUICUNE
-	db SUNFLORA
-	db SUNKERN
+	db CONCHORALL
+	db BIVALRY
 	db SWINUB
 	db PRESTICIAN
 	db MIRAUGGER
@@ -231,7 +231,7 @@ AlphabeticalPokedexOrder:
 	db GEXEL
 	db TYRANITAR
 	db SALAMENTAL
-	db UMBREON
+	db BUFFBOON
 	db UNOWN
 	db URSARING
 	db OCCUMENTAL
@@ -248,9 +248,9 @@ AlphabeticalPokedexOrder:
 	db CONSTABOLD
 	db HISZARD
 	db WOBBUFFET
-	db WOOPER
+	db MOGULLUSK
 	db THISSILE
-	db YANMA
+	db COLOSHELL
 	db DELBOT
 	db REPVIAL
 	assert_table_length NUM_POKEMON

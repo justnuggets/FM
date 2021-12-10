@@ -547,7 +547,7 @@ FlorascentEggMoves:
 	db STEEL_WING
 	db -1 ; end
 
-MareepEggMoves:
+ElecoilEggMoves:
 	db THUNDERBOLT
 	db TAKE_DOWN
 	db BODY_SLAM
@@ -556,7 +556,7 @@ MareepEggMoves:
 	db REFLECT
 	db -1 ; end
 
-MarillEggMoves:
+SwirrelEggMoves:
 	db LIGHT_SCREEN
 	db PRESENT
 	db AMNESIA
@@ -567,11 +567,11 @@ MarillEggMoves:
 	db FORESIGHT
 	db -1 ; end
 
-SudowoodoEggMoves:
+AlpackEggMoves:
 	db SELFDESTRUCT
 	db -1 ; end
 
-HoppipEggMoves:
+GlaewulfEggMoves:
 	db CONFUSION
 	db GROWL
 	db ENCORE
@@ -581,7 +581,7 @@ HoppipEggMoves:
 	db PAY_DAY
 	db -1 ; end
 
-AipomEggMoves:
+YodeleiEggMoves:
 	db COUNTER
 	db SCREECH
 	db PURSUIT
@@ -592,19 +592,19 @@ AipomEggMoves:
 	db BEAT_UP
 	db -1 ; end
 
-YanmaEggMoves:
+ColoshellEggMoves:
 	db WHIRLWIND
 	db REVERSAL
 	db LEECH_LIFE
 	db -1 ; end
 
-WooperEggMoves:
+MogulluskEggMoves:
 	db BODY_SLAM
 	db ANCIENTPOWER
 	db SAFEGUARD
 	db -1 ; end
 
-MurkrowEggMoves:
+BanandrillEggMoves:
 	db WHIRLWIND
 	db DRILL_PECK
 	db QUICK_ATTACK

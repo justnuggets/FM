@@ -30,30 +30,30 @@ SwarmGrassWildMons:
 	db 4, DUNSPARCE
 	db 4, DUNSPARCE
 
-; Yanma swarm
+; Apashee Yanma swarm
 	map_id ROUTE_35
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 12, PAMPOOCH_T
 	db 12, PAMPOOCH_S
-	db 12, YANMA
-	db 14, YANMA
+	db 12, COLOSHELL
+	db 14, COLOSHELL
 	db 14, POSSUMUS
 	db 10, DITTO
 	db 10, DITTO
 	; day
 	db 12, PAMPOOCH_T
 	db 12, PAMPOOCH_S
-	db 12, YANMA
-	db 14, YANMA
+	db 12, COLOSHELL
+	db 14, COLOSHELL
 	db 14, POSSUMUS
 	db 10, DITTO
 	db 10, DITTO
 	; nite
 	db 12, PAMPOOCH_T
 	db 12, PAMPOOCH_S
-	db 12, YANMA
-	db 14, YANMA
+	db 12, COLOSHELL
+	db 14, COLOSHELL
 	db 14, MANIFIST
 	db 10, DITTO
 	db 10, DITTO

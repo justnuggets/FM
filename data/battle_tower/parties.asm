@@ -30,7 +30,7 @@ BattleTowerMons:
 	bigdw 31 ; SDef
 	db "SANDA-SU@@@"
 
-	db ESPEON
+	db BIBBON
 	db LEFTOVERS
 	db MUD_SLAP, PSYCHIC_M, PSYCH_UP, TOXIC
 	dw 0 ; OT ID
@@ -56,7 +56,7 @@ BattleTowerMons:
 	bigdw 31 ; SDef
 	db "E-HUi@@@@@@"
 
-	db UMBREON
+	db BUFFBOON
 	db GOLD_BERRY
 	db SHADOW_BALL, IRON_TAIL, PSYCH_UP, TOXIC
 	dw 0 ; OT ID
@@ -553,7 +553,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 2
 
-	db UMBREON
+	db BUFFBOON
 	db LEFTOVERS
 	db PROTECT, TOXIC, MUD_SLAP, ATTRACT
 	dw 0 ; OT ID
@@ -943,7 +943,7 @@ BattleTowerMons:
 	bigdw 47 ; SDef
 	db "KENTAROSU@@"
 
-	db AZUMARILL
+	db ALPACK
 	db MYSTIC_WATER
 	db SURF, BLIZZARD, ATTRACT, RAIN_DANCE
 	dw 0 ; OT ID
@@ -1073,7 +1073,7 @@ BattleTowerMons:
 	bigdw 46 ; SDef
 	db "NIDOKINGU@@"
 
-	db QUAGSIRE
+	db TUSSEL
 	db QUICK_CLAW
 	db AMNESIA, EARTHQUAKE, SURF, RAIN_DANCE
 	dw 0 ; OT ID
@@ -1232,7 +1232,7 @@ BattleTowerMons:
 	bigdw 72 ; SDef
 	db "DAGUTORIO@@"
 
-	db BELLOSSOM
+	db ECTOPUS
 	db BRIGHTPOWDER
 	db GIGA_DRAIN, SUNNY_DAY, SOLARBEAM, DOUBLE_TEAM
 	dw 0 ; OT ID
@@ -1492,7 +1492,7 @@ BattleTowerMons:
 	bigdw 70 ; SDef
 	db "RANTA-N@@@@"
 
-	db ESPEON
+	db BIBBON
 	db MIRACLEBERRY
 	db CONFUSION, SWIFT, TOXIC, PSYCH_UP
 	dw 0 ; OT ID
@@ -2983,7 +2983,7 @@ BattleTowerMons:
 	bigdw 172 ; SDef
 	db "KAIRIyu-@@@"
 
-	db UMBREON
+	db BUFFBOON
 	db GOLD_BERRY
 	db MUD_SLAP, MOONLIGHT, PSYCHIC_M, FAINT_ATTACK
 	dw 0 ; OT ID
@@ -3350,7 +3350,7 @@ BattleTowerMons:
 	bigdw 197 ; SDef
 	db "SIyaWA-ZU@@"
 
-	db UMBREON
+	db BUFFBOON
 	db GOLD_BERRY
 	db FAINT_ATTACK, MOONLIGHT, PSYCH_UP, TOXIC
 	dw 0 ; OT ID
@@ -3532,7 +3532,7 @@ BattleTowerMons:
 	bigdw 151 ; SDef
 	db "NAtuSI-@@@@"
 
-	db UMBREON
+	db BUFFBOON
 	db GOLD_BERRY
 	db MOONLIGHT, FAINT_ATTACK, PSYCHIC_M, SHADOW_BALL
 	dw 0 ; OT ID
@@ -3584,7 +3584,7 @@ BattleTowerMons:
 	bigdw 204 ; SDef
 	db "GIyaRADOSU@"
 
-	db QUAGSIRE
+	db TUSSEL
 	db MIRACLEBERRY
 	db EARTHQUAKE, SURF, SLUDGE_BOMB, IRON_TAIL
 	dw 0 ; OT ID
@@ -4396,7 +4396,7 @@ BattleTowerMons:
 
 ; BattleTowerMons group 9
 
-	db UMBREON
+	db BUFFBOON
 	db KINGS_ROCK
 	db FAINT_ATTACK, MUD_SLAP, MOONLIGHT, CONFUSE_RAY
 	dw 0 ; OT ID
@@ -4630,7 +4630,7 @@ BattleTowerMons:
 	bigdw 255 ; SDef
 	db "RAPURASU@@@"
 
-	db ESPEON
+	db BIBBON
 	db GOLD_BERRY
 	db PSYCHIC_M, SHADOW_BALL, SUNNY_DAY, MORNING_SUN
 	dw 0 ; OT ID
