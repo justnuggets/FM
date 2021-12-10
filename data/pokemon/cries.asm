@@ -179,11 +179,11 @@ PokemonCries::
 	mon_cry CRY_CYNDAQUIL,   720,  272 ; CIRIOUS
 	mon_cry CRY_PICHU,         0,  320 ; ZEPHLUFF
 	mon_cry CRY_CLEFFA,       97,  145 ; NIMBILLOW
-	mon_cry CRY_CHIKORITA,   232,  232 ; IGGLYBUFF
-	mon_cry CRY_TOGEPI,       16,  256 ; TOGEPI
-	mon_cry CRY_TOGETIC,      59,   56 ; TOGETIC
-	mon_cry CRY_NATU,       -103,  256 ; NATU
-	mon_cry CRY_NATU,       -167,  360 ; XATU
+	mon_cry CRY_CHIKORITA,   232,  232 ; FAFNARE
+	mon_cry CRY_TOGEPI,       16,  256 ; DREIGLORE
+	mon_cry CRY_TOGETIC,      59,   56 ; BAMBOOTEM
+	mon_cry CRY_NATU,       -103,  256 ; FLORASCENT
+	mon_cry CRY_NATU,       -167,  360 ; THISSILE
 	mon_cry CRY_MAREEP,       34,  216 ; MAREEP
 	mon_cry CRY_MAREEP,       -7,  384 ; FLAAFFY
 	mon_cry CRY_AMPHAROS,   -124,  232 ; AMPHAROS

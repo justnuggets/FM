@@ -173,11 +173,11 @@ AnimationPointers:
 	dw CiriousAnimation
 	dw ZephluffAnimation
 	dw NimbillowAnimation
-	dw IgglybuffAnimation
-	dw TogepiAnimation
-	dw TogeticAnimation
-	dw NatuAnimation
-	dw XatuAnimation
+	dw FafnareAnimation
+	dw DreigloreAnimation
+	dw BambootemAnimation
+	dw FlorascentAnimation
+	dw ThissileAnimation
 	dw MareepAnimation
 	dw FlaaffyAnimation
 	dw AmpharosAnimation

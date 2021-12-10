@@ -175,11 +175,11 @@ EvosAttacksPointers::
 	dw CiriousEvosAttacks
 	dw ZephluffEvosAttacks
 	dw NimbillowEvosAttacks
-	dw IgglybuffEvosAttacks
-	dw TogepiEvosAttacks
-	dw TogeticEvosAttacks
-	dw NatuEvosAttacks
-	dw XatuEvosAttacks
+	dw FafnareEvosAttacks
+	dw DreigloreEvosAttacks
+	dw BambootemEvosAttacks
+	dw FlorascentEvosAttacks
+	dw ThissileEvosAttacks
 	dw MareepEvosAttacks
 	dw FlaaffyEvosAttacks
 	dw AmpharosEvosAttacks

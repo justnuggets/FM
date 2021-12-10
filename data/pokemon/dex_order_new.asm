@@ -175,11 +175,11 @@ NewPokedexOrder:
 	db CIRIOUS    
 	db ZEPHLUFF      
 	db NIMBILLOW     
-	db IGGLYBUFF  
-	db TOGEPI     
-	db TOGETIC    
-	db NATU       
-	db XATU       
+	db FAFNARE  
+	db DREIGLORE     
+	db BAMBOOTEM    
+	db FLORASCENT       
+	db THISSILE       
 	db MAREEP     
 	db FLAAFFY    
 	db AMPHAROS   

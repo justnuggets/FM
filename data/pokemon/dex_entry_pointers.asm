@@ -174,11 +174,11 @@ PokedexDataPointerTable:
 	dw CiriousPokedexEntry
 	dw ZephluffPokedexEntry
 	dw NimbillowPokedexEntry
-	dw IgglybuffPokedexEntry
-	dw TogepiPokedexEntry
-	dw TogeticPokedexEntry
-	dw NatuPokedexEntry
-	dw XatuPokedexEntry
+	dw FafnarePokedexEntry
+	dw DreiglorePokedexEntry
+	dw BambootemPokedexEntry
+	dw FlorascentPokedexEntry
+	dw ThissilePokedexEntry
 	dw MareepPokedexEntry
 	dw FlaaffyPokedexEntry
 	dw AmpharosPokedexEntry

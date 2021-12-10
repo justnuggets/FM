@@ -173,11 +173,11 @@ AnimationIdlePointers:
 	dw CiriousAnimationIdle
 	dw ZephluffAnimationIdle
 	dw NimbillowAnimationIdle
-	dw IgglybuffAnimationIdle
-	dw TogepiAnimationIdle
-	dw TogeticAnimationIdle
-	dw NatuAnimationIdle
-	dw XatuAnimationIdle
+	dw FafnareAnimationIdle
+	dw DreigloreAnimationIdle
+	dw BambootemAnimationIdle
+	dw FlorascentAnimationIdle
+	dw ThissileAnimationIdle
 	dw MareepAnimationIdle
 	dw FlaaffyAnimationIdle
 	dw AmpharosAnimationIdle

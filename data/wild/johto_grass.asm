@@ -369,26 +369,26 @@ JohtoGrassWildMons:
 	def_grass_wildmons RUINS_OF_ALPH_OUTSIDE
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
-	db 20, NATU
-	db 22, NATU
-	db 18, NATU
-	db 24, NATU
+	db 20, FLORASCENT
+	db 22, FLORASCENT
+	db 18, FLORASCENT
+	db 24, FLORASCENT
 	db 20, ALUMENTAL
 	db 22, ALUMENTAL
 	db 22, ALUMENTAL
 	; day
-	db 20, NATU
-	db 22, NATU
-	db 18, NATU
-	db 24, NATU
+	db 20, FLORASCENT
+	db 22, FLORASCENT
+	db 18, FLORASCENT
+	db 24, FLORASCENT
 	db 20, ALUMENTAL
 	db 22, ALUMENTAL
 	db 22, ALUMENTAL
 	; nite
-	db 20, NATU
-	db 22, NATU
-	db 18, NATU
-	db 24, NATU
+	db 20, FLORASCENT
+	db 22, FLORASCENT
+	db 18, FLORASCENT
+	db 24, FLORASCENT
 	db 22, WOOPER
 	db 22, QUAGSIRE
 	db 22, QUAGSIRE

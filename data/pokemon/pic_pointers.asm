@@ -349,16 +349,16 @@ PokemonPicPointers::
 	dba_pic ZephluffBackpic
 	dba_pic NimbillowFrontpic
 	dba_pic NimbillowBackpic
-	dba_pic IgglybuffFrontpic
-	dba_pic IgglybuffBackpic
-	dba_pic TogepiFrontpic
-	dba_pic TogepiBackpic
-	dba_pic TogeticFrontpic
-	dba_pic TogeticBackpic
-	dba_pic NatuFrontpic
-	dba_pic NatuBackpic
-	dba_pic XatuFrontpic
-	dba_pic XatuBackpic
+	dba_pic FafnareFrontpic
+	dba_pic FafnareBackpic
+	dba_pic DreigloreFrontpic
+	dba_pic DreigloreBackpic
+	dba_pic BambootemFrontpic
+	dba_pic BambootemBackpic
+	dba_pic FlorascentFrontpic
+	dba_pic FlorascentBackpic
+	dba_pic ThissileFrontpic
+	dba_pic ThissileBackpic
 	dba_pic MareepFrontpic
 	dba_pic MareepBackpic
 	dba_pic FlaaffyFrontpic

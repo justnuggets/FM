@@ -11,7 +11,7 @@ SpriteMons:
 	db REPVIAL
 	db TRUBBLE
 	db CUBBURN
-	db TOGEPI
+	db DREIGLORE
 	db HIPTORRENT
 	db BUGGLAR
 	db SINISTAR

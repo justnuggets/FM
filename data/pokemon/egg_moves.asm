@@ -525,13 +525,13 @@ NimbillowEggMoves:
 	db MIMIC
 	db -1 ; end
 
-IgglybuffEggMoves:
+FafnareEggMoves:
 	db PERISH_SONG
 	db PRESENT
 	db FAINT_ATTACK
 	db -1 ; end
 
-TogepiEggMoves:
+DreigloreEggMoves:
 	db PRESENT
 	db MIRROR_MOVE
 	db PECK
@@ -539,7 +539,7 @@ TogepiEggMoves:
 	db FUTURE_SIGHT
 	db -1 ; end
 
-NatuEggMoves:
+FlorascentEggMoves:
 	db HAZE
 	db DRILL_PECK
 	db QUICK_ATTACK

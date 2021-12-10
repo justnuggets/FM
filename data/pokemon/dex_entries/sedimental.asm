@@ -6,5 +6,5 @@
 	next "impact force it"
 
 	page "makes grafts earth"
-	next "and debrit onto"
+	next "and debris onto"
 	next "its surface.@"

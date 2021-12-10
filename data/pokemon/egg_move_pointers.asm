@@ -173,10 +173,10 @@ EggMovePointers::
 	dw NoEggMoves
 	dw ZephluffEggMoves
 	dw NimbillowEggMoves
-	dw IgglybuffEggMoves
-	dw TogepiEggMoves
+	dw FafnareEggMoves
+	dw DreigloreEggMoves
 	dw NoEggMoves
-	dw NatuEggMoves
+	dw FlorascentEggMoves
 	dw NoEggMoves
 	dw MareepEggMoves
 	dw NoEggMoves

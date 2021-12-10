@@ -173,11 +173,11 @@ FramesPointers:
 	dw CiriousFrames
 	dw ZephluffFrames
 	dw NimbillowFrames
-	dw IgglybuffFrames
-	dw TogepiFrames
-	dw TogeticFrames
-	dw NatuFrames
-	dw XatuFrames
+	dw FafnareFrames
+	dw DreigloreFrames
+	dw BambootemFrames
+	dw FlorascentFrames
+	dw ThissileFrames
 	dw MareepFrames
 	dw FlaaffyFrames
 	dw AmpharosFrames

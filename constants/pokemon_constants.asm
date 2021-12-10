@@ -193,11 +193,11 @@ JOHTO_POKEMON EQU const_value
 	const CIRIOUS    ; ab
 	const ZEPHLUFF      ; ac
 	const NIMBILLOW     ; ad
-	const IGGLYBUFF  ; ae
-	const TOGEPI     ; af
-	const TOGETIC    ; b0
-	const NATU       ; b1
-	const XATU       ; b2
+	const FAFNARE  ; ae
+	const DREIGLORE     ; af
+	const BAMBOOTEM    ; b0
+	const FLORASCENT       ; b1
+	const THISSILE       ; b2
 	const MAREEP     ; b3
 	const FLAAFFY    ; b4
 	const AMPHAROS   ; b5

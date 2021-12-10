@@ -173,11 +173,11 @@ BitmasksPointers:
 	dw CiriousBitmasks
 	dw ZephluffBitmasks
 	dw NimbillowBitmasks
-	dw IgglybuffBitmasks
-	dw TogepiBitmasks
-	dw TogeticBitmasks
-	dw NatuBitmasks
-	dw XatuBitmasks
+	dw FafnareBitmasks
+	dw DreigloreBitmasks
+	dw BambootemBitmasks
+	dw FlorascentBitmasks
+	dw ThissileBitmasks
 	dw MareepBitmasks
 	dw FlaaffyBitmasks
 	dw AmpharosBitmasks

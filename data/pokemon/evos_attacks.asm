@@ -1428,31 +1428,41 @@ NimbillowEvosAttacks:
 	db 1, RAIN_DANCE
 	db 0 ; no more level-up moves
 
-IgglybuffEvosAttacks:
+FafnareEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
+	db 1, DRAGON_RAGE
+	db 1, DEFENSE_CURL
 	db 0 ; no more level-up moves
 
-TogepiEvosAttacks:
-	db EVOLVE_HAPPINESS, TR_ANYTIME, TOGETIC
+DreigloreEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
+	db 1, DRAGON_RAGE
+	db 1, DEFENSE_CURL
 	db 0 ; no more level-up moves
 
-TogeticEvosAttacks:
+BambootemEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, SING
+	db 1, PAIN_SPLIT
+	db 1, GIGA_DRAIN
+	db 1, CONFUSION
 	db 0 ; no more level-up moves
 
-NatuEvosAttacks:
-	db EVOLVE_LEVEL, 25, XATU
+FlorascentEvosAttacks:
+	db EVOLVE_LEVEL, 25, THISSILE
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, GIGA_DRAIN
+	db 1, THUNDERSHOCK
+	db 1, SYNTHESIS
 	db 0 ; no more level-up moves
 
-XatuEvosAttacks:
+ThissileEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, LEECH_SEED
+	db 1, SELFDESTRUCT
+	db 1, RAIN_DANCE
 	db 0 ; no more level-up moves
 
 MareepEvosAttacks:

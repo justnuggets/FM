@@ -93,7 +93,7 @@ AlphabeticalPokedexOrder:
 	db HOUNDOOM
 	db HOUNDOUR
 	db PAMPODOUR_T
-	db IGGLYBUFF
+	db FAFNARE
 	db SUBZILLA
 	db FELECTRIC
 	db SEDIMENTAL
@@ -140,7 +140,7 @@ AlphabeticalPokedexOrder:
 	db CANVALOG
 	db CRESCALDO
 	db MURKROW
-	db NATU
+	db FLORASCENT
 	db SPIKIDNA
 	db CLINCHITON
 	db PAMPOOCH_S
@@ -225,8 +225,8 @@ AlphabeticalPokedexOrder:
 	db TEDDIURSA
 	db IMPAN
 	db DAETYR
-	db TOGEPI
-	db TOGETIC
+	db DREIGLORE
+	db BAMBOOTEM
 	db RENDEREXE
 	db GEXEL
 	db TYRANITAR
@@ -249,7 +249,7 @@ AlphabeticalPokedexOrder:
 	db HISZARD
 	db WOBBUFFET
 	db WOOPER
-	db XATU
+	db THISSILE
 	db YANMA
 	db DELBOT
 	db REPVIAL
