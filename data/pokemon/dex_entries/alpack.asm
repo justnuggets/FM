@@ -6,5 +6,5 @@
 	next "even as violent"
 
 	page "winds buffet it."
-	next "The wool is highly"
-	next "sought after.@"
+	next "The wool is high-"
+	next "ly sought after.@"

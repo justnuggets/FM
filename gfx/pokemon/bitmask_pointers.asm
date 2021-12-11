@@ -198,8 +198,8 @@ BitmasksPointers:
 	dw BibbonBitmasks
 	dw BuffboonBitmasks
 	dw BanandrillBitmasks
-	dw SlowkingBitmasks
-	dw MisdreavusBitmasks
+	dw KwombatBitmasks
+	dw PillanteBitmasks
 	dw UnownBitmasks
 	dw WobbuffetBitmasks
 	dw GirafarigBitmasks

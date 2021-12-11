@@ -6,5 +6,5 @@
 	next "backs when en-"
 
 	page "raged. ARMORDILLO"
-	next "is essentially a"
-	next "radiator.@"
+	next "are essentially"
+	next "radiators.@"

@@ -7,4 +7,4 @@
 
 	page "take in local fes-"
 	next "tivities. They"
-	next "take over lawns.@"
+	next "occupy lawns.@"

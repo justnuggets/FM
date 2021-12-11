@@ -135,7 +135,7 @@ AlphabeticalPokedexOrder:
 	db FEARTRESS
 	db DOOMSTONE
 	db MILTANK
-	db MISDREAVUS
+	db PILLANTE
 	db PUMMAT
 	db CANVALOG
 	db CRESCALDO
@@ -200,7 +200,7 @@ AlphabeticalPokedexOrder:
 	db SKARMORY
 	db SLOME
 	db KAIYAK
-	db SLOWKING
+	db KWOMBAT
 	db TELEKAPI
 	db SLUGMA
 	db ALUMENTAL

@@ -199,8 +199,8 @@ PokedexDataPointerTable:
 	dw BibbonPokedexEntry
 	dw BuffboonPokedexEntry
 	dw BanandrillPokedexEntry
-	dw SlowkingPokedexEntry
-	dw MisdreavusPokedexEntry
+	dw KwombatPokedexEntry
+	dw PillantePokedexEntry
 	dw UnownPokedexEntry
 	dw WobbuffetPokedexEntry
 	dw GirafarigPokedexEntry

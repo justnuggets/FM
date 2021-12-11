@@ -1,10 +1,10 @@
 	db "WHISKER@" ; species name
 	dw 200, 40 ; height, weight
 
-	db   "While strays may"
-	next "scrounge the stre-"
-	next "ets for food, they"
+	db   "Strays wont scr-"
+	next "ounge the streets"
+	next "for long, for"
 
-	page "soon find adopt-"
-	next "ive homes taken by"
+	page "they quickly find"
+	next "homes smitten by"
 	next "their cuteness.@"

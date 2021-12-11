@@ -3,7 +3,7 @@
 
 	db   "Fashioned into an"
 	next "oar-like weapon"
-	next "when flattened, it"
+	next "when flattened,"
 
 	page "it wields a plant"
 	next "plucked from its"

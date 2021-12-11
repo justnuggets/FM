@@ -2,7 +2,7 @@
 	dw 009, 180 ; height, weight
 
 	db   "It can only walk"
-	next "sidways. Things"
+	next "sideways. Things"
 	next "aren't much bett-"
 
 	page "er underwater, as"

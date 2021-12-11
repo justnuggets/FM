@@ -1612,12 +1612,15 @@ BanandrillEvosAttacks:
 	db 1, THRASH
 	db 0 ; no more level-up moves
 
-SlowkingEvosAttacks:
+KwombatEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, REST
+	db 1, SLEEP_TALK
+	db 1, BELLY_DRUM
+	db 1, BODY_SLAM
 	db 0 ; no more level-up moves
 
-MisdreavusEvosAttacks:
+PillanteEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves

@@ -200,8 +200,8 @@ NewPokedexOrder:
 	db BIBBON     
 	db BUFFBOON    
 	db BANANDRILL    
-	db SLOWKING   
-	db MISDREAVUS 
+	db KWOMBAT   
+	db PILLANTE 
 	db UNOWN      ; c9
 	db WOBBUFFET  
 	db GIRAFARIG  

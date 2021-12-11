@@ -3,8 +3,8 @@
 
 	db   "Don't let its"
 	next "charms fool you!"
-	next "As many have"
+	next "As many learn,"
 
-	page "learned, DAETYR"
-	next "can be too much"
-	next "mischief to take.@"
+	page "DAETYR are simply"
+	next "too much mischief"
+	next "to handle alone.@"

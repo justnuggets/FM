@@ -399,10 +399,10 @@ PokemonPicPointers::
 	dba_pic BuffboonBackpic
 	dba_pic BanandrillFrontpic
 	dba_pic BanandrillBackpic
-	dba_pic SlowkingFrontpic
-	dba_pic SlowkingBackpic
-	dba_pic MisdreavusFrontpic
-	dba_pic MisdreavusBackpic
+	dba_pic KwombatFrontpic
+	dba_pic KwombatBackpic
+	dba_pic PillanteFrontpic
+	dba_pic PillanteBackpic
 
 	; Unown pics have their own table. See UnownPicPointers
 	dbw -1, -1

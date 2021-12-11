@@ -198,8 +198,8 @@ AnimationIdlePointers:
 	dw BibbonAnimationIdle
 	dw BuffboonAnimationIdle
 	dw BanandrillAnimationIdle
-	dw SlowkingAnimationIdle
-	dw MisdreavusAnimationIdle
+	dw KwombatAnimationIdle
+	dw PillanteAnimationIdle
 	dw UnownAnimationIdle
 	dw WobbuffetAnimationIdle
 	dw GirafarigAnimationIdle

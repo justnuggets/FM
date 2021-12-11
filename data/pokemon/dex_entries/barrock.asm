@@ -7,4 +7,4 @@
 
 	page "stone sculpts into"
 	next "a new shape. The"
-	next "pick remains.@"
+	next "pickaxe remains.@"

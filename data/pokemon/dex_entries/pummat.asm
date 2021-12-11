@@ -6,5 +6,5 @@
 	next "toughening with"
 
 	page "each bruise and"
-	next "welt that it"
-	next "endures.@"
+	next "welt that it has"
+	next "since endured.@"

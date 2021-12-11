@@ -6,5 +6,5 @@
 	next "float. It swims"
 
 	page "well despite being"
-	next "cumbersome on"
-	next "land.@"
+	next "cumbersome on dry"
+	next "terrain.@"

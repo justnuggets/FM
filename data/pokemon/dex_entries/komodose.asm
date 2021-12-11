@@ -3,7 +3,7 @@
 
 	db   "Its rotten fangs"
 	next "infect so fast,"
-	next "even the strongest"
+	next "even the trusty"
 
 	page "ANTIDOTE couldn't"
 	next "heal a wound in"

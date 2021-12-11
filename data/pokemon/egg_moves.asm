@@ -613,7 +613,7 @@ BanandrillEggMoves:
 	db SKY_ATTACK
 	db -1 ; end
 
-MisdreavusEggMoves:
+PillanteEggMoves:
 	db SCREECH
 	db DESTINY_BOND
 	db -1 ; end

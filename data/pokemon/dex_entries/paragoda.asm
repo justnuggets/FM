@@ -7,4 +7,4 @@
 
 	page "stoking its eerie"
 	next "flame with that"
-	next "void.@"
+	next "mourned absence.@"

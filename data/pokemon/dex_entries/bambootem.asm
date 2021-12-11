@@ -3,8 +3,8 @@
 
 	db   "Each mystical tier"
 	next "once represented"
-	next "a different aspect-"
+	next "an appeals aspect-"
 
 	page "ethos, pathos, and"
-	next "logos. This has yet"
-	next "been verified.@"
+	next "logos.This has yet"
+	next "to be verified.@"

@@ -1,10 +1,10 @@
 	db "CRITTER@" ; species name
 	dw 303, 110 ; height, weight
 
-	db   "This #mon"
-	next "can bound over"
-	next "trees in one leap,"
+	db   "This #mon can"
+	next "bound over trees"
+	next "in a single leap,"
 
 	page "one of the high-"
-	next "est jumps on"
-	next "record.@"
+	next "est jumps ever"
+	next "recorded.@"

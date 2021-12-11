@@ -204,8 +204,8 @@ PokemonCries::
 	mon_cry CRY_AIPOM,       162,  320 ; BIBBON
 	mon_cry CRY_VENONAT,    -233,  240 ; BUFFBOON
 	mon_cry CRY_MARILL,      -31,  384 ; BANANDRILL
-	mon_cry CRY_SLOWKING,    260,  512 ; SLOWKING
-	mon_cry CRY_HOOTHOOT,    304,  232 ; MISDREAVUS
+	mon_cry CRY_SLOWKING,    260,  512 ; KWOMBAT
+	mon_cry CRY_HOOTHOOT,    304,  232 ; PILLANTE
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN
 	mon_cry CRY_AMPHAROS,    635,  324 ; WOBBUFFET
 	mon_cry CRY_GIRAFARIG,    65,  512 ; GIRAFARIG

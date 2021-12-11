@@ -198,8 +198,8 @@ FramesPointers:
 	dw BibbonFrames
 	dw BuffboonFrames
 	dw BanandrillFrames
-	dw SlowkingFrames
-	dw MisdreavusFrames
+	dw KwombatFrames
+	dw PillanteFrames
 	dw UnownFrames
 	dw WobbuffetFrames
 	dw GirafarigFrames

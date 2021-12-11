@@ -2,9 +2,9 @@
 	dw 602, 12249 ; height, weight
 
 	db   "Liquid blasts from"
-	next "HIPTORRENT's"
-	next "gaping maw, able"
+	next "HIPTORRENT's gap-"
+	next "ing maw, able to"
 
-	page "to flash freeze"
-	next "into solid ice"
+	page "flash freeze into"
+	next "chilling icicles"
 	next "mid-stream.@"

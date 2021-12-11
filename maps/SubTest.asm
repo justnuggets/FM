@@ -42,9 +42,8 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke BIBBON, 50
-	givepoke BUFFBOON, 50
-	givepoke BANANDRILL, 50
+	givepoke KWOMBAT, 50
+	givepoke PILLANTE, 50
 	givepoke SUBMINO, 5, LEFTOVERS
 
 	closetext

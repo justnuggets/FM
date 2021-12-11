@@ -6,5 +6,5 @@
 	next "GOTHEDRAL will"
 
 	page "torment the souls"
-	next "of the wicked til"
-	next "all is atoned.@"
+	next "of the wicked un-"
+	next "til all is atoned.@"

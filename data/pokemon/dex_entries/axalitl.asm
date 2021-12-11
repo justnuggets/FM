@@ -2,7 +2,7 @@
 	dw 100, 087 ; height, weight
 
 	db   "When it reaches"
-	next "the right age, "
+	next "the proper age, "
 	next "AXALITL must learn"
 
 	page "to walk upright."

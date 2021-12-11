@@ -6,5 +6,5 @@
 	next "One flap of its"
 
 	page "wings send surges"
-	next "cracking across"
+	next "crackling across"
 	next "the heavens.@"

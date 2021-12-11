@@ -3,8 +3,8 @@
 
 	db   "Sputtering in-"
 	next "voluntarily, it"
-	next "it fans at the"
+	next "fans at its em-"
 
-	page "embers to put them"
-	next "out, only worsen-"
-	next "ing the spread.@"
+	page "bers to put them"
+	next "out, only to wor-"
+	next "sen the spread.@"

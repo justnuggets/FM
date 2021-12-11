@@ -5,6 +5,6 @@
 	next "this #mon's web"
 	next "is to nab goods,"
 
-	page "stored into a"
-	next "woven bag on its"
-	next "back.@"
+	page "stored into a wo-"
+	next "ven bag slung ov-"
+	next "er its back.@"

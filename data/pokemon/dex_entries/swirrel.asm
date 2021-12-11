@@ -7,4 +7,4 @@
 
 	page "to confuse others."
 	next "The differences"
-	next "are easy to see.@"
+	next "are easy to spot.@"

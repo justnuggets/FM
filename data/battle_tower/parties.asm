@@ -290,7 +290,7 @@ BattleTowerMons:
 	bigdw 31 ; SDef
 	db "PORIGON2@@@"
 
-	db MISDREAVUS
+	db PILLANTE
 	db FOCUS_BAND
 	db PERISH_SONG, MEAN_LOOK, PAIN_SPLIT, SHADOW_BALL
 	dw 0 ; OT ID
@@ -2382,7 +2382,7 @@ BattleTowerMons:
 	bigdw 124 ; SDef
 	db "HAtuSAMU@@@"
 
-	db SLOWKING
+	db KWOMBAT
 	db MINT_BERRY
 	db REST, SURF, PSYCHIC_M, AMNESIA
 	dw 0 ; OT ID
@@ -5231,7 +5231,7 @@ BattleTowerMons:
 	bigdw 212 ; SDef
 	db "ONIDORIRU@@"
 
-	db MISDREAVUS
+	db PILLANTE
 	db FOCUS_BAND
 	db PERISH_SONG, MEAN_LOOK, PAIN_SPLIT, SHADOW_BALL
 	dw 0 ; OT ID

@@ -7,4 +7,4 @@
 
 	page "will glide above"
 	next "the water surface"
-	next "to watch.@"
+	next "to observe.@"

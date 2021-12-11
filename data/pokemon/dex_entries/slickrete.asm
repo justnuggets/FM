@@ -2,9 +2,9 @@
 	dw 100, 120 ; height, weight
 
 	db   "It perches upon"
-	next "stalagmites, "
-	next "waiting with its"
+	next "stalagmites, wait-"
+	next "ing with its pro-"
 
-	page "protruding horn."
-	next "It is too slow to"
-	next "hunt another way.@"
+	page "truding horn. It's"
+	next "too slow to find"
+	next "food another way.@"

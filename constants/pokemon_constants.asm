@@ -218,8 +218,8 @@ JOHTO_POKEMON EQU const_value
 	const BIBBON     ; c4
 	const BUFFBOON    ; c5
 	const BANANDRILL    ; c6
-	const SLOWKING   ; c7
-	const MISDREAVUS ; c8
+	const KWOMBAT   ; c7
+	const PILLANTE ; c8
 	const UNOWN      ; c9
 	const WOBBUFFET  ; ca
 	const GIRAFARIG  ; cb

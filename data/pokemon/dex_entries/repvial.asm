@@ -5,6 +5,6 @@
 	next "festers with di-"
 	next "sease. The saliva"
 
-	page "dripping from it"
-	next "makes a sizzling"
-	next "sound.@"
+	page "dripping from its"
+	next "mouth makes a "
+	next "sizzling sound.@"

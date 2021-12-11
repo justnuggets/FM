@@ -6,5 +6,5 @@
 	next "otion to those"
 
 	page "around it.Suffer-"
-	next "ing is a foreign"
-	next "concept to it.@"
+	next "ing to it is a"
+	next "foreign concept.@"

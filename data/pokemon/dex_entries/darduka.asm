@@ -2,9 +2,9 @@
 	dw 207, 130 ; height, weight
 
 	db   "Doom and gloom"
-	next "personified, it is"
-	next "constantly followed"
+	next "personified,a dark"
+	next "aura constantly"
 
-	page "by a dark aura."
-	next "Never has it known"
+	page "follows DARDUKA."
+	next "I cannot recall"
 	next "happiness.@"

@@ -3279,7 +3279,7 @@ PokefanMGroup:
 	; POKEFANM (12)
 	db "ALEX@", TRAINERTYPE_ITEM
 	db 29, SPIKIDNA,   BERRY
-	db 29, SLOWKING,   BERRY
+	db 29, KWOMBAT,   BERRY
 	db 29, SNORCOBRA,    BERRY
 	db -1 ; end
 

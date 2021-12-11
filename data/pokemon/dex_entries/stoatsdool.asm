@@ -6,5 +6,5 @@
 	next "can produce a hol-"
 
 	page "istic remedy for"
-	next "everyday ailments,"
+	next "everyday ailments"
 	next "like indigestion.@"

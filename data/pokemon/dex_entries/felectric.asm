@@ -2,7 +2,7 @@
 	dw 509, 820 ; height, weight
 
 	db   "The weight it app-"
-	next "ears to have gained"
+	next "ears to have added"
 	next "is mostly in fur."
 
 	page "It is still incre-"

@@ -1118,8 +1118,8 @@ JohtoGrassWildMons:
 	db 46, KOMODOSE
 	db 46, GASPHALT
 	db 48, GASPHALT
-	db 45, MISDREAVUS
-	db 45, MISDREAVUS
+	db 45, PILLANTE
+	db 45, PILLANTE
 	end_grass_wildmons
 
 	def_grass_wildmons SILVER_CAVE_ROOM_3
@@ -1169,7 +1169,7 @@ JohtoGrassWildMons:
 	db 50, GASPHALT
 	db 52, GASPHALT
 	; nite
-	db 45, MISDREAVUS
+	db 45, PILLANTE
 	db 48, KOMODOSE
 	db 50, KOMODOSE
 	db 46, GASPHALT

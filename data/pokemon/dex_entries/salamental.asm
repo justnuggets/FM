@@ -7,4 +7,4 @@
 
 	page "7 must gather for"
 	next "a grand dragon sp-"
-	next "irit to awaken@"
+	next "irit to awaken.@"

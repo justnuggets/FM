@@ -7,4 +7,4 @@
 
 	page "mussel. Its shell"
 	next "alone is spacious"
-	next "as shelter.@"
+	next "as a shelter.@"

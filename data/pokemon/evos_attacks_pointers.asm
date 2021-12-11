@@ -200,8 +200,8 @@ EvosAttacksPointers::
 	dw BibbonEvosAttacks
 	dw BuffboonEvosAttacks
 	dw BanandrillEvosAttacks
-	dw SlowkingEvosAttacks
-	dw MisdreavusEvosAttacks
+	dw KwombatEvosAttacks
+	dw PillanteEvosAttacks
 	dw UnownEvosAttacks
 	dw WobbuffetEvosAttacks
 	dw GirafarigEvosAttacks

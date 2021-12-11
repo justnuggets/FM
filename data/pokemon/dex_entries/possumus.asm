@@ -3,8 +3,8 @@
 
 	db   "To lure foes un-"
 	next "wittingly closer,"
-	next "it feigns injury."
+	next "it feigns injury,"
 
-	page "It delivers a"
-	next "sly counterattack"
+	page "delivering a mean"
+	next "counter attack"
 	next "soon after.@"

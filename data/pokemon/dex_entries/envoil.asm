@@ -5,6 +5,6 @@
 	next "as seen in nature,"
 	next "domestic ENVOIL"
 
-	page "hold mail in their"
-	next "specialized comp-"
-	next "artment pouches.@"
+	page "will hold mail in"
+	next "their specialized"
+	next "chest pouches.@"

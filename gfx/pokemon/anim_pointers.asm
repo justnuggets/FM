@@ -198,8 +198,8 @@ AnimationPointers:
 	dw BibbonAnimation
 	dw BuffboonAnimation
 	dw BanandrillAnimation
-	dw SlowkingAnimation
-	dw MisdreavusAnimation
+	dw KwombatAnimation
+	dw PillanteAnimation
 	dw UnownAnimation
 	dw WobbuffetAnimation
 	dw GirafarigAnimation

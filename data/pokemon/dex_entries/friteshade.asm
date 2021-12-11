@@ -2,9 +2,9 @@
 	dw 806, 3012 ; height, weight
 
 	db   "FRITESHADE alter"
-	next "the pathways of"
-	next "forests by pos-"
+	next "forest paths by"
+	next "mimicking trees."
 
-	page "ing as trees."
-	next "Victims may wand-"
-	next "er forever.@"
+	page "Victims must then"
+	next "wander for days.."
+	next "..if not forever!@"
