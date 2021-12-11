@@ -1624,61 +1624,67 @@ PillanteEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
-
-UnownEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, HIDDEN_POWER
-	db 0 ; no more level-up moves
-
-WobbuffetEvosAttacks:
+	
+RolldierEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-GirafarigEvosAttacks:
+AntrenchDEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-PinecoEvosAttacks:
-	db EVOLVE_LEVEL, 31, FORRETRESS
+LagoopEvosAttacks:
+db EVOLVE_LEVEL, 31, TARMOOR
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 0 ; no more level-up moves
+
+TarmoorEvosAttacks:
+	db EVOLVE_LEVEL, 31, MIASMIRE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-ForretressEvosAttacks:
+MiasmireEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-DunsparceEvosAttacks:
+GonzaiEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, RAZOR_LEAF
+	db 1, OUTRAGE
+	db 1, THRASH
 	db 0 ; no more level-up moves
 
-GligarEvosAttacks:
+TikitoaEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, EMBER
+	db 1, SOLARBEAM
+	db 1, SUNNY_DAY
+	db 0 ; no more level-up moves
+	
+TikiwickiEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, EMBER
+	db 1, SOLARBEAM
+	db 1, SUNNY_DAY
+	db 0 ; no more level-up moves
+	
+VinkingEvosAttacks:
+	db EVOLVE_LEVEL, 23, SHEERGON
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-SteelixEvosAttacks:
+SheergonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-SnubbullEvosAttacks:
-	db EVOLVE_LEVEL, 23, GRANBULL
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-	
-
-GranbullEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-	
-QwilfishEvosAttacks:
+SworgonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1893,4 +1899,9 @@ HoOhEvosAttacks:
 CelebiEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
+	db 0 ; no more level-up moves
+	
+UnownEvosAttacks:
+	db 0 ; no more evolutions
+	db 1, HIDDEN_POWER
 	db 0 ; no more level-up moves

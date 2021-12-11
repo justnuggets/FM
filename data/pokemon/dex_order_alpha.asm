@@ -49,7 +49,7 @@ AlphabeticalPokedexOrder:
 	db TRAUMAT
 	db STRAWMENAD
 	db SPYDAR
-	db DUNSPARCE
+	db GONZAI
 	db ELECMENTAL
 	db CRYSTALIS
 	db ARMORDILLO
@@ -64,19 +64,19 @@ AlphabeticalPokedexOrder:
 	db HAPSUKA
 	db WATTVERN
 	db GAIAMENTAL
-	db FORRETRESS
+	db MIASMIRE
 	db STOATSDOOL
 	db LEAPEAR
 	db STRAWRBLE
 	db DAEMOON
-	db GIRAFARIG
-	db GLIGAR
+	db LAGOOP
+	db TIKITOA
 	db ENVOIL
 	db KOMODOSE
 	db DIVIPER
 	db JABAROO
 	db BOMBARDLE
-	db GRANBULL
+	db SHEERGON
 	db SABARINTH
 	db CATYBARA
 	db BINARS
@@ -164,7 +164,7 @@ AlphabeticalPokedexOrder:
 	db POSSUMUS
 	db TEAKBEAK
 	db PILOSWINE
-	db PINECO
+	db TARMOOR
 	db CAMOUFRAUG
 	db LLAMICE
 	db SINISTAR
@@ -178,7 +178,7 @@ AlphabeticalPokedexOrder:
 	db PUPITAR
 	db TUSSEL
 	db TROLLGORE
-	db QWILFISH
+	db SWORGON
 	db WOODRILL
 	db RAIKOU
 	db OKAPSI
@@ -207,14 +207,14 @@ AlphabeticalPokedexOrder:
 	db SMOOCHUM
 	db SNEASEL
 	db CTRLBOT
-	db SNUBBULL
+	db VINKING
 	db CHAWPPER
 	db NARBURR
 	db CUBBURN
 	db VILEMENTAL
 	db ZIGGRATH
 	db ESPUNGE
-	db STEELIX
+	db TIKIWICKI
 	db FENRIFT
 	db SUICUNE
 	db CONCHORALL
@@ -247,10 +247,11 @@ AlphabeticalPokedexOrder:
 	db REDDOT
 	db CONSTABOLD
 	db HISZARD
-	db WOBBUFFET
+	db ANTRENCH_D
 	db MOGULLUSK
 	db THISSILE
 	db COLOSHELL
 	db DELBOT
 	db REPVIAL
+	db ROLLDIER
 	assert_table_length NUM_POKEMON

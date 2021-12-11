@@ -42,8 +42,9 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke KWOMBAT, 50
-	givepoke PILLANTE, 50
+	givepoke VINKING, 50
+	givepoke SHEERGON, 50
+	givepoke SWORGON, 50
 	givepoke SUBMINO, 5, LEFTOVERS
 
 	closetext
@@ -55,7 +56,7 @@ SubTest_MapEvents:
 	def_warp_events
 	;warp_event  4,  1, PLAYERS_HOUSE_2F, 1
 	;warp_event  4,  1, DAY_CARE, 1
-	warp_event  4,  1, OLIVINE_CITY, 1
+	warp_event  4,  1, PEWTER_CITY, 1
 	;warp_event  4,  1, RUINS_OF_ALPH_OUTSIDE, 2
 	def_coord_events
 	

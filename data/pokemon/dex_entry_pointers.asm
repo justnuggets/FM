@@ -201,17 +201,17 @@ PokedexDataPointerTable:
 	dw BanandrillPokedexEntry
 	dw KwombatPokedexEntry
 	dw PillantePokedexEntry
-	dw UnownPokedexEntry
-	dw WobbuffetPokedexEntry
-	dw GirafarigPokedexEntry
-	dw PinecoPokedexEntry
-	dw ForretressPokedexEntry
-	dw DunsparcePokedexEntry
-	dw GligarPokedexEntry
-	dw SteelixPokedexEntry
-	dw SnubbullPokedexEntry
-	dw GranbullPokedexEntry
-	dw QwilfishPokedexEntry
+	dw RolldierPokedexEntry
+	dw AntrenchDPokedexEntry
+	dw LagoopPokedexEntry
+	dw TarmoorPokedexEntry
+	dw MiasmirePokedexEntry
+	dw GonzaiPokedexEntry
+	dw TikitoaPokedexEntry
+	dw TikiwickiPokedexEntry
+	dw VinkingPokedexEntry
+	dw SheergonPokedexEntry
+	dw SworgonPokedexEntry
 	dw ScizorPokedexEntry
 	dw ShucklePokedexEntry
 	dw HeracrossPokedexEntry
@@ -252,4 +252,5 @@ PokedexDataPointerTable:
 	dw LugiaPokedexEntry
 	dw HoOhPokedexEntry
 	dw CelebiPokedexEntry
+	dw UnownPokedexEntry
 	assert_table_length NUM_POKEMON

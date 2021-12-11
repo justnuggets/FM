@@ -2,33 +2,33 @@
 
 SwarmGrassWildMons:
 
-; Dunsparce swarm
+; Gonzai swarm dunsparce
 	map_id DARK_CAVE_VIOLET_ENTRANCE
 	db 4 percent, 4 percent, 4 percent ; encounter rates: morn/day/nite
 	; morn
 	db 3, DAEMOON
-	db 3, DUNSPARCE
+	db 3, GONZAI
 	db 2, REPVIAL
 	db 2, DAEMOON
-	db 2, DUNSPARCE
-	db 4, DUNSPARCE
-	db 4, DUNSPARCE
+	db 2, GONZAI
+	db 4, GONZAI
+	db 4, GONZAI
 	; day
 	db 3, DAEMOON
-	db 3, DUNSPARCE
+	db 3, GONZAI
 	db 2, REPVIAL
 	db 2, DAEMOON
-	db 2, DUNSPARCE
-	db 4, DUNSPARCE
-	db 4, DUNSPARCE
+	db 2, GONZAI
+	db 4, GONZAI
+	db 4, GONZAI
 	; nite
 	db 3, DAEMOON
-	db 3, DUNSPARCE
+	db 3, GONZAI
 	db 2, REPVIAL
 	db 2, DAEMOON
-	db 2, DUNSPARCE
-	db 4, DUNSPARCE
-	db 4, DUNSPARCE
+	db 2, GONZAI
+	db 4, GONZAI
+	db 4, GONZAI
 
 ; Apashee Yanma swarm
 	map_id ROUTE_35

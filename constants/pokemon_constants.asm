@@ -162,75 +162,75 @@
 	const SALAMENTAL ; 8d
 	const FARIMENTAL ; 8e
 	const CTRLBOT    ; 8f
-	const ALTBOT   ; 90
+	const ALTBOT     ; 90
 	const DELBOT     ; 91
-	const PUMMAT    ; 92
+	const PUMMAT     ; 92
 	const TRAUMAT    ; 93
-	const ACROMAT  ; 94
-	const PARAGODA  ; 95
-	const DOOMSTONE     ; 96
-	const FEARTRESS        ; 97 JOHTO MARKER v
+	const ACROMAT    ; 94
+	const PARAGODA   ; 95
+	const DOOMSTONE  ; 96
+	const FEARTRESS  ; 97 JOHTO MARKER v
 JOHTO_POKEMON EQU const_value
 	const GOTHEDRAL  ; 98
-	const TSUKIMIKO    ; 99
-	const ZONBI   ; 9a
-	const SMOKAI  ; 9b
-	const TROLLGORE    ; 9c
-	const GEXEL ; 9d
-	const RENDEREXE   ; 9e
-	const SUNIATA   ; 9f
-	const HAPSUKA ; a0
+	const TSUKIMIKO  ; 99
+	const ZONBI      ; 9a
+	const SMOKAI     ; 9b
+	const TROLLGORE  ; 9c
+	const GEXEL      ; 9d
+	const RENDEREXE  ; 9e
+	const SUNIATA    ; 9f
+	const HAPSUKA    ; a0
 	const DARDUKA    ; a1
-	const STOATSDOOL     ; a2
+	const STOATSDOOL ; a2
 	const MANIFIST   ; a3
-	const GHAUNTED    ; a4
+	const GHAUNTED   ; a4
 	const HAZVAT     ; a5
-	const TOXIVAT     ; a6
-	const NARBURR   ; a7
-	const NARCICLE    ; a8
-	const PLANKTOON     ; a9
-	const AGUAMARINE   ; aa
+	const TOXIVAT    ; a6
+	const NARBURR    ; a7
+	const NARCICLE   ; a8
+	const PLANKTOON  ; a9
+	const AGUAMARINE ; aa
 	const CIRIOUS    ; ab
-	const ZEPHLUFF      ; ac
-	const NIMBILLOW     ; ad
-	const FAFNARE  ; ae
-	const DREIGLORE     ; af
-	const BAMBOOTEM    ; b0
-	const FLORASCENT       ; b1
-	const THISSILE       ; b2
-	const ELECOIL     ; b3
-	const WATTVERN    ; b4
-	const THUNDRAKE   ; b5
-	const ECTOPUS  ; b6
-	const SWIRREL     ; b7
-	const ALPACK  ; b8 DO FIRST!
-	const LLAMICE   ; b9
-	const FENRIFT  ; ba
-	const GLAEWULF     ; bb
-	const SLOME   ; bc
-	const DWARFTAIN   ; bd
-	const YODELEI      ; be
+	const ZEPHLUFF   ; ac
+	const NIMBILLOW  ; ad
+	const FAFNARE    ; ae
+	const DREIGLORE  ; af
+	const BAMBOOTEM  ; b0
+	const FLORASCENT ; b1
+	const THISSILE   ; b2
+	const ELECOIL    ; b3
+	const WATTVERN   ; b4
+	const THUNDRAKE  ; b5
+	const ECTOPUS    ; b6
+	const SWIRREL    ; b7
+	const ALPACK     ; b8
+	const LLAMICE    ; b9
+	const FENRIFT    ; ba
+	const GLAEWULF   ; bb
+	const SLOME      ; bc
+	const DWARFTAIN  ; bd
+	const YODELEI    ; be
 	const BIVALRY    ; bf
-	const CONCHORALL   ; c0
-	const COLOSHELL      ; c1
-	const MOGULLUSK     ; c2
-	const TUSSEL   ; c3
+	const CONCHORALL ; c0
+	const COLOSHELL  ; c1
+	const MOGULLUSK  ; c2
+	const TUSSEL     ; c3
 	const BIBBON     ; c4
-	const BUFFBOON    ; c5
-	const BANANDRILL    ; c6
-	const KWOMBAT   ; c7
-	const PILLANTE ; c8
-	const UNOWN      ; c9
-	const WOBBUFFET  ; ca
-	const GIRAFARIG  ; cb
-	const PINECO     ; cc
-	const FORRETRESS ; cd
-	const DUNSPARCE  ; ce
-	const GLIGAR     ; cf
-	const STEELIX    ; d0
-	const SNUBBULL   ; d1
-	const GRANBULL   ; d2
-	const QWILFISH   ; d3
+	const BUFFBOON   ; c5
+	const BANANDRILL ; c6
+	const KWOMBAT    ; c7
+	const PILLANTE   ; c8
+	const ROLLDIER	 ; c9 UNOWN
+	const ANTRENCH_D  ; ca
+	const LAGOOP  ; cb
+	const TARMOOR     ; cc
+	const MIASMIRE ; cd
+	const GONZAI  ; ce
+	const TIKITOA     ; cf
+	const TIKIWICKI    ; d0
+	const VINKING   ; d1
+	const SHEERGON   ; d2
+	const SWORGON   ; d3
 	const SCIZOR     ; d4
 	const SHUCKLE    ; d5
 	const HERACROSS  ; d6
@@ -252,10 +252,10 @@ JOHTO_POKEMON EQU const_value
 	const KINGDRA    ; e6
 	const PHANPY     ; e7
 	const DONPHAN    ; e8
-	const OMANYTE    ; 8a 
-	const OMASTAR    ; 8b 
-	const KABUTO     ; 8c
-	const KABUTOPS   ; 8ds
+	const OMANYTE    ; e9 
+	const OMASTAR    ; ea
+	const KABUTO     ; eb
+	const KABUTOPS   ; ec
 	const HITMONTOP  ; ed
 	const SMOOCHUM   ; ee
 	const ELEKID     ; ef
@@ -271,8 +271,8 @@ JOHTO_POKEMON EQU const_value
 	const LUGIA      ; f9
 	const HO_OH      ; fa
 	const CELEBI     ; fb
+	const UNOWN      ; c9;const_skip       ; fc
 NUM_POKEMON EQU const_value - 1
-	const_skip       ; fc
 	const EGG        ; fd
 
 ; Unown forms

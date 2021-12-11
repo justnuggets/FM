@@ -14,14 +14,14 @@ FishGroups:
 	fishgroup 50 percent + 1, .Lake_Old,             .Lake_Good,             .Lake_Super
 	fishgroup 50 percent + 1, .Pond_Old,             .Pond_Good,             .Pond_Super
 	fishgroup 50 percent + 1, .Dratini_Old,          .Dratini_Good,          .Dratini_Super
-	fishgroup 50 percent + 1, .Qwilfish_Swarm_Old,   .Qwilfish_Swarm_Good,   .Qwilfish_Swarm_Super
+	fishgroup 50 percent + 1, .Sworgon_Swarm_Old,   .Sworgon_Swarm_Good,   .Sworgon_Swarm_Super
 	fishgroup 50 percent + 1, .Remoraid_Swarm_Old,   .Remoraid_Swarm_Good,   .Remoraid_Swarm_Super
 	fishgroup 50 percent + 1, .Gyarados_Old,         .Gyarados_Good,         .Gyarados_Super
 	fishgroup 50 percent + 1, .Dratini_2_Old,        .Dratini_2_Good,        .Dratini_2_Super
 	fishgroup 50 percent + 1, .WhirlIslands_Old,     .WhirlIslands_Good,     .WhirlIslands_Super
-	fishgroup 50 percent + 1, .Qwilfish_Old,         .Qwilfish_Good,         .Qwilfish_Super
+	fishgroup 50 percent + 1, .Sworgon_Old,         .Sworgon_Good,         .Sworgon_Super
 	fishgroup 50 percent + 1, .Remoraid_Old,         .Remoraid_Good,         .Remoraid_Super
-	fishgroup 50 percent + 1, .Qwilfish_NoSwarm_Old, .Qwilfish_NoSwarm_Good, .Qwilfish_NoSwarm_Super
+	fishgroup 50 percent + 1, .Sworgon_NoSwarm_Old, .Sworgon_NoSwarm_Good, .Sworgon_NoSwarm_Super
 	assert_table_length NUM_FISHGROUPS
 
 .Shore_Old:
@@ -99,20 +99,20 @@ FishGroups:
 	db  90 percent + 1, TRUBBLE,   40
 	db 100 percent,     ACROMAT,  40
 
-.Qwilfish_Swarm_Old:
+.Sworgon_Swarm_Old:
 	db  70 percent + 1, TRUBBLE,   5
 	db  85 percent + 1, TRUBBLE,   5
-	db 100 percent,     QWILFISH,   5
-.Qwilfish_Swarm_Good:
+	db 100 percent,     SWORGON,   5
+.Sworgon_Swarm_Good:
 	db  35 percent,     TRUBBLE,   20
-	db  70 percent,     QWILFISH,   20
-	db  90 percent + 1, QWILFISH,   20
+	db  70 percent,     SWORGON,   20
+	db  90 percent + 1, SWORGON,   20
 	db 100 percent,     time_group 10
-.Qwilfish_Swarm_Super:
-	db  40 percent,     QWILFISH,   40
+.Sworgon_Swarm_Super:
+	db  40 percent,     SWORGON,   40
 	db  70 percent,     time_group 11
-	db  90 percent + 1, QWILFISH,   40
-	db 100 percent,     QWILFISH,   40
+	db  90 percent + 1, SWORGON,   40
+	db 100 percent,     SWORGON,   40
 
 .Remoraid_Swarm_Old:
 	db  70 percent + 1, TRUBBLE,   10
@@ -174,23 +174,23 @@ FishGroups:
 	db  90 percent + 1, PAMPOOCH_P,    40
 	db 100 percent,     XSAILERATE,     40
 
-.Qwilfish_NoSwarm_Old:
-.Qwilfish_Old:
+.Sworgon_NoSwarm_Old:
+.Sworgon_Old:
 	db  70 percent + 1, TRUBBLE,   10
 	db  85 percent + 1, TRUBBLE,   10
 	db 100 percent,     IMPAN,  10
-.Qwilfish_NoSwarm_Good:
-.Qwilfish_Good:
+.Sworgon_NoSwarm_Good:
+.Sworgon_Good:
 	db  35 percent,     TRUBBLE,   20
 	db  70 percent,     IMPAN,  20
 	db  90 percent + 1, IMPAN,  20
 	db 100 percent,     time_group 20
-.Qwilfish_NoSwarm_Super:
-.Qwilfish_Super:
+.Sworgon_NoSwarm_Super:
+.Sworgon_Super:
 	db  40 percent,     IMPAN,  40
 	db  70 percent,     time_group 21
 	db  90 percent + 1, TRUBBLE,   40
-	db 100 percent,     QWILFISH,   40
+	db 100 percent,     SWORGON,   40
 
 .Remoraid_Old:
 	db  70 percent + 1, TRUBBLE,   10
@@ -219,8 +219,8 @@ TimeFishGroups:
 	db SINISTAR,    40,  SINISTAR,    40 ; 7
 	db TRAUMAT,    20,  TRAUMAT,    20 ; 8
 	db TRAUMAT,    40,  TRAUMAT,    40 ; 9
-	db QWILFISH,   20,  QWILFISH,   20 ; 10
-	db QWILFISH,   40,  QWILFISH,   40 ; 11
+	db SWORGON,   20,  SWORGON,   20 ; 10
+	db SWORGON,   40,  SWORGON,   40 ; 11
 	db REMORAID,   20,  REMORAID,   20 ; 12
 	db REMORAID,   40,  REMORAID,   40 ; 13
 	db GOLGRANITE,   20,  GOLGRANITE,   20 ; 14

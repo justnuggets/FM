@@ -200,17 +200,17 @@ FramesPointers:
 	dw BanandrillFrames
 	dw KwombatFrames
 	dw PillanteFrames
-	dw UnownFrames
-	dw WobbuffetFrames
-	dw GirafarigFrames
-	dw PinecoFrames
-	dw ForretressFrames
-	dw DunsparceFrames
-	dw GligarFrames
-	dw SteelixFrames
-	dw SnubbullFrames
-	dw GranbullFrames
-	dw QwilfishFrames
+	dw RolldierFrames
+	dw AntrenchDFrames
+	dw LagoopFrames
+	dw TarmoorFrames
+	dw MiasmireFrames
+	dw GonzaiFrames
+	dw TikitoaFrames
+	dw TikiwickiFrames
+	dw VinkingFrames
+	dw SheergonFrames
+	dw SworgonFrames
 	dw ScizorFrames
 	dw ShuckleFrames
 	dw HeracrossFrames
@@ -251,4 +251,5 @@ FramesPointers:
 	dw LugiaFrames
 	dw HoOhFrames
 	dw CelebiFrames
+	dw UnownFrames
 	assert_table_length NUM_POKEMON

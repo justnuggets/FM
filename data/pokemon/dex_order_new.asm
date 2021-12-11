@@ -202,17 +202,17 @@ NewPokedexOrder:
 	db BANANDRILL    
 	db KWOMBAT   
 	db PILLANTE 
-	db UNOWN      ; c9
-	db WOBBUFFET  
-	db GIRAFARIG  
-	db PINECO     
-	db FORRETRESS 
-	db DUNSPARCE  
-	db GLIGAR     
-	db STEELIX    
-	db SNUBBULL   
-	db GRANBULL   
-	db QWILFISH   
+	db ROLLDIER;db UNOWN      ; c9
+	db ANTRENCH_D  
+	db LAGOOP  
+	db TARMOOR     
+	db MIASMIRE 
+	db GONZAI  
+	db TIKITOA     
+	db TIKIWICKI    
+	db VINKING   
+	db SHEERGON   
+	db SWORGON   
 	db SCIZOR     
 	db SHUCKLE    
 	db HERACROSS  
@@ -253,4 +253,5 @@ NewPokedexOrder:
 	db LUGIA
 	db HO_OH
 	db CELEBI
+	db UNOWN
 	assert_table_length NUM_POKEMON

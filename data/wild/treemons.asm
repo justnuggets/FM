@@ -64,8 +64,8 @@ TreeMonSet_Route:
 	db -1
 ; rare
 	db 50, MANIFIST,   10
-	db 15, PINECO,     10
-	db 15, PINECO,     10
+	db 15, TARMOOR,     10
+	db 15, TARMOOR,     10
 	db 10, QARTRIDGE,  10
 	db  5, QARTRIDGE,  10
 	db  5, QARTRIDGE,  10
@@ -82,8 +82,8 @@ TreeMonSet_Kanto:
 	db -1
 ; rare
 	db 50, MANIFIST,   10
-	db 15, PINECO,     10
-	db 15, PINECO,     10
+	db 15, TARMOOR,     10
+	db 15, TARMOOR,     10
 	db 10, QARTRIDGE,  10
 	db  5, QARTRIDGE,  10
 	db  5, QARTRIDGE,  10
@@ -100,8 +100,8 @@ TreeMonSet_Lake:
 	db -1
 ; rare
 	db 50, MANIFIST,   10
-	db 15, PINECO,     10
-	db 15, PINECO,     10
+	db 15, TARMOOR,     10
+	db 15, TARMOOR,     10
 	db 10, QARTRIDGE,  10
 	db  5, QARTRIDGE,  10
 	db  5, QARTRIDGE,  10
@@ -110,8 +110,8 @@ TreeMonSet_Lake:
 TreeMonSet_Forest:
 ; common
 	db 50, MANIFIST,   10
-	db 15, PINECO,     10
-	db 15, PINECO,     10
+	db 15, TARMOOR,     10
+	db 15, TARMOOR,     10
 	db 10, GHAUNTED,    10
 	db  5, HIPTORRENT, 10
 	db  5, OPOSSTER,   10

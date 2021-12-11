@@ -202,15 +202,15 @@ EggMovePointers::
 	dw PillanteEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw GirafarigEggMoves
-	dw PinecoEggMoves
+	dw LagoopEggMoves
+	dw TarmoorEggMoves
 	dw NoEggMoves
-	dw DunsparceEggMoves
-	dw GligarEggMoves
+	dw GonzaiEggMoves
+	dw TikitoaEggMoves
 	dw NoEggMoves
-	dw SnubbullEggMoves
+	dw VinkingEggMoves
 	dw NoEggMoves
-	dw QwilfishEggMoves
+	dw SworgonEggMoves
 	dw NoEggMoves
 	dw ShuckleEggMoves
 	dw HeracrossEggMoves
@@ -246,6 +246,7 @@ EggMovePointers::
 	dw NoEggMoves
 	dw NoEggMoves
 	dw LarvitarEggMoves
+	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

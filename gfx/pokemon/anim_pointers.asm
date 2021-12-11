@@ -200,17 +200,17 @@ AnimationPointers:
 	dw BanandrillAnimation
 	dw KwombatAnimation
 	dw PillanteAnimation
-	dw UnownAnimation
-	dw WobbuffetAnimation
-	dw GirafarigAnimation
-	dw PinecoAnimation
-	dw ForretressAnimation
-	dw DunsparceAnimation
-	dw GligarAnimation
-	dw SteelixAnimation
-	dw SnubbullAnimation
-	dw GranbullAnimation
-	dw QwilfishAnimation
+	dw RolldierAnimation
+	dw AntrenchDAnimation
+	dw LagoopAnimation
+	dw TarmoorAnimation
+	dw MiasmireAnimation
+	dw GonzaiAnimation
+	dw TikitoaAnimation
+	dw TikiwickiAnimation
+	dw VinkingAnimation
+	dw SheergonAnimation
+	dw SworgonAnimation
 	dw ScizorAnimation
 	dw ShuckleAnimation
 	dw HeracrossAnimation
@@ -251,4 +251,5 @@ AnimationPointers:
 	dw LugiaAnimation
 	dw HoOhAnimation
 	dw CelebiAnimation
+	dw UnownAnimation
 	assert_table_length NUM_POKEMON

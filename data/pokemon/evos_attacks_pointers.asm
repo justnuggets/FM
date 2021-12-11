@@ -202,17 +202,17 @@ EvosAttacksPointers::
 	dw BanandrillEvosAttacks
 	dw KwombatEvosAttacks
 	dw PillanteEvosAttacks
-	dw UnownEvosAttacks
-	dw WobbuffetEvosAttacks
-	dw GirafarigEvosAttacks
-	dw PinecoEvosAttacks
-	dw ForretressEvosAttacks
-	dw DunsparceEvosAttacks
-	dw GligarEvosAttacks
-	dw SteelixEvosAttacks
-	dw SnubbullEvosAttacks
-	dw GranbullEvosAttacks
-	dw QwilfishEvosAttacks
+	dw RolldierEvosAttacks
+	dw AntrenchDEvosAttacks
+	dw LagoopEvosAttacks
+	dw TarmoorEvosAttacks
+	dw MiasmireEvosAttacks
+	dw GonzaiEvosAttacks
+	dw TikitoaEvosAttacks
+	dw TikiwickiEvosAttacks
+	dw VinkingEvosAttacks
+	dw SheergonEvosAttacks
+	dw SworgonEvosAttacks
 	dw ScizorEvosAttacks
 	dw ShuckleEvosAttacks
 	dw HeracrossEvosAttacks
@@ -253,4 +253,5 @@ EvosAttacksPointers::
 	dw LugiaEvosAttacks
 	dw HoOhEvosAttacks
 	dw CelebiEvosAttacks
+	dw UnownEvosAttacks
 	assert_table_length NUM_POKEMON

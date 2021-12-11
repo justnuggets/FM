@@ -1187,7 +1187,7 @@ JohtoGrassWildMons:
 	db 4, DAEMOON
 	db 2, TEDDIURSA
 	db 4, REPVIAL
-	db 4, DUNSPARCE
+	db 4, GONZAI
 	; day
 	db 3, DAEMOON
 	db 2, REPVIAL
@@ -1195,7 +1195,7 @@ JohtoGrassWildMons:
 	db 4, DAEMOON
 	db 2, REPVIAL
 	db 4, REPVIAL
-	db 4, DUNSPARCE
+	db 4, GONZAI
 	; nite
 	db 3, DAEMOON
 	db 2, REPVIAL
@@ -1203,7 +1203,7 @@ JohtoGrassWildMons:
 	db 4, DAEMOON
 	db 2, REPVIAL
 	db 4, REPVIAL
-	db 4, DUNSPARCE
+	db 4, GONZAI
 	end_grass_wildmons
 
 	def_grass_wildmons DARK_CAVE_BLACKTHORN_ENTRANCE
@@ -1228,8 +1228,8 @@ JohtoGrassWildMons:
 	db 23, DAEMOON
 	db 23, REPVIAL
 	db 25, SABARINTH
-	db 20, WOBBUFFET
-	db 25, WOBBUFFET
+	db 20, ANTRENCH_D
+	db 25, ANTRENCH_D
 	db 23, KOMODOSE
 	db 23, KOMODOSE
 	end_grass_wildmons
@@ -1377,7 +1377,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_34
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 10, SNUBBULL
+	db 10, VINKING
 	db 11, HOPSTOT
 	db 12, POSSUMUS
 	db 10, BAGROUND
@@ -1385,7 +1385,7 @@ JohtoGrassWildMons:
 	db 10, DITTO
 	db 10, DITTO
 	; day
-	db 10, SNUBBULL
+	db 10, VINKING
 	db 11, HOPSTOT
 	db 12, POSSUMUS
 	db 10, BAGROUND
@@ -1405,7 +1405,7 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_35
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 12, SNUBBULL
+	db 12, VINKING
 	db 14, POSSUMUS
 	db 13, BINARS
 	db 10, BAGROUND
@@ -1413,7 +1413,7 @@ JohtoGrassWildMons:
 	db 10, DITTO
 	db 12, COLOSHELL
 	; day
-	db 12, SNUBBULL
+	db 12, VINKING
 	db 14, POSSUMUS
 	db 13, BINARS
 	db 10, BAGROUND
@@ -1631,7 +1631,7 @@ JohtoGrassWildMons:
 	; morn
 	db 23, DAEMOON
 	db 23, SABARINTH
-	db 24, GLIGAR
+	db 24, TIKITOA
 	db 25, DONPHAN
 	db 20, PHANPY
 	db 27, SKARMORY
@@ -1639,7 +1639,7 @@ JohtoGrassWildMons:
 	; day
 	db 23, DAEMOON
 	db 23, SABARINTH
-	db 24, GLIGAR
+	db 24, TIKITOA
 	db 25, DONPHAN
 	db 30, DONPHAN
 	db 27, SKARMORY
@@ -1647,7 +1647,7 @@ JohtoGrassWildMons:
 	; nite
 	db 23, DAEMOON
 	db 23, SABARINTH
-	db 24, GLIGAR
+	db 24, TIKITOA
 	db 25, SABARINTH
 	db 27, SABARINTH
 	db 27, SABARINTH
@@ -1713,16 +1713,16 @@ JohtoGrassWildMons:
 	def_grass_wildmons SUBTEST
 	db 50 percent, 100 percent, 50 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, GRANBULL
-	db 4, GRANBULL
-	db 5, GRANBULL
-	db 3, GRANBULL
-	db 6, GRANBULL
-	db 5, GRANBULL
-	db 5, GRANBULL
+	db 3, SHEERGON
+	db 4, SHEERGON
+	db 5, SHEERGON
+	db 3, SHEERGON
+	db 6, SHEERGON
+	db 5, SHEERGON
+	db 5, SHEERGON
 	; day
-	db 7, GRANBULL
-	db 7, GRANBULL
+	db 7, SHEERGON
+	db 7, SHEERGON
     db 7, HAILOTH
     db 7, HAILOTH
 	db 7, MARBLOCK

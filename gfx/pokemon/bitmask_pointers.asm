@@ -200,17 +200,17 @@ BitmasksPointers:
 	dw BanandrillBitmasks
 	dw KwombatBitmasks
 	dw PillanteBitmasks
-	dw UnownBitmasks
-	dw WobbuffetBitmasks
-	dw GirafarigBitmasks
-	dw PinecoBitmasks
-	dw ForretressBitmasks
-	dw DunsparceBitmasks
-	dw GligarBitmasks
-	dw SteelixBitmasks
-	dw SnubbullBitmasks
-	dw GranbullBitmasks
-	dw QwilfishBitmasks
+	dw RolldierBitmasks
+	dw AntrenchDBitmasks
+	dw LagoopBitmasks
+	dw TarmoorBitmasks
+	dw MiasmireBitmasks
+	dw GonzaiBitmasks
+	dw TikitoaBitmasks
+	dw TikiwickiBitmasks
+	dw VinkingBitmasks
+	dw SheergonBitmasks
+	dw SworgonBitmasks
 	dw ScizorBitmasks
 	dw ShuckleBitmasks
 	dw HeracrossBitmasks
@@ -251,4 +251,5 @@ BitmasksPointers:
 	dw LugiaBitmasks
 	dw HoOhBitmasks
 	dw CelebiBitmasks
+	dw UnownBitmasks
 	assert_table_length NUM_POKEMON

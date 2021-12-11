@@ -207,16 +207,16 @@ PokemonCries::
 	mon_cry CRY_SLOWKING,    260,  512 ; KWOMBAT
 	mon_cry CRY_HOOTHOOT,    304,  232 ; PILLANTE
 	mon_cry CRY_HOOTHOOT,    354,  256 ; UNOWN
-	mon_cry CRY_AMPHAROS,    635,  324 ; WOBBUFFET
-	mon_cry CRY_GIRAFARIG,    65,  512 ; GIRAFARIG
-	mon_cry CRY_SLOWKING,    128,  256 ; PINECO
-	mon_cry CRY_SLOWKING,      0,  384 ; FORRETRESS
-	mon_cry CRY_DUNSPARCE,   452,  256 ; DUNSPARCE
-	mon_cry CRY_GLIGAR,     -258,  256 ; GLIGAR
-	mon_cry CRY_TYPHLOSION,  239,  247 ; STEELIX
-	mon_cry CRY_DUNSPARCE,   274,  232 ; SNUBBULL
-	mon_cry CRY_DUNSPARCE,     0,  384 ; GRANBULL
-	mon_cry CRY_SLOWKING,    352,  224 ; QWILFISH
+	mon_cry CRY_AMPHAROS,    635,  324 ; ANTRENCH_D
+	mon_cry CRY_GIRAFARIG,    65,  512 ; LAGOOP
+	mon_cry CRY_SLOWKING,    128,  256 ; TARMOOR
+	mon_cry CRY_SLOWKING,      0,  384 ; MIASMIRE
+	mon_cry CRY_DUNSPARCE,   452,  256 ; GONZAI
+	mon_cry CRY_GLIGAR,     -258,  256 ; TIKITOA
+	mon_cry CRY_TYPHLOSION,  239,  247 ; TIKIWICKI
+	mon_cry CRY_DUNSPARCE,   274,  232 ; VINKING
+	mon_cry CRY_DUNSPARCE,     0,  384 ; SHEERGON
+	mon_cry CRY_SLOWKING,    352,  224 ; SWORGON
 	mon_cry CRY_AMPHAROS,      0,  352 ; SCIZOR
 	mon_cry CRY_DUNSPARCE,   656,  168 ; SHUCKLE
 	mon_cry CRY_AMPHAROS,     53,  224 ; HERACROSS
@@ -257,8 +257,8 @@ PokemonCries::
 	mon_cry CRY_TYPHLOSION,    0,  256 ; LUGIA
 	mon_cry CRY_AIPOM,         0,  384 ; HO_OH
 	mon_cry CRY_ENTEI,       330,  273 ; CELEBI
+	mon_cry CRY_NIDORAN_M,     0,  100 ; 252
 	assert_table_length NUM_POKEMON
-	mon_cry CRY_NIDORAN_M,     0,    0 ; 252
 	mon_cry CRY_NIDORAN_M,     0,    0 ; 253
 	mon_cry CRY_NIDORAN_M,     0,    0 ; 254
 	mon_cry CRY_NIDORAN_M,     0,    0 ; 255

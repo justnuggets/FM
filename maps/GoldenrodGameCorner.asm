@@ -172,7 +172,7 @@ GoldenrodGameCornerPrizeMonVendorScript:
 	closewindow
 	ifequal 1, .Baground
 	ifequal 2, .Skardine
-	ifequal 3, .Wobbuffet
+	ifequal 3, .AntrenchD
 	sjump GoldenrodGameCornerPrizeVendor_CancelPurchaseScript
 
 .Baground:
@@ -211,7 +211,7 @@ GoldenrodGameCornerPrizeMonVendorScript:
 	takecoins GOLDENRODGAMECORNER_CUBONE_COINS
 	sjump .loop
 
-.Wobbuffet:
+.AntrenchD:
 	checkcoins GOLDENRODGAMECORNER_WOBBUFFET_COINS
 	ifequal HAVE_LESS, GoldenrodGameCornerPrizeVendor_NotEnoughCoinsScript
 	readvar VAR_PARTYCOUNT

@@ -251,8 +251,8 @@ PokemonNames::
 	db "HIPRAEZLY@"
 	db "MissingNo."
 	db "M.@@@@@@@@"
+	db "MISSINGNO."
 	assert_table_length NUM_POKEMON
-	db "UNOWN@@@@@"
 	db "EGG@@@@@@@"
 	assert_table_length EGG
 	db "?????@@@@@"

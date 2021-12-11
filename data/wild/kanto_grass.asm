@@ -286,7 +286,7 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 13, POSSUMUS
-	db 13, SNUBBULL
+	db 13, VINKING
 	db 15, AXALITL
 	db 12, BAGROUND
 	db 14, FELECTRIC
@@ -294,7 +294,7 @@ KantoGrassWildMons:
 	db 14, BAGROUND
 	; day
 	db 13, POSSUMUS
-	db 13, SNUBBULL
+	db 13, VINKING
 	db 15, AXALITL
 	db 12, BAGROUND
 	db 14, FELECTRIC
@@ -314,20 +314,20 @@ KantoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 13, HOPSTOT
-	db 13, SNUBBULL
+	db 13, VINKING
 	db 14, SURFALLO
 	db 15, LOCUTS
 	db 12, FELECTRIC
-	db 15, GRANBULL
-	db 15, GRANBULL
+	db 15, SHEERGON
+	db 15, SHEERGON
 	; day
 	db 13, HOPSTOT
-	db 13, SNUBBULL
+	db 13, VINKING
 	db 14, SURFALLO
 	db 15, LOCUTS
 	db 12, FELECTRIC
-	db 15, GRANBULL
-	db 15, GRANBULL
+	db 15, SHEERGON
+	db 15, SHEERGON
 	; nite
 	db 13, PORCELION
 	db 13, STRAWMENAD
@@ -343,7 +343,7 @@ KantoGrassWildMons:
 	; morn
 	db 17, HOPSTOT
 	db 17, CHAWPPER
-	db 18, SNUBBULL
+	db 18, VINKING
 	db 18, LOCUTS
 	db 18, FELECTRIC
 	db 16, BAGROUND
@@ -351,7 +351,7 @@ KantoGrassWildMons:
 	; day
 	db 17, HOPSTOT
 	db 17, CHAWPPER
-	db 18, SNUBBULL
+	db 18, VINKING
 	db 18, LOCUTS
 	db 18, FELECTRIC
 	db 16, BAGROUND
@@ -369,7 +369,7 @@ KantoGrassWildMons:
 	def_grass_wildmons ROUTE_8
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 17, SNUBBULL
+	db 17, VINKING
 	db 19, AXALITL
 	db 16, BAGROUND
 	db 17, BINARS
@@ -377,7 +377,7 @@ KantoGrassWildMons:
 	db 18, TERRAGER
 	db 18, TERRAGER
 	; day
-	db 17, SNUBBULL
+	db 17, VINKING
 	db 19, AXALITL
 	db 16, BAGROUND
 	db 17, BINARS

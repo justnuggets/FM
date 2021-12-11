@@ -200,17 +200,17 @@ AnimationIdlePointers:
 	dw BanandrillAnimationIdle
 	dw KwombatAnimationIdle
 	dw PillanteAnimationIdle
-	dw UnownAnimationIdle
-	dw WobbuffetAnimationIdle
-	dw GirafarigAnimationIdle
-	dw PinecoAnimationIdle
-	dw ForretressAnimationIdle
-	dw DunsparceAnimationIdle
-	dw GligarAnimationIdle
-	dw SteelixAnimationIdle
-	dw SnubbullAnimationIdle
-	dw GranbullAnimationIdle
-	dw QwilfishAnimationIdle
+	dw RolldierAnimationIdle
+	dw AntrenchDAnimationIdle
+	dw LagoopAnimationIdle
+	dw TarmoorAnimationIdle
+	dw MiasmireAnimationIdle
+	dw GonzaiAnimationIdle
+	dw TikitoaAnimationIdle
+	dw TikiwickiAnimationIdle
+	dw VinkingAnimationIdle
+	dw SheergonAnimationIdle
+	dw SworgonAnimationIdle
 	dw ScizorAnimationIdle
 	dw ShuckleAnimationIdle
 	dw HeracrossAnimationIdle
@@ -251,4 +251,5 @@ AnimationIdlePointers:
 	dw LugiaAnimationIdle
 	dw HoOhAnimationIdle
 	dw CelebiAnimationIdle
+	dw UnownAnimationIdle
 	assert_table_length NUM_POKEMON

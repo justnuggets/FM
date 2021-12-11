@@ -402,32 +402,29 @@ PokemonPicPointers::
 	dba_pic KwombatFrontpic
 	dba_pic KwombatBackpic
 	dba_pic PillanteFrontpic
-	dba_pic PillanteBackpic
-
-	; Unown pics have their own table. See UnownPicPointers
-	dbw -1, -1
-	dbw -1, -1
-
-	dba_pic WobbuffetFrontpic
-	dba_pic WobbuffetBackpic
-	dba_pic GirafarigFrontpic
-	dba_pic GirafarigBackpic
-	dba_pic PinecoFrontpic
-	dba_pic PinecoBackpic
-	dba_pic ForretressFrontpic
-	dba_pic ForretressBackpic
-	dba_pic DunsparceFrontpic
-	dba_pic DunsparceBackpic
-	dba_pic GligarFrontpic
-	dba_pic GligarBackpic
-	dba_pic SteelixFrontpic
-	dba_pic SteelixBackpic
-	dba_pic SnubbullFrontpic
-	dba_pic SnubbullBackpic
-	dba_pic GranbullFrontpic
-	dba_pic GranbullBackpic
-	dba_pic QwilfishFrontpic
-	dba_pic QwilfishBackpic
+	dba_pic PillanteBackpic	
+	dba_pic RolldierFrontpic
+	dba_pic RolldierBackpic
+	dba_pic AntrenchDFrontpic
+	dba_pic AntrenchDBackpic
+	dba_pic LagoopFrontpic
+	dba_pic LagoopBackpic
+	dba_pic TarmoorFrontpic
+	dba_pic TarmoorBackpic
+	dba_pic MiasmireFrontpic
+	dba_pic MiasmireBackpic
+	dba_pic GonzaiFrontpic
+	dba_pic GonzaiBackpic
+	dba_pic TikitoaFrontpic
+	dba_pic TikitoaBackpic
+	dba_pic TikiwickiFrontpic
+	dba_pic TikiwickiBackpic
+	dba_pic VinkingFrontpic
+	dba_pic VinkingBackpic
+	dba_pic SheergonFrontpic
+	dba_pic SheergonBackpic
+	dba_pic SworgonFrontpic
+	dba_pic SworgonBackpic
 	dba_pic ScizorFrontpic
 	dba_pic ScizorBackpic
 	dba_pic ShuckleFrontpic
@@ -508,9 +505,12 @@ PokemonPicPointers::
 	dba_pic HoOhBackpic
 	dba_pic CelebiFrontpic
 	dba_pic CelebiBackpic
+	; Unown pics have their own table. See UnownPicPointers
+	dbw -1, -1
+	dbw -1, -1
 	assert_table_length NUM_POKEMON
-	dbw -1, -1 ; unused
-	dbw -1, -1 ; unused
+	;dbw -1, -1 ; unused
+;	dbw -1, -1 ; unused
 	dba_pic EggPic
 	dbw -1, -1 ; unused
 	assert_table_length EGG
