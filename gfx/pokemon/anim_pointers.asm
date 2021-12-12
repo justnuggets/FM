@@ -211,18 +211,18 @@ AnimationPointers:
 	dw VinkingAnimation
 	dw SheergonAnimation
 	dw SworgonAnimation
-	dw ScizorAnimation
-	dw ShuckleAnimation
-	dw HeracrossAnimation
-	dw SneaselAnimation
-	dw TeddiursaAnimation
-	dw UrsaringAnimation
-	dw SlugmaAnimation
-	dw MagcargoAnimation
-	dw SwinubAnimation
-	dw PiloswineAnimation
-	dw CorsolaAnimation
-	dw RemoraidAnimation
+	dw ParrodisoAnimation
+	dw PollirojerAnimation
+	dw FlamamigoAnimation
+	dw CassavageAnimation
+	dw HarpshootrAnimation
+	dw CuraribriAnimation
+	dw CocapitanAnimation
+	dw TecnocerosAnimation
+	dw MedisprateAnimation
+	dw AardvoliAnimation
+	dw EntrapmonAnimation
+	dw GhiardoraAnimation
 	dw OctilleryAnimation
 	dw DelibirdAnimation
 	dw MantineAnimation

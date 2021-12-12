@@ -212,17 +212,17 @@ EggMovePointers::
 	dw NoEggMoves
 	dw SworgonEggMoves
 	dw NoEggMoves
-	dw ShuckleEggMoves
-	dw HeracrossEggMoves
-	dw SneaselEggMoves
-	dw TeddiursaEggMoves
+	dw PollirojerEggMoves
+	dw FlamamigoEggMoves
+	dw CassavageEggMoves
+	dw HarpshootrEggMoves
 	dw NoEggMoves
-	dw SlugmaEggMoves
+	dw CocapitanEggMoves
 	dw NoEggMoves
-	dw SwinubEggMoves
+	dw MedisprateEggMoves
 	dw NoEggMoves
-	dw CorsolaEggMoves
-	dw RemoraidEggMoves
+	dw EntrapmonEggMoves
+	dw GhiardoraEggMoves
 	dw NoEggMoves
 	dw DelibirdEggMoves
 	dw MantineEggMoves

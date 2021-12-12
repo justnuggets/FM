@@ -212,18 +212,18 @@ PokedexDataPointerTable:
 	dw VinkingPokedexEntry
 	dw SheergonPokedexEntry
 	dw SworgonPokedexEntry
-	dw ScizorPokedexEntry
-	dw ShucklePokedexEntry
-	dw HeracrossPokedexEntry
-	dw SneaselPokedexEntry
-	dw TeddiursaPokedexEntry
-	dw UrsaringPokedexEntry
-	dw SlugmaPokedexEntry
-	dw MagcargoPokedexEntry
-	dw SwinubPokedexEntry
-	dw PiloswinePokedexEntry
-	dw CorsolaPokedexEntry
-	dw RemoraidPokedexEntry
+	dw ParrodisoPokedexEntry
+	dw PollirojerPokedexEntry
+	dw FlamamigoPokedexEntry
+	dw CassavagePokedexEntry
+	dw HarpshootrPokedexEntry
+	dw CuraribriPokedexEntry
+	dw CocapitanPokedexEntry
+	dw TecnocerosPokedexEntry
+	dw MedispratePokedexEntry
+	dw AardvoliPokedexEntry
+	dw EntrapmonPokedexEntry
+	dw GhiardoraPokedexEntry
 	dw OctilleryPokedexEntry
 	dw DelibirdPokedexEntry
 	dw MantinePokedexEntry

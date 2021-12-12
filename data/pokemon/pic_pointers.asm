@@ -425,30 +425,30 @@ PokemonPicPointers::
 	dba_pic SheergonBackpic
 	dba_pic SworgonFrontpic
 	dba_pic SworgonBackpic
-	dba_pic ScizorFrontpic
-	dba_pic ScizorBackpic
-	dba_pic ShuckleFrontpic
-	dba_pic ShuckleBackpic
-	dba_pic HeracrossFrontpic
-	dba_pic HeracrossBackpic
-	dba_pic SneaselFrontpic
-	dba_pic SneaselBackpic
-	dba_pic TeddiursaFrontpic
-	dba_pic TeddiursaBackpic
-	dba_pic UrsaringFrontpic
-	dba_pic UrsaringBackpic
-	dba_pic SlugmaFrontpic
-	dba_pic SlugmaBackpic
-	dba_pic MagcargoFrontpic
-	dba_pic MagcargoBackpic
-	dba_pic SwinubFrontpic
-	dba_pic SwinubBackpic
-	dba_pic PiloswineFrontpic
-	dba_pic PiloswineBackpic
-	dba_pic CorsolaFrontpic
-	dba_pic CorsolaBackpic
-	dba_pic RemoraidFrontpic
-	dba_pic RemoraidBackpic
+	dba_pic ParrodisoFrontpic
+	dba_pic ParrodisoBackpic
+	dba_pic PollirojerFrontpic
+	dba_pic PollirojerBackpic
+	dba_pic FlamamigoFrontpic
+	dba_pic FlamamigoBackpic
+	dba_pic CassavageFrontpic
+	dba_pic CassavageBackpic
+	dba_pic HarpshootrFrontpic
+	dba_pic HarpshootrBackpic
+	dba_pic CuraribriFrontpic
+	dba_pic CuraribriBackpic
+	dba_pic CocapitanFrontpic
+	dba_pic CocapitanBackpic
+	dba_pic TecnocerosFrontpic
+	dba_pic TecnocerosBackpic
+	dba_pic MedisprateFrontpic
+	dba_pic MedisprateBackpic
+	dba_pic AardvoliFrontpic
+	dba_pic AardvoliBackpic
+	dba_pic EntrapmonFrontpic
+	dba_pic EntrapmonBackpic
+	dba_pic GhiardoraFrontpic
+	dba_pic GhiardoraBackpic
 	dba_pic OctilleryFrontpic
 	dba_pic OctilleryBackpic
 	dba_pic DelibirdFrontpic

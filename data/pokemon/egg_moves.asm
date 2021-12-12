@@ -666,17 +666,17 @@ SworgonEggMoves:
 	db SUPERSONIC
 	db -1 ; end
 
-ShuckleEggMoves:
+PollirojerEggMoves:
 	db SWEET_SCENT
 	db -1 ; end
 
-HeracrossEggMoves:
+FlamamigoEggMoves:
 	db HARDEN
 	db BIDE
 	db FLAIL
 	db -1 ; end
 
-SneaselEggMoves:
+CassavageEggMoves:
 	db COUNTER
 	db SPITE
 	db FORESIGHT
@@ -684,7 +684,7 @@ SneaselEggMoves:
 	db BITE
 	db -1 ; end
 
-TeddiursaEggMoves:
+HarpshootrEggMoves:
 	db CRUNCH
 	db TAKE_DOWN
 	db SEISMIC_TOSS
@@ -693,11 +693,11 @@ TeddiursaEggMoves:
 	db METAL_CLAW
 	db -1 ; end
 
-SlugmaEggMoves:
+CocapitanEggMoves:
 	db ACID_ARMOR
 	db -1 ; end
 
-SwinubEggMoves:
+MedisprateEggMoves:
 	db TAKE_DOWN
 	db BITE
 	db BODY_SLAM
@@ -705,7 +705,7 @@ SwinubEggMoves:
 	db ANCIENTPOWER
 	db -1 ; end
 
-CorsolaEggMoves:
+EntrapmonEggMoves:
 	db ROCK_SLIDE
 	db SAFEGUARD
 	db SCREECH
@@ -713,7 +713,7 @@ CorsolaEggMoves:
 	db AMNESIA
 	db -1 ; end
 
-RemoraidEggMoves:
+GhiardoraEggMoves:
 	db AURORA_BEAM
 	db OCTAZOOKA
 	db SUPERSONIC

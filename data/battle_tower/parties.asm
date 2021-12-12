@@ -134,7 +134,7 @@ BattleTowerMons:
 	bigdw 28 ; SDef
 	db "GARU-RA@@@@"
 
-	db CORSOLA
+	db ENTRAPMON
 	db SCOPE_LENS
 	db SURF, PSYCHIC_M, RECOVER, ANCIENTPOWER
 	dw 0 ; OT ID
@@ -238,7 +238,7 @@ BattleTowerMons:
 	bigdw 30 ; SDef
 	db "RAPURASU@@@"
 
-	db SNEASEL
+	db CASSAVAGE
 	db GOLD_BERRY
 	db SLASH, FAINT_ATTACK, SURF, BLIZZARD
 	dw 0 ; OT ID
@@ -446,7 +446,7 @@ BattleTowerMons:
 	bigdw 25 ; SDef
 	db "NAtuSI-@@@@"
 
-	db HERACROSS
+	db FLAMAMIGO
 	db GOLD_BERRY
 	db REVERSAL, ENDURE, COUNTER, ROCK_SMASH
 	dw 0 ; OT ID
@@ -709,7 +709,7 @@ BattleTowerMons:
 	bigdw 52 ; SDef
 	db "UINDEi@@@@@"
 
-	db HERACROSS
+	db FLAMAMIGO
 	db FOCUS_BAND
 	db ENDURE, REVERSAL, MEGAHORN, EARTHQUAKE
 	dw 0 ; OT ID
@@ -865,7 +865,7 @@ BattleTowerMons:
 	bigdw 37 ; SDef
 	db "PIKATIyuU@@"
 
-	db SCIZOR
+	db PARRODISO
 	db FOCUS_BAND
 	db STEEL_WING, SLASH, TOXIC, SANDSTORM
 	dw 0 ; OT ID
@@ -1570,7 +1570,7 @@ BattleTowerMons:
 	bigdw 70 ; SDef
 	db "GENGA-@@@@@"
 
-	db URSARING
+	db CURARIBRI
 	db GOLD_BERRY
 	db HEADBUTT, PROTECT, ROAR, LEER
 	dw 0 ; OT ID
@@ -1885,7 +1885,7 @@ BattleTowerMons:
 	bigdw 88 ; SDef
 	db "GORO-NIya@@"
 
-	db SCIZOR
+	db PARRODISO
 	db SCOPE_LENS
 	db SLASH, STEEL_WING, PURSUIT, HYPER_BEAM
 	dw 0 ; OT ID
@@ -2252,7 +2252,7 @@ BattleTowerMons:
 	bigdw 127 ; SDef
 	db "HERUGA-@@@@"
 
-	db SHUCKLE
+	db POLLIROJER
 	db LEFTOVERS
 	db SANDSTORM, REST, TOXIC, WRAP
 	dw 0 ; OT ID
@@ -2356,7 +2356,7 @@ BattleTowerMons:
 	bigdw 144 ; SDef
 	db "SANDA-SU@@@"
 
-	db SCIZOR
+	db PARRODISO
 	db LEFTOVERS
 	db HYPER_BEAM, SLASH, AGILITY, METAL_CLAW
 	dw 0 ; OT ID
@@ -3113,7 +3113,7 @@ BattleTowerMons:
 	bigdw 184 ; SDef
 	db "KABIGON@@@@"
 
-	db HERACROSS
+	db FLAMAMIGO
 	db FOCUS_BAND
 	db REVERSAL, MEGAHORN, EARTHQUAKE, COUNTER
 	dw 0 ; OT ID
@@ -3610,7 +3610,7 @@ BattleTowerMons:
 	bigdw 152 ; SDef
 	db "NUO-@@@@@@@"
 
-	db URSARING
+	db CURARIBRI
 	db SCOPE_LENS
 	db SLASH, EARTHQUAKE, HYPER_BEAM, THUNDERPUNCH
 	dw 0 ; OT ID
@@ -3740,7 +3740,7 @@ BattleTowerMons:
 	bigdw 217 ; SDef
 	db "SAWAMURA-@@"
 
-	db HERACROSS
+	db FLAMAMIGO
 	db BRIGHTPOWDER
 	db REVERSAL, ENDURE, MEGAHORN, EARTHQUAKE
 	dw 0 ; OT ID
@@ -4812,7 +4812,7 @@ BattleTowerMons:
 	bigdw 193 ; SDef
 	db "EA-MUDO@@@@"
 
-	db SHUCKLE
+	db POLLIROJER
 	db LEFTOVERS
 	db TOXIC, WRAP, PROTECT, ENCORE
 	dw 0 ; OT ID
@@ -5257,7 +5257,7 @@ BattleTowerMons:
 	bigdw 263 ; SDef
 	db "MUUMA@@@@@@"
 
-	db SNEASEL
+	db CASSAVAGE
 	db SCOPE_LENS
 	db SLASH, BLIZZARD, DREAM_EATER, FAINT_ATTACK
 	dw 0 ; OT ID
@@ -5283,7 +5283,7 @@ BattleTowerMons:
 	bigdw 240 ; SDef
 	db "NIyu-RA@@@@"
 
-	db SCIZOR
+	db PARRODISO
 	db QUICK_CLAW
 	db STEEL_WING, HYPER_BEAM, SLASH, TOXIC
 	dw 0 ; OT ID
@@ -5335,7 +5335,7 @@ BattleTowerMons:
 	bigdw 346 ; SDef
 	db "HAPINASU@@@"
 
-	db PILOSWINE
+	db AARDVOLI
 	db MINT_BERRY
 	db REST, BLIZZARD, HYPER_BEAM, EARTHQUAKE
 	dw 0 ; OT ID

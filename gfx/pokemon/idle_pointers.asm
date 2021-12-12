@@ -211,18 +211,18 @@ AnimationIdlePointers:
 	dw VinkingAnimationIdle
 	dw SheergonAnimationIdle
 	dw SworgonAnimationIdle
-	dw ScizorAnimationIdle
-	dw ShuckleAnimationIdle
-	dw HeracrossAnimationIdle
-	dw SneaselAnimationIdle
-	dw TeddiursaAnimationIdle
-	dw UrsaringAnimationIdle
-	dw SlugmaAnimationIdle
-	dw MagcargoAnimationIdle
-	dw SwinubAnimationIdle
-	dw PiloswineAnimationIdle
-	dw CorsolaAnimationIdle
-	dw RemoraidAnimationIdle
+	dw ParrodisoAnimationIdle
+	dw PollirojerAnimationIdle
+	dw FlamamigoAnimationIdle
+	dw CassavageAnimationIdle
+	dw HarpshootrAnimationIdle
+	dw CuraribriAnimationIdle
+	dw CocapitanAnimationIdle
+	dw TecnocerosAnimationIdle
+	dw MedisprateAnimationIdle
+	dw AardvoliAnimationIdle
+	dw EntrapmonAnimationIdle
+	dw GhiardoraAnimationIdle
 	dw OctilleryAnimationIdle
 	dw DelibirdAnimationIdle
 	dw MantineAnimationIdle

@@ -705,18 +705,18 @@ JohtoGrassWildMons:
 	def_grass_wildmons ICE_PATH_1F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 21, SWINUB
+	db 21, MEDISPRATE
 	db 22, REPVIAL
 	db 22, KOMODOSE
-	db 23, SWINUB
+	db 23, MEDISPRATE
 	db 24, KOMODOSE
 	db 22, KOMODOSE
 	db 22, KOMODOSE
 	; day
-	db 21, SWINUB
+	db 21, MEDISPRATE
 	db 22, REPVIAL
 	db 22, KOMODOSE
-	db 23, SWINUB
+	db 23, MEDISPRATE
 	db 24, KOMODOSE
 	db 22, KOMODOSE
 	db 22, KOMODOSE
@@ -733,18 +733,18 @@ JohtoGrassWildMons:
 	def_grass_wildmons ICE_PATH_B1F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 22, SWINUB
+	db 22, MEDISPRATE
 	db 23, REPVIAL
 	db 23, KOMODOSE
-	db 24, SWINUB
+	db 24, MEDISPRATE
 	db 25, KOMODOSE
 	db 23, KOMODOSE
 	db 22, CLADILLO
 	; day
-	db 22, SWINUB
+	db 22, MEDISPRATE
 	db 23, REPVIAL
 	db 23, KOMODOSE
-	db 24, SWINUB
+	db 24, MEDISPRATE
 	db 25, KOMODOSE
 	db 23, KOMODOSE
 	db 22, CLADILLO
@@ -755,24 +755,24 @@ JohtoGrassWildMons:
 	db 24, DELIBIRD
 	db 25, KOMODOSE
 	db 23, KOMODOSE
-	db 22, SNEASEL
+	db 22, CASSAVAGE
 	end_grass_wildmons
 
 	def_grass_wildmons ICE_PATH_B2F_MAHOGANY_SIDE
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 23, SWINUB
+	db 23, MEDISPRATE
 	db 24, REPVIAL
 	db 24, KOMODOSE
-	db 25, SWINUB
+	db 25, MEDISPRATE
 	db 26, KOMODOSE
 	db 22, CLADILLO
 	db 24, CLADILLO
 	; day
-	db 23, SWINUB
+	db 23, MEDISPRATE
 	db 24, REPVIAL
 	db 24, KOMODOSE
-	db 25, SWINUB
+	db 25, MEDISPRATE
 	db 26, KOMODOSE
 	db 22, CLADILLO
 	db 24, CLADILLO
@@ -782,25 +782,25 @@ JohtoGrassWildMons:
 	db 24, KOMODOSE
 	db 25, DELIBIRD
 	db 26, KOMODOSE
-	db 22, SNEASEL
-	db 24, SNEASEL
+	db 22, CASSAVAGE
+	db 24, CASSAVAGE
 	end_grass_wildmons
 
 	def_grass_wildmons ICE_PATH_B2F_BLACKTHORN_SIDE
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 23, SWINUB
+	db 23, MEDISPRATE
 	db 24, REPVIAL
 	db 24, KOMODOSE
-	db 25, SWINUB
+	db 25, MEDISPRATE
 	db 26, KOMODOSE
 	db 22, CLADILLO
 	db 24, CLADILLO
 	; day
-	db 23, SWINUB
+	db 23, MEDISPRATE
 	db 24, REPVIAL
 	db 24, KOMODOSE
-	db 25, SWINUB
+	db 25, MEDISPRATE
 	db 26, KOMODOSE
 	db 22, CLADILLO
 	db 24, CLADILLO
@@ -810,25 +810,25 @@ JohtoGrassWildMons:
 	db 24, KOMODOSE
 	db 25, DELIBIRD
 	db 26, KOMODOSE
-	db 22, SNEASEL
-	db 24, SNEASEL
+	db 22, CASSAVAGE
+	db 24, CASSAVAGE
 	end_grass_wildmons
 
 	def_grass_wildmons ICE_PATH_B3F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 24, SWINUB
+	db 24, MEDISPRATE
 	db 25, REPVIAL
 	db 25, KOMODOSE
-	db 26, SWINUB
+	db 26, MEDISPRATE
 	db 22, CLADILLO
 	db 24, CLADILLO
 	db 26, CLADILLO
 	; day
-	db 24, SWINUB
+	db 24, MEDISPRATE
 	db 25, REPVIAL
 	db 25, KOMODOSE
-	db 26, SWINUB
+	db 26, MEDISPRATE
 	db 22, CLADILLO
 	db 24, CLADILLO
 	db 26, CLADILLO
@@ -837,9 +837,9 @@ JohtoGrassWildMons:
 	db 25, REPVIAL
 	db 25, KOMODOSE
 	db 26, DELIBIRD
-	db 22, SNEASEL
-	db 24, SNEASEL
-	db 26, SNEASEL
+	db 22, CASSAVAGE
+	db 24, CASSAVAGE
+	db 26, CASSAVAGE
 	end_grass_wildmons
 
 	def_grass_wildmons WHIRL_ISLAND_NW
@@ -1070,7 +1070,7 @@ JohtoGrassWildMons:
 	db 6 percent, 6 percent, 6 percent ; encounter rates: morn/day/nite
 	; morn
 	db 43, SABARINTH
-	db 44, URSARING
+	db 44, CURARIBRI
 	db 42, STRAWMERRI
 	db 45, CLOAKROAK
 	db 45, KOMODOSE
@@ -1078,7 +1078,7 @@ JohtoGrassWildMons:
 	db 15, LARVITAR
 	; day
 	db 43, SABARINTH
-	db 44, URSARING
+	db 44, CURARIBRI
 	db 42, STRAWMERRI
 	db 45, CLOAKROAK
 	db 45, KOMODOSE
@@ -1099,7 +1099,7 @@ JohtoGrassWildMons:
 	; morn
 	db 48, KOMODOSE
 	db 48, BARROCK
-	db 47, URSARING
+	db 47, CURARIBRI
 	db 46, GASPHALT
 	db 48, GASPHALT
 	db 15, LARVITAR
@@ -1107,7 +1107,7 @@ JohtoGrassWildMons:
 	; day
 	db 48, KOMODOSE
 	db 48, BARROCK
-	db 47, URSARING
+	db 47, CURARIBRI
 	db 46, GASPHALT
 	db 48, GASPHALT
 	db 15, LARVITAR
@@ -1128,7 +1128,7 @@ JohtoGrassWildMons:
 	db 51, KOMODOSE
 	db 48, STRAWMERRI
 	db 48, SABARINTH
-	db 50, URSARING
+	db 50, CURARIBRI
 	db 20, LARVITAR
 	db 15, LARVITAR
 	db 20, PUPITAR
@@ -1136,7 +1136,7 @@ JohtoGrassWildMons:
 	db 51, KOMODOSE
 	db 48, STRAWMERRI
 	db 48, SABARINTH
-	db 50, URSARING
+	db 50, CURARIBRI
 	db 20, LARVITAR
 	db 15, LARVITAR
 	db 20, PUPITAR
@@ -1185,7 +1185,7 @@ JohtoGrassWildMons:
 	db 2, REPVIAL
 	db 2, DAEMOON
 	db 4, DAEMOON
-	db 2, TEDDIURSA
+	db 2, HARPSHOOTR
 	db 4, REPVIAL
 	db 4, GONZAI
 	; day
@@ -1212,16 +1212,16 @@ JohtoGrassWildMons:
 	db 23, DAEMOON
 	db 23, REPVIAL
 	db 25, SABARINTH
-	db 25, URSARING
-	db 20, TEDDIURSA
+	db 25, CURARIBRI
+	db 20, HARPSHOOTR
 	db 23, KOMODOSE
 	db 23, KOMODOSE
 	; day
 	db 23, DAEMOON
 	db 23, REPVIAL
 	db 25, SABARINTH
-	db 25, URSARING
-	db 30, URSARING
+	db 25, CURARIBRI
+	db 30, CURARIBRI
 	db 23, KOMODOSE
 	db 23, KOMODOSE
 	; nite

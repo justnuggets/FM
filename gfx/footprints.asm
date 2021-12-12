@@ -502,7 +502,7 @@ INCBIN "gfx/footprints/egg_dex_flying.1bpp",   				footprint_top ;curaribri
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",    			footprint_top ;cocapitan
 INCBIN "gfx/footprints/egg_dex_field.1bpp",  				footprint_top ;tecnoceros
 INCBIN "gfx/footprints/egg_dex_mineral.1bpp",     			footprint_top ;medisprate
-INCBIN "gfx/footprints/egg_dex_field.1bpp",  				footprint_top ;aardvoli
+INCBIN "gfx/footprints/egg_dex_field.1bpp",  				footprint_top ;medisprate
 INCBIN "gfx/footprints/egg_dex_amorphous_bug.1bpp",    		footprint_top ;entrapmon
 INCBIN "gfx/footprints/egg_dex_dragon_monster.1bpp",   		footprint_top ;ghiardora
 INCBIN "gfx/footprints/egg_dex_flying.1bpp",  				footprint_top ;skullture

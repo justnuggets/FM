@@ -28,8 +28,8 @@ TreeMonSet_Canyon:
 	db -1
 ; rare
 	db 50, CHAWPPER,    10
-	db 15, HERACROSS,  10
-	db 15, HERACROSS,  10
+	db 15, FLAMAMIGO,  10
+	db 15, FLAMAMIGO,  10
 	db 10, YODELEI,      10
 	db  5, YODELEI,      10
 	db  5, YODELEI,      10
@@ -46,8 +46,8 @@ TreeMonSet_Town:
 	db -1
 ; rare
 	db 50, CHAWPPER,    10
-	db 15, HERACROSS,  10
-	db 15, HERACROSS,  10
+	db 15, FLAMAMIGO,  10
+	db 15, FLAMAMIGO,  10
 	db 10, YODELEI,      10
 	db  5, YODELEI,      10
 	db  5, YODELEI,      10
@@ -127,5 +127,5 @@ TreeMonSet_Forest:
 
 TreeMonSet_Rock:
 	db 90, SLIVERFISH, 15
-	db 10, SHUCKLE,    15
+	db 10, POLLIROJER,    15
 	db -1

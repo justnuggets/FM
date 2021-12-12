@@ -213,18 +213,18 @@ NewPokedexOrder:
 	db VINKING   
 	db SHEERGON   
 	db SWORGON   
-	db SCIZOR     
-	db SHUCKLE    
-	db HERACROSS  
-	db SNEASEL    
-	db TEDDIURSA  
-	db URSARING   
-	db SLUGMA     
-	db MAGCARGO   
-	db SWINUB     
-	db PILOSWINE  
-	db CORSOLA    
-	db REMORAID   
+	db PARRODISO     
+	db POLLIROJER    
+	db FLAMAMIGO  
+	db CASSAVAGE    
+	db HARPSHOOTR  
+	db CURARIBRI   
+	db COCAPITAN     
+	db TECNOCEROS   
+	db MEDISPRATE     
+	db AARDVOLI  
+	db ENTRAPMON    
+	db GHIARDORA   
 	db OCTILLERY  
 	db DELIBIRD   
 	db MANTINE    

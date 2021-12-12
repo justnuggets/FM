@@ -211,18 +211,18 @@ FramesPointers:
 	dw VinkingFrames
 	dw SheergonFrames
 	dw SworgonFrames
-	dw ScizorFrames
-	dw ShuckleFrames
-	dw HeracrossFrames
-	dw SneaselFrames
-	dw TeddiursaFrames
-	dw UrsaringFrames
-	dw SlugmaFrames
-	dw MagcargoFrames
-	dw SwinubFrames
-	dw PiloswineFrames
-	dw CorsolaFrames
-	dw RemoraidFrames
+	dw ParrodisoFrames
+	dw PollirojerFrames
+	dw FlamamigoFrames
+	dw CassavageFrames
+	dw HarpshootrFrames
+	dw CuraribriFrames
+	dw CocapitanFrames
+	dw TecnocerosFrames
+	dw MedisprateFrames
+	dw AardvoliFrames
+	dw EntrapmonFrames
+	dw GhiardoraFrames
 	dw OctilleryFrames
 	dw DelibirdFrames
 	dw MantineFrames

@@ -577,7 +577,7 @@ KantoGrassWildMons:
 	db 27, SNOLIPOLI
 	db 28, CATYBARA
 	db 29, SNOLIPOLI
-	db 29, SLUGMA
+	db 29, COCAPITAN
 	db 30, CRESCALDO
 	db 30, CRESCALDO
 	; nite
@@ -602,10 +602,10 @@ KantoGrassWildMons:
 	db 33, CRESCALDO
 	; day
 	db 30, SNOLIPOLI
-	db 29, SLUGMA
+	db 29, COCAPITAN
 	db 29, CATYBARA
 	db 32, SNOLIPOLI
-	db 32, SLUGMA
+	db 32, COCAPITAN
 	db 33, CRESCALDO
 	db 33, CRESCALDO
 	; nite
@@ -633,7 +633,7 @@ KantoGrassWildMons:
 	db 27, SNOLIPOLI
 	db 28, CATYBARA
 	db 29, SNOLIPOLI
-	db 29, SLUGMA
+	db 29, COCAPITAN
 	db 30, CRESCALDO
 	db 30, CRESCALDO
 	; nite

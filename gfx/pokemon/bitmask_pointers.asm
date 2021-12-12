@@ -211,18 +211,18 @@ BitmasksPointers:
 	dw VinkingBitmasks
 	dw SheergonBitmasks
 	dw SworgonBitmasks
-	dw ScizorBitmasks
-	dw ShuckleBitmasks
-	dw HeracrossBitmasks
-	dw SneaselBitmasks
-	dw TeddiursaBitmasks
-	dw UrsaringBitmasks
-	dw SlugmaBitmasks
-	dw MagcargoBitmasks
-	dw SwinubBitmasks
-	dw PiloswineBitmasks
-	dw CorsolaBitmasks
-	dw RemoraidBitmasks
+	dw ParrodisoBitmasks
+	dw PollirojerBitmasks
+	dw FlamamigoBitmasks
+	dw CassavageBitmasks
+	dw HarpshootrBitmasks
+	dw CuraribriBitmasks
+	dw CocapitanBitmasks
+	dw TecnocerosBitmasks
+	dw MedisprateBitmasks
+	dw AardvoliBitmasks
+	dw EntrapmonBitmasks
+	dw GhiardoraBitmasks
 	dw OctilleryBitmasks
 	dw DelibirdBitmasks
 	dw MantineBitmasks

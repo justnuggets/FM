@@ -19,7 +19,7 @@ AsleepTreeMonsDay:
 	db MANIFIST
 	db GHAUNTED
 	db NARBURR
-	db HERACROSS
+	db FLAMAMIGO
 	db -1 ; end
 
 AsleepTreeMonsMorn:
@@ -27,5 +27,5 @@ AsleepTreeMonsMorn:
 	db MANIFIST
 	db GHAUNTED
 	db NARBURR
-	db HERACROSS
+	db FLAMAMIGO
 	db -1 ; end

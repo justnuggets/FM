@@ -231,18 +231,18 @@ JOHTO_POKEMON EQU const_value
 	const VINKING   ; d1
 	const SHEERGON   ; d2
 	const SWORGON   ; d3
-	const SCIZOR     ; d4
-	const SHUCKLE    ; d5
-	const HERACROSS  ; d6
-	const SNEASEL    ; d7
-	const TEDDIURSA  ; d8
-	const URSARING   ; d9
-	const SLUGMA     ; da
-	const MAGCARGO   ; db
-	const SWINUB     ; dc
-	const PILOSWINE  ; dd
-	const CORSOLA    ; de
-	const REMORAID   ; df
+	const PARRODISO     ; d4
+	const POLLIROJER    ; d5
+	const FLAMAMIGO  ; d6
+	const CASSAVAGE    ; d7
+	const HARPSHOOTR  ; d8
+	const CURARIBRI   ; d9
+	const COCAPITAN     ; da
+	const TECNOCEROS   ; db
+	const MEDISPRATE     ; dc
+	const AARDVOLI  ; dd
+	const ENTRAPMON    ; de
+	const GHIARDORA   ; df
 	const OCTILLERY  ; e0
 	const DELIBIRD   ; e1
 	const MANTINE    ; e2
@@ -262,7 +262,7 @@ JOHTO_POKEMON EQU const_value
 	const MAGBY      ; f0
 	const MILTANK    ; f1
 	const BLISSEY    ; f2
-	const RAIKOU     ; f3
+	const RAIKOU     ; f3 pandemic
 	const ENTEI      ; f4 JOHTO MARKER ^
 	const SUICUNE    ; f5
 	const LARVITAR   ; f6

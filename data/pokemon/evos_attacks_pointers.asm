@@ -213,18 +213,18 @@ EvosAttacksPointers::
 	dw VinkingEvosAttacks
 	dw SheergonEvosAttacks
 	dw SworgonEvosAttacks
-	dw ScizorEvosAttacks
-	dw ShuckleEvosAttacks
-	dw HeracrossEvosAttacks
-	dw SneaselEvosAttacks
-	dw TeddiursaEvosAttacks
-	dw UrsaringEvosAttacks
-	dw SlugmaEvosAttacks
-	dw MagcargoEvosAttacks
-	dw SwinubEvosAttacks
-	dw PiloswineEvosAttacks
-	dw CorsolaEvosAttacks
-	dw RemoraidEvosAttacks
+	dw ParrodisoEvosAttacks
+	dw PollirojerEvosAttacks
+	dw FlamamigoEvosAttacks
+	dw CassavageEvosAttacks
+	dw HarpshootrEvosAttacks
+	dw CuraribriEvosAttacks
+	dw CocapitanEvosAttacks
+	dw TecnocerosEvosAttacks
+	dw MedisprateEvosAttacks
+	dw AardvoliEvosAttacks
+	dw EntrapmonEvosAttacks
+	dw GhiardoraEvosAttacks
 	dw OctilleryEvosAttacks
 	dw DelibirdEvosAttacks
 	dw MantineEvosAttacks

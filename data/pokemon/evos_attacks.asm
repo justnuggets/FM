@@ -1674,7 +1674,6 @@ TikiwickiEvosAttacks:
 	db 0 ; no more level-up moves
 	
 VinkingEvosAttacks:
-	db EVOLVE_LEVEL, 23, SHEERGON
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1689,64 +1688,64 @@ SworgonEvosAttacks:
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-ScizorEvosAttacks:
+ParrodisoEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-ShuckleEvosAttacks:
+PollirojerEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-HeracrossEvosAttacks:
+FlamamigoEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-SneaselEvosAttacks:
+CassavageEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-TeddiursaEvosAttacks:
-	db EVOLVE_LEVEL, 30, URSARING
+HarpshootrEvosAttacks:
+	db EVOLVE_LEVEL, 30, CURARIBRI
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-UrsaringEvosAttacks:
+CuraribriEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-SlugmaEvosAttacks:
-	db EVOLVE_LEVEL, 38, MAGCARGO
+CocapitanEvosAttacks:
+	db EVOLVE_LEVEL, 38, TECNOCEROS
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-MagcargoEvosAttacks:
+TecnocerosEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-SwinubEvosAttacks:
+MedisprateEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-PiloswineEvosAttacks:
+AardvoliEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-CorsolaEvosAttacks:
+EntrapmonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-RemoraidEvosAttacks:
+GhiardoraEvosAttacks:
 	db EVOLVE_LEVEL, 25, OCTILLERY
 	db 0 ; no more evolutions
 	db 1, TACKLE
