@@ -5,6 +5,6 @@
 	next "million years ago,"
 	next "it hid on the sea"
 
-	page "floor. It also has"
-	next "eyes on its back"
-	next "that glow.@"
+	page "floor. This vari-"
+	next "ant inspired human"
+	next "armors of old.@"

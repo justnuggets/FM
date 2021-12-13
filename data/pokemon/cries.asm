@@ -229,26 +229,26 @@ PokemonCries::
 	mon_cry CRY_MAGCARGO,   -265,  256 ; AARDVOLI
 	mon_cry CRY_MAGCARGO,    161,  232 ; ENTRAPMON
 	mon_cry CRY_SUNFLORA,     13,  256 ; GHIARDORA
-	mon_cry CRY_TOTODILE,      0,  384 ; OCTILLERY
-	mon_cry CRY_TEDDIURSA,     2,  106 ; DELIBIRD
-	mon_cry CRY_MANTINE,    -190,  240 ; MANTINE
-	mon_cry CRY_AMPHAROS,   2217,  384 ; SKARMORY
-	mon_cry CRY_CYNDAQUIL,    57,  320 ; HOUNDOUR
-	mon_cry CRY_TOTODILE,   -266,  256 ; HOUNDOOM
-	mon_cry CRY_SLUGMA,      763,  256 ; KINGDRA
-	mon_cry CRY_SENTRET,      72,  560 ; PHANPY
-	mon_cry CRY_DONPHAN,       0,  416 ; DONPHAN
+	mon_cry CRY_TOTODILE,      0,  384 ; SKULLTURE
+	mon_cry CRY_TEDDIURSA,     2,  106 ; CROMAD
+	mon_cry CRY_MANTINE,    -190,  240 ; YANDERTAL
+	mon_cry CRY_AMPHAROS,   2217,  384 ; TABRE
+	mon_cry CRY_CYNDAQUIL,    57,  320 ; SCIMIDON
+	mon_cry CRY_TOTODILE,   -266,  256 ; ICTHYOSA
+	mon_cry CRY_SLUGMA,      763,  256 ; ICTHYORGA
+	mon_cry CRY_SENTRET,      72,  560 ; MUCKMUTH
+	mon_cry CRY_DONPHAN,       0,  416 ; TARTHERIUM
 	mon_cry CRY_GROWLITHE,   240,  129 ; OMANYTE
 	mon_cry CRY_GROWLITHE,   255,  192 ; OMASTAR
 	mon_cry CRY_FEAROW,      198,  100  ; KABUTO
 	mon_cry CRY_FEAROW,      238,  129 ; KABUTOPS
-	mon_cry CRY_SLUGMA,        0,  256 ; HITMONTOP
-	mon_cry CRY_MARILL,      104,  256 ; SMOOCHUM
-	mon_cry CRY_SUNFLORA,   -728,  180 ; ELEKID
-	mon_cry CRY_TEDDIURSA,   374,   58 ; MAGBY
-	mon_cry CRY_GLIGAR,     -461,  416 ; MILTANK
-	mon_cry CRY_SLOWKING,    659,  320 ; BLISSEY
-	mon_cry CRY_RAIKOU,      558,  288 ; RAIKOU
+	mon_cry CRY_SLUGMA,        0,  256 ; MNEMORIA
+	mon_cry CRY_MARILL,      104,  256 ; CORTHEIA
+	mon_cry CRY_SUNFLORA,   -728,  180 ; PREMOTHEUS
+	mon_cry CRY_TEDDIURSA,   374,   58 ; GRYPHERION
+	mon_cry CRY_GLIGAR,     -461,  416 ; EQUINIX
+	mon_cry CRY_SLOWKING,    659,  320 ; RYUBO
+	mon_cry CRY_RAIKOU,      558,  288 ; PANDEMICRO
 	mon_cry CRY_ENTEI,         0,  416 ; ENTEI
 	mon_cry CRY_MAGCARGO,      0,  384 ; SUICUNE
 	mon_cry CRY_RAIKOU,       95,  208 ; LARVITAR

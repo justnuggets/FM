@@ -223,26 +223,26 @@ AnimationIdlePointers:
 	dw AardvoliAnimationIdle
 	dw EntrapmonAnimationIdle
 	dw GhiardoraAnimationIdle
-	dw OctilleryAnimationIdle
-	dw DelibirdAnimationIdle
-	dw MantineAnimationIdle
-	dw SkarmoryAnimationIdle
-	dw HoundourAnimationIdle
-	dw HoundoomAnimationIdle
-	dw KingdraAnimationIdle
-	dw PhanpyAnimationIdle
-	dw DonphanAnimationIdle
+	dw SkulltureAnimationIdle
+	dw CromadAnimationIdle
+	dw YandertalAnimationIdle
+	dw TabreAnimationIdle
+	dw ScimidonAnimationIdle
+	dw IcthyosaAnimationIdle
+	dw IcthyorgaAnimationIdle
+	dw MuckmuthAnimationIdle
+	dw TartheriumAnimationIdle
 	dw OmanyteAnimationIdle
 	dw OmastarAnimationIdle
 	dw KabutoAnimationIdle
 	dw KabutopsAnimationIdle
-	dw HitmontopAnimationIdle
-	dw SmoochumAnimationIdle
-	dw ElekidAnimationIdle
-	dw MagbyAnimationIdle
-	dw MiltankAnimationIdle
-	dw BlisseyAnimationIdle
-	dw RaikouAnimationIdle
+	dw MnemoriaAnimationIdle
+	dw CortheiaAnimationIdle
+	dw PremotheusAnimationIdle
+	dw GrypherionAnimationIdle
+	dw EquinixAnimationIdle
+	dw RyuboAnimationIdle
+	dw PandemicroAnimationIdle
 	dw EnteiAnimationIdle
 	dw SuicuneAnimationIdle
 	dw LarvitarAnimationIdle

@@ -494,9 +494,9 @@ InitRoamMons:
 ; initialize wRoamMon structs
 
 ; species
-	ld a, RAIKOU
+	ld a, GRYPHERION ;raikou
 	ld [wRoamMon1Species], a
-	ld a, ENTEI
+	ld a, EQUINIX ;entei
 	ld [wRoamMon2Species], a
 
 ; level

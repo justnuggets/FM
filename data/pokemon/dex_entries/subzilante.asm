@@ -1,5 +1,5 @@
 	db "MASCOT@" ; species name
-	dw 502, 2210 ; height, weight
+	dw 411, 1493 ; height, weight
 
 	db   "It stars on a"
 	next "popular TV show,"

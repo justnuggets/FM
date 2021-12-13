@@ -223,26 +223,26 @@ FramesPointers:
 	dw AardvoliFrames
 	dw EntrapmonFrames
 	dw GhiardoraFrames
-	dw OctilleryFrames
-	dw DelibirdFrames
-	dw MantineFrames
-	dw SkarmoryFrames
-	dw HoundourFrames
-	dw HoundoomFrames
-	dw KingdraFrames
-	dw PhanpyFrames
-	dw DonphanFrames
+	dw SkulltureFrames
+	dw CromadFrames
+	dw YandertalFrames
+	dw TabreFrames
+	dw ScimidonFrames
+	dw IcthyosaFrames
+	dw IcthyorgaFrames
+	dw MuckmuthFrames
+	dw TartheriumFrames
 	dw OmanyteFrames
 	dw OmastarFrames
 	dw KabutoFrames
 	dw KabutopsFrames
-	dw HitmontopFrames
-	dw SmoochumFrames
-	dw ElekidFrames
-	dw MagbyFrames
-	dw MiltankFrames
-	dw BlisseyFrames
-	dw RaikouFrames
+	dw MnemoriaFrames
+	dw CortheiaFrames
+	dw PremotheusFrames
+	dw GrypherionFrames
+	dw EquinixFrames
+	dw RyuboFrames
+	dw PandemicroFrames
 	dw EnteiFrames
 	dw SuicuneFrames
 	dw LarvitarFrames

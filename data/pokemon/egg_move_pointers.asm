@@ -224,23 +224,23 @@ EggMovePointers::
 	dw EntrapmonEggMoves
 	dw GhiardoraEggMoves
 	dw NoEggMoves
-	dw DelibirdEggMoves
-	dw MantineEggMoves
-	dw SkarmoryEggMoves
-	dw HoundourEggMoves
+	dw CromadEggMoves
+	dw YandertalEggMoves
+	dw TabreEggMoves
+	dw ScimidonEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw PhanpyEggMoves
+	dw MuckmuthEggMoves
 	dw NoEggMoves
 	dw OmanyteEggMoves
 	dw NoEggMoves
 	dw KabutoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
-	dw SmoochumEggMoves
-	dw ElekidEggMoves
-	dw MagbyEggMoves
-	dw MiltankEggMoves
+	dw CortheiaEggMoves
+	dw PremotheusEggMoves
+	dw GrypherionEggMoves
+	dw EquinixEggMoves
 	dw NoEggMoves
 	dw NoEggMoves
 	dw NoEggMoves

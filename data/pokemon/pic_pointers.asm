@@ -449,24 +449,24 @@ PokemonPicPointers::
 	dba_pic EntrapmonBackpic
 	dba_pic GhiardoraFrontpic
 	dba_pic GhiardoraBackpic
-	dba_pic OctilleryFrontpic
-	dba_pic OctilleryBackpic
-	dba_pic DelibirdFrontpic
-	dba_pic DelibirdBackpic
-	dba_pic MantineFrontpic
-	dba_pic MantineBackpic
-	dba_pic SkarmoryFrontpic
-	dba_pic SkarmoryBackpic
-	dba_pic HoundourFrontpic
-	dba_pic HoundourBackpic
-	dba_pic HoundoomFrontpic
-	dba_pic HoundoomBackpic
-	dba_pic KingdraFrontpic
-	dba_pic KingdraBackpic
-	dba_pic PhanpyFrontpic
-	dba_pic PhanpyBackpic
-	dba_pic DonphanFrontpic
-	dba_pic DonphanBackpic
+	dba_pic SkulltureFrontpic
+	dba_pic SkulltureBackpic
+	dba_pic CromadFrontpic
+	dba_pic CromadBackpic
+	dba_pic YandertalFrontpic
+	dba_pic YandertalBackpic
+	dba_pic TabreFrontpic
+	dba_pic TabreBackpic
+	dba_pic ScimidonFrontpic
+	dba_pic ScimidonBackpic
+	dba_pic IcthyosaFrontpic
+	dba_pic IcthyosaBackpic
+	dba_pic IcthyorgaFrontpic
+	dba_pic IcthyorgaBackpic
+	dba_pic MuckmuthFrontpic
+	dba_pic MuckmuthBackpic
+	dba_pic TartheriumFrontpic
+	dba_pic TartheriumBackpic
 	dba_pic OmanyteFrontpic
 	dba_pic OmanyteBackpic
 	dba_pic OmastarFrontpic
@@ -475,20 +475,20 @@ PokemonPicPointers::
 	dba_pic KabutoBackpic
 	dba_pic KabutopsFrontpic
 	dba_pic KabutopsBackpic
-	dba_pic HitmontopFrontpic
-	dba_pic HitmontopBackpic
-	dba_pic SmoochumFrontpic
-	dba_pic SmoochumBackpic
-	dba_pic ElekidFrontpic
-	dba_pic ElekidBackpic
-	dba_pic MagbyFrontpic
-	dba_pic MagbyBackpic
-	dba_pic MiltankFrontpic
-	dba_pic MiltankBackpic
-	dba_pic BlisseyFrontpic
-	dba_pic BlisseyBackpic
-	dba_pic RaikouFrontpic
-	dba_pic RaikouBackpic
+	dba_pic MnemoriaFrontpic
+	dba_pic MnemoriaBackpic
+	dba_pic CortheiaFrontpic
+	dba_pic CortheiaBackpic
+	dba_pic PremotheusFrontpic
+	dba_pic PremotheusBackpic
+	dba_pic GrypherionFrontpic
+	dba_pic GrypherionBackpic
+	dba_pic EquinixFrontpic
+	dba_pic EquinixBackpic
+	dba_pic RyuboFrontpic
+	dba_pic RyuboBackpic
+	dba_pic PandemicroFrontpic
+	dba_pic PandemicroBackpic
 	dba_pic EnteiFrontpic
 	dba_pic EnteiBackpic
 	dba_pic SuicuneFrontpic

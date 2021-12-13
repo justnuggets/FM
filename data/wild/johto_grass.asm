@@ -721,10 +721,10 @@ JohtoGrassWildMons:
 	db 22, KOMODOSE
 	db 22, KOMODOSE
 	; nite
-	db 21, DELIBIRD
+	db 21, CROMAD
 	db 22, REPVIAL
 	db 22, KOMODOSE
-	db 23, DELIBIRD
+	db 23, CROMAD
 	db 24, KOMODOSE
 	db 22, KOMODOSE
 	db 22, KOMODOSE
@@ -749,10 +749,10 @@ JohtoGrassWildMons:
 	db 23, KOMODOSE
 	db 22, CLADILLO
 	; nite
-	db 22, DELIBIRD
+	db 22, CROMAD
 	db 23, REPVIAL
 	db 23, KOMODOSE
-	db 24, DELIBIRD
+	db 24, CROMAD
 	db 25, KOMODOSE
 	db 23, KOMODOSE
 	db 22, CASSAVAGE
@@ -777,10 +777,10 @@ JohtoGrassWildMons:
 	db 22, CLADILLO
 	db 24, CLADILLO
 	; nite
-	db 23, DELIBIRD
+	db 23, CROMAD
 	db 24, REPVIAL
 	db 24, KOMODOSE
-	db 25, DELIBIRD
+	db 25, CROMAD
 	db 26, KOMODOSE
 	db 22, CASSAVAGE
 	db 24, CASSAVAGE
@@ -805,10 +805,10 @@ JohtoGrassWildMons:
 	db 22, CLADILLO
 	db 24, CLADILLO
 	; nite
-	db 23, DELIBIRD
+	db 23, CROMAD
 	db 24, REPVIAL
 	db 24, KOMODOSE
-	db 25, DELIBIRD
+	db 25, CROMAD
 	db 26, KOMODOSE
 	db 22, CASSAVAGE
 	db 24, CASSAVAGE
@@ -833,10 +833,10 @@ JohtoGrassWildMons:
 	db 24, CLADILLO
 	db 26, CLADILLO
 	; nite
-	db 24, DELIBIRD
+	db 24, CROMAD
 	db 25, REPVIAL
 	db 25, KOMODOSE
-	db 26, DELIBIRD
+	db 26, CROMAD
 	db 22, CASSAVAGE
 	db 24, CASSAVAGE
 	db 26, CASSAVAGE
@@ -1494,16 +1494,16 @@ JohtoGrassWildMons:
 	db 16, SURFALLO
 	db 16, AXALITL
 	db 13, MIRAUGGER
-	db 13, MILTANK
-	db 13, MILTANK
+	db 13, EQUINIX
+	db 13, EQUINIX
 	; day
 	db 16, HOPSTOT
 	db 16, LOCUTS
 	db 16, SURFALLO
 	db 16, AXALITL
 	db 13, MIRAUGGER
-	db 13, MILTANK
-	db 13, MILTANK
+	db 13, EQUINIX
+	db 13, EQUINIX
 	; nite
 	db 16, PORCELION
 	db 16, LOCUTS
@@ -1521,7 +1521,7 @@ JohtoGrassWildMons:
 	db 16, LOCUTS
 	db 16, SURFALLO
 	db 16, AXALITL
-	db 15, MILTANK
+	db 15, EQUINIX
 	db 15, MIRAUGGER
 	db 15, MIRAUGGER
 	; day
@@ -1529,7 +1529,7 @@ JohtoGrassWildMons:
 	db 16, LOCUTS
 	db 16, SURFALLO
 	db 16, AXALITL
-	db 15, MILTANK
+	db 15, EQUINIX
 	db 15, MIRAUGGER
 	db 15, MIRAUGGER
 	; nite
@@ -1632,18 +1632,18 @@ JohtoGrassWildMons:
 	db 23, DAEMOON
 	db 23, SABARINTH
 	db 24, TIKITOA
-	db 25, DONPHAN
-	db 20, PHANPY
-	db 27, SKARMORY
-	db 27, SKARMORY
+	db 25, TARTHERIUM
+	db 20, MUCKMUTH
+	db 27, TABRE
+	db 27, TABRE
 	; day
 	db 23, DAEMOON
 	db 23, SABARINTH
 	db 24, TIKITOA
-	db 25, DONPHAN
-	db 30, DONPHAN
-	db 27, SKARMORY
-	db 27, SKARMORY
+	db 25, TARTHERIUM
+	db 30, TARTHERIUM
+	db 27, TABRE
+	db 27, TABRE
 	; nite
 	db 23, DAEMOON
 	db 23, SABARINTH
@@ -1661,7 +1661,7 @@ JohtoGrassWildMons:
 	db 2, CHAWPPER
 	db 3, DAEMOON
 	db 3, HOPSTOT
-	db 2, PHANPY
+	db 2, MUCKMUTH
 	db 2, HOPSTOT
 	db 2, HOPSTOT
 	; day

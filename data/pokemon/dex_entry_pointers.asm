@@ -224,26 +224,26 @@ PokedexDataPointerTable:
 	dw AardvoliPokedexEntry
 	dw EntrapmonPokedexEntry
 	dw GhiardoraPokedexEntry
-	dw OctilleryPokedexEntry
-	dw DelibirdPokedexEntry
-	dw MantinePokedexEntry
-	dw SkarmoryPokedexEntry
-	dw HoundourPokedexEntry
-	dw HoundoomPokedexEntry
-	dw KingdraPokedexEntry
-	dw PhanpyPokedexEntry
-	dw DonphanPokedexEntry
+	dw SkullturePokedexEntry
+	dw CromadPokedexEntry
+	dw YandertalPokedexEntry
+	dw TabrePokedexEntry
+	dw ScimidonPokedexEntry
+	dw IcthyosaPokedexEntry
+	dw IcthyorgaPokedexEntry
+	dw MuckmuthPokedexEntry
+	dw TartheriumPokedexEntry
 	dw OmanytePokedexEntry
 	dw OmastarPokedexEntry
 	dw KabutoPokedexEntry
 	dw KabutopsPokedexEntry
-	dw HitmontopPokedexEntry
-	dw SmoochumPokedexEntry
-	dw ElekidPokedexEntry
-	dw MagbyPokedexEntry
-	dw MiltankPokedexEntry
-	dw BlisseyPokedexEntry
-	dw RaikouPokedexEntry
+	dw MnemoriaPokedexEntry
+	dw CortheiaPokedexEntry
+	dw PremotheusPokedexEntry
+	dw GrypherionPokedexEntry
+	dw EquinixPokedexEntry
+	dw RyuboPokedexEntry
+	dw PandemicroPokedexEntry
 	dw EnteiPokedexEntry
 	dw SuicunePokedexEntry
 	dw LarvitarPokedexEntry

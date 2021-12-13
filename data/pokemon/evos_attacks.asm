@@ -1746,54 +1746,54 @@ EntrapmonEvosAttacks:
 	db 0 ; no more level-up moves
 	
 GhiardoraEvosAttacks:
-	db EVOLVE_LEVEL, 25, OCTILLERY
+	db EVOLVE_LEVEL, 25, SKULLTURE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-OctilleryEvosAttacks:
+SkulltureEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-DelibirdEvosAttacks:
+CromadEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-MantineEvosAttacks:
+YandertalEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-SkarmoryEvosAttacks:
+TabreEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-HoundourEvosAttacks:
-	db EVOLVE_LEVEL, 24, HOUNDOOM
+ScimidonEvosAttacks:
+	db EVOLVE_LEVEL, 24, ICTHYOSA
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-HoundoomEvosAttacks:
+IcthyosaEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-KingdraEvosAttacks:
+IcthyorgaEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-PhanpyEvosAttacks:
-	db EVOLVE_LEVEL, 25, DONPHAN
+MuckmuthEvosAttacks:
+	db EVOLVE_LEVEL, 25, TARTHERIUM
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 	
-DonphanEvosAttacks:
+TartheriumEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1822,40 +1822,40 @@ KabutopsEvosAttacks:
 	db 1, LEECH_LIFE
 	db 0 ; no more level-up moves
 
-HitmontopEvosAttacks:
+MnemoriaEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-SmoochumEvosAttacks:
+CortheiaEvosAttacks:
 	db EVOLVE_LEVEL, 30, CLADILLO
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-ElekidEvosAttacks:
+PremotheusEvosAttacks:
 	db EVOLVE_LEVEL, 30, ARMORDILLO
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-MagbyEvosAttacks:
+GrypherionEvosAttacks:
 	db EVOLVE_LEVEL, 30, CLOAKROAK
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-MiltankEvosAttacks:
+EquinixEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-BlisseyEvosAttacks:
+RyuboEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-RaikouEvosAttacks:
+PandemicroEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves

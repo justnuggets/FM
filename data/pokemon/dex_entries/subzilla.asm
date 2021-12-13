@@ -1,5 +1,5 @@
 	db "DECOY@" ; species name
-	dw 200, 882 ; height, weight
+	dw 200, 82 ; height, weight
 
 	db   "When using the"
 	next "SUBSTITUTE move,"

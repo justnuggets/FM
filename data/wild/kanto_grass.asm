@@ -359,7 +359,7 @@ KantoGrassWildMons:
 	; nite
 	db 17, PORCELION
 	db 17, BANANDRILL
-	db 18, HOUNDOUR
+	db 18, SCIMIDON
 	db 18, FUUMA
 	db 18, FELECTRIC
 	db 16, BAGROUND

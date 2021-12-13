@@ -5,6 +5,6 @@
 	next "allowed it to"
 	next "reach only nearby"
 
-	page "food. This could"
-	next "be the reason it"
-	next "is extinct.@"
+	page "food. Even with"
+	next "longer tentacles,"
+	next "it went extinct.@"

@@ -38,19 +38,19 @@ ReleaseTheBeasts:
 	pause 5
 	disappear BURNEDTOWERB1F_RAIKOU2
 	pause 15
-	cry RAIKOU
+	cry SUBMINO
 	appear BURNEDTOWERB1F_ENTEI1
 	turnobject PLAYER, UP
 	pause 5
 	disappear BURNEDTOWERB1F_ENTEI2
 	pause 15
-	cry ENTEI
+	cry SUBMINO
 	appear BURNEDTOWERB1F_SUICUNE1
 	turnobject PLAYER, UP
 	pause 5
 	disappear BURNEDTOWERB1F_SUICUNE2
 	pause 15
-	cry SUICUNE
+	cry SUBMINO
 	pause 15
 	playsound SFX_WARP_FROM
 	turnobject PLAYER, LEFT
@@ -71,7 +71,7 @@ ReleaseTheBeasts:
 	applymovement BURNEDTOWERB1F_SUICUNE1, BurnedTowerSuicuneMovement2
 	turnobject PLAYER, UP
 	pause 20
-	cry SUICUNE
+	cry SUBMINO
 	pause 30
 	playsound SFX_WARP_FROM
 	applymovement BURNEDTOWERB1F_SUICUNE1, BurnedTowerSuicuneMovement3
@@ -196,14 +196,14 @@ BurnedTowerB1FEusineText:
 
 	para "I was shocked!"
 
-	para "SUICUNE raced by"
+	para "SUBMINO raced by"
 	line "like a blur, right"
 
 	para "in front of my"
 	line "eyes!"
 
 	para "For ten years I"
-	line "chased SUICUNE,"
+	line "chased SUBMINO,"
 
 	para "and I finally got"
 	line "to see it."
@@ -225,7 +225,7 @@ BurnedTowerB1FEusineText:
 	line "get close."
 
 	para "I'm going to track"
-	line "SUICUNE."
+	line "SUBMINO."
 
 	para "<PLAYER>, let's"
 	line "meet again!"

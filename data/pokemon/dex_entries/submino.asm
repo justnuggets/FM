@@ -1,5 +1,5 @@
 	db "DOLL@" ; species name
-	dw 100, 150 ; height, weight
+	dw 100, 66 ; height, weight
 
 	db   "More mechandise"
 	next "than living being,"

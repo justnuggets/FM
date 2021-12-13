@@ -225,26 +225,26 @@ EvosAttacksPointers::
 	dw AardvoliEvosAttacks
 	dw EntrapmonEvosAttacks
 	dw GhiardoraEvosAttacks
-	dw OctilleryEvosAttacks
-	dw DelibirdEvosAttacks
-	dw MantineEvosAttacks
-	dw SkarmoryEvosAttacks
-	dw HoundourEvosAttacks
-	dw HoundoomEvosAttacks
-	dw KingdraEvosAttacks
-	dw PhanpyEvosAttacks
-	dw DonphanEvosAttacks
+	dw SkulltureEvosAttacks
+	dw CromadEvosAttacks
+	dw YandertalEvosAttacks
+	dw TabreEvosAttacks
+	dw ScimidonEvosAttacks
+	dw IcthyosaEvosAttacks
+	dw IcthyorgaEvosAttacks
+	dw MuckmuthEvosAttacks
+	dw TartheriumEvosAttacks
 	dw OmanyteEvosAttacks
 	dw OmastarEvosAttacks
 	dw KabutoEvosAttacks
 	dw KabutopsEvosAttacks	
-	dw HitmontopEvosAttacks
-	dw SmoochumEvosAttacks
-	dw ElekidEvosAttacks
-	dw MagbyEvosAttacks
-	dw MiltankEvosAttacks
-	dw BlisseyEvosAttacks
-	dw RaikouEvosAttacks
+	dw MnemoriaEvosAttacks
+	dw CortheiaEvosAttacks
+	dw PremotheusEvosAttacks
+	dw GrypherionEvosAttacks
+	dw EquinixEvosAttacks
+	dw RyuboEvosAttacks
+	dw PandemicroEvosAttacks
 	dw EnteiEvosAttacks
 	dw SuicuneEvosAttacks
 	dw LarvitarEvosAttacks

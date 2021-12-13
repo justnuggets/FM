@@ -223,26 +223,26 @@ BitmasksPointers:
 	dw AardvoliBitmasks
 	dw EntrapmonBitmasks
 	dw GhiardoraBitmasks
-	dw OctilleryBitmasks
-	dw DelibirdBitmasks
-	dw MantineBitmasks
-	dw SkarmoryBitmasks
-	dw HoundourBitmasks
-	dw HoundoomBitmasks
-	dw KingdraBitmasks
-	dw PhanpyBitmasks
-	dw DonphanBitmasks
+	dw SkulltureBitmasks
+	dw CromadBitmasks
+	dw YandertalBitmasks
+	dw TabreBitmasks
+	dw ScimidonBitmasks
+	dw IcthyosaBitmasks
+	dw IcthyorgaBitmasks
+	dw MuckmuthBitmasks
+	dw TartheriumBitmasks
 	dw OmanyteBitmasks
 	dw OmastarBitmasks
 	dw KabutoBitmasks
 	dw KabutopsBitmasks
-	dw HitmontopBitmasks
-	dw SmoochumBitmasks
-	dw ElekidBitmasks
-	dw MagbyBitmasks
-	dw MiltankBitmasks
-	dw BlisseyBitmasks
-	dw RaikouBitmasks
+	dw MnemoriaBitmasks
+	dw CortheiaBitmasks
+	dw PremotheusBitmasks
+	dw GrypherionBitmasks
+	dw EquinixBitmasks
+	dw RyuboBitmasks
+	dw PandemicroBitmasks
 	dw EnteiBitmasks
 	dw SuicuneBitmasks
 	dw LarvitarBitmasks

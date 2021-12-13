@@ -6,5 +6,5 @@
 	next "the sea floor,"
 
 	page "eating plankton."
-	next "Its fossils are"
-	next "sometimes found.@"
+	next "Its shell is spik-"
+	next "ier than normal.@"

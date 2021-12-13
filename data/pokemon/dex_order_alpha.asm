@@ -17,7 +17,7 @@ AlphabeticalPokedexOrder:
 	db ECTOPUS
 	db SLIVERFISH
 	db GRILLZLY
-	db BLISSEY
+	db RYUBO
 	db SUBMINO
 	db SUBZILLA
 	db HIPPOUR
@@ -37,13 +37,13 @@ AlphabeticalPokedexOrder:
 	db SUNIATA
 	db SKARDINE
 	db SMOKAI
-	db DELIBIRD
+	db CROMAD
 	db MARSKRAT
 	db BUGGLAR
 	db DITTO
 	db SEARLING
 	db PLATYRUS
-	db DONPHAN
+	db TARTHERIUM
 	db ACROMAT
 	db PARAGODA
 	db TRAUMAT
@@ -54,7 +54,7 @@ AlphabeticalPokedexOrder:
 	db CRYSTALIS
 	db ARMORDILLO
 	db TUTUFRUTTI
-	db ELEKID
+	db PREMOTHEUS
 	db ENTEI
 	db BIBBON
 	db QARTRIDGE
@@ -85,13 +85,13 @@ AlphabeticalPokedexOrder:
 	db FLAMAMIGO
 	db APASHEE
 	db SOUSFLE
-	db HITMONTOP
+	db MNEMORIA
 	db HO_OH
 	db MANIFIST
 	db GLAEWULF
 	db DELPHORA
-	db HOUNDOOM
-	db HOUNDOUR
+	db ICTHYOSA
+	db SCIMIDON
 	db PAMPODOUR_T
 	db FAFNARE
 	db SUBZILLA
@@ -104,7 +104,7 @@ AlphabeticalPokedexOrder:
 	db TERRAGER
 	db GUINAPI
 	db DORACLE
-	db KINGDRA
+	db ICTHYORGA
 	db PAMPOOCH_P
 	db COLOMENTAL
 	db PAMPODOUR_S
@@ -118,14 +118,14 @@ AlphabeticalPokedexOrder:
 	db MARBLOCK
 	db BARROCK
 	db ROCKADE
-	db MAGBY
+	db GRYPHERION
 	db TECNOCEROS
 	db TRUBBLE
 	db CLOAKROAK
 	db SURFALLO
 	db HEMOGOBLIN
 	db ORIZURU
-	db MANTINE
+	db YANDERTAL
 	db ELECOIL
 	db SWIRREL
 	db SCRUMSHEF
@@ -134,7 +134,7 @@ AlphabeticalPokedexOrder:
 	db DRIPPOUR
 	db FEARTRESS
 	db DOOMSTONE
-	db MILTANK
+	db EQUINIX
 	db PILLANTE
 	db PUMMAT
 	db CANVALOG
@@ -149,7 +149,7 @@ AlphabeticalPokedexOrder:
 	db SKARGAROS
 	db FELITE
 	db GHAUNTED
-	db OCTILLERY
+	db SKULLTURE
 	db CURSIOR
 	db OMANYTE
 	db OMASTAR
@@ -157,7 +157,7 @@ AlphabeticalPokedexOrder:
 	db SLICKRETE
 	db GASPHALT
 	db FUUMA
-	db PHANPY
+	db MUCKMUTH
 	db ZEPHLUFF
 	db AXALOT
 	db AXALITL
@@ -180,7 +180,7 @@ AlphabeticalPokedexOrder:
 	db TROLLGORE
 	db SWORGON
 	db WOODRILL
-	db RAIKOU
+	db PANDEMICRO
 	db OKAPSI
 	db LOCUTS
 	db HOPSTOT
@@ -197,14 +197,14 @@ AlphabeticalPokedexOrder:
 	db DARDUKA
 	db PESCALDO
 	db POLLIROJER
-	db SKARMORY
+	db TABRE
 	db SLOME
 	db KAIYAK
 	db KWOMBAT
 	db TELEKAPI
 	db COCAPITAN
 	db ALUMENTAL
-	db SMOOCHUM
+	db CORTHEIA
 	db CASSAVAGE
 	db CTRLBOT
 	db VINKING

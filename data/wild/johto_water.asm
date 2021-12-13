@@ -174,7 +174,7 @@ JohtoWaterWildMons:
 	db 6 percent ; encounter rate
 	db 20, IMPAN
 	db 20, DAETYR
-	db 20, MANTINE
+	db 20, YANDERTAL
 	end_water_wildmons
 
 	def_water_wildmons ROUTE_42

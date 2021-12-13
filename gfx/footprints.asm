@@ -571,9 +571,9 @@ INCBIN "gfx/footprints/egg_dex_none.1bpp", footprint_bottom
 INCBIN "gfx/footprints/egg_dex_none.1bpp", footprint_bottom
 ; 249-256 top halves
 INCBIN "gfx/footprints/egg_dex_none.1bpp",      			footprint_top ;hipraezly
-INCBIN "gfx/footprints/egg_dex_ditto.1bpp",      			footprint_top ;missigno
+INCBIN "gfx/footprints/egg_dex_ditto.1bpp",      			footprint_top ;sub-cybr
 INCBIN "gfx/footprints/egg_dex_ditto.1bpp",     			footprint_top ;m
-INCBIN "gfx/footprints/egg_dex_monster.1bpp",        		footprint_top ;subcybr / UNOWN
+INCBIN "gfx/footprints/egg_dex_monster.1bpp",        		footprint_top ;missingNOWN
 INCBIN "gfx/footprints/253.1bpp",    					  	footprint_top;velocerace
 INCBIN "gfx/footprints/254.1bpp",       					footprint_top
 INCBIN "gfx/footprints/255.1bpp",       					footprint_top

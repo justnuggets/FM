@@ -223,26 +223,26 @@ AnimationPointers:
 	dw AardvoliAnimation
 	dw EntrapmonAnimation
 	dw GhiardoraAnimation
-	dw OctilleryAnimation
-	dw DelibirdAnimation
-	dw MantineAnimation
-	dw SkarmoryAnimation
-	dw HoundourAnimation
-	dw HoundoomAnimation
-	dw KingdraAnimation
-	dw PhanpyAnimation
-	dw DonphanAnimation
+	dw SkulltureAnimation
+	dw CromadAnimation
+	dw YandertalAnimation
+	dw TabreAnimation
+	dw ScimidonAnimation
+	dw IcthyosaAnimation
+	dw IcthyorgaAnimation
+	dw MuckmuthAnimation
+	dw TartheriumAnimation
 	dw OmanyteAnimation
 	dw OmastarAnimation
 	dw KabutoAnimation
 	dw KabutopsAnimation
-	dw HitmontopAnimation
-	dw SmoochumAnimation
-	dw ElekidAnimation
-	dw MagbyAnimation
-	dw MiltankAnimation
-	dw BlisseyAnimation
-	dw RaikouAnimation
+	dw MnemoriaAnimation
+	dw CortheiaAnimation
+	dw PremotheusAnimation
+	dw GrypherionAnimation
+	dw EquinixAnimation
+	dw RyuboAnimation
+	dw PandemicroAnimation
 	dw EnteiAnimation
 	dw SuicuneAnimation
 	dw LarvitarAnimation

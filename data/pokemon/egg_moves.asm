@@ -721,7 +721,7 @@ GhiardoraEggMoves:
 	db SCREECH
 	db -1 ; end
 
-DelibirdEggMoves:
+CromadEggMoves:
 	db AURORA_BEAM
 	db QUICK_ATTACK
 	db FUTURE_SIGHT
@@ -729,21 +729,21 @@ DelibirdEggMoves:
 	db RAPID_SPIN
 	db -1 ; end
 
-MantineEggMoves:
+YandertalEggMoves:
 	db TWISTER
 	db HYDRO_PUMP
 	db HAZE
 	db SLAM
 	db -1 ; end
 
-SkarmoryEggMoves:
+TabreEggMoves:
 	db DRILL_PECK
 	db PURSUIT
 	db WHIRLWIND
 	db SKY_ATTACK
 	db -1 ; end
 
-HoundourEggMoves:
+ScimidonEggMoves:
 	db FIRE_SPIN
 	db RAGE
 	db PURSUIT
@@ -753,7 +753,7 @@ HoundourEggMoves:
 	db BEAT_UP
 	db -1 ; end
 
-PhanpyEggMoves:
+MuckmuthEggMoves:
 	db FOCUS_ENERGY
 	db BODY_SLAM
 	db ANCIENTPOWER
@@ -777,11 +777,11 @@ KabutoEggMoves:
 	db FLAIL
 	db -1 ; end
 	
-SmoochumEggMoves:
+CortheiaEggMoves:
 	db MEDITATE
 	db -1 ; end
 
-ElekidEggMoves:
+PremotheusEggMoves:
 	db KARATE_CHOP
 	db BARRIER
 	db ROLLING_KICK
@@ -789,7 +789,7 @@ ElekidEggMoves:
 	db CROSS_CHOP
 	db -1 ; end
 
-MagbyEggMoves:
+GrypherionEggMoves:
 	db KARATE_CHOP
 	db MEGA_PUNCH
 	db BARRIER
@@ -797,7 +797,7 @@ MagbyEggMoves:
 	db CROSS_CHOP
 	db -1 ; end
 
-MiltankEggMoves:
+EquinixEggMoves:
 	db PRESENT
 	db REVERSAL
 	db SEISMIC_TOSS

@@ -243,34 +243,34 @@ JOHTO_POKEMON EQU const_value
 	const AARDVOLI  ; dd
 	const ENTRAPMON    ; de
 	const GHIARDORA   ; df
-	const OCTILLERY  ; e0
-	const DELIBIRD   ; e1
-	const MANTINE    ; e2
-	const SKARMORY   ; e3
-	const HOUNDOUR   ; e4
-	const HOUNDOOM   ; e5
-	const KINGDRA    ; e6
-	const PHANPY     ; e7
-	const DONPHAN    ; e8
+	const SKULLTURE  ; e0
+	const CROMAD   ; e1
+	const YANDERTAL    ; e2
+	const TABRE   ; e3
+	const SCIMIDON   ; e4
+	const ICTHYOSA   ; e5
+	const ICTHYORGA    ; e6
+	const MUCKMUTH     ; e7
+	const TARTHERIUM    ; e8
 	const OMANYTE    ; e9 
 	const OMASTAR    ; ea
 	const KABUTO     ; eb
 	const KABUTOPS   ; ec
-	const HITMONTOP  ; ed
-	const SMOOCHUM   ; ee
-	const ELEKID     ; ef
-	const MAGBY      ; f0
-	const MILTANK    ; f1
-	const BLISSEY    ; f2
-	const RAIKOU     ; f3 pandemic
-	const ENTEI      ; f4 JOHTO MARKER ^
-	const SUICUNE    ; f5
-	const LARVITAR   ; f6
-	const PUPITAR    ; f7
-	const TYRANITAR  ; f8
-	const LUGIA      ; f9
-	const HO_OH      ; fa
-	const CELEBI     ; fb
+	const MNEMORIA  ; ed
+	const CORTHEIA   ; ee
+	const PREMOTHEUS     ; ef
+	const GRYPHERION      ; f0
+	const EQUINIX    ; f1
+	const RYUBO    ; f2
+	const PANDEMICRO     ; f3 pandemic
+	const ENTEI      ; f4 JOHTO MARKER ^   ;uhaerazor
+	const SUICUNE    ; f5 ugrillzly
+	const LARVITAR   ; f6 uhiptorrent
+	const PUPITAR    ; f7 usworgon
+	const TYRANITAR  ; f8 u skullture
+	const LUGIA      ; f9 hipraezly
+	const HO_OH      ; fa subcybr
+	const CELEBI     ; fb lorocaptor
 	const UNOWN      ; c9;const_skip       ; fc
 NUM_POKEMON EQU const_value - 1
 	const EGG        ; fd

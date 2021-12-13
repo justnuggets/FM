@@ -225,26 +225,26 @@ NewPokedexOrder:
 	db AARDVOLI  
 	db ENTRAPMON    
 	db GHIARDORA   
-	db OCTILLERY  
-	db DELIBIRD   
-	db MANTINE    
-	db SKARMORY   
-	db HOUNDOUR   
-	db HOUNDOOM   
-	db KINGDRA    
-	db PHANPY     
-	db DONPHAN    
+	db SKULLTURE  
+	db CROMAD   
+	db YANDERTAL    
+	db TABRE   
+	db SCIMIDON   
+	db ICTHYOSA   
+	db ICTHYORGA    
+	db MUCKMUTH     
+	db TARTHERIUM    
 	db OMANYTE    
 	db OMASTAR   
 	db KABUTO    
 	db KABUTOPS  
-	db HITMONTOP  
-	db SMOOCHUM   
-	db ELEKID   
-	db MAGBY      
-	db MILTANK   
-	db BLISSEY   
-	db RAIKOU     
+	db MNEMORIA  
+	db CORTHEIA   
+	db PREMOTHEUS   
+	db GRYPHERION      
+	db EQUINIX   
+	db RYUBO   
+	db PANDEMICRO     
 	db ENTEI      
 	db SUICUNE
 	db LARVITAR 

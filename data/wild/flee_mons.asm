@@ -16,6 +16,6 @@ OftenFleeMons:
 	db -1
 
 AlwaysFleeMons:
-	db RAIKOU
+	db PANDEMICRO
 	db ENTEI
 	db -1

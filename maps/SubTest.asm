@@ -42,22 +42,10 @@ SubPokeBallScript:
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke OCTILLERY, 50 ;skullture
-	;givepoke DELIBIRD, 50 ;cromad
-	;givepoke MANTINE, 50 ;yander
-	;givepoke SKARMORY, 50 ;tabre
-	;givepoke HOUNDOUR, 50 ;scimi
-	;givepoke HOUNDOOM, 50 ;icthyosa
-	;givepoke KINGDRA, 50 ;icthorga
-	;givepoke PHANPY, 50 ;muckmuth
-	;givepoke DONPHAN, 50 ;tartherium
-	;givepoke HITMONTOP, 50 ;mnemoria
-	;givepoke SMOOCHUM, 50 ;cortheia
-	;givepoke ELEKID, 50 ;premotheus
-	;givepoke MAGBY, 50 ;grypherion
-	;givepoke MILTANK, 50 ;equinix
-	;givepoke BLISSEY, 50 ;ryubo
-	;givepoke RAIKOU, 50 ;pandemicro
+	givepoke LOPSOIL, 50 
+	givepoke HAERAZOR, 50 
+	givepoke CUBBURN, 50 
+	givepoke COALDIAK, 50 
 	givepoke SUBMINO, 5, LEFTOVERS
 
 	closetext
