@@ -1,4 +1,4 @@
-	db "SWEETBERRY@" ; species name
+	db "SWEET BERRY@" ; species name
 	dw 108, 77 ; height, weight
 
 	db   "Opening the leaf"
