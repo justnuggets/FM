@@ -1,5 +1,5 @@
 	db "POND RAT@" ; species name
-	dw 211, 660 ; height, weight
+	dw 411, 605 ; height, weight
 
 	db   "Fashioned into an"
 	next "oar-like weapon"

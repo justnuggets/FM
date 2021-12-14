@@ -1,5 +1,5 @@
 	db "SUPERSOAK@" ; species name
-	dw 602, 12249 ; height, weight
+	dw 602, 4229 ; height, weight
 
 	db   "Liquid blasts from"
 	next "HIPTORRENT's gap-"

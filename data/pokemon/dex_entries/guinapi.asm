@@ -1,5 +1,5 @@
 	db "DOMESTIC@" ; species name
-	dw 310, 562 ; height, weight
+	dw 303, 564 ; height, weight
 
 	db   "It is perpetually"
 	next "in a state of half"

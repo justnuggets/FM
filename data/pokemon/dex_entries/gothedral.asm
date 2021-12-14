@@ -1,5 +1,5 @@
 	db "DUNGEON@" ; species name
-	dw 600, 2400 ; height, weight
+	dw 406, 2370 ; height, weight
 
 	db   "Whether in this"
 	next "life or the next,"

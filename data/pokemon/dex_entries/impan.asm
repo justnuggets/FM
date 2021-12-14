@@ -1,5 +1,5 @@
 	db "SPRITE@" ; species name
-	dw 211, 1000 ; height, weight
+	dw 200, 165 ; height, weight
 
 	db   "A spellbound cir-"
 	next "cle is found when"

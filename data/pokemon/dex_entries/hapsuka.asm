@@ -1,5 +1,5 @@
 	db "BLISS@" ; species name
-	dw 707, 1960 ; height, weight
+	dw 204, 100 ; height, weight
 
 	db   "It embodies joy,"
 	next "passing warm em-"

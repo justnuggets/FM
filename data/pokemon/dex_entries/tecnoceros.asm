@@ -1,5 +1,5 @@
 	db "GIGAHORN@" ; species name
-	dw 207, 1210 ; height, weight
+	dw 500, 9660 ; height, weight
 
 	db   "It finds the rumb-"
 	next "ling sound of rain"

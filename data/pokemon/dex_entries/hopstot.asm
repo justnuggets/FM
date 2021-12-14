@@ -1,5 +1,5 @@
 	db "CRITTER@" ; species name
-	dw 011, 71 ; height, weight
+	dw 100, 49 ; height, weight
 
 	db   "This #MON plun-"
 	next "ders orchard trees"

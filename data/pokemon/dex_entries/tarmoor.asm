@@ -1,5 +1,5 @@
 	db "NOXIOUS@" ; species name
-	dw 200, 160 ; height, weight
+	dw 303, 1146 ; height, weight
 
 	db   "Its population"
 	next "thrives in the"

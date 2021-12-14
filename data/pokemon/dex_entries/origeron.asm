@@ -1,5 +1,5 @@
 	db "PAPER CRANE@" ; species name
-	dw 303, 710 ; height, weight
+	dw 403, 534 ; height, weight
 
 	db   "Light as air, thin"
 	next "as paper, it is"

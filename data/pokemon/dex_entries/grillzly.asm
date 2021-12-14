@@ -1,5 +1,5 @@
 	db "WILDFIRE@" ; species name
-	dw 511, 1830 ; height, weight
+	dw 600, 3020 ; height, weight
 
 	db   "Feared for its"
 	next "ferocity, a single"

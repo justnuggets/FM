@@ -1,5 +1,5 @@
 	db "MOTOR@" ; species name
-	dw 303, 2005 ; height, weight
+	dw 211, 1520 ; height, weight
 
 	db   "GASPHALT revs up"
 	next "its shell, reach-"

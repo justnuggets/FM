@@ -1,5 +1,5 @@
 	db "SEA SERPENT@" ; species name
-	dw 200, 5125 ; height, weight
+	dw 2104, 5630 ; height, weight
 
 	db   "Sailing maps"
 	next "once marked the"

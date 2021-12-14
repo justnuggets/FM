@@ -1,5 +1,5 @@
 	db "ASSASSIN@" ; species name
-	dw 306, 270 ; height, weight
+	dw 400, 945 ; height, weight
 
 	db   "Every bodily inch"
 	next "is sharpened, le-"

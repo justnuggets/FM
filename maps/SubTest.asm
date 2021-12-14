@@ -46,7 +46,16 @@ SubPokeBallScript:
 	givepoke HAERAZOR, 50 
 	givepoke CUBBURN, 50 
 	givepoke COALDIAK, 50 
-	givepoke SUBMINO, 5, LEFTOVERS
+	;givepoke FELECTRIC, 50 
+	;givepoke KAIYAK, 50 
+	;givepoke COMMANSHEE, 50 
+	;givepoke CONSTABOLD, 50 
+	;givepoke TSUKIMIKO, 50 
+	;givepoke BANANDRILL, 50 
+	;givepoke CRESCALDO, 50 
+	;givepoke NAVITAR, 50 
+	;givepoke GHAUNTED, 50 
+	;givepoke SUBMINO, 1, LEFTOVERS
 
 	closetext
 	end

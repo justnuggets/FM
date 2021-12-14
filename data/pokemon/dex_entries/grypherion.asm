@@ -1,5 +1,5 @@
 	db "INFRARED@" ; species name
-	dw 204, 470 ; height, weight
+	dw 611, 5512 ; height, weight
 
 	db   "Worshipped as a"
 	next "ruler beyond vis-"

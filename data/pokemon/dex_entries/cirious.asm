@@ -1,5 +1,5 @@
 	db "ATMOSPHERE@" ; species name
-	dw 311, 500 ; height, weight
+	dw 104, 26 ; height, weight
 
 	db   "While their col-"
 	next "onies stay air-"

@@ -1,5 +1,5 @@
 	db "ATTACK@" ; species name
-	dw 407, 1110 ; height, weight
+	dw 308, 1429 ; height, weight
 
 	db   "On rescue miss-"
 	next "ions, they are"

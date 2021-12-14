@@ -1,5 +1,5 @@
 	db "FLAME@" ; species name
-	dw 307, 1980 ; height, weight
+	dw 607, 4039 ; height, weight
 
 	db   "Sporting magnifi-"
 	next "cent antlers of"

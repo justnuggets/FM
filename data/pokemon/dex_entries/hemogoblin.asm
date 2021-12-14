@@ -1,5 +1,5 @@
 	db "LEECH LORD@" ; species name
-	dw 1503, 4000 ; height, weight
+	dw 700, 5000 ; height, weight
 
 	db   "Vampires in part"
 	next "owe much of their"

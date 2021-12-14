@@ -1,5 +1,5 @@
 	db "PLATYPUS@" ; species name
-	dw 407, 1689 ; height, weight
+	dw 308, 643 ; height, weight
 
 	db   "It is said to have"
 	next "long ago appeared"

@@ -1,5 +1,5 @@
 	db "CRYO WORM@" ; species name
-	dw 103, 120 ; height, weight
+	dw 100, 12 ; height, weight
 
 	db   "SNOLIPOLI encases"
 	next "itself in a sturdy"

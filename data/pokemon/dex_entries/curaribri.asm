@@ -1,5 +1,5 @@
 	db "POISONDART@" ; species name
-	dw 511, 2770 ; height, weight
+	dw 100, 94 ; height, weight
 
 	db   "From island to"
 	next "island, it leisur-"

@@ -1,5 +1,5 @@
 	db "SUGAR PLUM@" ; species name
-	dw 300, 445 ; height, weight
+	dw 207, 445 ; height, weight
 
 	db   "Always on tiptoes,"
 	next "TUTSWEET's strug-"

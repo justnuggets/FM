@@ -1,5 +1,5 @@
 	db "BIG GAME@" ; species name
-	dw 200, 190 ; height, weight
+	dw 408, 935 ; height, weight
 
 	db   "A single quill"
 	next "shot from its"

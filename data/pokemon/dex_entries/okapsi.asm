@@ -1,5 +1,5 @@
 	db "TELEPATHY@" ; species name
-	dw 300, 2090 ; height, weight
+	dw 200, 500 ; height, weight
 
 	db   "Sensitive horns"
 	next "will detect the "

@@ -1,5 +1,5 @@
 	db "EXCAVATOR@" ; species name
-	dw 311, 849 ; height, weight
+	dw 303, 893 ; height, weight
 
 	db   "The thrumming of"
 	next "their wings can"

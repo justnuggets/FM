@@ -1,5 +1,5 @@
 	db "POOF@" ; species name
-	dw 405, 140 ; height, weight
+	dw 307, 827 ; height, weight
 
 	db   "Despite their ten-"
 	next "dency to snap at"

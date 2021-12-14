@@ -1,5 +1,5 @@
 	db "WASTE@" ; species name
-	dw 303, 240 ; height, weight
+	dw 300, 2220 ; height, weight
 
 	db   "Plant life decays"
 	next "wherever it goes."

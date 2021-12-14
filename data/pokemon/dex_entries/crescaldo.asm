@@ -1,5 +1,5 @@
 	db "MAGIC SCALE@" ; species name
-	dw 200, 100 ; height, weight
+	dw 200, 331 ; height, weight
 
 	db   "These decorative"
 	next "fish shed their"

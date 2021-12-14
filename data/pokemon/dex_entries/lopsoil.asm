@@ -1,5 +1,5 @@
 	db "HEDGE HARE@" ; species name
-	dw 211, 419 ; height, weight
+	dw 304, 441 ; height, weight
 
 	db   "Because LOPSOIL"
 	next "burrow so often,"

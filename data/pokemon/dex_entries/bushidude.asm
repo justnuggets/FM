@@ -1,5 +1,5 @@
 	db "WARRIOR@" ; species name
-	dw 603, 3420 ; height, weight
+	dw 400, 1540 ; height, weight
 
 	db   "During Sogen's"
 	next "feudal era, they"

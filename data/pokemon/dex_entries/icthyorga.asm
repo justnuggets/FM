@@ -1,5 +1,5 @@
 	db "GHOST WHALE@" ; species name
-	dw 511, 3350 ; height, weight
+	dw 1409, 2760 ; height, weight
 
 	db   "Imagine the sur-"
 	next "prise of paleon-"

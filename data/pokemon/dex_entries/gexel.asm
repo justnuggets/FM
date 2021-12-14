@@ -1,5 +1,5 @@
 	db "3D@" ; species name
-	dw 407, 000 ; height, weight
+	dw 200, 7 ; height, weight
 
 	db   "When made embara-"
 	next "ssed, it drastic-"

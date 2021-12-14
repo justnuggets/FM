@@ -1,5 +1,5 @@
 	db "DOUGH@" ; species name
-	dw 303, 445 ; height, weight
+	dw 207, 445 ; height, weight
 
 	db   "It can prepare"
 	next "a gourmet meal"

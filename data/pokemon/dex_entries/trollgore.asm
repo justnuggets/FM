@@ -1,5 +1,5 @@
 	db "FOLKLORE@" ; species name
-	dw 211, 420 ; height, weight
+	dw 403, 1314 ; height, weight
 
 	db   "Over the years,"
 	next "it has gone from"

@@ -1,5 +1,5 @@
 	db "TWINTERROR@" ; species name
-	dw 200, 260 ; height, weight
+	dw 1200, 10650 ; height, weight
 
 	db   "Each head acts as"
 	next "independantly as"

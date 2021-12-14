@@ -1,5 +1,5 @@
 	db "SUBZERO@" ; species name
-	dw 108, 190 ; height, weight
+	dw 607, 2866 ; height, weight
 
 	db   "They surface only"
 	next "to hunt, returning"

@@ -1,5 +1,5 @@
 	db "DOMESTIC@" ; species name
-	dw 100, 84 ; height, weight
+	dw 108, 241 ; height, weight
 
 	db   "Aside from eating"
 	next "and resting, it"

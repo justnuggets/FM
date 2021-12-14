@@ -1,5 +1,5 @@
 	db "SHELLFISH@" ; species name
-	dw 207, 190 ; height, weight
+	dw 206, 1320 ; height, weight
 
 	db   "Bickering CONCH-"
 	next "ORALL often fight"

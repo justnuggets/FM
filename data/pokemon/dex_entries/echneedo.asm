@@ -1,5 +1,5 @@
 	db "ACUPUNCTURE@" ; species name
-	dw 403, 750 ; height, weight
+	dw 307, 750 ; height, weight
 
 	db   "Electricity surges"
 	next "through ECHNEEDO,"

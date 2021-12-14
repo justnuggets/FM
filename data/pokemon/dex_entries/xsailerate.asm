@@ -1,5 +1,5 @@
 	db "SPAWN@" ; species name
-	dw 311, 550 ; height, weight
+	dw 406, 1500 ; height, weight
 
 	db   "As one of a thou-"
 	next "sand eggs spawned"

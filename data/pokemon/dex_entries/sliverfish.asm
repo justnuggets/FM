@@ -1,5 +1,5 @@
 	db "DIATOMEARTH@" ; species name
-	dw 007, 09 ; height, weight
+	dw 210, 309 ; height, weight
 
 	db   "They appear in"
 	next "dusty clouds,"

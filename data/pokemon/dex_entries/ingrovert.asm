@@ -1,5 +1,5 @@
 	db "BUSH@" ; species name
-	dw 200, 400 ; height, weight
+	dw 208, 331 ; height, weight
 
 	db   "Though it may fan-"
 	next "cy itself as a hi-"

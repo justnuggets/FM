@@ -1,5 +1,5 @@
 	db "SEA SNIPER@" ; species name
-	dw 108, 260 ; height, weight
+	dw 400, 448 ; height, weight
 
 	db   "AGUAMARINE can"
 	next "send strong jets"

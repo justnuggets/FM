@@ -1,5 +1,5 @@
 	db "CATACOMB@" ; species name
-	dw 811, 25600 ; height, weight
+	dw 510, 19910 ; height, weight
 
 	db   "It shelters the"
 	next "spirits whose"

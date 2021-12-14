@@ -1,5 +1,5 @@
 	db "SEA SNAKE@" ; species name
-	dw 511, 330 ; height, weight
+	dw 607, 330 ; height, weight
 
 	db   "It excavates the"
 	next "ocean depths for"

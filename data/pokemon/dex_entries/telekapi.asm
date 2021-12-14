@@ -1,5 +1,5 @@
 	db "TELEPATHY@" ; species name
-	dw 402, 2000 ; height, weight
+	dw 311, 1035 ; height, weight
 
 	db   "It receives sig-"
 	next "nals from outer"

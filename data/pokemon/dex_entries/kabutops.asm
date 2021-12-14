@@ -1,5 +1,5 @@
 	db "SHELLFISH@" ; species name
-	dw 403, 890 ; height, weight
+	dw 407, 993 ; height, weight
 
 	db   "Thousands of foss-"
 	next "ils were excavated"

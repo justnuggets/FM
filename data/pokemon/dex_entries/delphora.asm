@@ -1,5 +1,5 @@
 	db "DOLPHIN@" ; species name
-	dw 1004, 2204 ; height, weight
+	dw 604, 3351 ; height, weight
 
 	db   "As it breaches the"
 	next "water's surface,"

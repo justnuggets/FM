@@ -1,5 +1,5 @@
 	db "MARSUPIAL@" ; species name
-	dw 607, 1750 ; height, weight
+	dw 411, 8600 ; height, weight
 
 	db   "KWOMBAT becomes"
 	next "lethargic outside"

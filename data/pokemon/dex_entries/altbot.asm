@@ -1,5 +1,5 @@
 	db "CYBER@" ; species name
-	dw 400, 560 ; height, weight
+	dw 201, 530 ; height, weight
 
 	db   "ALTBOT collects"
 	next "discarded hardware"

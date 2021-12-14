@@ -1,5 +1,5 @@
 	db "TORCH@" ; species name
-	dw 3002, 8820 ; height, weight
+	dw 403, 1706 ; height, weight
 
 	db   "They are a rem-"
 	next "nant of a civi-"

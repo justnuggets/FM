@@ -1,5 +1,5 @@
 	db "WARLOCK@" ; species name
-	dw 704, 1760 ; height, weight
+	dw 511, 1653 ; height, weight
 
 	db   "Elemental magics"
 	next "bend to its will."

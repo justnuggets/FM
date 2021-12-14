@@ -1,5 +1,5 @@
 	db "SLAYER@" ; species name
-	dw 108, 90 ; height, weight
+	dw 505, 2054 ; height, weight
 
 	db   "It rushes foes"
 	next "to end the fight"

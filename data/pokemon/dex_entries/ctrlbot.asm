@@ -1,5 +1,5 @@
 	db "CYBER@" ; species name
-	dw 008, 08 ; height, weight
+	dw 100, 13 ; height, weight
 
 	db   "Though miniscule"
 	next "in stature, this"

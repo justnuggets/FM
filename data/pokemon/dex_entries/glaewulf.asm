@@ -1,5 +1,5 @@
 	db "FROSTBITE@" ; species name
-	dw 104, 10 ; height, weight
+	dw 407, 772 ; height, weight
 
 	db   "Its bite leaves"
 	next "what is called a"

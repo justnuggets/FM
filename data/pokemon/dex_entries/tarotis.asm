@@ -1,5 +1,5 @@
 	db "FATE@" ; species name
-	dw 303, 100 ; height, weight
+	dw 100, 33 ; height, weight
 
 	db   "Prophetic markings"
 	next "change to match"

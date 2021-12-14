@@ -1,5 +1,5 @@
 	db "GRAVESTONE@" ; species name
-	dw 404, 2690 ; height, weight
+	dw 406, 2017 ; height, weight
 
 	db   "In the lonliest of"
 	next "places, DDOMSTONE"

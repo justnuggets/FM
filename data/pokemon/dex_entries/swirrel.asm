@@ -1,5 +1,5 @@
 	db "FLURRY@" ; species name
-	dw 104, 190 ; height, weight
+	dw 104, 86 ; height, weight
 
 	db   "Ever playful, it"
 	next "builds decoys of"

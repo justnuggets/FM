@@ -1,5 +1,5 @@
 	db "BALLERINA@" ; species name
-	dw 500, 807 ; height, weight
+	dw 411, 1067 ; height, weight
 
 	db   "As the center of"
 	next "attention, its"

@@ -1,5 +1,5 @@
 	db "EMPTINESS@" ; species name
-	dw 307, 550 ; height, weight
+	dw 200, 70 ; height, weight
 
 	db   "Neither joyful nor"
 	next "sorrowful, SUNIATA"

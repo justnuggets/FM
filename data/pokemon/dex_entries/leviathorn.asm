@@ -1,5 +1,5 @@
 	db "PRICKLYPEAR@" ; species name
-	dw 601, 807 ; height, weight
+	dw 507, 642 ; height, weight
 
 	db   "Foul taste and"
 	next "pokey exterior,"

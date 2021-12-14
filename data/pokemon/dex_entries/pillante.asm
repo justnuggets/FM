@@ -1,5 +1,5 @@
 	db "RECRUIT@" ; species name
-	dw 204, 20 ; height, weight
+	dw 9, 350 ; height, weight
 
 	db   "The bug it carries"
 	next "takes quite the"

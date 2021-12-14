@@ -1,5 +1,5 @@
 	db "GRAIN DROP@" ; species name
-	dw 411, 330 ; height, weight
+	dw 200, 300 ; height, weight
 
 	db   "It shoots itself"
 	next "high up above "

@@ -1,5 +1,5 @@
 	db "GARGANTUAN@" ; species name
-	dw 411, 310 ; height, weight
+	dw 907, 4850 ; height, weight
 
 	db   "Adventurer beware!"
 	next "Climb not this"

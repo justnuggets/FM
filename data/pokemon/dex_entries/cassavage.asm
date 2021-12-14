@@ -1,5 +1,5 @@
 	db "CASTAWAY@" ; species name
-	dw 211, 620 ; height, weight
+	dw 411, 1878 ; height, weight
 
 	db   "Stranded for too"
 	next "long, this #mon"

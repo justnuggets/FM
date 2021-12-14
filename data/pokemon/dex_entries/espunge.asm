@@ -1,5 +1,5 @@
 	db "POROUS@" ; species name
-	dw 411, 306 ; height, weight
+	dw 200, 110 ; height, weight
 
 	db   "A multitude of"
 	next "pores allow it"

@@ -1,5 +1,5 @@
 	db "FLOAT@" ; species name
-	dw 104, 130 ; height, weight
+	dw 200, 12 ; height, weight
 
 	db   "Where the auroras"
 	next "of the North can"

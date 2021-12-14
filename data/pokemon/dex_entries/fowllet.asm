@@ -1,5 +1,5 @@
 	db "GAME FOWL@" ; species name
-	dw 100, 40 ; height, weight
+	dw 100, 26 ; height, weight
 
 	db   "A feeble bird,"
 	next "it clings to the"

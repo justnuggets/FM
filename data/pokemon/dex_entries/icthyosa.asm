@@ -1,5 +1,5 @@
 	db "DORSAL@" ; species name
-	dw 407, 770 ; height, weight
+	dw 411, 516 ; height, weight
 
 	db   "The strength of"
 	next "its limbs suggest"

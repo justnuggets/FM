@@ -1,5 +1,5 @@
 	db "FLOWERPOWER@" ; species name
-	dw 8, 40 ; height, weight
+	dw 400, 699 ; height, weight
 
 	db   "It converts solar"
 	next "energy with its"

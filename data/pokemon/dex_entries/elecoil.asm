@@ -1,5 +1,5 @@
 	db "QUICK@" ; species name
-	dw 200, 170 ; height, weight
+	dw 300, 179 ; height, weight
 
 	db   "ELECOIL slithers"
 	next "along the ground"

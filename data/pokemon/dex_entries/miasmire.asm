@@ -1,5 +1,5 @@
 	db "BOG MONSTER@" ; species name
-	dw 311, 2770 ; height, weight
+	dw 603, 2366 ; height, weight
 
 	db   "A sinister light"
 	next "glows from its"

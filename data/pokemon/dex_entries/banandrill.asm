@@ -1,5 +1,5 @@
 	db "DEMON APE@" ; species name
-	dw 108, 50 ; height, weight
+	dw 500, 1230 ; height, weight
 
 	db   "Though native to"
 	next "tropical climates,"

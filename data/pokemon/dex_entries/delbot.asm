@@ -1,5 +1,5 @@
 	db "AUTOMATON@" ; species name
-	dw 503, 1160 ; height, weight
+	dw 511, 3351 ; height, weight
 
 	db   "DELBOT completes"
 	next "itself after link-"

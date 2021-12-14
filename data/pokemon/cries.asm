@@ -9,7 +9,7 @@ PokemonCries::
 	mon_cry CRY_DUNSPARCE,   500,  256 ; SUBMINO
 	mon_cry CRY_MUK,          30,  383 ; SUBZILLA
 	mon_cry CRY_CHARMANDER,  255,  156 ; SUBZILANTE
-		mon_cry CRY_ENTEI,       330,  273 ; GRASSNIP
+	mon_cry CRY_ENTEI,       330,  273 ; GRASSNIP
 	mon_cry CRY_ENTEI,       230,  273 ; LOPSOIL
 	mon_cry CRY_ENTEI,       182,  256 ; HAERAZOR
 	mon_cry CRY_CHARMANDER,   200,  90 ; CUBBURN
@@ -159,8 +159,8 @@ PokemonCries::
 	mon_cry CRY_TYPHLOSION, 300, 247 ; FEARTRESS
 	mon_cry CRY_EKANS, 255, 320  ; GOTHEDRAL
 	mon_cry CRY_HOOTHOOT, 48, 416 ; TSUKIMIKO
-	mon_cry CRY_MARILL, -31, 384 ; ZONBI
-	mon_cry CRY_TEDDIURSA, 374, 58 ; SMOKAI
+    mon_cry CRY_TEDDIURSA, 374, 58 ; ZONBI
+    mon_cry CRY_MARILL, -31, 344 ; SMOKAI
 	mon_cry CRY_ENTEI, 0, 300 ; TROLLGORE
 	mon_cry CRY_WOOPER, 247, 175 ; GEXEL
 	mon_cry CRY_KANGASKHAN, 1556, 400 ; RENDEREXE

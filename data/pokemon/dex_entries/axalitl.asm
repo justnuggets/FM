@@ -1,5 +1,5 @@
 	db "BABY NEWT@" ; species name
-	dw 100, 087 ; height, weight
+	dw 104, 187 ; height, weight
 
 	db   "When it reaches"
 	next "the proper age, "

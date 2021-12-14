@@ -1,5 +1,5 @@
 	db "ENERGY@" ; species name
-	dw 400, 70 ; height, weight
+	dw 311, 100 ; height, weight
 
 	db   "Astoundingly,"
 	next "its structure is"

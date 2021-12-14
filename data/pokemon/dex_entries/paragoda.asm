@@ -1,5 +1,5 @@
 	db "SHRINE@" ; species name
-	dw 300, 2000 ; height, weight
+	dw 303, 1211 ; height, weight
 
 	db   "PARAGODA houses"
 	next "the essence of"

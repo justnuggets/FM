@@ -1,5 +1,5 @@
 	db "VILE LIZARD@" ; species name
-	dw 303, 260 ; height, weight
+	dw 200, 106 ; height, weight
 
 	db   "HISZARD feed on"
 	next "spoiled carcasses,"

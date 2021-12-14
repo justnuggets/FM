@@ -1,5 +1,5 @@
 	db "CRYO MOTH@" ; species name
-	dw 307, 705 ; height, weight
+	dw 411, 276 ; height, weight
 
 	db   "HAILOTH's delicate"
 	next "wings emit a fine"

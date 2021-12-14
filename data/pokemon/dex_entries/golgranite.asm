@@ -1,5 +1,5 @@
 	db "OBSIDIAN@" ; species name
-	dw 506, 5180 ; height, weight
+	dw 303, 2249 ; height, weight
 
 	db   "Aggravated, it"
 	next "erupts in a hail"

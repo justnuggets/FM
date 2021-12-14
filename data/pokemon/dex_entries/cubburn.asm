@@ -1,5 +1,5 @@
 	db "BURN BEAR@" ; species name
-	dw 104, 140 ; height, weight
+	dw 200, 194 ; height, weight
 
 	db   "CUBBURN hiber-"
 	next "nates in caves"

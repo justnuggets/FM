@@ -1,5 +1,5 @@
 	db "BABOON@" ; species name
-	dw 211, 580 ; height, weight
+	dw 108, 137 ; height, weight
 
 	db   "They are mal-"
 	next "adjusted, pick-"

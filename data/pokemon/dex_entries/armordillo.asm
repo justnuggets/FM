@@ -1,5 +1,5 @@
 	db "NINEBAND@" ; species name
-	dw 411, 4644 ; height, weight
+	dw 610, 4644 ; height, weight
 
 	db   "Scalding heat"
 	next "vents from their"

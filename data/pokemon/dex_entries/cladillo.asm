@@ -1,5 +1,5 @@
 	db "SIXBAND@" ; species name
-	dw 304, 900 ; height, weight
+	dw 204, 882 ; height, weight
 
 	db   "Curling up in a"
 	next "ball affords it"

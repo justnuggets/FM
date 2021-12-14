@@ -1,5 +1,5 @@
 	db "COLONY@" ; species name
-	dw 403, 630 ; height, weight
+	dw 506, 7540 ; height, weight
 
 	db   "Fusing together"
 	next "with its husk"

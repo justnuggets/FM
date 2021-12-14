@@ -1,5 +1,5 @@
 	db "3D@" ; species name
-	dw 600, 000 ; height, weight
+	dw 311, 9 ; height, weight
 
 	db   "They can phase in"
 	next "and out at will,"

@@ -1,5 +1,5 @@
 	db "SABERTOOTH@" ; species name
-	dw 200, 240 ; height, weight
+	dw 502, 1830 ; height, weight
 
 	db   "The last of these"
 	next "carnivores died"

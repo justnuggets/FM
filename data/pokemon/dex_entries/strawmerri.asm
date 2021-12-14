@@ -1,5 +1,5 @@
 	db "JUICY FRUIT@" ; species name
-	dw 311, 410 ; height, weight
+	dw 310, 410 ; height, weight
 
 	db   "Too much backed"
 	next "up liquid causes"

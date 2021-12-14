@@ -1,5 +1,5 @@
 	db "SHIELD@" ; species name
-	dw 204, 20 ; height, weight
+	dw 201, 1100 ; height, weight
 
 	db   "The unidentified"
 	next "bug's casing is"

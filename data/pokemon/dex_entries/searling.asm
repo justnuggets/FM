@@ -1,5 +1,5 @@
 	db "FLAME@" ; species name
-	dw 511, 1880 ; height, weight
+	dw 200, 1430 ; height, weight
 
 	db   "Totally devoid of"
 	next "fur, SEARLING gen-"

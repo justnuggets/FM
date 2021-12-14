@@ -1,5 +1,5 @@
 	db "STACK@" ; species name
-	dw 200, 70 ; height, weight
+	dw 500, 560 ; height, weight
 
 	db   "Each mystical tier"
 	next "once represented"

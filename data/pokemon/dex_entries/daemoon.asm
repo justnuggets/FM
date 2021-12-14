@@ -1,5 +1,5 @@
 	db "GLAMOUR@" ; species name
-	dw 104, 440 ; height, weight
+	dw 303, 888 ; height, weight
 
 	db   "What we see of it"
 	next "is but an illus-"

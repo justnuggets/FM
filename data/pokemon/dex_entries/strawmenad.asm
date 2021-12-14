@@ -1,5 +1,5 @@
 	db "SWEET BERRY@" ; species name
-	dw 300, 190 ; height, weight
+	dw 207, 190 ; height, weight
 
 	db   "Its appearance is"
 	next "fabled to bring a"

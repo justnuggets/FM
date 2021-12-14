@@ -1,5 +1,5 @@
 	db "HELMET@" ; species name
-	dw 100, 120 ; height, weight
+	dw 204, 772 ; height, weight
 
 	db   "It perches upon"
 	next "stalagmites, wait-"

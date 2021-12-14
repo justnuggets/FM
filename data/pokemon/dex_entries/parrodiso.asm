@@ -1,5 +1,5 @@
 	db "TROPICAL@" ; species name
-	dw 511, 2600 ; height, weight
+	dw 300, 156 ; height, weight
 
 	db   "It is studied"
 	next "for its many"

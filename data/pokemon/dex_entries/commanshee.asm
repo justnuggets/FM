@@ -1,5 +1,5 @@
 	db "ATTACK@" ; species name
-	dw 900, 4660 ; height, weight
+	dw 600, 2756 ; height, weight
 
 	db   "Mounted missiles,"
 	next "blades, lasers -"

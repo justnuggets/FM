@@ -1,5 +1,5 @@
 	db "FAN@" ; species name
-	dw 111, 09 ; height, weight
+	dw 105, 390 ; height, weight
 
 	db   "Sputtering in-"
 	next "voluntarily, it"

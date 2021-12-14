@@ -1,5 +1,5 @@
 	db "DREADNOUGHT@" ; species name
-	dw 200, 170 ; height, weight
+	dw 1202, 5140 ; height, weight
 
 	db   "A forlorn vessel"
 	next "floats on the fr-"

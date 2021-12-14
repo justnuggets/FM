@@ -1,5 +1,5 @@
 	db "ILLUMINATE@" ; species name
-	dw 303, 660 ; height, weight
+	dw 200, 430 ; height, weight
 
 	db   "Said to live am-"
 	next "ong the stars,"

@@ -1,5 +1,5 @@
 	db "TORNADO@" ; species name
-	dw 800, 11 ; height, weight
+	dw 503, 2 ; height, weight
 
 	db   "A whirling twister"
 	next "of unstable ener-"

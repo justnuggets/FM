@@ -1,5 +1,5 @@
 	db "SPECIMEN@" ; species name
-	dw 200, 110 ; height, weight
+	dw 310, 730 ; height, weight
 
 	db   "When confined to"
 	next "a small space,"

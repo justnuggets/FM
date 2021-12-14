@@ -1,5 +1,5 @@
 	db "MAGIC@" ; species name
-	dw 600, 1000 ; height, weight
+	dw 411, 900 ; height, weight
 
 	db   "Objects disappear"
 	next "beneath its coat."

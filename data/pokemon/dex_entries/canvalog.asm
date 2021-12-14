@@ -1,5 +1,5 @@
 	db "SETTLEMENT@" ; species name
-	dw 601, 2590 ; height, weight
+	dw 509, 4464 ; height, weight
 
 	db   "In the event of"
 	next "invasion, these"

@@ -1,5 +1,5 @@
 	db "TRICKSTER@" ; species name
-	dw 503, 1210 ; height, weight
+	dw 202, 333 ; height, weight
 
 	db   "Don't let its"
 	next "charms fool you!"

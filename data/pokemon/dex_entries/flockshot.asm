@@ -1,5 +1,5 @@
 	db "GAME FOWL@" ; species name
-	dw 207, 96 ; height, weight
+	dw 204, 132 ; height, weight
 
 	db   "Upon evolution, "
 	next "new markings make"

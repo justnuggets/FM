@@ -1,5 +1,5 @@
 	db "KNIGHT@" ; species name
-	dw 407, 1070 ; height, weight
+	dw 209, 920 ; height, weight
 
 	db   "Its wings inter-"
 	next "lock to form a "

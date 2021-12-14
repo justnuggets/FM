@@ -1,5 +1,5 @@
 	db "ULTRA@" ; species name
-	dw 104, 190 ; height, weight
+	dw 506, 7080 ; height, weight
 
 	db   "It will clamp down"
 	next "to protect itself,"

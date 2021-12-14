@@ -1,5 +1,5 @@
 	db "WHISKER@" ; species name
-	dw 307, 640 ; height, weight
+	dw 111, 132 ; height, weight
 
 	db   "Speedy climbers,"
 	next "they run along,"

@@ -1,5 +1,5 @@
 	db "THUNDER CAT@" ; species name
-	dw 509, 820 ; height, weight
+	dw 303, 1096 ; height, weight
 
 	db   "The weight it app-"
 	next "ears to have added"

@@ -1,5 +1,5 @@
 	db "CONTENDER@" ; species name
-	dw 311, 300 ; height, weight
+	dw 204, 445 ; height, weight
 
 	db   "Struggling to"
 	next "survive on their"

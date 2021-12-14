@@ -1,5 +1,5 @@
 	db "PRIESTESS@" ; species name
-	dw 409, 35 ; height, weight
+	dw 211, 479 ; height, weight
 
 	db   "Where one is pre-"
 	next "sent, it is said"

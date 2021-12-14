@@ -1,5 +1,5 @@
 	db "TINY DRAGON@" ; species name
-	dw 100, 20 ; height, weight
+	dw 200, 397 ; height, weight
 
 	db   "Owning one was"
 	next "once as sign of"

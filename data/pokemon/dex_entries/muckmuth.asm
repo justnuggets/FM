@@ -1,5 +1,5 @@
 	db "TUSK@" ; species name
-	dw 108, 740 ; height, weight
+	dw 311, 2205 ; height, weight
 
 	db   "It is caked in"
 	next "thickened tar,"

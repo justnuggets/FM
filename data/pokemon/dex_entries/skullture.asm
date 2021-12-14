@@ -1,5 +1,5 @@
 	db "CARRION@" ; species name
-	dw 211, 630 ; height, weight
+	dw 607, 2310 ; height, weight
 
 	db   "It was a prehist-"
 	next "oric harbinger of"

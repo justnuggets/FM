@@ -1,5 +1,5 @@
 	db "HEAVYHITTER@" ; species name
-	dw 507, 1268 ; height, weight
+	dw 402, 1107 ; height, weight
 
 	db   "With only room for"
 	next "one in its pouch,"

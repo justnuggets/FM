@@ -1,5 +1,5 @@
 	db "PUNCHINGBAG@" ; species name
-	dw 400, 160 ; height, weight
+	dw 411, 1554 ; height, weight
 
 	db   "Thanks to tireless"
 	next "conditioning, it's"

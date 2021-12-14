@@ -1,5 +1,5 @@
 	db "ENERGY@" ; species name
-	dw 400, 150 ; height, weight
+	dw 400, 148 ; height, weight
 
 	db   "It will borrow"
 	next "molecules from its"

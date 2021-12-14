@@ -1,5 +1,5 @@
 	db "TRANSFORM@" ; species name
-	dw 104, 4 ; height, weight
+	dw 104, 88 ; height, weight
 
 	db   "Imported from a"
 	next "faraway region,"

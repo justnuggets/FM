@@ -1,5 +1,5 @@
 	db "POKeRUS@" ; species name
-	dw 603, 3920 ; height, weight
+	dw 507, 1340 ; height, weight
 
 	db   "Spawned from an"
 	next "ancient strain of"

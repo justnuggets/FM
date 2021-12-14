@@ -1,5 +1,5 @@
 	db "TITANIC@" ; species name
-	dw 311, 840 ; height, weight
+	dw 511, 10000 ; height, weight
 
 	db   "A towering hulk,"
 	next "there are few"

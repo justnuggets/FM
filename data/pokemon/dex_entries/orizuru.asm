@@ -1,5 +1,5 @@
 	db "PAPER CRANE@" ; species name
-	dw 108, 620 ; height, weight
+	dw 207, 474 ; height, weight
 
 	db   "These #mon can"
 	next "fold and contort"

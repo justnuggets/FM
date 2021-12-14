@@ -1,5 +1,5 @@
 	db "SLAB@" ; species name
-	dw 411, 1550 ; height, weight
+	dw 303, 2310 ; height, weight
 
 	db   "When it is inevit-"
 	next "ably mined by mis-"

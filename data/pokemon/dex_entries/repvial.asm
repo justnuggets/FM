@@ -1,5 +1,5 @@
 	db "VILE LIZARD@" ; species name
-	dw 207, 170 ; height, weight
+	dw 303, 736 ; height, weight
 
 	db   "REPVIAL's mouth"
 	next "festers with di-"

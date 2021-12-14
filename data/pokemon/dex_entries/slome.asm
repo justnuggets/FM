@@ -1,5 +1,5 @@
 	db "SNOWCAP@" ; species name
-	dw 200, 20 ; height, weight
+	dw 204, 772 ; height, weight
 
 	db   "Come midwinter,"
 	next "SLOME sidle down"

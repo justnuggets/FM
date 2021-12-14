@@ -1,5 +1,5 @@
 	db "RABID@" ; species name
-	dw 311, 840 ; height, weight
+	dw 200, 238 ; height, weight
 
 	db   "These pack hunters"
 	next "are nigh invisible"

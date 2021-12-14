@@ -1,5 +1,5 @@
 	db "JUNGLE@" ; species name
-	dw 507, 1753 ; height, weight
+	dw 606, 1753 ; height, weight
 
 	db   "Using its rapid"
 	next "rotating ears,"

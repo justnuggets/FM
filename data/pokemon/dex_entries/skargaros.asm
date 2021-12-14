@@ -1,5 +1,5 @@
 	db "PREDATOR@" ; species name
-	dw 1104, 952 ; height, weight
+	dw 500, 530 ; height, weight
 
 	db   "Anglers can string"
 	next "together a row of"

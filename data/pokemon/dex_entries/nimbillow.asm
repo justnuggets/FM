@@ -1,5 +1,5 @@
 	db "STRATOS@" ; species name
-	dw 100, 70 ; height, weight
+	dw 411, 702 ; height, weight
 
 	db   "At a slow and"
 	next "steady pace it"

@@ -1,5 +1,5 @@
 	db "POTTERY@" ; species name
-	dw 104, 90 ; height, weight
+	dw 204, 419 ; height, weight
 
 	db   "The surface of"
 	next "its plating can"

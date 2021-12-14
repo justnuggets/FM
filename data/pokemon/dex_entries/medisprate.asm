@@ -1,5 +1,5 @@
 	db "MEDICINE@" ; species name
-	dw 307, 1230 ; height, weight
+	dw 100, 229 ; height, weight
 
 	db   "Its healing spray"
 	next "is highly sought"

@@ -1,5 +1,5 @@
 	db "EXTINCTION@" ; species name
-	dw 307, 2650 ; height, weight
+	dw 910, 14330 ; height, weight
 
 	db   "It was only recen-"
 	next "tly that they were"

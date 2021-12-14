@@ -1,5 +1,5 @@
 	db "DELINQUENT@" ; species name
-	dw 8, 20 ; height, weight
+	dw 108, 187 ; height, weight
 
 	db   "The purpose of"
 	next "this #mon's web"

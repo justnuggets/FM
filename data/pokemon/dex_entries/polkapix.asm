@@ -1,5 +1,5 @@
 	db "GLIMMER@" ; species name
-	dw 507, 340 ; height, weight
+	dw 400, 120 ; height, weight
 
 	db   "With the ability"
 	next "to enchant stone,"

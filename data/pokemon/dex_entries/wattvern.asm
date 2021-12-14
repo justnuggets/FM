@@ -1,5 +1,5 @@
 	db "QUICK@" ; species name
-	dw 207, 290 ; height, weight
+	dw 307, 353 ; height, weight
 
 	db   "Trying to grab its"
 	next "own tail, WATTVERN"

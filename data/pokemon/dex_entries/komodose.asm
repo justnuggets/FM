@@ -1,5 +1,5 @@
 	db "VILE LIZARD@" ; species name
-	dw 607, 1996 ; height, weight
+	dw 606, 2123 ; height, weight
 
 	db   "Its rotten fangs"
 	next "infect so fast,"

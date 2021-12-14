@@ -1,5 +1,5 @@
 	db "GHOUL@" ; species name
-	dw 310, 100 ; height, weight
+	dw 211, 549 ; height, weight
 
 	db   "Said to be a ven-"
 	next "geful thrall, the"

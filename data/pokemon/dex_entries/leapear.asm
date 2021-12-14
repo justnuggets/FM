@@ -1,5 +1,5 @@
 	db "BITTERPEAR@" ; species name
-	dw 400, 200 ; height, weight
+	dw 303, 141 ; height, weight
 
 	db   "Slinging viny app-"
 	next "endages, it swings"

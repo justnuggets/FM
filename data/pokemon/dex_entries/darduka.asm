@@ -1,5 +1,5 @@
 	db "SUFFERING@" ; species name
-	dw 207, 130 ; height, weight
+	dw 204, 99 ; height, weight
 
 	db   "Doom and gloom"
 	next "personified,a dark"

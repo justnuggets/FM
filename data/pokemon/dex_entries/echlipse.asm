@@ -1,5 +1,5 @@
 	db "PINCUSHION@" ; species name
-	dw 311, 617 ; height, weight
+	dw 211, 617 ; height, weight
 
 	db   "Spines covering"
 	next "its body cause"

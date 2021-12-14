@@ -1,5 +1,5 @@
 	db "TROPOSPHERE@" ; species name
-	dw 100, 40 ; height, weight
+	dw 307, 454 ; height, weight
 
 	db   "It is able to blow"
 	next "powerful wind with"

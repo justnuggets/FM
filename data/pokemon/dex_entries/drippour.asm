@@ -1,5 +1,5 @@
 	db "SEAFOAM@" ; species name
-	dw 304, 617 ; height, weight
+	dw 302, 1056 ; height, weight
 
 	db   "Specialized gear"
 	next "helps keep it a-"

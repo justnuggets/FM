@@ -1,5 +1,5 @@
 	db "1000 LEAGUE@" ; species name
-	dw 307, 740 ; height, weight
+	dw 1700, 24470 ; height, weight
 
 	db   "NARCICLE plow"
 	next "through icebergs"

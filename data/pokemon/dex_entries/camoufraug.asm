@@ -1,5 +1,5 @@
 	db "DESERT@" ; species name
-	dw 400, 1210 ; height, weight
+	dw 301, 441 ; height, weight
 
 	db   "As heat and sand"
 	next "barrage the skin,"

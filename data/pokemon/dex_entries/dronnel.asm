@@ -1,5 +1,5 @@
 	db "MOLEBEE@" ; species name
-	dw 303, 440 ; height, weight
+	dw 100, 450 ; height, weight
 
 	db   "They are tireless,"
 	next "always digging to"

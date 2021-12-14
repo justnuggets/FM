@@ -1,5 +1,5 @@
 	db "ASH@" ; species name
-	dw 305, 650 ; height, weight
+	dw 202, 597 ; height, weight
 
 	db   "TRUBBLE pass on"
 	next "shards of bone"

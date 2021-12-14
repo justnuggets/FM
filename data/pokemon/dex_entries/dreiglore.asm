@@ -1,5 +1,5 @@
 	db "NOBLE@" ; species name
-	dw 100, 30 ; height, weight
+	dw 1400, 3333 ; height, weight
 
 	db   "Far, far away,"
 	next "dozens are said"

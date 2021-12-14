@@ -1,5 +1,5 @@
 	db "FUNGAL@" ; species name
-	dw 511, 720 ; height, weight
+	dw 407, 1069 ; height, weight
 
 	db   "Its stems, when"
 	next "dried or ground,"

@@ -1,5 +1,5 @@
 	db "HEDGE HARE@" ; species name
-	dw 108, 95 ; height, weight
+	dw 204, 121 ; height, weight
 
 	db   "It mows down grass"
 	next "with blade-like"

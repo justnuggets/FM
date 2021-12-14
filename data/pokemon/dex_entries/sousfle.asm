@@ -1,5 +1,5 @@
 	db "GOURMET@" ; species name
-	dw 507, 2520 ; height, weight
+	dw 509, 1167 ; height, weight
 
 	db   "This #mon has"
 	next "an excellent"

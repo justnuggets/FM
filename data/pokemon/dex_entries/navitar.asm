@@ -1,5 +1,5 @@
 	db "COMMUNICATE@" ; species name
-	dw 311, 410 ; height, weight
+	dw 402, 445 ; height, weight
 
 	db   "Via telepathic"
 	next "field, it is able "

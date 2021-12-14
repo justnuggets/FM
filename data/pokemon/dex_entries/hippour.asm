@@ -1,5 +1,5 @@
 	db "SEAFOAM@" ; species name
-	dw 106, 268 ; height, weight
+	dw 200, 600 ; height, weight
 
 	db   "Herds of HIPPOUR"
 	next "float downriver"

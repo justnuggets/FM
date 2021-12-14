@@ -1,5 +1,5 @@
 	db "ULTRAVIOLET@" ; species name
-	dw 311, 1660 ; height, weight
+	dw 607, 5409 ; height, weight
 
 	db   "Known colloquially"
 	next "as the Beast of"

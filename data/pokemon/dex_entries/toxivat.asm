@@ -1,5 +1,5 @@
 	db "NUCLEAR@" ; species name
-	dw 407, 780 ; height, weight
+	dw 701, 9900 ; height, weight
 
 	db   "TOXIVAT exudes"
 	next "radiation, needing"

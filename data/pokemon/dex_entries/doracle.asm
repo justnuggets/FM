@@ -1,5 +1,5 @@
 	db "DOLPHIN@" ; species name
-	dw 600, 1760 ; height, weight
+	dw 311, 551 ; height, weight
 
 	db   "Atop its head lays"
 	next "a crown of sea or-"

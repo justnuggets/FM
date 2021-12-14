@@ -1,5 +1,5 @@
 	db "SCULPTURE@" ; species name
-	dw 503, 2870 ; height, weight
+	dw 700, 9967 ; height, weight
 
 	db   "Regardless of "
 	next "occasion, it loves"

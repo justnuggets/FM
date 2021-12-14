@@ -1,5 +1,5 @@
 	db "OASIS@" ; species name
-	dw 411, 1190 ; height, weight
+	dw 502, 899 ; height, weight
 
 	db   "Large flocks are"
 	next "able to wade in"

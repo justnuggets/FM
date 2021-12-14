@@ -1,5 +1,5 @@
 	db "TATTLE@" ; species name
-	dw 109, 77 ; height, weight
+	dw 100, 77 ; height, weight
 
 	db   "It will play-faint"
 	next "until its attacker"

@@ -1,5 +1,5 @@
 	db "DRIFTWOOD@" ; species name
-	dw 307, 1430 ; height, weight
+	dw 104, 1131 ; height, weight
 
 	db   "Wood totems can"
 	next "come to life af-"

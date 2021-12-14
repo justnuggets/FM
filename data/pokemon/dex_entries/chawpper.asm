@@ -1,5 +1,5 @@
 	db "PESTILENCE@" ; species name
-	dw 500, 407 ; height, weight
+	dw 411, 1235 ; height, weight
 
 	db   "Large swarms have"
 	next "have been known"

@@ -1,5 +1,5 @@
 	db "LURE@" ; species name
-	dw 211, 82 ; height, weight
+	dw 108, 120 ; height, weight
 
 	db   "SKARDINE latches"
 	next "onto larger fish"

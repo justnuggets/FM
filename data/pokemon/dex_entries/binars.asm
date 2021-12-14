@@ -1,5 +1,5 @@
 	db "DUAL@" ; species name
-	dw 204, 420 ; height, weight
+	dw 200, 1000 ; height, weight
 
 	db   "Both act as halves"
 	next "of a whole, each"

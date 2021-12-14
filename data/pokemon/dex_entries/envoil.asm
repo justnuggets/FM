@@ -1,5 +1,5 @@
 	db "MESSENGER@" ; species name
-	dw 207, 190 ; height, weight
+	dw 204, 184 ; height, weight
 
 	db   "In place of eggs,"
 	next "as seen in nature,"

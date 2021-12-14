@@ -1,5 +1,5 @@
 	db "PALM@" ; species name
-	dw 204, 470 ; height, weight
+	dw 104, 54 ; height, weight
 
 	db   "Generally, it"
 	next "enjoys pranks"

@@ -1,5 +1,5 @@
 	db "SEA MONKEY@" ; species name
-	dw 511, 1650 ; height, weight
+	dw 304, 254 ; height, weight
 
 	db   "PLANKTOON are na-"
 	next "tural thrill see-"

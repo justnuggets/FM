@@ -1,5 +1,5 @@
 	db "CRYOCOCOON@" ; species name
-	dw 106, 104 ; height, weight
+	dw 104, 143 ; height, weight
 
 	db   "This #mon's"
 	next "body melts down"

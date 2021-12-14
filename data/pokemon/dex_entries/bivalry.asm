@@ -1,5 +1,5 @@
 	db "SHELLFISH@" ; species name
-	dw 100, 40 ; height, weight
+	dw 109, 588 ; height, weight
 
 	db   "BIVALRY sunbathes"
 	next "each and every"

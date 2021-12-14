@@ -1,5 +1,5 @@
 	db "STRAFE@" ; species name
-	dw 009, 180 ; height, weight
+	dw 104, 143 ; height, weight
 
 	db   "It can only walk"
 	next "sideways. Things"

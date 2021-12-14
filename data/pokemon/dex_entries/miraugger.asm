@@ -1,5 +1,5 @@
 	db "MIRAGE@" ; species name
-	dw 708, 13232 ; height, weight
+	dw 508, 3132 ; height, weight
 
 	db   "The distinctive"
 	next "pattern of this"

@@ -1,5 +1,5 @@
 	db "SABERWEASEL@" ; species name
-	dw 507, 1110 ; height, weight
+	dw 204, 551 ; height, weight
 
 	db   "It kept bone sh-"
 	next "ards to pick its"

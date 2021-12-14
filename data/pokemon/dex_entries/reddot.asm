@@ -1,5 +1,5 @@
 	db "SHINING@" ; species name
-	dw 303, 140 ; height, weight
+	dw 100, 33 ; height, weight
 
 	db   "To find hidden"
 	next "rarities, this"

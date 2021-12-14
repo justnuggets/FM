@@ -1,5 +1,5 @@
 	db "PEBBLE@" ; species name
-	dw 006, 430 ; height, weight
+	dw 8, 441 ; height, weight
 
 	db   "ROCKADE live in"
 	next "unruly piles,"

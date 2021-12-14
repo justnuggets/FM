@@ -1,5 +1,5 @@
 	db "WHISKER@" ; species name
-	dw 200, 40 ; height, weight
+	dw 106, 30 ; height, weight
 
 	db   "Strays wont scr-"
 	next "ounge the streets"

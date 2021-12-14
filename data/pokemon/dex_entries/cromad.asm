@@ -1,5 +1,5 @@
 	db "FLINT@" ; species name
-	dw 211, 350 ; height, weight
+	dw 200, 143 ; height, weight
 
 	db   "From an early age,"
 	next "it's believed that"

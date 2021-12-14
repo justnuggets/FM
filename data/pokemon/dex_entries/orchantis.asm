@@ -1,5 +1,5 @@
 	db "CLAIRVOYANT@" ; species name
-	dw 500, 265 ; height, weight
+	dw 300, 408 ; height, weight
 
 	db   "Gifted with incr-"
 	next "edible fortune-"

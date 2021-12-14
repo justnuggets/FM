@@ -1,5 +1,5 @@
 	db "GUARDIAN@" ; species name
-	dw 603, 13417 ; height, weight
+	dw 603, 4417 ; height, weight
 
 	db   "Inctinctually,"
 	next "these beasts guard"

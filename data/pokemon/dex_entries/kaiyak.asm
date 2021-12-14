@@ -1,5 +1,5 @@
 	db "KEG@" ; species name
-	dw 503, 1730 ; height, weight
+	dw 203, 1224 ; height, weight
 
 	db   "This #mon lugs"
 	next "around purified"

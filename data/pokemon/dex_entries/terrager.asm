@@ -1,5 +1,5 @@
 	db "LANDSLIDE@" ; species name
-	dw 403, 1250 ; height, weight
+	dw 604, 14453 ; height, weight
 
 	db   "Pillared bracers"
 	next "act as posts for"

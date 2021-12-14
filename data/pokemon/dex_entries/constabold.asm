@@ -1,5 +1,5 @@
 	db "PATROL@" ; species name
-	dw 504, 1180 ; height, weight
+	dw 407, 1074 ; height, weight
 
 	db   "They are a staple"
 	next "of law enforce-"

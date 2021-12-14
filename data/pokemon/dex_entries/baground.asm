@@ -1,5 +1,5 @@
 	db "GROUNDPOUND@" ; species name
-	dw 211, 430 ; height, weight
+	dw 204, 865 ; height, weight
 
 	db   "Calcified rock"
 	next "bolsters its sup-"

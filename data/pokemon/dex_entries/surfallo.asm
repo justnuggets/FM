@@ -1,5 +1,5 @@
 	db "WELLSPRING@" ; species name
-	dw 100, 130 ; height, weight
+	dw 503, 2086 ; height, weight
 
 	db   "A single touch of"
 	next "its hoof can calm"

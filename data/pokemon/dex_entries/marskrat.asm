@@ -1,5 +1,5 @@
 	db "POND RAT@" ; species name
-	dw 507, 2650 ; height, weight
+	dw 200, 57 ; height, weight
 
 	db   "They submerge"
 	next "everything but"

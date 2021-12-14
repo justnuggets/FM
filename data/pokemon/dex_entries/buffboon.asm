@@ -1,5 +1,5 @@
 	db "BABOON@" ; species name
-	dw 303, 600 ; height, weight
+	dw 303, 736 ; height, weight
 
 	db   "Its blood boils"
 	next "with the urge to"

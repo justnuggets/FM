@@ -1,5 +1,5 @@
 	db "FORSAKEN@" ; species name
-	dw 303, 2320 ; height, weight
+	dw 500, 999 ; height, weight
 
 	db   "The aesthetic of"
 	next "this #mon has"

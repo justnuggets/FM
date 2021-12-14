@@ -1,5 +1,5 @@
 	db "DESERT@" ; species name
-	dw 109, 360 ; height, weight
+	dw 104, 154 ; height, weight
 
 	db   "It blends in with"
 	next "the desert sands,"

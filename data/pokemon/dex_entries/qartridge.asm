@@ -1,5 +1,5 @@
 	db "GAME FOWL@" ; species name
-	dw 704, 224 ; height, weight
+	dw 607, 634 ; height, weight
 
 	db   "Hoping to frighten"
 	next "would-be captors"

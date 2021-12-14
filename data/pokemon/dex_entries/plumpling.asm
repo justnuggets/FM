@@ -1,5 +1,5 @@
 	db "SOUR PLUM@" ; species name
-	dw 204, 77 ; height, weight
+	dw 204, 88 ; height, weight
 
 	db   "This #mon ties"
 	next "itself to trees"

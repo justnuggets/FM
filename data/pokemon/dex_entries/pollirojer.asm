@@ -1,5 +1,5 @@
 	db "REAVER@" ; species name
-	dw 200, 450 ; height, weight
+	dw 305, 238 ; height, weight
 
 	db   "It has a vice for"
 	next "treasure and for"

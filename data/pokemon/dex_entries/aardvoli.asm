@@ -1,5 +1,5 @@
 	db "PREHENSILE@" ; species name
-	dw 104, 140 ; height, weight
+	dw 700, 900 ; height, weight
 
 	db   "Propelling its to-"
 	next "ngue at up to 150"

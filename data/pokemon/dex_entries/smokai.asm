@@ -1,5 +1,5 @@
 	db "IMP@" ; species name
-	dw 206, 334 ; height, weight
+	dw 207, 276 ; height, weight
 
 	db   "Its ugly mug in-"
 	next "stills disgust."

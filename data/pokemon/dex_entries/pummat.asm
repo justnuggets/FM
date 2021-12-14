@@ -1,5 +1,5 @@
 	db "PUNCHINGBAG@" ; species name
-	dw 211, 650 ; height, weight
+	dw 207, 430 ; height, weight
 
 	db   "It helps train"
 	next "fellow #mon,"

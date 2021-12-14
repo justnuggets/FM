@@ -1,5 +1,5 @@
 	db "NOCTURNAL@" ; species name
-	dw 206, 308 ; height, weight
+	dw 209, 360 ; height, weight
 
 	db   "To lure foes un-"
 	next "wittingly closer,"

@@ -1,5 +1,5 @@
 	db "EXPLORER@" ; species name
-	dw 204, 770 ; height, weight
+	dw 304, 310 ; height, weight
 
 	db   "They make savvy"
 	next "navigators, their"

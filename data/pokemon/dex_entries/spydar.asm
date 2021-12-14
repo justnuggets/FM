@@ -1,5 +1,5 @@
 	db "MASTERMIND@" ; species name
-	dw 204, 730 ; height, weight
+	dw 307, 739 ; height, weight
 
 	db   "It can string up"
 	next "puppets to do its"

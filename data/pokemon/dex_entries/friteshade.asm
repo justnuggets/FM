@@ -1,5 +1,5 @@
 	db "HOLLOW@" ; species name
-	dw 806, 3012 ; height, weight
+	dw 700, 2024 ; height, weight
 
 	db   "FRITESHADE alter"
 	next "forest paths by"

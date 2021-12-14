@@ -1,5 +1,5 @@
 	db "PINCUSHION@" ; species name
-	dw 110, 44 ; height, weight
+	dw 100, 44 ; height, weight
 
 	db   "Despite a prickly"
 	next "appearance, this"

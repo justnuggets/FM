@@ -1,5 +1,5 @@
 	db "PERMAFROST@" ; species name
-	dw 307, 750 ; height, weight
+	dw 509, 4850 ; height, weight
 
 	db   "Hikers consider"
 	next "LLAMICE a saving"

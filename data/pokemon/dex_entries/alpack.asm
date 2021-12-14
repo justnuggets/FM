@@ -1,5 +1,5 @@
 	db "PERMAFROST@" ; species name
-	dw 207, 630 ; height, weight
+	dw 304, 1773 ; height, weight
 
 	db   "Wool keeps ALPACK"
 	next "well insulated,"

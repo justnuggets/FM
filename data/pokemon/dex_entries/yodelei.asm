@@ -1,5 +1,5 @@
 	db "SNOWCAP@" ; species name
-	dw 207, 250 ; height, weight
+	dw 307, 900 ; height, weight
 
 	db   "It vocalizes a"
 	next "messsage that"

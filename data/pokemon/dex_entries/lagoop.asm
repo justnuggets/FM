@@ -1,5 +1,5 @@
 	db "SWAMP GAS@" ; species name
-	dw 411, 910 ; height, weight
+	dw 11, 389 ; height, weight
 
 	db   "LAGOOP gives off"
 	next "a foul sulfuric"

@@ -1,5 +1,5 @@
 	db "FORESIGHT@" ; species name
-	dw 200, 520 ; height, weight
+	dw 505, 1499 ; height, weight
 
 	db   "Every action it"
 	next "takes is deliber-"
