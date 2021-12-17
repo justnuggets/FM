@@ -1732,11 +1732,11 @@ Pokedex_DisplayModeDescription:
 
 .NewMode:
 	db   "<PK><MN> are listed by"
-	next "evolution type.@"
+	next "type.@"
 
 .OldMode:
 	db   "<PK><MN> are listed by"
-	next "official type.@"
+	next "official index.@"
 
 .ABCMode:
 	db   "<PK><MN> are listed"

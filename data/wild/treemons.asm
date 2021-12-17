@@ -126,6 +126,8 @@ TreeMonSet_Forest:
 	db -1
 
 TreeMonSet_Rock:
-	db 90, SLIVERFISH, 15
-	db 10, POLLIROJER,    15
+	db 50, SLIVERFISH, 15
+	db 20, MARBLOCK,   15
+	db 20, SLICKRETE,  15
+	db 10, TRUBBLE,    15
 	db -1

@@ -16,6 +16,7 @@ OftenFleeMons:
 	db -1
 
 AlwaysFleeMons:
-	db PANDEMICRO
-	db ENTEI
+	db GRYPHERION	
+	db EQUINIX
+	db FAFNARE
 	db -1

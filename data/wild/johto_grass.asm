@@ -1733,9 +1733,9 @@ JohtoGrassWildMons:
 	db 1, PARAGODA
 	db 1, RENDEREXE
 	db 1, STOATSDOOL
-	db 1, SALAMENTAL
+	db 1, ZEPHLUFF
 	db 1, FARIMENTAL
-	db 1, SWINEDEL
+	db 1, FAFNARE
 	end_grass_wildmons
 
 	db -1 ; end

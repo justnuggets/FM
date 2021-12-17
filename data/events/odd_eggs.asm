@@ -9,7 +9,7 @@ OddEggProbabilities:
 ; entries correspond to OddEggs (below)
 	table_width 2, OddEggProbabilities
 prob_total = 0
-; Kittery
+; Spikidna
 	prob 8
 	prob 1
 ; Submino
