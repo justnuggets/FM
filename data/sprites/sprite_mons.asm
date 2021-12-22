@@ -34,6 +34,6 @@ SpriteMons:
 	db PUMMAT
 	db CTRLBOT
 	db GOLGRANITE
-	db LUGIA
-	db HO_OH
+	db HIPRAEZLY
+	db SUB_CYBR
 	assert_table_length NUM_POKEMON_SPRITES

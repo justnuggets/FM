@@ -489,22 +489,22 @@ PokemonPicPointers::
 	dba_pic RyuboBackpic
 	dba_pic PandemicroFrontpic
 	dba_pic PandemicroBackpic
-	dba_pic EnteiFrontpic
-	dba_pic EnteiBackpic
-	dba_pic SuicuneFrontpic
-	dba_pic SuicuneBackpic
-	dba_pic LarvitarFrontpic
-	dba_pic LarvitarBackpic
-	dba_pic PupitarFrontpic
-	dba_pic PupitarBackpic
-	dba_pic TyranitarFrontpic
-	dba_pic TyranitarBackpic
-	dba_pic LugiaFrontpic
-	dba_pic LugiaBackpic
-	dba_pic HoOhFrontpic
-	dba_pic HoOhBackpic
-	dba_pic CelebiFrontpic
-	dba_pic CelebiBackpic
+	dba_pic HaerazgodFrontpic
+	dba_pic HaerazgodBackpic
+	dba_pic GrillzlordFrontpic
+	dba_pic GrillzlordBackpic
+	dba_pic UbertorrntFrontpic
+	dba_pic UbertorrntBackpic
+	dba_pic AlphatureFrontpic
+	dba_pic AlphatureBackpic
+	dba_pic OmegagonFrontpic
+	dba_pic OmegagonBackpic
+	dba_pic HipraezlyFrontpic
+	dba_pic HipraezlyBackpic
+	dba_pic SubCybrFrontpic
+	dba_pic SubCybrBackpic
+	dba_pic VelocerailFrontpic
+	dba_pic VelocerailBackpic
 	; Unown pics have their own table. See UnownPicPointers
 	dbw -1, -1
 	dbw -1, -1

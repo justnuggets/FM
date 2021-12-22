@@ -243,15 +243,15 @@ PokemonNames::
 	db "EQUINIX@@@"
 	db "RYUBO@@@@@"
 	db "PANDEMICRO"
-	db "uHAERAZOR@"
-	db "uGRILLZLY@"
-	db "uHIPTORRNT"
-	db "uSKULLTURE"
-	db "uSWORGON@@"
+	db "HAERAZGOD@"
+	db "GRILLZLORD"
+	db "UBERTORRNT"
+	db "ALPHATURE@"
+	db "OMEGAGON@@"
 	db "HIPRAEZLY@"
 	db "SUB-CYBR@@"
-	db "M.@@@@@@@@"
-	db "MISSINGNO."
+	db "VEL0C3RA1L"
+	db "MISSINGnO." ;unown
 	assert_table_length NUM_POKEMON
 	db "EGG@@@@@@@"
 	assert_table_length EGG

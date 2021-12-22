@@ -803,7 +803,7 @@ EquinixEggMoves:
 	db SEISMIC_TOSS
 	db -1 ; end
 
-LarvitarEggMoves:
+UbertorrntEggMoves:
 	db PURSUIT
 	db STOMP
 	db OUTRAGE

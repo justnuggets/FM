@@ -243,13 +243,13 @@ AnimationIdlePointers:
 	dw EquinixAnimationIdle
 	dw RyuboAnimationIdle
 	dw PandemicroAnimationIdle
-	dw EnteiAnimationIdle
-	dw SuicuneAnimationIdle
-	dw LarvitarAnimationIdle
-	dw PupitarAnimationIdle
-	dw TyranitarAnimationIdle
-	dw LugiaAnimationIdle
-	dw HoOhAnimationIdle
-	dw CelebiAnimationIdle
+	dw HaerazgodAnimationIdle
+	dw GrillzlordAnimationIdle
+	dw UbertorrntAnimationIdle
+	dw AlphatureAnimationIdle
+	dw OmegagonAnimationIdle
+	dw HipraezlyAnimationIdle
+	dw SubCybrAnimationIdle
+	dw VelocerailAnimationIdle
 	dw UnownAnimationIdle
 	assert_table_length NUM_POKEMON

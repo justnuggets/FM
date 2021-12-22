@@ -5995,7 +5995,7 @@ LoadEnemyMon:
 ; In a wild battle, we pull from the item slots in BaseData
 
 ; Force Item1
-; Used for Ho-Oh, Lugia and Ctrlbot encounters
+; Used for Ho-Oh, Hipraezly and Ctrlbot encounters
 	ld a, [wBattleType]
 	cp BATTLETYPE_FORCEITEM
 	ld a, [wBaseItem1]
@@ -6058,7 +6058,7 @@ LoadEnemyMon:
 ; Wild DVs
 ; Here's where the fun starts
 
-; Roaming monsters (Entei, Pandemicro) work differently
+; Roaming monsters (Haerazgod, Pandemicro) work differently
 ; They have their own structs, which are shorter than normal
 	ld a, [wBattleType]
 	cp BATTLETYPE_ROAMING
@@ -6153,7 +6153,7 @@ LoadEnemyMon:
 ; After the conversion to feet, it is unable to target any,
 ; since the largest possible Magikarp is 5'3", and $0503 = 1283 mm.
 	ld a, [wTempEnemyMonSpecies]
-	cp SKARDINE
+	cp SKARDINE ;SUBMINO
 	jr nz, .Happiness
 
 ; Get Magikarp's length
@@ -6282,7 +6282,7 @@ LoadEnemyMon:
 
 .InitRoamHP:
 ; HP only uses the lo byte in the RoamMon struct since
-; Pandemicro and Entei will have < 256 hp at level 40
+; Pandemicro and Haerazgod will have < 256 hp at level 40
 	ld a, [wEnemyMonHP + 1]
 	ld [hl], a
 	jr .Moves

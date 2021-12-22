@@ -14,7 +14,7 @@ PokemonCries::
 	mon_cry CRY_ENTEI,       182,  256 ; HAERAZOR
 	mon_cry CRY_CHARMANDER,   200,  90 ; CUBBURN
 	mon_cry CRY_CHARMANDER,   150,  90 ; COALDIAK
-	mon_cry CRY_CHARMANDER,  -1000, 256 ; GRILLZLY
+	mon_cry CRY_CHARMANDER,  -500, 256 ; GRILLZLY
 	mon_cry CRY_TOTODILE,   1132,  256 ; HIPPOUR
 	mon_cry CRY_TOTODILE,   900,  272 ; DRIPPOUR
 	mon_cry CRY_TOTODILE,   700,  384 ; HIPTORRENT
@@ -248,15 +248,15 @@ PokemonCries::
 	mon_cry CRY_AIPOM, 66, 384 ; GRYPHERION
 	mon_cry CRY_RAIKOU,  300, 288 	; EQUINIX
 	mon_cry CRY_RAICHU, 128, 192 ; RYUBO
-	mon_cry CRY_KANGASKHAN, 3056, 200 ; PANDEMICRO
-	mon_cry CRY_ENTEI,         0,  416 ; ENTEI
-	mon_cry CRY_MAGCARGO,      0,  384 ; SUICUNE
-	mon_cry CRY_RAIKOU,       95,  208 ; LARVITAR
-	mon_cry CRY_SPINARAK,   -475,  336 ; PUPITAR
-	mon_cry CRY_RAIKOU,     -256,  384 ; TYRANITAR
-	mon_cry CRY_TYPHLOSION,    0,  256 ; LUGIA
-	mon_cry CRY_AIPOM,         0,  384 ; HO_OH
-	mon_cry CRY_ENTEI,       330,  273 ; CELEBI
+	mon_cry CRY_KANGASKHAN, 3056, 200  ; PANDEMICRO
+	mon_cry CRY_ENTEI,       182,  256 ; HAERAZGOD
+	mon_cry CRY_CHARMANDER,  -500, 256 ; GRILLZLORD
+	mon_cry CRY_TOTODILE,    700,  384 ; UBERTORRNT
+	mon_cry CRY_VILEPLUME,     32, 368 ; ALPHATURE
+	mon_cry CRY_TYPHLOSION,   -16, 200 ; OMEGAGON
+	mon_cry CRY_TEDDIURSA,    -42,  256 ; HIPRAEZLY
+	mon_cry CRY_MUK,          	0,  383 ; SUB_CYBR
+	mon_cry CRY_ENTEI,       330,  273 ; VELOCERAIL
 	mon_cry CRY_NIDORAN_M,     0,  100 ; 252
 	assert_table_length NUM_POKEMON
 	mon_cry CRY_NIDORAN_M,     0,    0 ; 253

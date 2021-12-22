@@ -245,13 +245,13 @@ AlphabeticalPokedexOrder:
 	db ZEPHLUFF
 	db ZIGGRATH
 	db ZONBI
-	db ENTEI      
-	db SUICUNE
-	db LARVITAR 
-	db PUPITAR
-	db TYRANITAR
-	db LUGIA
-	db HO_OH
-	db CELEBI
+	db HAERAZGOD      
+	db GRILLZLORD
+	db UBERTORRNT 
+	db ALPHATURE
+	db OMEGAGON
+	db HIPRAEZLY
+	db SUB_CYBR
+	db VELOCERAIL
 	db UNOWN
 	assert_table_length NUM_POKEMON

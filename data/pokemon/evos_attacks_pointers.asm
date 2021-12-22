@@ -245,13 +245,13 @@ EvosAttacksPointers::
 	dw EquinixEvosAttacks
 	dw RyuboEvosAttacks
 	dw PandemicroEvosAttacks
-	dw EnteiEvosAttacks
-	dw SuicuneEvosAttacks
-	dw LarvitarEvosAttacks
-	dw PupitarEvosAttacks
-	dw TyranitarEvosAttacks
-	dw LugiaEvosAttacks
-	dw HoOhEvosAttacks
-	dw CelebiEvosAttacks
+	dw HaerazgodEvosAttacks
+	dw GrillzlordEvosAttacks
+	dw UbertorrntEvosAttacks
+	dw AlphatureEvosAttacks
+	dw OmegagonEvosAttacks
+	dw HipraezlyEvosAttacks
+	dw SubCybrEvosAttacks
+	dw VelocerailEvosAttacks
 	dw UnownEvosAttacks
 	assert_table_length NUM_POKEMON

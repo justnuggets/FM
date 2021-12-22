@@ -263,14 +263,14 @@ JOHTO_POKEMON EQU const_value
 	const EQUINIX    ; f1
 	const RYUBO    ; f2
 	const PANDEMICRO     ; f3 pandemic
-	const ENTEI      ; f4 JOHTO MARKER ^   ;uhaerazor
-	const SUICUNE    ; f5 ugrillzly
-	const LARVITAR   ; f6 uhiptorrent
-	const PUPITAR    ; f7 usworgon
-	const TYRANITAR  ; f8 u skullture
-	const LUGIA      ; f9 hipraezly
-	const HO_OH      ; fa subcybr
-	const CELEBI     ; fb lorocaptor
+	const HAERAZGOD      ; f4 JOHTO MARKER ^   ;haerazgod
+	const GRILLZLORD    ; f5 ugrillzly
+	const UBERTORRNT   ; f6 uhiptorrent
+	const ALPHATURE    ; f7 uskullture
+	const OMEGAGON  ; f8 u sworgon
+	const HIPRAEZLY      ; f9 hipraezly
+	const SUB_CYBR      ; fa subcybr
+	const VELOCERAIL     ; fb lorocaptor
 	const UNOWN      ; c9;const_skip       ; fc
 NUM_POKEMON EQU const_value - 1
 	const EGG        ; fd

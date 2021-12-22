@@ -2775,7 +2775,7 @@ BattleTowerMons:
 	bigdw 172 ; SDef
 	db "KINGUDORA@@"
 
-	db TYRANITAR
+	db OMEGAGON
 	db GOLD_BERRY
 	db CRUNCH, EARTHQUAKE, ROCK_SLIDE, HYPER_BEAM
 	dw 0 ; OT ID
@@ -3454,7 +3454,7 @@ BattleTowerMons:
 	bigdw 175 ; SDef
 	db "HERUGA-@@@@"
 
-	db TYRANITAR
+	db OMEGAGON
 	db LEFTOVERS
 	db EARTHQUAKE, CRUNCH, ROCK_SLIDE, HYPER_BEAM
 	dw 0 ; OT ID
@@ -3977,7 +3977,7 @@ BattleTowerMons:
 	bigdw 218 ; SDef
 	db "RAPURASU@@@"
 
-	db TYRANITAR
+	db OMEGAGON
 	db MIRACLEBERRY
 	db REST, CRUNCH, EARTHQUAKE, ROCK_SLIDE
 	dw 0 ; OT ID
@@ -4578,7 +4578,7 @@ BattleTowerMons:
 	bigdw 248 ; SDef
 	db "KINGUDORA@@"
 
-	db TYRANITAR
+	db OMEGAGON
 	db QUICK_CLAW
 	db HYPER_BEAM, CRUNCH, EARTHQUAKE, ROCK_SLIDE
 	dw 0 ; OT ID

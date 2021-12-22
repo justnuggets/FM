@@ -1,7 +1,7 @@
 	db "GUARDIAN@" ; species name
 	dw 603, 4417 ; height, weight
 
-	db   "Inctinctually,"
+	db   "Instinctually,"
 	next "these beasts guard"
 	next "sacred grounds."
 

@@ -1308,12 +1308,12 @@ TrollgoreEvosAttacks:
 GexelEvosAttacks:
 	db EVOLVE_LEVEL, 16, RENDEREXE
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, HIDDEN_POWER
 	db 0 ; no more level-up moves
 
 RenderexeEvosAttacks:
 	db 0 ; no more evolutions
-	db 1, TACKLE
+	db 1, HIDDEN_POWER
 	db 0 ; no more level-up moves
 
 SuniataEvosAttacks:
@@ -1860,42 +1860,42 @@ PandemicroEvosAttacks:
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-EnteiEvosAttacks:
+HaerazgodEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-SuicuneEvosAttacks:
+GrillzlordEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-LarvitarEvosAttacks:
+UbertorrntEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-PupitarEvosAttacks:
+AlphatureEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-TyranitarEvosAttacks:
+OmegagonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-LugiaEvosAttacks:
+HipraezlyEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-HoOhEvosAttacks:
+SubCybrEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-CelebiEvosAttacks:
+VelocerailEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves

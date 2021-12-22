@@ -26,12 +26,12 @@ Lugia:
 	faceplayer
 	opentext
 	writetext LugiaText
-	cry LUGIA
+	cry SUBMINO
 	pause 15
 	closetext
 	setevent EVENT_FOUGHT_LUGIA
 	loadvar VAR_BATTLETYPE, BATTLETYPE_FORCEITEM
-	loadwildmon LUGIA, 60
+	loadwildmon SUBMINO, 60
 	startbattle
 	disappear WHIRLISLANDLUGIACHAMBER_LUGIA
 	reloadmapafterbattle

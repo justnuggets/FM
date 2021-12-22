@@ -243,13 +243,13 @@ BitmasksPointers:
 	dw EquinixBitmasks
 	dw RyuboBitmasks
 	dw PandemicroBitmasks
-	dw EnteiBitmasks
-	dw SuicuneBitmasks
-	dw LarvitarBitmasks
-	dw PupitarBitmasks
-	dw TyranitarBitmasks
-	dw LugiaBitmasks
-	dw HoOhBitmasks
-	dw CelebiBitmasks
+	dw HaerazgodBitmasks
+	dw GrillzlordBitmasks
+	dw UbertorrntBitmasks
+	dw AlphatureBitmasks
+	dw OmegagonBitmasks
+	dw HipraezlyBitmasks
+	dw SubCybrBitmasks
+	dw VelocerailBitmasks
 	dw UnownBitmasks
 	assert_table_length NUM_POKEMON

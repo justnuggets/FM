@@ -243,13 +243,13 @@ FramesPointers:
 	dw EquinixFrames
 	dw RyuboFrames
 	dw PandemicroFrames
-	dw EnteiFrames
-	dw SuicuneFrames
-	dw LarvitarFrames
-	dw PupitarFrames
-	dw TyranitarFrames
-	dw LugiaFrames
-	dw HoOhFrames
-	dw CelebiFrames
+	dw HaerazgodFrames
+	dw GrillzlordFrames
+	dw UbertorrntFrames
+	dw AlphatureFrames
+	dw OmegagonFrames
+	dw HipraezlyFrames
+	dw SubCybrFrames
+	dw VelocerailFrames
 	dw UnownFrames
 	assert_table_length NUM_POKEMON

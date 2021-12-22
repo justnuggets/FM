@@ -244,13 +244,13 @@ PokedexDataPointerTable:
 	dw EquinixPokedexEntry
 	dw RyuboPokedexEntry
 	dw PandemicroPokedexEntry
-	dw EnteiPokedexEntry
-	dw SuicunePokedexEntry
-	dw LarvitarPokedexEntry
-	dw PupitarPokedexEntry
-	dw TyranitarPokedexEntry
-	dw LugiaPokedexEntry
-	dw HoOhPokedexEntry
-	dw CelebiPokedexEntry
+	dw HaerazgodPokedexEntry
+	dw GrillzlordPokedexEntry
+	dw UbertorrntPokedexEntry
+	dw AlphaturePokedexEntry
+	dw OmegagonPokedexEntry
+	dw HipraezlyPokedexEntry
+	dw SubCybrPokedexEntry
+	dw VelocerailPokedexEntry
 	dw UnownPokedexEntry
 	assert_table_length NUM_POKEMON

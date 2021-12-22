@@ -243,13 +243,13 @@ AnimationPointers:
 	dw EquinixAnimation
 	dw RyuboAnimation
 	dw PandemicroAnimation
-	dw EnteiAnimation
-	dw SuicuneAnimation
-	dw LarvitarAnimation
-	dw PupitarAnimation
-	dw TyranitarAnimation
-	dw LugiaAnimation
-	dw HoOhAnimation
-	dw CelebiAnimation
+	dw HaerazgodAnimation
+	dw GrillzlordAnimation
+	dw UbertorrntAnimation
+	dw AlphatureAnimation
+	dw OmegagonAnimation
+	dw HipraezlyAnimation
+	dw SubCybrAnimation
+	dw VelocerailAnimation
 	dw UnownAnimation
 	assert_table_length NUM_POKEMON

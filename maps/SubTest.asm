@@ -35,17 +35,20 @@ SubPokeBallScript:
 	setflag ENGINE_MINERALBADGE
 	setflag ENGINE_GLACIERBADGE
 	setflag ENGINE_RISINGBADGE
-	;setflag ENGINE_UNLOCKED_UNOWNS_A_TO_K
-	;setflag ENGINE_UNLOCKED_UNOWNS_L_TO_R
-	;setflag ENGINE_UNLOCKED_UNOWNS_S_TO_W
-	;setflag ENGINE_UNLOCKED_UNOWNS_X_TO_Z
+	setflag ENGINE_UNLOCKED_UNOWNS_A_TO_K
+	setflag ENGINE_UNLOCKED_UNOWNS_L_TO_R
+	setflag ENGINE_UNLOCKED_UNOWNS_S_TO_W
+	setflag ENGINE_UNLOCKED_UNOWNS_X_TO_Z
 	buttonsound
 	
 	;TEST POKEMON
-	givepoke LOPSOIL, 50 
-	givepoke HAERAZOR, 50 
-	givepoke CUBBURN, 50 
-	givepoke COALDIAK, 50 
+	givepoke SUB_CYBR, 50 ;subcybr
+	givepoke VELOCERAIL, 50 ;velocerail
+	givepoke UNOWN, 50 ;velocerail
+	;givepoke LOPSOIL, 50 
+	;givepoke HAERAZOR, 50 
+	;givepoke CUBBURN, 50 
+	;givepoke COALDIAK, 50 
 	;givepoke FELECTRIC, 50 
 	;givepoke KAIYAK, 50 
 	;givepoke COMMANSHEE, 50 
@@ -55,7 +58,7 @@ SubPokeBallScript:
 	;givepoke CRESCALDO, 50 
 	;givepoke NAVITAR, 50 
 	;givepoke GHAUNTED, 50 
-	;givepoke SUBMINO, 1, LEFTOVERS
+	givepoke SUBMINO, 1, LEFTOVERS
 
 	closetext
 	end
